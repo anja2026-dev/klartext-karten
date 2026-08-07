@@ -406,14 +406,61 @@ window.addEventListener('popstate', () => {
   else closeDeck({ pushState: false });
 });
 
-// Deep-Link beim Start: ?deck=<id> öffnet direkt dieses Deck (z.B. eigenes Home-Bildschirm-Icon pro Deck)
-loadDecks().then(() => {
-  const deckId = new URLSearchParams(location.search).get('deck');
-  if (deckId) openDeck(deckId, { pushState: false });
+function initApp() {
+  // Deep-Link beim Start: ?deck=<id> öffnet direkt dieses Deck (z.B. eigenes Home-Bildschirm-Icon pro Deck)
+  loadDecks().then(() => {
+    const deckId = new URLSearchParams(location.search).get('deck');
+    if (deckId) openDeck(deckId, { pushState: false });
+  });
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('service-worker.js').catch(() => {});
+    });
+  }
+}
+
+// ---------- Zugangssperre ----------
+// Keine echte Zugriffskontrolle (Passwort liegt im Klartext im Client-Code) - verhindert nur,
+// dass Zufallsbesucher:innen ohne Kauf alle 22 Decks sehen. Passwort an zahlende Kund:innen
+// weitergeben (z.B. per Digistore24-Dankeseite/E-Mail, sobald der Checkout steht).
+const LOCK_PASSWORD = 'brainy-lernt-2026';
+const LOCK_KEY = 'klartext_karten_unlocked';
+
+const lockScreen = document.getElementById('lockScreen');
+const appShell = document.getElementById('appShell');
+const lockForm = document.getElementById('lockForm');
+const lockPasswordInput = document.getElementById('lockPassword');
+const lockError = document.getElementById('lockError');
+
+function isUnlocked() {
+  return localStorage.getItem(LOCK_KEY) === 'true';
+}
+
+function unlock() {
+  localStorage.setItem(LOCK_KEY, 'true');
+  lockScreen.hidden = true;
+  appShell.hidden = false;
+  initApp();
+}
+
+lockForm.addEventListener('submit', (e) => {
+  e.preventDefault();
+  if (lockPasswordInput.value.trim() === LOCK_PASSWORD) {
+    lockError.hidden = true;
+    unlock();
+  } else {
+    lockError.hidden = false;
+    lockPasswordInput.value = '';
+    lockPasswordInput.focus();
+  }
 });
 
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('service-worker.js').catch(() => {});
-  });
+if (isUnlocked()) {
+  lockScreen.hidden = true;
+  appShell.hidden = false;
+  initApp();
+} else {
+  lockScreen.hidden = false;
+  appShell.hidden = true;
 }

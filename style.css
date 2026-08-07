@@ -34,6 +34,63 @@ body {
   min-height: 100dvh;
 }
 
+/* ---------- Zugangssperre ---------- */
+.lockscreen {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--kt-primary);
+  padding: 24px 16px;
+}
+.lockbox {
+  background: #fff;
+  border-radius: 18px;
+  padding: 32px 26px;
+  max-width: 380px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.25);
+}
+.lockicon { font-size: 36px; margin-bottom: 10px; }
+.locktitle {
+  font-family: var(--font-serif);
+  font-size: 21px;
+  color: var(--kt-primary);
+  margin: 0 0 10px;
+}
+.locksub { color: var(--kt-muted); font-size: 13.5px; line-height: 1.6; margin: 0 0 20px; }
+.lockform { display: flex; flex-direction: column; gap: 10px; }
+.lockinput {
+  border: 1.5px solid #E4DCCB;
+  border-radius: 10px;
+  padding: 11px 14px;
+  font-size: 15px;
+  font-family: var(--font-sans);
+  text-align: center;
+}
+.lockinput:focus { outline: 2px solid var(--kt-accent); border-color: var(--kt-accent); }
+.lockbtn {
+  background: var(--kt-primary);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 0;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.lockbtn:active { opacity: 0.88; }
+.lockerror { color: #B3261E; font-size: 12.5px; margin: 10px 0 0; }
+.locklink {
+  display: inline-block;
+  margin-top: 18px;
+  color: var(--kt-muted);
+  font-size: 12.5px;
+  text-decoration: underline;
+}
+
 /* ---------- Topbar ---------- */
 .topbar {
   display: flex;

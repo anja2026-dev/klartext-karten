@@ -15,6 +15,22 @@
 </head>
 <body>
 
+<div id="lockScreen" class="lockscreen">
+  <div class="lockbox">
+    <div class="lockicon">🔒</div>
+    <h1 class="locktitle">KLARTEXT Kartendecks</h1>
+    <p class="locksub">Diese digitale Kartenansicht ist für Kund:innen mit einem gültigen Zugang. Das Passwort bekommst du nach dem Kauf eines Decks.</p>
+    <form id="lockForm" class="lockform">
+      <input type="password" id="lockPassword" class="lockinput" placeholder="Passwort" autocomplete="off" required>
+      <button type="submit" class="lockbtn">Freischalten</button>
+    </form>
+    <p id="lockError" class="lockerror" hidden>Falsches Passwort — bitte erneut versuchen.</p>
+    <a href="https://klartext-mentoring.de/KLARTEXT_Shop_Uebersicht.html" class="locklink">Noch kein Deck gekauft? Zum Shop →</a>
+  </div>
+</div>
+
+<div id="appShell" hidden>
+
 <header class="topbar">
   <button id="backBtn" class="iconbtn" hidden aria-label="Zurück zur Übersicht">&#8592;</button>
   <div class="brand">
@@ -112,6 +128,8 @@
   </section>
 
 </main>
+
+</div>
 
 <script src="app.js"></script>
 </body>

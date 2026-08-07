@@ -1,6 +1,6 @@
 // KLARTEXT-Mentoring Karten – Service Worker
 // Cache-Version erhöhen (v1 -> v2 ...), wenn App-Shell-Dateien sich ändern.
-const SHELL_CACHE = 'klartext-shell-v13';
+const SHELL_CACHE = 'klartext-shell-v14';
 const RUNTIME_CACHE = 'klartext-runtime-v1';
 
 const SHELL_FILES = [
