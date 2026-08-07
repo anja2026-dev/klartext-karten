@@ -1,0 +1,234 @@
+{
+  "id": "krisendeck",
+  "titel": "Krisendeck",
+  "untertitel": "Akute Krisensituationen – Barometer Rot",
+  "farbe": "#C62828",
+  "farbe_hell": "#FDEAEA",
+  "farbe_rand": "#F4A0A0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Akute Eskalation",
+      "icon": "bolt",
+      "situation": "Erkennungssignale: Schreien, Werfen, Schlagen/Treten · Totaler Kontrollverlust, keine Reaktion auf Ansprache. Kind im Ausnahmezustand – schreiend, werfend, schlagend. Fight-Modus, rationale Kommunikation nicht möglich. Diese Karte gilt jetzt, nicht kLAR.",
+      "schritte": [
+        "Sicherheitsabstand – 2 Armlängen, andere Kinder rausführen, seitwärts stehen",
+        "Lehrkraft holen – „Ich brauche Unterstützung“, übernimmt Unterricht",
+        "TK sofort informieren – parallel, nicht erst danach",
+        "Ruhige Präsenz aus Distanz – Stimme senken, „Ich bin da, ich gehe nicht weg“",
+        "Raum geben – nicht anfassen/festhalten (außer FK-04/FK-05 greift)",
+        "Warten bis Sturm nachlässt – dann Angebot machen, keine sofortige Aufarbeitung"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Sicherheitsdistanz halten",
+          "TK sofort informieren",
+          "Ruhig, langsam sprechen"
+        ],
+        "nicht_tun": [
+          "Kind anfassen/festhalten",
+          "Warten bis \"es vorbei ist\"",
+          "Erklären, diskutieren, Fragen stellen"
+        ]
+      },
+      "verweis": "Vollständige Fassung: FK-01 in der App.",
+      "badge": "AKUT · FK-01"
+    },
+    {
+      "nr": 2,
+      "titel": "Shutdown",
+      "icon": "volume-off",
+      "situation": "Erkennungssignale: Kein Blickkontakt, leerer Blick · Keine Reaktion auf Ansprache, völlige Bewegungslosigkeit. Kind eingefroren, zieht sich zurück – kein Blickkontakt, keine Reaktion. Freeze-Reaktion, kein Trotz. Das Kind „kann“ nicht antworten.",
+      "schritte": [
+        "Ruhe herstellen – Reize reduzieren, Lärm/Blicke minimieren",
+        "Keine Anforderungen, keine Fragen – ruhig in Abstand bleiben",
+        "TK informieren – kurz und sachlich",
+        "Anker anbieten – sanft, ohne Erwartung (Getränk hinstellen, ruhige Atmung)",
+        "Warten – Geduld ist die Intervention, keine Zeitvorgaben",
+        "Nach Rückkehr: leichte Orientierung geben – kurze Sätze"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Reize minimieren, Ruhe schaffen",
+          "TK sofort informieren",
+          "Geduldig warten"
+        ],
+        "nicht_tun": [
+          "Anfassen oder schütteln",
+          "Auf Antwort bestehen",
+          "Humor/Ablenkung einsetzen"
+        ]
+      },
+      "verweis": "Bei leerem Blick ohne jede Reaktion auf Namen → FK-07 Dissoziation prüfen. Vollständige Fassung: FK-02 in der App.",
+      "badge": "AKUT · FK-02"
+    },
+    {
+      "nr": 3,
+      "titel": "Panikattacke",
+      "icon": "heart-pulse",
+      "situation": "Erkennungssignale: Schnelle/flache Atmung, Herzrasen, Zittern · „Ich sterbe“ / „Ich kann nicht mehr“. Akute Angstreaktion – Herzrasen, Atemnot, Kontrollverlustgefühl. Körperreaktion real, auch ohne objektive Gefahr. Geht von selbst vorbei.",
+      "schritte": [
+        "Ruhige, sichere Umgebung schaffen – Sitzen lassen, Blicke anderer vermeiden",
+        "Körperkontakt nur mit Einverständnis – fragen, nie erzwingen",
+        "Orientierungssätze ruhig sprechen – „Du bist sicher, das geht vorbei“",
+        "Atemführung anbieten – gemeinsam voratmen, Boxatmung",
+        "TK informieren – vor allem bei erster/unbekannter Panikattacke",
+        "5-4-3-2-1-Erdung anbieten, wenn ansprechbar"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Ruhige Stimme, sichere Präsenz",
+          "Gemeinsam atmen, voratmen",
+          "Orientierungssätze: „Du bist sicher“"
+        ],
+        "nicht_tun": [
+          "\"Reiß dich zusammen\"",
+          "In Tüte atmen lassen",
+          "Nach Ursache fragen"
+        ]
+      },
+      "verweis": "Vollständige Fassung: FK-03 in der App.",
+      "badge": "AKUT · FK-03"
+    },
+    {
+      "nr": 4,
+      "titel": "Fremdgefährdung",
+      "icon": "triangle-exclamation",
+      "situation": "Erkennungssignale: Schlagen/Kratzen/Beißen anderer, konkrete Drohungen · Gefährlicher Gegenstand in der Hand. Kind greift andere körperlich an oder bedroht konkret. Unmittelbare Gefahr für Dritte – INGRA hat aktive Schutzpflicht.",
+      "schritte": [
+        "Gefährdete Personen sofort schützen – aus Gefahrenbereich bringen",
+        "Lehrkraft & Schulleitung sofort einschalten",
+        "TK sofort informieren – parallel",
+        "Eigene Sicherheit wahren – kein Eingreifen, das einen selbst gefährdet",
+        "Bei Verletzungsgefahr: Notruf 112",
+        "Deeskalation nur aus sicherem Abstand – kein Körperkontakt"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Gefährdete Personen schützen",
+          "Schulleitung + TK sofort",
+          "Bei Verletzungsgefahr: Notruf 112"
+        ],
+        "nicht_tun": [
+          "Alleine eingreifen",
+          "Intern regeln wollen",
+          "Warten bis es schlimmer wird"
+        ]
+      },
+      "verweis": "§ 8a SGB VIII prüfen, TK/Schulleitung entscheiden über weitere Schritte. Vollständige Fassung: FK-04 in der App.",
+      "badge": "AKUT · FK-04"
+    },
+    {
+      "nr": 5,
+      "titel": "Selbstverletzung",
+      "icon": "suitcase-medical",
+      "situation": "Erkennungssignale: Sichtbare Kratzer/Wunden/Narben · Kind ritzt sich mit Gegenstand, schlägt Kopf gegen Wand. Kind verletzt sich selbst – Ritzen, Schlagen, Beißen. Zeichen für inneren Schmerz, kein manipulatives Verhalten. Meldepflicht.",
+      "schritte": [
+        "Ruhe bewahren – keine sichtbare Erschütterung zeigen",
+        "Sicherheit schaffen – Gegenstände entfernen, ohne Aufhebens",
+        "TK sofort informieren – Meldepflicht, keine Ausnahme",
+        "Medizinische Versorgung bei Verletzungen, ggf. Notruf 112",
+        "Würde wahren – kein Vorwurf, keine Warum-Fragen jetzt",
+        "Ruhige Begleitung – bis TK/Eltern übernehmen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Ruhig, würdevoll reagieren",
+          "TK sofort informieren",
+          "Würde schützen"
+        ],
+        "nicht_tun": [
+          "Dramatisch reagieren/schimpfen",
+          "Schweigen/intern lösen wollen",
+          "Vor anderen Kindern ansprechen"
+        ]
+      },
+      "verweis": "Meldepflicht gilt unabhängig von Bitte um Schweigen (§ 8a SGB VIII). Vollständige Fassung: FK-05 in der App.",
+      "badge": "AKUT · FK-05"
+    },
+    {
+      "nr": 6,
+      "titel": "Weglaufen / Flucht",
+      "icon": "person-running",
+      "situation": "Erkennungssignale: Kind bewegt sich schnell zur Tür · Taschen/Jacke packen im Unterricht, frühere Fluchtversuche. Kind verlässt unkontrolliert Schule/Klassenraum, nicht mehr beaufsichtigt. Sicherheit hat Vorrang – ruhig und koordiniert handeln.",
+      "schritte": [
+        "Lehrkraft sofort informieren – Klasse absichern",
+        "Kind auf Sicht halten – ruhig folgen, nicht hetzen",
+        "TK und Schulleitung sofort informieren",
+        "Bei Verkehr/Gefahr: Sicherung hat Vorrang, ggf. Notruf 112",
+        "Kind stoppen – wenn möglich durch ruhige Ansprache",
+        "Rückkehr begleiten – ohne Vorwurf"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Auf Sicht halten, ruhig folgen",
+          "Schulleitung + TK sofort",
+          "Ruhige Ansprache"
+        ],
+        "nicht_tun": [
+          "Schreien, hetzen, nachjagen",
+          "Alleine suchen",
+          "Sofortige Konsequenzen androhen"
+        ]
+      },
+      "verweis": "Bei Nichtauffindbarkeit: Polizei 110. Vollständige Fassung: FK-06 in der App.",
+      "badge": "AKUT · FK-06"
+    },
+    {
+      "nr": 7,
+      "titel": "Dissoziation",
+      "icon": "cloud",
+      "situation": "Erkennungssignale: Starrer, leerer Blick · Keine/verzögerte Reaktion, reagiert nicht auf eigenen Namen. Kind körperlich anwesend, innerlich abwesend – starrer Blick, keine Reaktion. Automatische Schutzreaktion (Freeze), keine Absicht.",
+      "schritte": [
+        "Ruhe bewahren, Umgebung sichern – reizarm, keine hektischen Bewegungen",
+        "Ruhig ansprechen – sanft, repetitiv: „Ich bin hier, du bist sicher“",
+        "TK unverzüglich informieren",
+        "Sanfte Erdung anbieten – nicht erzwingen (Tischfläche fühlen)",
+        "Präsenz halten – nicht alleine lassen, keine Personen wechseln",
+        "Rückkehr langsam begleiten – keine sofortigen Fragen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Ruhige, konstante Präsenz",
+          "TK sofort informieren",
+          "Reizarme Umgebung"
+        ],
+        "nicht_tun": [
+          "Laut sprechen/schütteln",
+          "Fragen/Erklärungen verlangen",
+          "Viele Personen herbeirufen"
+        ]
+      },
+      "verweis": "Abgrenzung zu Shutdown FK-02 und Hintergrund: siehe Handbuch. Vollständige Fassung: FK-07 in der App.",
+      "badge": "AKUT · FK-07"
+    },
+    {
+      "nr": 8,
+      "titel": "Meltdown",
+      "icon": "fire",
+      "situation": "Erkennungssignale: Schreien, Weinen, Zittern, Schlagen · Totaler Kontrollverlust ohne Ziel/Publikum. Totaler neurologischer Kontrollverlust durch Überlastung – kein Wutanfall, kein Theater. Das Kind kann in diesem Moment nicht anders.",
+      "schritte": [
+        "Sicherheit herstellen – andere Kinder raus, gefährliche Gegenstände weg",
+        "Reize reduzieren – Licht dimmen, Lärm minimieren",
+        "Abstand geben – nicht anfassen/festhalten (außer akute Gefahr)",
+        "Ruhig bleiben – eigene Regulation zuerst",
+        "Wenige Worte, keine Fragen/Erklärungen – „Ich bin da. Du bist sicher.“",
+        "Recovery abwarten – kein Nachbesprechen in ersten 30–60 Minuten"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Ruhig bleiben, wenige Worte",
+          "Selbstregulation zulassen (Schaukeln)",
+          "Stille nach Meltdown ermöglichen"
+        ],
+        "nicht_tun": [
+          "Anfassen ohne Erlaubnis/erklären/bestrafen",
+          "Blickkontakt erzwingen",
+          "Konsequenzen in der Situation ankündigen"
+        ]
+      },
+      "verweis": "Neurologischer Notstand, häufig bei Autismus, aber nicht nur. Hintergrund: siehe Handbuch. Vollständige Fassung: FK-08 in der App.",
+      "badge": "AKUT · FK-08"
+    }
+  ]
+}

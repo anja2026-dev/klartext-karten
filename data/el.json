@@ -1,0 +1,792 @@
+{
+  "id": "el",
+  "titel": "EL-Deck",
+  "untertitel": "Reflexionskarten Eltern",
+  "farbe": "#BF5B3E",
+  "farbe_hell": "#FAEBE3",
+  "farbe_rand": "#E8C4B0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Meine Rolle gerade",
+      "anleitung": "Guter Einstieg, um den aktuellen Stand der eigenen Rolle bewusst zu machen.",
+      "fragen": [
+        "Wie würdest du deine Rolle als Elternteil gerade in einem Satz beschreiben?",
+        "Was hat sich daran in letzter Zeit verändert?"
+      ],
+      "hinweis": "Es gibt keine falsche Antwort. Die Rolle darf sich auch von Woche zu Woche anders anfühlen.",
+      "bild": "images/el/EL-01.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stimmig fühlt sich deine Rolle gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 2,
+      "titel": "Zwischen Kümmern und Loslassen",
+      "anleitung": "Für Momente, in denen Fürsorge und Autonomie des Kindes in Spannung stehen.",
+      "fragen": [
+        "Wo merkst du gerade, dass du besonders viel abnimmst?",
+        "Was würde passieren, wenn du an einer Stelle bewusst loslässt?"
+      ],
+      "hinweis": "Loslassen an einer Stelle heißt nicht, insgesamt weniger zu kümmern.",
+      "bild": "images/el/EL-02.jpg",
+      "systemfrage": "Was wäre ein kleiner, konkreter Schritt, um an einer Stelle bewusst loszulassen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 3,
+      "titel": "Erwartungen an mich selbst",
+      "anleitung": "Eigene, oft unausgesprochene Ansprüche an die eigene Elternrolle sichtbar machen.",
+      "fragen": [
+        "Was erwartest du eigentlich von dir selbst als Elternteil?",
+        "Woher kommt dieser Anspruch?"
+      ],
+      "hinweis": "Oft stammen die höchsten Ansprüche aus der eigenen Kindheit, nicht aus der aktuellen Situation.",
+      "bild": "images/el/EL-03.jpg",
+      "systemfrage": "Was würde eine gute Freund:in sagen, wenn sie deinen Anspruch an dich selbst hören würde?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 4,
+      "titel": "Wenn andere meine Erziehung infrage stellen",
+      "anleitung": "Bei Kritik von außen (Familie, Schule, Umfeld) einsetzbar.",
+      "fragen": [
+        "Wessen Meinung trifft dich dabei am meisten?",
+        "Was würdest du dir stattdessen wünschen zu hören?"
+      ],
+      "hinweis": "Nicht jede Kritik verdient ein Nachdenken – manche darf auch einfach vorbeiziehen.",
+      "bild": "images/el/EL-04.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr lässt du diese Kritik gerade an dich heran?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 5,
+      "titel": "Verantwortung teilen können",
+      "anleitung": "Für Situationen, in denen Verantwortung ungleich verteilt ist (Partnerschaft, Familie, Fachkräfte).",
+      "fragen": [
+        "Was trägst du gerade allein, das eigentlich geteilt werden könnte?",
+        "Wer könnte dir davon etwas abnehmen?"
+      ],
+      "hinweis": "Um Hilfe bitten ist keine Schwäche, sondern oft der erste Schritt zu mehr Kraft für das Wesentliche.",
+      "bild": "images/el/EL-05.jpg",
+      "systemfrage": "Was wäre ein erster, kleiner Schritt, um genau das abzugeben?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 6,
+      "titel": "Was mein Kind gerade wirklich braucht",
+      "anleitung": "Für Momente, in denen das Verhalten des Kindes schwer zu deuten ist.",
+      "fragen": [
+        "Was zeigt dein Kind dir gerade mit seinem Verhalten?",
+        "Was könnte dahinterstecken, auch wenn es auf den ersten Blick nicht so wirkt?"
+      ],
+      "hinweis": "Besonders hilfreich, wenn ein Verhalten des Kindes gerade unverständlich wirkt.",
+      "bild": "images/el/EL-06.jpg",
+      "systemfrage": "Was würde dein Kind sagen, wenn es erklären könnte, was hinter seinem Verhalten steckt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 7,
+      "titel": "Verhalten hinter dem Verhalten",
+      "anleitung": "Hilfreich, wenn ein Verhalten des Kindes provoziert statt Verständnis auslöst.",
+      "fragen": [
+        "Welches Gefühl steckt vermutlich hinter diesem Verhalten?",
+        "Wie würdest du reagieren, wenn du nur das Gefühl sehen würdest, nicht das Verhalten?"
+      ],
+      "hinweis": "Schwieriges Verhalten ist fast immer ein Hinweis, kein Angriff.",
+      "bild": "images/el/EL-07.jpg",
+      "systemfrage": "Wie würde eine außenstehende Person dieses Verhalten wohl deuten?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 8,
+      "titel": "Wenn ich mein Kind nicht verstehe",
+      "anleitung": "Entlastend einsetzen – nicht jedes Verhalten muss sofort erklärbar sein.",
+      "fragen": [
+        "Was an deinem Kind ist dir gerade ein Rätsel?",
+        "Ist es okay, das gerade nicht zu verstehen?"
+      ],
+      "hinweis": "Nicht-Verstehen ist kein Versagen als Elternteil, nur ein ehrlicher Zwischenstand.",
+      "bild": "images/el/EL-08.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie dringend fühlt sich das Nicht-Verstehen gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 9,
+      "titel": "Unterschiede zwischen meinen Kindern",
+      "anleitung": "Für Familien mit mehreren Kindern, besonders wenn eines mehr Aufmerksamkeit braucht.",
+      "fragen": [
+        "Wo fällt es dir schwer, deine Kinder gleich zu behandeln?",
+        "Muss Gerechtigkeit eigentlich Gleichheit bedeuten?"
+      ],
+      "hinweis": "Gerechtigkeit heißt oft, jedem Kind das zu geben, was es gerade braucht – nicht dasselbe.",
+      "bild": "images/el/EL-09.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um dem Kind, das gerade zu kurz kommt, etwas mehr zu geben?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 10,
+      "titel": "Mein Kind mit anderen Augen sehen",
+      "anleitung": "Guter Perspektivwechsel-Impuls, um eingefahrene Sichtweisen zu lockern.",
+      "fragen": [
+        "Was würde eine Person, die dein Kind mag, an ihm hervorheben?",
+        "Wann hast du das zuletzt selbst so gesehen?"
+      ],
+      "hinweis": "Guter Impuls für Tage, an denen der Blick aufs Kind besonders kritisch geworden ist.",
+      "bild": "images/el/EL-10.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie wohlwollend ist dein Blick auf dein Kind gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 11,
+      "titel": "Zuhören, ohne gleich zu lösen",
+      "anleitung": "Für Situationen, in denen das Kind eigentlich nur gehört werden will.",
+      "fragen": [
+        "Wann hast du zuletzt zugehört, ohne gleich eine Lösung anzubieten?",
+        "Was würde sich ändern, wenn du das öfter tust?"
+      ],
+      "hinweis": "Manchmal ist die beste Hilfe, gar keine Lösung anzubieten.",
+      "bild": "images/el/EL-11.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um beim nächsten Gespräch bewusst länger zuzuhören, bevor du antwortest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 12,
+      "titel": "Wenn Gespräche eskalieren",
+      "anleitung": "Rückblickend nach einem eskalierten Gespräch einsetzbar, nicht mittendrin.",
+      "fragen": [
+        "An welchem Punkt kippt ein Gespräch bei euch meistens?",
+        "Was könntest du an diesem Punkt anders machen?"
+      ],
+      "hinweis": "Am hilfreichsten mit etwas Abstand zum letzten Streit, nicht mittendrin.",
+      "bild": "images/el/EL-12.jpg",
+      "systemfrage": "Wie würde eine außenstehende Person den Punkt beschreiben, an dem das Gespräch kippt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 13,
+      "titel": "Grenzen setzen, ohne die Beziehung zu belasten",
+      "anleitung": "Für die Sorge, dass Grenzen die Beziehung zum Kind gefährden könnten.",
+      "fragen": [
+        "Welche Grenze fällt dir besonders schwer zu setzen?",
+        "Was befürchtest du, wenn du sie setzt?"
+      ],
+      "hinweis": "Klare Grenzen und eine warme Beziehung schließen sich nicht aus.",
+      "bild": "images/el/EL-13.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sicher fühlst du dich gerade beim Grenzensetzen?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 14,
+      "titel": "Ehrlich sein, ohne zu überfordern",
+      "anleitung": "Bei der Frage, wie viel ein Kind über schwierige Themen wissen sollte.",
+      "fragen": [
+        "Wo hältst du dich gerade zurück, um dein Kind zu schützen?",
+        "Was wäre eine altersgerechte Version der Wahrheit?"
+      ],
+      "hinweis": "Ehrlichkeit lässt sich fast immer altersgerecht dosieren, ganz weglassen muss sie nicht.",
+      "bild": "images/el/EL-14.jpg",
+      "systemfrage": "Was wäre ein kleiner, altersgerechter erster Satz, den du sagen könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 15,
+      "titel": "Mit dem Partner/der Partnerin an einem Strang",
+      "anleitung": "Für Paare mit unterschiedlichen Erziehungsansätzen, nicht als Schuldzuweisung gedacht.",
+      "fragen": [
+        "Wo unterscheidet ihr euch am meisten in der Erziehung?",
+        "Was habt ihr trotzdem gemeinsam?"
+      ],
+      "hinweis": "Nicht als Schuldfrage lesen – unterschiedliche Ansätze sind normal, nicht falsch.",
+      "bild": "images/el/EL-15.jpg",
+      "systemfrage": "Was würde dein Partner/deine Partnerin sagen, wenn er/sie eure gemeinsamen Punkte beschreiben müsste?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 16,
+      "titel": "Wenn mein Kind gemobbt wird",
+      "anleitung": "Bei akuten Ausgrenzungs-/Mobbingerfahrungen des Kindes.",
+      "fragen": [
+        "Was brauchst du gerade selbst, um deinem Kind beistehen zu können?",
+        "Wer kann dich dabei unterstützen?"
+      ],
+      "hinweis": "Erst für dich selbst sorgen, bevor du für dein Kind da sein kannst – das ist keine falsche Reihenfolge.",
+      "bild": "images/el/EL-16.jpg",
+      "systemfrage": "Was wäre ein kleiner erster Schritt, um selbst Unterstützung zu holen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 17,
+      "titel": "Wenn ich mich hilflos fühle",
+      "anleitung": "Entlastend für Momente, in denen keine Lösung greifbar scheint.",
+      "fragen": [
+        "Wann fühlst du dich als Elternteil am hilflosesten?",
+        "Was hilft dir, das auszuhalten, auch ohne Lösung?"
+      ],
+      "hinweis": "Hilflosigkeit auszuhalten ist manchmal die eigentliche Aufgabe, nicht ein Zeichen, dass etwas fehlt.",
+      "bild": "images/el/EL-17.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stark ist das Gefühl von Hilflosigkeit gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 18,
+      "titel": "Der erste Schock nach einer Diagnose oder einem Befund",
+      "anleitung": "Für die erste Zeit nach einer belastenden fachlichen Rückmeldung zum Kind.",
+      "fragen": [
+        "Was hat sich für dich durch diese Nachricht verändert?",
+        "Was bleibt trotzdem gleich?"
+      ],
+      "hinweis": "Gib dir Zeit – diese Karte eignet sich nicht für den ersten Tag, eher für die Wochen danach.",
+      "bild": "images/el/EL-18.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie weit bist du gerade in der Verarbeitung?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 19,
+      "titel": "Umgang mit Schule und Fachkräften in schwierigen Momenten",
+      "anleitung": "Bei Spannungen zwischen Elternhaus und Schule/Fachkräften.",
+      "fragen": [
+        "Was wünschst du dir gerade am meisten von der Schule?",
+        "Was könntest du selbst dazu beitragen, dass es besser läuft?"
+      ],
+      "hinweis": "Auch berechtigte Anliegen dürfen ruhig und bestimmt vorgetragen werden, nicht nur laut.",
+      "bild": "images/el/EL-19.jpg",
+      "systemfrage": "Was würde die Schule/Fachkraft wohl sagen, wenn sie eure Zusammenarbeit beschreiben müsste?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 20,
+      "titel": "Wenn eine Krise vorbei ist",
+      "anleitung": "Rückblickend nach überstandenen schwierigen Phasen.",
+      "fragen": [
+        "Was hat euch als Familie durch die letzte schwierige Zeit getragen?",
+        "Was nimmst du daraus mit?"
+      ],
+      "hinweis": "Guter Moment, um festzuhalten, was diesmal geholfen hat – für die nächste schwierige Phase.",
+      "bild": "images/el/EL-20.jpg",
+      "systemfrage": "Was möchtest du konkret festhalten, damit es dir beim nächsten Mal zur Verfügung steht?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 21,
+      "titel": "Der Morgen, der nie stressfrei ist",
+      "anleitung": "Für wiederkehrenden Alltagsstress, niedrigschwellig einsetzbar.",
+      "fragen": [
+        "Was macht eure Morgen am meisten stressig?",
+        "Was wäre ein kleiner, realistischer erster Schritt?"
+      ],
+      "hinweis": "Kleine Veränderungen wirken hier oft mehr als ein kompletter Neustart.",
+      "bild": "images/el/EL-21.jpg",
+      "systemfrage": "Was wäre eine kleine, realistische Änderung, die du diese Woche ausprobieren könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 22,
+      "titel": "Hausaufgaben ohne Kampf",
+      "anleitung": "Bei wiederkehrenden Konflikten rund um Hausaufgaben/Schulaufgaben.",
+      "fragen": [
+        "Wo genau entsteht der Streit bei den Hausaufgaben?",
+        "Wessen Aufgabe ist es eigentlich gerade?"
+      ],
+      "hinweis": "Nicht jede Hausaufgaben-Verantwortung muss bei dir liegen.",
+      "bild": "images/el/EL-22.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um Verantwortung stärker beim Kind zu lassen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 23,
+      "titel": "Geschwister im Streit",
+      "anleitung": "Für den Umgang mit wiederkehrendem Geschwisterstreit.",
+      "fragen": [
+        "Musst du wirklich jeden Streit schlichten?",
+        "Was würde passieren, wenn du dich öfter raushältst?"
+      ],
+      "hinweis": "Nicht jeder Streit braucht ein elterliches Urteil.",
+      "bild": "images/el/EL-23.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr ist es gerade wirklich dein Streit?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 24,
+      "titel": "Termine, Anträge, Formulare – der bürokratische Alltag",
+      "anleitung": "Entlastend für die organisatorische Seite der Elternschaft.",
+      "fragen": [
+        "Was an der Bürokratie belastet dich gerade am meisten?",
+        "Was könntest du abgeben oder vereinfachen?"
+      ],
+      "hinweis": "Auch Verwaltung darf an einem entlasteten Tag bearbeitet werden, nicht nur unter Druck.",
+      "bild": "images/el/EL-24.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um etwas davon abzugeben oder zu vereinfachen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 25,
+      "titel": "Wenn der Alltag einfach zu viel wird",
+      "anleitung": "Für allgemeine Überforderung, nicht an eine konkrete Situation gebunden.",
+      "fragen": [
+        "Was würdest du gerade als Erstes weglassen, wenn du dürftest?",
+        "Wer könnte dir eine Aufgabe abnehmen?"
+      ],
+      "hinweis": "Ein einzelner weggelassener Punkt macht selten den Unterschied, den du befürchtest.",
+      "bild": "images/el/EL-25.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie voll fühlt sich dein Alltag gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 26,
+      "titel": "Meine eigenen Grenzen erkennen",
+      "anleitung": "Für Eltern, die sich selbst oft zuletzt sehen.",
+      "fragen": [
+        "Woran merkst du, dass du an deine Grenze kommst?",
+        "Was tust du normalerweise, kurz bevor es zu viel wird?"
+      ],
+      "hinweis": "Deine Grenze zu kennen schützt am Ende auch dein Kind.",
+      "bild": "images/el/EL-26.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie nah bist du gerade an deiner Grenze?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 27,
+      "titel": "Schuldgefühle als Elternteil",
+      "anleitung": "Sehr verbreitetes Thema, entlastend statt bewertend einsetzen.",
+      "fragen": [
+        "Wofür machst du dir gerade am meisten Vorwürfe?",
+        "Würdest du das auch einer anderen Person so vorwerfen?"
+      ],
+      "hinweis": "Fast jedes Elternteil kennt dieses Gefühl – das macht es nicht automatisch berechtigt.",
+      "bild": "images/el/EL-27.jpg",
+      "systemfrage": "Was würde eine gute Freund:in zu diesem Vorwurf sagen, den du dir machst?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 28,
+      "titel": "Der Vergleich mit anderen Familien",
+      "anleitung": "Bei Selbstzweifeln durch Vergleiche (Social Media, Umfeld, andere Familien).",
+      "fragen": [
+        "Mit wem vergleichst du dich am meisten?",
+        "Was siehst du bei der anderen Familie nicht?"
+      ],
+      "hinweis": "Was du bei anderen siehst, ist fast nie ihr ganzer Alltag.",
+      "bild": "images/el/EL-28.jpg",
+      "systemfrage": "Was würde die andere Familie wohl über ihre eigenen schwierigen Momente sagen, die du nicht siehst?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 29,
+      "titel": "Kleine Momente für mich",
+      "anleitung": "Ressourcenorientiert, um eigene kleine Auszeiten sichtbar zu machen.",
+      "fragen": [
+        "Wann hattest du zuletzt einen Moment nur für dich?",
+        "Was wäre ein realistischer kleiner Moment diese Woche?"
+      ],
+      "hinweis": "Auch fünf Minuten zählen – es muss keine große Auszeit sein.",
+      "bild": "images/el/EL-29.jpg",
+      "systemfrage": "Was wäre ein realistischer kleiner Moment, den du dir diese Woche konkret einplanst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 30,
+      "titel": "Worauf ich stolz sein darf",
+      "anleitung": "Guter Abschluss-Impuls, wertschätzender Rückblick statt Bewertung.",
+      "fragen": [
+        "Worauf bist du als Elternteil stolz, wenn du zurückblickst?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Guter Abschluss – bewusst als Rückblick lesen, nicht als Bewertung.",
+      "bild": "images/el/EL-30.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr erlaubst du dir gerade, stolz zu sein?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 31,
+      "titel": "Das Bild vom \"normalen\" Familienalltag loslassen",
+      "anleitung": "Für die Phase, in der alte Vorstellungen von Familienalltag nicht mehr passen.",
+      "fragen": [
+        "Welches Bild von Familienalltag hattest du, bevor ihr wusstet, was euer Kind braucht?",
+        "Was davon vermisst du – und was war eigentlich nie realistisch?"
+      ],
+      "hinweis": "Ein anderer Alltag ist nicht automatisch ein schlechterer.",
+      "bild": "images/el/EL-Z-31.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was wäre ein kleiner Schritt, um ein altes Bild bewusst loszulassen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 32,
+      "titel": "Wenn die eigene Fürsorge an Grenzen kommt",
+      "anleitung": "Für Momente extremer Anforderung (z. B. rund um sensorische Überlastung oder Meltdowns).",
+      "fragen": [
+        "Was kostet dich in solchen Momenten am meisten Kraft?",
+        "Was hilft dir selbst, wenn es gerade zu viel wird?"
+      ],
+      "hinweis": "Grenzen zu spüren heißt nicht, dass du zu wenig gibst.",
+      "bild": "images/el/EL-Z-32.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie nah bist du gerade an deiner Grenze?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 33,
+      "titel": "Die Diagnose und was sie für mich bedeutet",
+      "anleitung": "Nicht für die erste Zeit nach der Diagnose gedacht, eher für die Verarbeitung danach.",
+      "fragen": [
+        "Was hat sich für dich selbst durch die Diagnose verändert?",
+        "Was ist gleich geblieben, auch wenn es sich anders anfühlt?"
+      ],
+      "hinweis": "Es ist normal, wenn sich das Verhältnis zur Diagnose mit der Zeit verändert.",
+      "bild": "images/el/EL-Z-33.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie weit bist du in der Verarbeitung der Diagnose?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 34,
+      "titel": "Erklären, ohne dich zu entschuldigen",
+      "anleitung": "Für Situationen, in denen Umfeld/Familie das Verhalten des Kindes infrage stellt.",
+      "fragen": [
+        "Wo erklärst du dich gerade eigentlich zu oft?",
+        "Was würdest du sagen, wenn du dich nicht rechtfertigen müsstest?"
+      ],
+      "hinweis": "Eine Erklärung ist keine Entschuldigung, auch wenn sie sich manchmal so anfühlt.",
+      "bild": "images/el/EL-Z-34.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was würde eine Person, die dich gut kennt, zu deinen häufigen Erklärungen sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 35,
+      "titel": "Die eigene Erschöpfung ernst nehmen",
+      "anleitung": "Entlastend, besonders wenn Erschöpfung lange als \"normal\" hingenommen wurde.",
+      "fragen": [
+        "Woran merkst du, dass du erschöpft bist – nicht dein Kind, sondern du selbst?",
+        "Wer weiß eigentlich, wie erschöpft du gerade bist?"
+      ],
+      "hinweis": "Erschöpfung, die lange andauert, ist kein Charakterzug, sondern ein Signal.",
+      "bild": "images/el/EL-Z-35.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie erschöpft bist du gerade wirklich?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 36,
+      "titel": "Geschwisterkinder nicht aus dem Blick verlieren",
+      "anleitung": "Für Familien mit weiteren Kindern, die neben dem autistischen Kind manchmal zurückstehen.",
+      "fragen": [
+        "Wie geht es deinem anderen Kind gerade wirklich?",
+        "Was bräuchte es von dir, das gerade zu kurz kommt?"
+      ],
+      "hinweis": "Auch kleine, bewusste Momente zu zweit zählen.",
+      "bild": "images/el/EL-Z-36.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was wäre ein kleiner, konkreter Moment für das andere Kind diese Woche?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 37,
+      "titel": "Stolz auf die eigenen Fortschritte",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf die Eltern selbst bezogen, nicht nur auf das Kind.",
+      "fragen": [
+        "Worauf bist du bei dir selbst stolz, wenn du auf die letzten Monate schaust?",
+        "Was hast du gelernt, das dir vorher niemand hätte beibringen können?"
+      ],
+      "hinweis": "Dein eigener Lernweg zählt genauso wie der deines Kindes.",
+      "bild": "images/el/EL-Z-37.jpg",
+      "badge": "EL-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was würde jemand, der eure Entwicklung begleitet hat, an dir hervorheben?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 38,
+      "titel": "Leben mit einem hohen Energielevel",
+      "anleitung": "Für den Alltag mit viel Bewegung, Impulsivität, wechselnder Aufmerksamkeit.",
+      "fragen": [
+        "Was an der Energie deines Kindes kostet dich am meisten Kraft – und was bewunderst du eigentlich daran?",
+        "Wann hast du zuletzt bewusst beides gleichzeitig gesehen?"
+      ],
+      "hinweis": "Viel Energie ist anstrengend und eine echte Stärke – beides gleichzeitig.",
+      "bild": "images/el/EL-Z-38.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie viel Kraft kostet dich die Energie deines Kindes gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 39,
+      "titel": "Wenn Grenzen immer wieder neu verhandelt werden",
+      "anleitung": "Für die Erfahrung, dass eine einmal gesetzte Grenze nicht \"einfach hält\".",
+      "fragen": [
+        "Welche Grenze musst du am häufigsten neu durchsetzen?",
+        "Was würde dir helfen, das als normal statt als Scheitern zu sehen?"
+      ],
+      "hinweis": "Wiederholen müssen ist kein Zeichen, dass die Grenze falsch war.",
+      "bild": "images/el/EL-Z-39.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was wäre ein kleiner Schritt, um dir das Wiederholen leichter zu machen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 40,
+      "titel": "Die Diagnose – zwischen Erleichterung und Sorge",
+      "anleitung": "Für die Zeit nach der Diagnose, wenn beide Gefühle gleichzeitig da sind.",
+      "fragen": [
+        "Was hat sich durch die Diagnose erleichtert?",
+        "Welche Sorge ist neu dazugekommen?"
+      ],
+      "hinweis": "Beide Gefühle dürfen gleichzeitig da sein, das eine widerlegt das andere nicht.",
+      "bild": "images/el/EL-Z-40.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – welches Gefühl überwiegt gerade, Erleichterung oder Sorge?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 41,
+      "titel": "Wenn andere „schlechte Erziehung“ vermuten",
+      "anleitung": "Bei Blicken/Kommentaren von außen, besonders in der Öffentlichkeit.",
+      "fragen": [
+        "In welcher Situation triffst du solche Blicke am meisten?",
+        "Was würdest du der Person sagen, wenn es keine Konsequenzen hätte?"
+      ],
+      "hinweis": "Fremde Blicke kennen selten die ganze Geschichte.",
+      "bild": "images/el/EL-Z-41.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was würde jemand sagen, der eure Situation wirklich kennt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 42,
+      "titel": "Die eigene Geduld an ihre Grenzen bringen",
+      "anleitung": "Entlastend – auch sehr geduldige Eltern kommen an einen Punkt.",
+      "fragen": [
+        "Wann war deine Geduld zuletzt komplett aufgebraucht?",
+        "Was hättest du in dem Moment gebraucht, nicht dein Kind?"
+      ],
+      "hinweis": "Geduld ist endlich, auch bei liebevollen Eltern.",
+      "bild": "images/el/EL-Z-42.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie viel Geduld hast du gerade noch übrig?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 43,
+      "titel": "Entscheidungen rund um Unterstützung und Behandlung",
+      "anleitung": "Für die Auseinandersetzung mit Therapie-, Förder- oder Behandlungsfragen – ohne Bewertung einer bestimmten Richtung.",
+      "fragen": [
+        "Was beschäftigt dich an der aktuellen Entscheidung am meisten?",
+        "Wessen Meinung fehlt dir noch, um dich sicherer zu fühlen?"
+      ],
+      "hinweis": "Es gibt hier keine einzig richtige Entscheidung, nur die für eure Familie stimmige.",
+      "bild": "images/el/EL-Z-43.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was würde eine Person, die euch gut kennt, zu dieser Entscheidung sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 44,
+      "titel": "Stolz auf die eigenen Fortschritte",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf die Eltern selbst bezogen.",
+      "fragen": [
+        "Worauf bist du bei dir selbst stolz, wenn du auf die letzten Monate schaust?",
+        "Was würdest du einem anderen Elternteil in deiner Situation gerne sagen?"
+      ],
+      "hinweis": "Fortschritt zeigt sich oft leiser, als man erwartet.",
+      "bild": "images/el/EL-Z-44.jpg",
+      "badge": "EL-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was wäre eine kleine Geste, mit der du dir selbst diesen Fortschritt anerkennst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 45,
+      "titel": "Die eigene Rolle als Pflegeeltern finden",
+      "anleitung": "Für die Auseinandersetzung mit einer Rolle, die weder \"Elternteil\" im klassischen Sinn noch \"nur Betreuung\" ist.",
+      "fragen": [
+        "Wie würdest du deine Rolle für dieses Kind gerade beschreiben?",
+        "Was daran fühlt sich noch ungewohnt an?"
+      ],
+      "hinweis": "Diese Rolle darf sich mit der Zeit entwickeln, sie muss nicht von Anfang an klar sein.",
+      "bild": "images/el/EL-Z-45.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie klar fühlt sich deine Rolle gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 46,
+      "titel": "Bindung aufbauen, ohne zu drängen",
+      "anleitung": "Für die oft längere, nicht linear verlaufende Zeit des Vertrauensaufbaus.",
+      "fragen": [
+        "Woran merkst du kleine Fortschritte in der Bindung, auch wenn sie klein sind?",
+        "Was hilft dir, geduldig zu bleiben, wenn es gerade nicht vorangeht?"
+      ],
+      "hinweis": "Bindung, die sich Zeit nimmt, ist nicht weniger echt.",
+      "bild": "images/el/EL-Z-46.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was wäre ein kleiner, geduldiger nächster Schritt im Vertrauensaufbau?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 47,
+      "titel": "Umgang mit der Herkunftsfamilie",
+      "anleitung": "Für die oft komplexen Gefühle gegenüber leiblichen Eltern des Kindes.",
+      "fragen": [
+        "Welches Gefühl gegenüber der Herkunftsfamilie beschäftigt dich gerade am meisten?",
+        "Muss dieses Gefühl aufgelöst werden, oder darf es einfach da sein?"
+      ],
+      "hinweis": "Widersprüchliche Gefühle gegenüber der Herkunftsfamilie sind keine Illoyalität dem Kind gegenüber.",
+      "bild": "images/el/EL-Z-47.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was würde eine Person, die eure Situation gut kennt, zu deinen Gefühlen gegenüber der Herkunftsfamilie sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 48,
+      "titel": "Wenn Verhalten aus der Vorgeschichte kommt",
+      "anleitung": "Hilft, schwieriges Verhalten als Folge früherer Erfahrungen statt als aktuelle Ablehnung zu verstehen.",
+      "fragen": [
+        "Welches Verhalten fällt dir am schwersten, nicht persönlich zu nehmen?",
+        "Was könnte es mit der Geschichte des Kindes zu tun haben, nicht mit dir?"
+      ],
+      "hinweis": "Nicht jede Reaktion des Kindes ist eine Reaktion auf dich.",
+      "bild": "images/el/EL-Z-48.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie leicht fällt es dir gerade, das Verhalten nicht persönlich zu nehmen?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 49,
+      "titel": "Die eigene Erschöpfung und eigene Zweifel ernst nehmen",
+      "anleitung": "Entlastend – Zweifel an der eigenen Entscheidung gehören dazu, auch bei guter Pflegeelternschaft.",
+      "fragen": [
+        "Wann hattest du zuletzt ernsthafte Zweifel?",
+        "Was hat dir geholfen, trotzdem weiterzumachen?"
+      ],
+      "hinweis": "Zweifel zu haben bedeutet nicht, die falsche Entscheidung getroffen zu haben.",
+      "bild": "images/el/EL-Z-49.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stark sind die Zweifel gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 50,
+      "titel": "Unsicherheit über Zukunft und Dauer",
+      "anleitung": "Für die besondere Belastung durch offene oder ungewisse Zukunftsperspektiven.",
+      "fragen": [
+        "Welcher ungewisse Punkt beschäftigt dich gerade am meisten?",
+        "Was kannst du trotz der Unsicherheit heute schon für das Kind da sein lassen?"
+      ],
+      "hinweis": "Für das Kind da zu sein muss nicht von einer geklärten Zukunft abhängen.",
+      "bild": "images/el/EL-Z-50.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was kannst du trotz der Unsicherheit heute ganz konkret für das Kind tun?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 51,
+      "titel": "Stolz auf das, was schon gelungen ist",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf das Erreichte statt auf das noch Fehlende schauen.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du auf die gemeinsame Zeit zurückblickst?",
+        "Was hat sich für das Kind durch dich bereits zum Besseren verändert?"
+      ],
+      "hinweis": "Auch kleine Veränderungen beim Kind sind oft ein großer Schritt für es.",
+      "bild": "images/el/EL-Z-51.jpg",
+      "badge": "EL-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was würde das Kind wohl sagen, wenn es beschreiben müsste, was sich durch dich verändert hat?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 52,
+      "titel": "Loslassen im Jugendalter",
+      "anleitung": "Für die Phase, in der aus Fürsorge zunehmend Vertrauen werden darf.",
+      "fragen": [
+        "Wo fällt dir Loslassen bei deinem jugendlichen Kind besonders schwer?",
+        "Was würde sich ändern, wenn du an dieser Stelle einen Schritt zurücktrittst?"
+      ],
+      "hinweis": "Loslassen in der Pubertät ist ein Prozess in kleinen Schritten, kein einmaliger Sprung.",
+      "bild": "images/el/EL-Z-52.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Was wäre ein kleiner, konkreter Schritt, um deinem Kind diese Woche mehr Eigenverantwortung zuzutrauen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 53,
+      "titel": "Wenn sich mein Kind zurückzieht",
+      "anleitung": "Für die oft verunsichernde Erfahrung, dass ein jugendliches Kind plötzlich weniger erzählt.",
+      "fragen": [
+        "Wie fühlt sich der Rückzug deines Kindes für dich an?",
+        "Woran erkennst du, dass die Tür trotzdem noch offen ist?"
+      ],
+      "hinweis": "Rückzug in der Pubertät ist meistens Entwicklung, nicht Ablehnung.",
+      "bild": "images/el/EL-Z-53.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Was würde dein Kind sagen, wenn es erklären müsste, warum es sich gerade zurückzieht?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 54,
+      "titel": "Medien und Familienfrieden",
+      "anleitung": "Für wiederkehrenden Streit um Handy- und Bildschirmzeit.",
+      "fragen": [
+        "Worum geht es beim Medienstreit eigentlich wirklich – um die Zeit oder um etwas anderes?",
+        "Wie ist dein eigener Umgang mit Medien gerade als Vorbild?"
+      ],
+      "hinweis": "Kinder orientieren sich mehr am eigenen Medienverhalten der Eltern als an deren Regeln.",
+      "bild": "images/el/EL-Z-54.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr ist Mediennutzung gerade ein Machtkampf statt ein Thema?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 55,
+      "titel": "Erziehen nach einer Trennung",
+      "anleitung": "Für Eltern, die getrennt und trotzdem gemeinsam erziehen.",
+      "fragen": [
+        "Wo gelingt die Abstimmung mit dem anderen Elternteil gerade gut, wo nicht?",
+        "Was bräuchte dein Kind gerade am meisten von euch beiden gemeinsam?"
+      ],
+      "hinweis": "Ein Kind muss die Eltern nicht einig erleben, aber sicher, dass es nicht zwischen ihnen steht.",
+      "bild": "images/el/EL-Z-55.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Was wäre ein kleiner nächster Schritt, um die Absprache mit dem anderen Elternteil zu verbessern?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 56,
+      "titel": "Schuldruck aus Elternsicht",
+      "anleitung": "Für die eigene Anspannung rund um Noten, Schulwahl und Zukunftssorgen.",
+      "fragen": [
+        "Wessen Erwartung an die schulische Leistung deines Kindes spürst du gerade am meisten – deine eigene oder von außen?",
+        "Was würdest du dir wünschen, wenn Noten nicht so im Zentrum stünden?"
+      ],
+      "hinweis": "Deine eigene Sorge um die Zukunft ist verständlich – sie muss trotzdem nicht beim Kind landen.",
+      "bild": "images/el/EL-Z-56.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Was würde dein Kind sagen, wenn es beschreiben müsste, wie viel Druck es von dir spürt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 57,
+      "titel": "Wenn mein Kind andere Werte lebt",
+      "anleitung": "Für Momente, in denen die Identität des jugendlichen Kindes von den eigenen Vorstellungen abweicht.",
+      "fragen": [
+        "Was genau an den Werten oder der Identität deines Kindes fühlt sich fremd für dich an?",
+        "Was davon ist wirklich ein Problem, was nur ungewohnt?"
+      ],
+      "hinweis": "Andere Werte als deine eigenen sind kein Zeichen, dass etwas schiefgelaufen ist.",
+      "bild": "images/el/EL-Z-57.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr kannst du diese Andersartigkeit gerade akzeptieren, ohne sie zu bewerten?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 58,
+      "titel": "Stolz auf das, was schon losgelassen wurde",
+      "anleitung": "Guter Abschluss-Impuls, bewusst wertschätzend statt bewertend.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du siehst, wie selbstständig dein Kind schon ist?",
+        "Was hast du selbst über Loslassen gelernt, das du vorher nicht wusstest?"
+      ],
+      "hinweis": "Jeder losgelassene Schritt ist ein Beweis, dass dein Kind auf einem guten Weg ist – und du auch.",
+      "bild": "images/el/EL-Z-58.jpg",
+      "badge": "EL-JD · ZUSATZBLOCK ELTERN VON JUGENDLICHEN",
+      "systemfrage": "Was möchtest du deinem Kind bei nächster Gelegenheit ausdrücklich zutrauen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    }
+  ]
+}

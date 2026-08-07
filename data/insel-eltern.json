@@ -1,0 +1,124 @@
+{
+  "id": "insel-eltern",
+  "titel": "Insel-Set · Zuhause",
+  "untertitel": "Raumzonen für Familien",
+  "farbe": "#3F51B5",
+  "farbe_hell": "#E3E5F6",
+  "farbe_rand": "#8893D2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Ruhe-Insel",
+      "situation": "Sofa-Ecke, Teppich oder ein kleines Kissen zuhause.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Leise sein",
+        "3–5 Minuten",
+        "Kein Bildschirm"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Kind kann sich selbst beruhigen. Verhindert Eskalationen.",
+      "bild": "images/insel-eltern/INSEL-RUHE.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 2,
+      "titel": "Emotions-Insel",
+      "situation": "Kleiner Tisch oder Wandbereich.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Gefühl benennen",
+        "Passende Karte wählen",
+        "Kurze Erklärung"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Fördert Emotionskompetenz. Entlastet Eltern bei Konflikten.",
+      "bild": "images/insel-eltern/INSEL-EMOTION.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 3,
+      "titel": "Arbeits-Insel",
+      "situation": "Fester Tischplatz für Hausaufgaben.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Nur Hausaufgaben",
+        "10–15 Minuten Fokus",
+        "Timer nutzen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Streit bei Hausaufgaben. Klare Struktur.",
+      "bild": "images/insel-eltern/INSEL-ARBEIT.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 4,
+      "titel": "Bewegungs-Insel",
+      "situation": "Flur, Teppich oder Balkon.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "30–60 Sekunden Bewegung",
+        "Keine Rennen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Energieabbau ohne Chaos. Hilft bei ADHS/Unruhe.",
+      "bild": "images/insel-eltern/INSEL-BEWEGUNG.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 5,
+      "titel": "Familien-Regel-Insel",
+      "situation": "Wandbereich mit Mini-Poster.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Kurze Klärungen",
+        "Keine Diskussionen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Streit. Klare Orientierung.",
+      "bild": "images/insel-eltern/INSEL-REGEL.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 6,
+      "titel": "Übergangs-Insel",
+      "situation": "Flur oder Kinderzimmer, für Morgen und Abend.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "3 Schritte (z. B. Schuhe, Jacke, Tasche)"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Stress bei Übergängen.",
+      "bild": "images/insel-eltern/INSEL-UEBERGANG.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 7,
+      "titel": "Geschwister-Konflikt-Insel",
+      "situation": "Neutraler Platz.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Jeder spricht 1 Satz",
+        "Lösung suchen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Geschwisterstreit. Struktur statt Chaos.",
+      "bild": "images/insel-eltern/INSEL-KONFLIKT.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    },
+    {
+      "nr": 8,
+      "titel": "Eltern-Kind-Gesprächs-Insel",
+      "situation": "Sofa oder Stuhl.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "2 Minuten",
+        "Nur ein Thema"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Klare Kommunikation. Weniger Überforderung.",
+      "bild": "images/insel-eltern/INSEL-GESPRAECH.jpg",
+      "badge": "INSEL-SET · ZUHAUSE"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "zonen-eltern",
+  "titel": "Zonen-Set · Zuhause",
+  "untertitel": "Raumzonen für Jugendliche zuhause",
+  "farbe": "#5B7A80",
+  "farbe_hell": "#E0E9EA",
+  "farbe_rand": "#96ABAF",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Rückzugs-Zone",
+      "situation": "Ein Rückzugsort zuhause (Zimmer, ruhige Ecke), den der/die Jugendliche ohne Erklärung nutzen darf.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Kein „Was ist los?“ beim Reingehen",
+        "Feste Zeit vereinbaren (z. B. 15 Minuten)",
+        "Danach wieder ansprechbar"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Konflikte durch Überforderung. Jugendliche lernen, eigene Grenzen zu erkennen.",
+      "bild": "images/zonen-eltern/ZONE-RUECKZUG.jpg",
+      "badge": "ZONEN-SET · ZUHAUSE"
+    },
+    {
+      "nr": 2,
+      "titel": "Fokus-Zone",
+      "situation": "Fester Arbeitsplatz für Hausaufgaben/Lernen, ohne Familienlärm.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Handy weglegen",
+        "Timer nutzen (z. B. 25 Minuten)",
+        "Klare Start- und Endzeit"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Streit ums Lernen. Stärkt Selbstständigkeit.",
+      "bild": "images/zonen-eltern/ZONE-FOKUS.jpg",
+      "badge": "ZONEN-SET · ZUHAUSE"
+    },
+    {
+      "nr": 3,
+      "titel": "Klärungs-Zone",
+      "situation": "Neutraler Ort für Familienkonflikte, statt mitten im Wohnzimmer oder vor Geschwistern.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Jede Person spricht aus, ohne unterbrochen zu werden",
+        "Ich-Botschaften statt Vorwürfe"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger eskalierende Streits. Jugendliche fühlen sich ernst genommen.",
+      "bild": "images/zonen-eltern/ZONE-KLAERUNG.jpg",
+      "badge": "ZONEN-SET · ZUHAUSE"
+    },
+    {
+      "nr": 4,
+      "titel": "Gesprächs-Zone",
+      "situation": "Ruhiger Moment für ein Gespräch zwischen Elternteil und Jugendlichem, ohne Ablenkung.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Ein Thema pro Gespräch",
+        "Zuhören vor Bewerten",
+        "Kein Handy nebenbei"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Bessere Kommunikation. Weniger „Wir reden nie“-Gefühl.",
+      "bild": "images/zonen-eltern/ZONE-GESPRAECH.jpg",
+      "badge": "ZONEN-SET · ZUHAUSE"
+    }
+  ]
+}

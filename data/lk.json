@@ -1,0 +1,954 @@
+{
+  "id": "lk",
+  "titel": "LK-Deck",
+  "untertitel": "Reflexionskarten Lehrkräfte",
+  "farbe": "#6B4E71",
+  "farbe_hell": "#EEE7EF",
+  "farbe_rand": "#CEBDD0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Meine Rolle gerade",
+      "anleitung": "Guter Einstieg, um den aktuellen Stand der eigenen Rolle bewusst zu machen.",
+      "fragen": [
+        "Wie würdest du deine Rolle als Lehrkraft gerade in einem Satz beschreiben?",
+        "Was hat sich daran in letzter Zeit verändert?"
+      ],
+      "hinweis": "Es gibt keine falsche Antwort. Die Rolle darf sich auch von Woche zu Woche anders anfühlen.",
+      "bild": "images/lk/LK-01.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stimmig fühlt sich deine Rolle gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 2,
+      "titel": "Zwischen Fördern und Fordern",
+      "anleitung": "Für Momente, in denen Unterstützung und Anspruch in Spannung stehen.",
+      "fragen": [
+        "Wo merkst du gerade, dass du besonders viel auffängst?",
+        "Was würde passieren, wenn du diesem Kind an einer Stelle bewusst mehr zutraust?"
+      ],
+      "hinweis": "Einem Kind an einer Stelle mehr zuzutrauen heißt nicht, insgesamt weniger zu unterstützen.",
+      "bild": "images/lk/LK-02.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um diesem Kind an einer Stelle bewusst mehr zuzutrauen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 3,
+      "titel": "Erwartungen an mich selbst",
+      "anleitung": "Eigene, oft unausgesprochene Ansprüche an die eigene Lehrrolle sichtbar machen.",
+      "fragen": [
+        "Was erwartest du eigentlich von dir selbst als Lehrkraft?",
+        "Woher kommt dieser Anspruch?"
+      ],
+      "hinweis": "Oft stammen die höchsten Ansprüche aus der eigenen Ausbildung oder aus Vorbildern, nicht aus der aktuellen Situation.",
+      "bild": "images/lk/LK-03.jpg",
+      "systemfrage": "Was würde eine Kollegin/ein Kollege sagen, wenn sie/er deinen Anspruch an dich selbst hören würde?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 4,
+      "titel": "Wenn Eltern meinen Unterricht infrage stellen",
+      "anleitung": "Bei Kritik von Eltern oder Erziehungsberechtigten einsetzbar.",
+      "fragen": [
+        "Wessen Kritik trifft dich dabei am meisten?",
+        "Was würdest du dir stattdessen wünschen zu hören?"
+      ],
+      "hinweis": "Nicht jede Kritik verdient ein Nachdenken – manche darf auch einfach vorbeiziehen.",
+      "bild": "images/lk/LK-04.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr lässt du diese Kritik gerade an dich heran?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 5,
+      "titel": "Verantwortung teilen können",
+      "anleitung": "Für Situationen, in denen Verantwortung ungleich verteilt ist (Team, Schulleitung, INGRA, Eltern).",
+      "fragen": [
+        "Was trägst du gerade allein, das eigentlich geteilt werden könnte?",
+        "Wer könnte dir davon etwas abnehmen?"
+      ],
+      "hinweis": "Um Unterstützung bitten ist keine Schwäche, sondern oft der erste Schritt zu mehr Kraft für das Wesentliche.",
+      "bild": "images/lk/LK-05.jpg",
+      "systemfrage": "Was wäre ein erster, kleiner Schritt, um genau das abzugeben?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 6,
+      "titel": "Was dieses Kind gerade wirklich braucht",
+      "anleitung": "Für Momente, in denen das Verhalten eines Kindes im Unterricht schwer zu deuten ist.",
+      "fragen": [
+        "Was zeigt dir dieses Kind gerade mit seinem Verhalten?",
+        "Was könnte dahinterstecken, auch wenn es auf den ersten Blick nicht so wirkt?"
+      ],
+      "hinweis": "Besonders hilfreich, wenn ein Verhalten gerade unverständlich wirkt.",
+      "bild": "images/lk/LK-06.jpg",
+      "systemfrage": "Was würde dieses Kind sagen, wenn es erklären könnte, was hinter seinem Verhalten steckt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 7,
+      "titel": "Verhalten hinter dem Verhalten",
+      "anleitung": "Hilfreich, wenn ein Verhalten im Unterricht provoziert statt Verständnis auslöst.",
+      "fragen": [
+        "Welches Gefühl steckt vermutlich hinter diesem Verhalten?",
+        "Wie würdest du reagieren, wenn du nur das Gefühl sehen würdest, nicht das Verhalten?"
+      ],
+      "hinweis": "Schwieriges Verhalten ist fast immer ein Hinweis, kein Angriff.",
+      "bild": "images/lk/LK-07.jpg",
+      "systemfrage": "Wie würde eine außenstehende Person dieses Verhalten wohl deuten?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 8,
+      "titel": "Wenn ich ein Kind nicht verstehe",
+      "anleitung": "Entlastend einsetzen – nicht jedes Verhalten muss sofort erklärbar sein.",
+      "fragen": [
+        "Welches Kind ist dir gerade ein Rätsel?",
+        "Ist es okay, das gerade nicht zu verstehen?"
+      ],
+      "hinweis": "Nicht-Verstehen ist kein Versagen als Lehrkraft, nur ein ehrlicher Zwischenstand.",
+      "bild": "images/lk/LK-08.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie dringend fühlt sich das Nicht-Verstehen gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 9,
+      "titel": "Unterschiede zwischen Schüler:innen",
+      "anleitung": "Für den Umgang mit heterogenen Klassen, besonders wenn einzelne Kinder mehr Aufmerksamkeit brauchen.",
+      "fragen": [
+        "Wo fällt es dir schwer, alle Kinder gleich zu behandeln?",
+        "Muss Gerechtigkeit eigentlich Gleichheit bedeuten?"
+      ],
+      "hinweis": "Gerechtigkeit heißt oft, jedem Kind das zu geben, was es gerade braucht – nicht dasselbe.",
+      "bild": "images/lk/LK-09.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um dem Kind, das gerade zu kurz kommt, etwas mehr zu geben?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 10,
+      "titel": "Ein Kind mit anderen Augen sehen",
+      "anleitung": "Guter Perspektivwechsel-Impuls, um eingefahrene Sichtweisen zu lockern.",
+      "fragen": [
+        "Was würde eine Person, die dieses Kind mag, an ihm hervorheben?",
+        "Wann hast du das zuletzt selbst so gesehen?"
+      ],
+      "hinweis": "Guter Impuls für Tage, an denen der Blick auf ein Kind besonders kritisch geworden ist.",
+      "bild": "images/lk/LK-10.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie wohlwollend ist dein Blick auf dieses Kind gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 11,
+      "titel": "Zuhören, ohne gleich zu lösen",
+      "anleitung": "Für Situationen, in denen ein Kind eigentlich nur gehört werden will.",
+      "fragen": [
+        "Wann hast du zuletzt zugehört, ohne gleich eine Lösung anzubieten?",
+        "Was würde sich ändern, wenn du das öfter tust?"
+      ],
+      "hinweis": "Manchmal ist die beste Hilfe, gar keine Lösung anzubieten.",
+      "bild": "images/lk/LK-11.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um beim nächsten Gespräch bewusst länger zuzuhören, bevor du antwortest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 12,
+      "titel": "Wenn Gespräche eskalieren",
+      "anleitung": "Rückblickend nach einem eskalierten Gespräch (mit Kind oder Eltern) einsetzbar, nicht mittendrin.",
+      "fragen": [
+        "An welchem Punkt kippt ein Gespräch bei dir meistens?",
+        "Was könntest du an diesem Punkt anders machen?"
+      ],
+      "hinweis": "Am hilfreichsten mit etwas Abstand zum letzten Gespräch, nicht mittendrin.",
+      "bild": "images/lk/LK-12.jpg",
+      "systemfrage": "Wie würde eine außenstehende Person den Punkt beschreiben, an dem das Gespräch kippt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 13,
+      "titel": "Grenzen setzen, ohne die Beziehung zu belasten",
+      "anleitung": "Für die Sorge, dass Grenzen die Beziehung zum Kind gefährden könnten.",
+      "fragen": [
+        "Welche Grenze fällt dir besonders schwer zu setzen?",
+        "Was befürchtest du, wenn du sie setzt?"
+      ],
+      "hinweis": "Klare Grenzen und eine gute Beziehung schließen sich nicht aus.",
+      "bild": "images/lk/LK-13.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sicher fühlst du dich gerade beim Grenzensetzen?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 14,
+      "titel": "Ehrlich sein, ohne zu überfordern",
+      "anleitung": "Bei der Frage, wie viel ein Kind über schwierige Themen wissen sollte.",
+      "fragen": [
+        "Wo hältst du dich gerade zurück, um ein Kind zu schützen?",
+        "Was wäre eine altersgerechte Version der Wahrheit?"
+      ],
+      "hinweis": "Ehrlichkeit lässt sich fast immer altersgerecht dosieren, ganz weglassen muss sie nicht.",
+      "bild": "images/lk/LK-14.jpg",
+      "systemfrage": "Was wäre ein kleiner, altersgerechter erster Satz, den du sagen könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 15,
+      "titel": "Mit dem Kollegium an einem Strang",
+      "anleitung": "Für Teams mit unterschiedlichen pädagogischen Ansätzen, nicht als Schuldzuweisung gedacht.",
+      "fragen": [
+        "Wo unterscheidet ihr euch am meisten im Umgang mit einem Kind?",
+        "Was habt ihr trotzdem gemeinsam?"
+      ],
+      "hinweis": "Nicht als Schuldfrage lesen – unterschiedliche Ansätze sind normal, nicht falsch.",
+      "bild": "images/lk/LK-15.jpg",
+      "systemfrage": "Was würde dein Kollegium sagen, wenn es eure gemeinsamen Punkte beschreiben müsste?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 16,
+      "titel": "Wenn ein Kind gemobbt wird",
+      "anleitung": "Bei akuten Ausgrenzungs-/Mobbingerfahrungen in der Klasse.",
+      "fragen": [
+        "Was brauchst du gerade selbst, um in dieser Situation klar handeln zu können?",
+        "Wer kann dich dabei unterstützen?"
+      ],
+      "hinweis": "Erst selbst klar werden, bevor du wirksam handeln kannst – das ist keine falsche Reihenfolge.",
+      "bild": "images/lk/LK-16.jpg",
+      "systemfrage": "Was wäre ein kleiner erster Schritt, um selbst Unterstützung zu holen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 17,
+      "titel": "Wenn ich mich hilflos fühle",
+      "anleitung": "Entlastend für Momente, in denen keine Lösung greifbar scheint.",
+      "fragen": [
+        "Wann fühlst du dich als Lehrkraft am hilflosesten?",
+        "Was hilft dir, das auszuhalten, auch ohne Lösung?"
+      ],
+      "hinweis": "Hilflosigkeit auszuhalten ist manchmal die eigentliche Aufgabe, nicht ein Zeichen, dass etwas fehlt.",
+      "bild": "images/lk/LK-17.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stark ist das Gefühl von Hilflosigkeit gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 18,
+      "titel": "Der erste Schock nach einer schwierigen Nachricht zu einem Kind",
+      "anleitung": "Für die erste Zeit nach einer belastenden Information (Diagnose, familiäre Situation, Vorfall).",
+      "fragen": [
+        "Was hat sich für dich durch diese Nachricht verändert?",
+        "Was bleibt trotzdem gleich?"
+      ],
+      "hinweis": "Gib dir Zeit – diese Karte eignet sich nicht für den ersten Tag, eher für die Wochen danach.",
+      "bild": "images/lk/LK-18.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie weit bist du gerade in der Verarbeitung?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 19,
+      "titel": "Umgang mit Eltern in schwierigen Momenten",
+      "anleitung": "Bei Spannungen zwischen Schule und Elternhaus.",
+      "fragen": [
+        "Was wünschst du dir gerade am meisten von diesem Elternhaus?",
+        "Was könntest du selbst dazu beitragen, dass es besser läuft?"
+      ],
+      "hinweis": "Auch berechtigte Anliegen dürfen ruhig und bestimmt vorgetragen werden, nicht nur laut.",
+      "bild": "images/lk/LK-19.jpg",
+      "systemfrage": "Was würden die Eltern wohl sagen, wenn sie ihre Sicht auf die Zusammenarbeit beschreiben müssten?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 20,
+      "titel": "Wenn eine Krise vorbei ist",
+      "anleitung": "Rückblickend nach überstandenen schwierigen Phasen in der Klasse.",
+      "fragen": [
+        "Was hat euch als Klasse/Team durch die letzte schwierige Zeit getragen?",
+        "Was nimmst du daraus mit?"
+      ],
+      "hinweis": "Guter Moment, um festzuhalten, was diesmal geholfen hat – für die nächste schwierige Phase.",
+      "bild": "images/lk/LK-20.jpg",
+      "systemfrage": "Was möchtest du konkret festhalten, damit es dir beim nächsten Mal zur Verfügung steht?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 21,
+      "titel": "Der Unterrichtstag, der nie stressfrei ist",
+      "anleitung": "Für wiederkehrenden Alltagsstress, niedrigschwellig einsetzbar.",
+      "fragen": [
+        "Was macht deinen Unterrichtstag am meisten stressig?",
+        "Was wäre ein kleiner, realistischer erster Schritt?"
+      ],
+      "hinweis": "Kleine Veränderungen wirken hier oft mehr als ein kompletter Neustart.",
+      "bild": "images/lk/LK-21.jpg",
+      "systemfrage": "Was wäre eine kleine, realistische Änderung, die du diese Woche ausprobieren könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 22,
+      "titel": "Differenzierung ohne Überforderung",
+      "anleitung": "Bei dem Anspruch, allen Kindern gleichzeitig gerecht zu werden.",
+      "fragen": [
+        "Wo genau wird Differenzierung für dich am anstrengendsten?",
+        "Was könntest du bewusst vereinfachen?"
+      ],
+      "hinweis": "Nicht jede Differenzierung muss perfekt sein, um zu wirken.",
+      "bild": "images/lk/LK-22.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um bewusst etwas zu vereinfachen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 23,
+      "titel": "Streit in der Klasse",
+      "anleitung": "Für den Umgang mit wiederkehrendem Streit zwischen Schüler:innen.",
+      "fragen": [
+        "Musst du wirklich jeden Streit schlichten?",
+        "Was würde passieren, wenn du dich öfter zurückhältst?"
+      ],
+      "hinweis": "Nicht jeder Streit braucht ein Urteil von dir.",
+      "bild": "images/lk/LK-23.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr ist es gerade wirklich dein Streit?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 24,
+      "titel": "Verwaltung, Dokumentation, Formulare – der bürokratische Alltag",
+      "anleitung": "Entlastend für die organisatorische Seite des Lehrberufs.",
+      "fragen": [
+        "Was an der Verwaltung belastet dich gerade am meisten?",
+        "Was könntest du abgeben oder vereinfachen?"
+      ],
+      "hinweis": "Auch Verwaltung darf an einem entlasteten Tag bearbeitet werden, nicht nur unter Druck.",
+      "bild": "images/lk/LK-24.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um etwas davon abzugeben oder zu vereinfachen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 25,
+      "titel": "Wenn der Schulalltag einfach zu viel wird",
+      "anleitung": "Für allgemeine Überforderung, nicht an eine konkrete Situation gebunden.",
+      "fragen": [
+        "Was würdest du gerade als Erstes weglassen, wenn du dürftest?",
+        "Wer könnte dir eine Aufgabe abnehmen?"
+      ],
+      "hinweis": "Ein einzelner weggelassener Punkt macht selten den Unterschied, den du befürchtest.",
+      "bild": "images/lk/LK-25.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie voll fühlt sich dein Alltag gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 26,
+      "titel": "Meine eigenen Grenzen erkennen",
+      "anleitung": "Für Lehrkräfte, die sich selbst oft zuletzt sehen.",
+      "fragen": [
+        "Woran merkst du, dass du an deine Grenze kommst?",
+        "Was tust du normalerweise, kurz bevor es zu viel wird?"
+      ],
+      "hinweis": "Deine Grenze zu kennen schützt am Ende auch deinen Unterricht.",
+      "bild": "images/lk/LK-26.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie nah bist du gerade an deiner Grenze?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 27,
+      "titel": "Schuldgefühle als Lehrkraft",
+      "anleitung": "Sehr verbreitetes Thema, entlastend statt bewertend einsetzen.",
+      "fragen": [
+        "Wofür machst du dir gerade am meisten Vorwürfe?",
+        "Würdest du das auch einer anderen Person so vorwerfen?"
+      ],
+      "hinweis": "Fast jede Lehrkraft kennt dieses Gefühl – das macht es nicht automatisch berechtigt.",
+      "bild": "images/lk/LK-27.jpg",
+      "systemfrage": "Was würde eine gute Kollegin/ein guter Kollege zu diesem Vorwurf sagen, den du dir machst?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 28,
+      "titel": "Der Vergleich mit anderen Lehrkräften",
+      "anleitung": "Bei Selbstzweifeln durch Vergleiche im Kollegium.",
+      "fragen": [
+        "Mit wem vergleichst du dich am meisten?",
+        "Was siehst du bei der anderen Person nicht?"
+      ],
+      "hinweis": "Was du bei anderen siehst, ist fast nie ihr ganzer Alltag.",
+      "bild": "images/lk/LK-28.jpg",
+      "systemfrage": "Was würde die andere Lehrkraft wohl über ihre eigenen schwierigen Momente sagen, die du nicht siehst?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 29,
+      "titel": "Kleine Momente für mich",
+      "anleitung": "Ressourcenorientiert, um eigene kleine Auszeiten im Schulalltag sichtbar zu machen.",
+      "fragen": [
+        "Wann hattest du zuletzt einen Moment nur für dich?",
+        "Was wäre ein realistischer kleiner Moment diese Woche?"
+      ],
+      "hinweis": "Auch fünf Minuten zählen – es muss keine große Auszeit sein.",
+      "bild": "images/lk/LK-29.jpg",
+      "systemfrage": "Was wäre ein realistischer kleiner Moment, den du dir diese Woche konkret einplanst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 30,
+      "titel": "Worauf ich stolz sein darf",
+      "anleitung": "Guter Abschluss-Impuls, wertschätzender Rückblick statt Bewertung.",
+      "fragen": [
+        "Worauf bist du als Lehrkraft stolz, wenn du zurückblickst?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Guter Abschluss – bewusst als Rückblick lesen, nicht als Bewertung.",
+      "bild": "images/lk/LK-30.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr erlaubst du dir gerade, stolz zu sein?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 31,
+      "titel": "Was diese Klasse gerade als Gruppe braucht",
+      "anleitung": "Für Momente, in denen der Blick zu stark auf einzelne Kinder verengt ist und die Klasse als Ganzes aus dem Blick gerät.",
+      "fragen": [
+        "Was würde diese Klasse gerade als Gruppe am meisten brauchen?",
+        "Wo unterscheidet sich das von dem, was ein einzelnes Kind gerade braucht?"
+      ],
+      "hinweis": "Eine Klasse ist mehr als die Summe ihrer Kinder – manchmal hilft der Blick aufs Ganze mehr als die nächste Einzelmaßnahme.",
+      "bild": "images/lk/LK-31.jpg",
+      "systemfrage": "Was würde die Klasse sagen, wenn sie sich selbst als Gruppe beschreiben müsste?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 32,
+      "titel": "Rollen, die sich in der Klasse festsetzen",
+      "anleitung": "Für Klassen, in denen einzelne Kinder immer dieselbe Rolle einnehmen (Klassenclown, Sündenbock, stille Ecke).",
+      "fragen": [
+        "Welche feste Rolle fällt dir bei einem Kind in dieser Klasse besonders auf?",
+        "Wie trägst du selbst vielleicht dazu bei, dass diese Rolle bestehen bleibt?"
+      ],
+      "hinweis": "Rollen entstehen oft über viele kleine Wiederholungen – sie lassen sich auch über kleine Wiederholungen wieder lockern.",
+      "bild": "images/lk/LK-32.jpg",
+      "systemfrage": "Was wäre eine kleine Situation, in der du dieses Kind bewusst außerhalb seiner üblichen Rolle ansprechen könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 33,
+      "titel": "Wenn eine Klasse unruhig wird",
+      "anleitung": "Für Phasen, in denen sich Unruhe in der ganzen Klasse ausbreitet, nicht nur bei Einzelnen.",
+      "fragen": [
+        "Seit wann genau ist diese Klasse unruhiger als sonst?",
+        "Was hat sich um diesen Zeitpunkt herum verändert?"
+      ],
+      "hinweis": "Unruhe in der Klasse hat fast immer einen Auslöser – er muss dir nur nicht sofort einleuchten.",
+      "bild": "images/lk/LK-33.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie stark spürst du diese Unruhe gerade selbst mit?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 34,
+      "titel": "Zusammenhalt fördern, ohne zu erzwingen",
+      "anleitung": "Für den Wunsch nach mehr Gemeinschaftsgefühl, ohne dass es aufgesetzt wirkt.",
+      "fragen": [
+        "Wann hast du diese Klasse zuletzt wirklich als Gemeinschaft erlebt?",
+        "Was war in diesem Moment anders als sonst?"
+      ],
+      "hinweis": "Zusammenhalt lässt sich selten anordnen, aber gute Gelegenheiten dafür lassen sich schaffen.",
+      "bild": "images/lk/LK-34.jpg",
+      "systemfrage": "Was wäre ein kleiner, echter Moment, den du diese Woche wieder ermöglichen könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 35,
+      "titel": "Wenn sich eine Klasse gegen dich stellt",
+      "anleitung": "Für die belastende Erfahrung, als Lehrkraft von der ganzen Klasse abgelehnt oder getestet zu werden.",
+      "fragen": [
+        "Woran genau merkst du, dass sich die Klasse gerade gegen dich stellt?",
+        "Was hat sich kurz davor in eurer Beziehung verändert?"
+      ],
+      "hinweis": "Das ist selten wirklich persönlich gemeint, auch wenn es sich in dem Moment genauso anfühlt.",
+      "bild": "images/lk/LK-35.jpg",
+      "systemfrage": "Was würde eine erfahrene Kollegin/ein erfahrener Kollege von außen an dieser Situation zuerst bemerken?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 36,
+      "titel": "Die Schule gedanklich verlassen",
+      "anleitung": "Für den Übergang vom Schultag zum Feierabend, wenn Gedanken an die Schule einfach nicht aufhören.",
+      "fragen": [
+        "Was beschäftigt dich gerade am meisten, wenn du eigentlich schon zu Hause bist?",
+        "Was würde dir helfen, das für heute abzuschließen?"
+      ],
+      "hinweis": "Der Kopf lässt sich nicht per Wille abschalten, aber ein wiederkehrendes Ritual kann ihm dabei helfen.",
+      "bild": "images/lk/LK-36.jpg",
+      "systemfrage": "Was wäre ein kleines, festes Ritual für den Übergang von Schule zu Feierabend?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 37,
+      "titel": "Erreichbarkeit außerhalb der Schulzeit",
+      "anleitung": "Für die Frage, wie erreichbar man für Eltern, Kinder oder Kolleg:innen außerhalb der Arbeitszeit sein möchte.",
+      "fragen": [
+        "Wie erreichbar bist du gerade tatsächlich außerhalb deiner Arbeitszeit?",
+        "Ist das eine bewusste Entscheidung oder eher so entstanden?"
+      ],
+      "hinweis": "Erreichbarkeit lässt sich bewusst gestalten – auch rückwirkend, wenn sie sich unbemerkt eingeschlichen hat.",
+      "bild": "images/lk/LK-37.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie klar sind deine eigenen Grenzen bei der Erreichbarkeit gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 38,
+      "titel": "Das Wochenende als echte Pause",
+      "anleitung": "Für Wochenenden, die durch Vorbereitung und Korrekturen kaum als Pause spürbar sind.",
+      "fragen": [
+        "Wie viel von deinem letzten Wochenende war eigentlich Schule?",
+        "Was würde ein Wochenende brauchen, damit es sich wirklich wie eine Pause anfühlt?"
+      ],
+      "hinweis": "Erholung entsteht nicht automatisch durch freie Zeit, sondern durch Zeit, die auch wirklich frei bleibt.",
+      "bild": "images/lk/LK-38.jpg",
+      "systemfrage": "Was wäre ein kleiner, geschützter Zeitraum, den du dir dieses Wochenende bewusst freihältst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 39,
+      "titel": "Wenn die Ferien nicht wie Erholung wirken",
+      "anleitung": "Für die verbreitete Erfahrung, dass auch Ferien nicht als echte Erholung ankommen.",
+      "fragen": [
+        "Was braucht eine Pause bei dir, um wirklich als Pause zu wirken?",
+        "Was hindert dich manchmal daran, sie dir zu nehmen?"
+      ],
+      "hinweis": "Erholung braucht oft mehr als freie Zeit – manchmal auch die innere Erlaubnis, sie zu nutzen.",
+      "bild": "images/lk/LK-39.jpg",
+      "systemfrage": "Was würde eine Person, die dich gut kennt, dir für die nächsten Ferien raten?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 40,
+      "titel": "Die Schule mit nach Hause tragen",
+      "anleitung": "Für das Gefühl, dass belastende Situationen aus der Schule noch lange nachwirken, auch zu Hause.",
+      "fragen": [
+        "Welche Situation aus der Schule trägst du gerade noch mit dir herum?",
+        "Was würde dir helfen, sie für heute abzulegen, auch wenn sie morgen wieder da ist?"
+      ],
+      "hinweis": "Manche Dinge lassen sich nicht an einem Abend lösen – sie dürfen trotzdem für den Abend beiseitegelegt werden.",
+      "bild": "images/lk/LK-40.jpg",
+      "systemfrage": "Was wäre ein kleiner Schritt, um diese Situation heute Abend bewusst beiseitezulegen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 41,
+      "titel": "Verschiedene Vorstellungen von Erziehung",
+      "anleitung": "Für Elterngespräche, in denen sich Erziehungsvorstellungen deutlich unterscheiden.",
+      "fragen": [
+        "Welche Erziehungsvorstellung eines Elternhauses irritiert dich gerade am meisten?",
+        "Was könnte dahinter für eine eigene Logik stecken, auch wenn du sie nicht teilst?"
+      ],
+      "hinweis": "Eine andere Erziehungsvorstellung ist nicht automatisch eine schlechtere – nur eine andere.",
+      "bild": "images/lk/LK-41.jpg",
+      "systemfrage": "Was würden diese Eltern sagen, wenn sie ihre Sicht auf gute Erziehung erklären müssten?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 42,
+      "titel": "Wenn Sprache eine Barriere ist",
+      "anleitung": "Für Elterngespräche oder Unterrichtssituationen, in denen Sprache das Verständnis erschwert.",
+      "fragen": [
+        "Wo genau entsteht das Missverständnis – an der Sprache oder an etwas dahinter?",
+        "Was hilft dir sonst, wenn Worte allein nicht reichen?"
+      ],
+      "hinweis": "Verständigung gelingt auch mit wenigen gemeinsamen Worten, wenn Geduld und Geste dazukommen.",
+      "bild": "images/lk/LK-42.jpg",
+      "systemfrage": "Was wäre ein kleines, konkretes Hilfsmittel, das du beim nächsten Gespräch einsetzen könntest?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 43,
+      "titel": "Zwischen zwei kulturellen Systemen",
+      "anleitung": "Für Kinder, die zu Hause und in der Schule mit unterschiedlichen Regeln und Erwartungen aufwachsen.",
+      "fragen": [
+        "Wo genau erlebt dieses Kind vermutlich die größte Spannung zwischen zu Hause und Schule?",
+        "Wie könntest du diese Spannung sichtbar entlasten, statt sie zu verstärken?"
+      ],
+      "hinweis": "Zwischen zwei Systemen zu leben ist anstrengend – schon das Anerkennen dieser Anstrengung kann entlasten.",
+      "bild": "images/lk/LK-43.jpg",
+      "systemfrage": "Was würde dieses Kind sagen, wenn es beschreiben müsste, wie sich die zwei Welten für es anfühlen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 44,
+      "titel": "Eigene blinde Flecken erkennen",
+      "anleitung": "Für die ehrliche Reflexion eigener unbewusster Erwartungen oder Annahmen gegenüber Familien mit anderem kulturellen Hintergrund.",
+      "fragen": [
+        "Welche unausgesprochene Erwartung hast du vielleicht an eine bestimmte Familie?",
+        "Woher stammt diese Erwartung eigentlich?"
+      ],
+      "hinweis": "Blinde Flecken zu erkennen ist kein Vorwurf an dich selbst, sondern ein Zeichen von Aufmerksamkeit.",
+      "bild": "images/lk/LK-44.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sicher bist du dir gerade, dass deine Sicht auf diese Familie neutral ist?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 45,
+      "titel": "Vielfalt als Ressource statt Herausforderung",
+      "anleitung": "Guter Perspektivwechsel-Impuls, wenn kulturelle Vielfalt vor allem als zusätzlicher Aufwand erlebt wird.",
+      "fragen": [
+        "Was bringt die Vielfalt in dieser Klasse tatsächlich Positives mit sich?",
+        "Wann hast du das zuletzt bewusst wahrgenommen?"
+      ],
+      "hinweis": "Vielfalt ist beides gleichzeitig – Aufwand und Bereicherung. Beides gilt, ohne sich gegenseitig aufzuheben.",
+      "bild": "images/lk/LK-45.jpg",
+      "systemfrage": "Was wäre eine kleine Gelegenheit, diese Vielfalt in den nächsten Tagen sichtbar wertzuschätzen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 46,
+      "titel": "Meine Rolle im digitalen Wandel",
+      "anleitung": "Für die grundsätzliche Reflexion, wie sich die eigene Lehrrolle durch digitale Werkzeuge verändert.",
+      "fragen": [
+        "Was an deiner Rolle als Lehrkraft verändert sich gerade durch digitale Werkzeuge?",
+        "Was bleibt davon garantiert unverändert?"
+      ],
+      "hinweis": "Der Wandel betrifft die Werkzeuge, nicht automatisch das, was eine gute Lehrkraft ausmacht.",
+      "bild": "images/lk/LK-46.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sicher fühlst du dich gerade im Umgang mit diesem Wandel?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 47,
+      "titel": "Wenn KI Aufgaben übernimmt, die früher meine waren",
+      "anleitung": "Für die Verunsicherung, wenn KI-Werkzeuge Aufgaben wie Textkorrektur oder Materialerstellung übernehmen.",
+      "fragen": [
+        "Welche Aufgabe hast du zuletzt an ein digitales Werkzeug abgegeben?",
+        "Wie hat sich das für dich angefühlt – entlastend, befremdlich, beides?"
+      ],
+      "hinweis": "Abgeben ist keine Kapitulation – die Entscheidung, was du behältst, bleibt trotzdem bei dir.",
+      "bild": "images/lk/LK-47.jpg",
+      "systemfrage": "Was wäre eine Aufgabe, bei der du bewusst entscheidest, sie weiterhin selbst zu machen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 48,
+      "titel": "Schüler:innen und KI im Unterricht",
+      "anleitung": "Für den Umgang mit Schüler:innen, die KI-Werkzeuge selbstständig nutzen, etwa für Hausaufgaben.",
+      "fragen": [
+        "Was beunruhigt dich am meisten daran, wenn Schüler:innen KI nutzen?",
+        "Was würde ein offener, statt ein abwehrender Umgang damit für deinen Unterricht bedeuten?"
+      ],
+      "hinweis": "Verbote allein verhindern selten die Nutzung – ein offener Umgang schafft eher echte Lernchancen.",
+      "bild": "images/lk/LK-48.jpg",
+      "systemfrage": "Was würden die Schüler:innen sagen, wenn sie erklären müssten, warum sie diese Werkzeuge nutzen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 49,
+      "titel": "Digitale Erschöpfung",
+      "anleitung": "Für die zusätzliche Belastung durch Bildschirmzeit, digitale Kommunikation und ständige Erreichbarkeit über Schul-Apps und Mail.",
+      "fragen": [
+        "Wie viel deines Arbeitstages verbringst du gerade vor einem Bildschirm?",
+        "Wo könntest du bewusst eine bildschirmfreie Zeit einbauen?"
+      ],
+      "hinweis": "Digitale Werkzeuge sollen Zeit schaffen – wenn sie das Gegenteil bewirken, darfst du sie hinterfragen.",
+      "bild": "images/lk/LK-49.jpg",
+      "systemfrage": "Was wäre ein konkreter, bildschirmfreier Moment, den du dir morgen bewusst nimmst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 50,
+      "titel": "Was ich an analogem Unterricht nicht verlieren möchte",
+      "anleitung": "Guter Abschluss-Impuls, um bei aller Digitalisierung bewusst zu halten, was den eigenen Unterricht ausmacht.",
+      "fragen": [
+        "Was an deinem Unterricht möchtest du auf keinen Fall durch digitale Werkzeuge ersetzen?",
+        "Warum ist dir genau das so wichtig?"
+      ],
+      "hinweis": "Digitalisierung muss kein Entweder-oder sein – du entscheidest, was ergänzt wird und was bleibt.",
+      "bild": "images/lk/LK-50.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie gut gelingt es dir gerade, dieses Wichtige trotz aller Digitalisierung zu bewahren?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 51,
+      "titel": "Das Bild vom \"normalen\" Unterricht loslassen",
+      "anleitung": "Für die Phase, in der klassische Unterrichtserwartungen nicht mehr passen.",
+      "fragen": [
+        "Welches Bild von einem 'guten Unterrichtstag' hattest du, bevor du wusstest, was dieses Kind braucht?",
+        "Was davon war eigentlich nie realistisch?"
+      ],
+      "hinweis": "Ein anderer Unterrichtstag ist nicht automatisch ein schlechterer.",
+      "bild": "images/lk/LK-Z-51.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was wäre ein kleiner Schritt, um ein altes Bild bewusst loszulassen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 52,
+      "titel": "Wenn die eigene Kapazität an Grenzen kommt",
+      "anleitung": "Für Momente extremer Anforderung (z. B. bei sensorischer Überlastung/Meltdown im Unterricht).",
+      "fragen": [
+        "Was kostet dich in solchen Momenten am meisten Kraft?",
+        "Was hilft dir selbst, wenn es gerade zu viel wird?"
+      ],
+      "hinweis": "Grenzen zu spüren heißt nicht, dass du zu wenig gibst.",
+      "bild": "images/lk/LK-Z-52.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie nah bist du gerade an deiner Grenze?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 53,
+      "titel": "Die Diagnose und was sie für meinen Unterricht bedeutet",
+      "anleitung": "Nicht für die erste Zeit nach Bekanntwerden gedacht, eher für die praktische Umsetzung danach.",
+      "fragen": [
+        "Was hat sich für deinen Unterricht durch das Wissen um die Diagnose verändert?",
+        "Was ist gleich geblieben?"
+      ],
+      "hinweis": "Es ist normal, wenn sich der praktische Umgang mit einer Diagnose mit der Zeit einspielt.",
+      "bild": "images/lk/LK-Z-53.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sicher fühlst du dich gerade im Umgang mit der Diagnose?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 54,
+      "titel": "Erklären, ohne dich zu rechtfertigen",
+      "anleitung": "Für Situationen, in denen Kolleg:innen oder Eltern anderer Kinder das Vorgehen infrage stellen.",
+      "fragen": [
+        "Wo erklärst du dich gerade eigentlich zu oft?",
+        "Was würdest du sagen, wenn du dich nicht rechtfertigen müsstest?"
+      ],
+      "hinweis": "Eine Erklärung ist keine Rechtfertigung, auch wenn sie sich manchmal so anfühlt.",
+      "bild": "images/lk/LK-Z-54.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was würde eine Kollegin/ein Kollege, die/der dich gut kennt, zu deinen häufigen Erklärungen sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 55,
+      "titel": "Die eigene Erschöpfung ernst nehmen",
+      "anleitung": "Entlastend, besonders wenn Mehraufwand lange als \"normal\" hingenommen wurde.",
+      "fragen": [
+        "Woran merkst du, dass du erschöpft bist?",
+        "Wer weiß eigentlich, wie viel Kraft das gerade kostet?"
+      ],
+      "hinweis": "Erschöpfung, die lange andauert, ist kein Charakterzug, sondern ein Signal.",
+      "bild": "images/lk/LK-Z-55.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie erschöpft bist du gerade wirklich?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 56,
+      "titel": "Die anderen Kinder der Klasse nicht aus dem Blick verlieren",
+      "anleitung": "Für die Balance zwischen individueller Unterstützung und der ganzen Klasse.",
+      "fragen": [
+        "Wie geht es der Klasse gerade wirklich?",
+        "Was bräuchte die Gruppe von dir, das gerade zu kurz kommt?"
+      ],
+      "hinweis": "Auch kleine, bewusste Momente für die ganze Klasse zählen.",
+      "bild": "images/lk/LK-Z-56.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was wäre ein kleiner, konkreter Moment für die Klasse als Ganzes diese Woche?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 57,
+      "titel": "Stolz auf die eigenen Fortschritte",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf dich als Lehrkraft bezogen.",
+      "fragen": [
+        "Worauf bist du bei dir selbst stolz, wenn du auf die letzten Monate schaust?",
+        "Was hast du gelernt, das dir vorher niemand hätte beibringen können?"
+      ],
+      "hinweis": "Dein eigener Lernweg zählt genauso wie der des Kindes.",
+      "bild": "images/lk/LK-Z-57.jpg",
+      "badge": "LK-R-AT · ZUSATZBLOCK AUTISMUS",
+      "systemfrage": "Was würde jemand, der eure Entwicklung begleitet hat, an dir hervorheben?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 58,
+      "titel": "Unterrichten mit einem hohen Energielevel im Raum",
+      "anleitung": "Für den Unterricht mit viel Bewegung, Impulsivität, wechselnder Aufmerksamkeit.",
+      "fragen": [
+        "Was an der Energie dieses Kindes kostet dich am meisten Kraft – und was bewunderst du eigentlich daran?",
+        "Wann hast du zuletzt bewusst beides gleichzeitig gesehen?"
+      ],
+      "hinweis": "Viel Energie ist anstrengend und eine echte Stärke – beides gleichzeitig.",
+      "bild": "images/lk/LK-Z-58.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie viel Kraft kostet dich die Energie dieses Kindes gerade?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 59,
+      "titel": "Wenn Regeln immer wieder neu durchgesetzt werden müssen",
+      "anleitung": "Für die Erfahrung, dass eine einmal erklärte Regel nicht \"einfach hält\".",
+      "fragen": [
+        "Welche Regel musst du am häufigsten neu durchsetzen?",
+        "Was würde dir helfen, das als normal statt als Scheitern zu sehen?"
+      ],
+      "hinweis": "Wiederholen müssen ist kein Zeichen, dass die Regel falsch war.",
+      "bild": "images/lk/LK-Z-59.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was wäre ein kleiner Schritt, um dir das Wiederholen leichter zu machen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 60,
+      "titel": "Die Diagnose – zwischen Erleichterung und zusätzlicher Verantwortung",
+      "anleitung": "Für die Zeit, in der beide Gefühle gleichzeitig da sind.",
+      "fragen": [
+        "Was hat sich durch die Diagnose für deinen Unterricht erleichtert?",
+        "Welche zusätzliche Verantwortung ist neu dazugekommen?"
+      ],
+      "hinweis": "Beide Gefühle dürfen gleichzeitig da sein, das eine widerlegt das andere nicht.",
+      "bild": "images/lk/LK-Z-60.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie sehr überwiegt gerade die Erleichterung gegenüber der zusätzlichen Verantwortung?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 61,
+      "titel": "Wenn andere „schlechtes Classroom-Management“ vermuten",
+      "anleitung": "Bei Kommentaren von Kolleg:innen oder Eltern.",
+      "fragen": [
+        "In welcher Situation triffst du solche Kommentare am meisten?",
+        "Was würdest du der Person sagen, wenn es keine Konsequenzen hätte?"
+      ],
+      "hinweis": "Fremde Kommentare kennen selten die ganze Geschichte.",
+      "bild": "images/lk/LK-Z-61.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was würde jemand sagen, der die Situation in deiner Klasse wirklich kennt?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 62,
+      "titel": "Die eigene Geduld an ihre Grenzen bringen",
+      "anleitung": "Entlastend – auch sehr geduldige Lehrkräfte kommen an einen Punkt.",
+      "fragen": [
+        "Wann war deine Geduld zuletzt komplett aufgebraucht?",
+        "Was hättest du in dem Moment gebraucht?"
+      ],
+      "hinweis": "Geduld ist endlich, auch bei sehr engagierten Lehrkräften.",
+      "bild": "images/lk/LK-Z-62.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Auf einer Skala von 1–10 – wie viel Geduld hast du gerade noch übrig?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 63,
+      "titel": "Zusammenarbeit mit Eltern und Fachpersonen",
+      "anleitung": "Für die Abstimmung rund um Unterstützung, Nachteilsausgleich oder Behandlung.",
+      "fragen": [
+        "Was läuft in der Zusammenarbeit gerade gut?",
+        "Was würde die Abstimmung leichter machen?"
+      ],
+      "hinweis": "Gute Abstimmung entsteht selten auf einmal, sondern über viele kleine Gespräche.",
+      "bild": "images/lk/LK-Z-63.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was würden die Eltern zu dieser Zusammenarbeit gerade sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 64,
+      "titel": "Stolz auf die eigenen Fortschritte",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf dich selbst bezogen.",
+      "fragen": [
+        "Worauf bist du bei dir selbst stolz, wenn du auf die letzten Monate schaust?",
+        "Was würdest du einer Kollegin/einem Kollegen in deiner Situation gerne sagen?"
+      ],
+      "hinweis": "Fortschritt zeigt sich oft leiser, als man erwartet.",
+      "bild": "images/lk/LK-Z-64.jpg",
+      "badge": "LK-R-ADHS · ZUSATZBLOCK ADHS",
+      "systemfrage": "Was wäre eine kleine Geste, mit der du dir selbst diesen Fortschritt anerkennst?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 65,
+      "titel": "Die eigene Rolle für dieses Kind finden",
+      "anleitung": "Für die Auseinandersetzung mit einer Rolle, die mehr sein kann als \"nur Unterricht\".",
+      "fragen": [
+        "Wie würdest du deine Rolle für dieses Kind gerade beschreiben?",
+        "Was daran fühlt sich noch ungewohnt an?"
+      ],
+      "hinweis": "Diese Rolle darf sich mit der Zeit entwickeln, sie muss nicht von Anfang an klar sein.",
+      "bild": "images/lk/LK-Z-65.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie klar fühlt sich deine Rolle für dieses Kind gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 66,
+      "titel": "Vertrauen aufbauen, ohne zu drängen",
+      "anleitung": "Für die oft längere Zeit des Vertrauensaufbaus im Klassenzimmer.",
+      "fragen": [
+        "Woran merkst du kleine Fortschritte im Vertrauen, auch wenn sie klein sind?",
+        "Was hilft dir, geduldig zu bleiben?"
+      ],
+      "hinweis": "Vertrauen, das sich Zeit nimmt, ist nicht weniger echt.",
+      "bild": "images/lk/LK-Z-66.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was wäre ein kleiner, geduldiger nächster Schritt im Vertrauensaufbau?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 67,
+      "titel": "Umgang mit Informationen über die Vorgeschichte",
+      "anleitung": "Für den sensiblen Umgang mit dem Wissen über die Situation des Kindes.",
+      "fragen": [
+        "Wie viel von der Vorgeschichte beeinflusst gerade deinen Blick auf das Kind?",
+        "Was brauchst du, um fair zu bleiben?"
+      ],
+      "hinweis": "Wissen um die Vorgeschichte darf informieren, ohne den Blick festzulegen.",
+      "bild": "images/lk/LK-Z-67.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was würde eine Person, die die Situation gut kennt, zu deinem Umgang mit diesem Wissen sagen?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 68,
+      "titel": "Wenn Verhalten aus der Vorgeschichte kommt",
+      "anleitung": "Hilft, schwieriges Verhalten im Unterricht als Folge früherer Erfahrungen statt als aktuellen Regelverstoß zu verstehen.",
+      "fragen": [
+        "Welches Verhalten fällt dir am schwersten, nicht persönlich zu nehmen?",
+        "Was könnte es mit der Geschichte des Kindes zu tun haben, nicht mit dir oder der Klasse?"
+      ],
+      "hinweis": "Nicht jede Reaktion des Kindes ist eine Reaktion auf dich oder die Klasse.",
+      "bild": "images/lk/LK-Z-68.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie leicht fällt es dir gerade, das Verhalten nicht persönlich zu nehmen?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 69,
+      "titel": "Zusammenarbeit mit Pflegeeltern und Fachstellen",
+      "anleitung": "Für die oft komplexere Kommunikation als bei anderen Elternhäusern.",
+      "fragen": [
+        "Was läuft in der Zusammenarbeit gerade gut?",
+        "Was würde sie erleichtern?"
+      ],
+      "hinweis": "Gute Zusammenarbeit entsteht oft über kurze, regelmäßige statt seltene, lange Kontakte.",
+      "bild": "images/lk/LK-Z-69.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was wäre ein kleiner Schritt, um die Kommunikation mit den Pflegeeltern zu vereinfachen?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 70,
+      "titel": "Stabilität bieten trotz Unsicherheiten",
+      "anleitung": "Für die besondere Bedeutung von Verlässlichkeit bei einem Kind mit instabiler Vorgeschichte.",
+      "fragen": [
+        "Was kannst du diesem Kind an Verlässlichkeit ganz konkret bieten?",
+        "Was davon tust du bereits, ohne es zu merken?"
+      ],
+      "hinweis": "Verlässlichkeit im Kleinen zählt oft mehr als große Gesten.",
+      "bild": "images/lk/LK-Z-70.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Auf einer Skala von 1–10 – wie verlässlich fühlt sich der Schulalltag für dieses Kind gerade an?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 71,
+      "titel": "Stolz auf das, was schon gelungen ist",
+      "anleitung": "Guter Abschluss-Impuls, bewusst auf das Erreichte statt auf das noch Fehlende schauen.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du auf die gemeinsame Zeit zurückblickst?",
+        "Was hat sich für das Kind durch dich bereits zum Besseren verändert?"
+      ],
+      "hinweis": "Auch kleine Veränderungen sind oft ein großer Schritt für das Kind.",
+      "bild": "images/lk/LK-Z-71.jpg",
+      "badge": "LK-R-PF · ZUSATZBLOCK PFLEGEKINDER",
+      "systemfrage": "Was würde das Kind wohl sagen, wenn es beschreiben müsste, was sich durch dich verändert hat?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    }
+  ]
+}

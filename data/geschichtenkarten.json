@@ -1,0 +1,400 @@
+{
+  "id": "geschichtenkarten",
+  "titel": "Geschichtenkarten",
+  "untertitel": "Brainy erlebt & lernt (3 Sets)",
+  "farbe": "#961E23",
+  "farbe_hell": "#FCEAEA",
+  "farbe_rand": "#E0B2B2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Brainy wird ausgelacht",
+      "anleitung": "Brainy erzählt etwas, zwei Kinder lachen. Brainy wird klein und grau.",
+      "fragen": [
+        "Was fühlt Brainy?",
+        "Warum tut das weh?",
+        "Was könnte Brainy helfen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Hör bitte auf. Das verletzt mich.",
+      "bild": "images/geschichtenkarten/GK-A1.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 2,
+      "titel": "Brainy wird ausgeschlossen",
+      "anleitung": "Eine Gruppe spielt. Brainy steht daneben. Niemand reagiert.",
+      "fragen": [
+        "Warum fühlt sich Brainy allein?",
+        "Was könnte Brainy Mut machen?",
+        "Was würdest du tun?"
+      ],
+      "hinweis": "Brainy könnte fragen: Kann ich mitmachen?",
+      "bild": "images/geschichtenkarten/GK-A2.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 3,
+      "titel": "Brainy bekommt gemeine Nachrichten",
+      "anleitung": "Auf dem Tablet steht: Du bist dumm.",
+      "fragen": [
+        "Was macht das mit Brainy?",
+        "Was sollte Brainy NICHT tun?",
+        "Wer kann helfen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich zeige das einem Erwachsenen.",
+      "bild": "images/geschichtenkarten/GK-A3.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 4,
+      "titel": "Brainy wird geschubst",
+      "anleitung": "Brainy stolpert, ein Kind lacht.",
+      "fragen": [
+        "Warum ist das nicht okay?",
+        "Was braucht Brainy?",
+        "Was wäre sicher?"
+      ],
+      "hinweis": "Brainy könnte weggehen und Hilfe holen.",
+      "bild": "images/geschichtenkarten/GK-A4.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 5,
+      "titel": "Brainy wird bedroht",
+      "anleitung": "Ein Kind sagt: Wenn du was sagst, passiert was.",
+      "fragen": [
+        "Warum macht das Angst?",
+        "Was braucht Brainy?",
+        "Wer kann schützen?"
+      ],
+      "hinweis": "Brainy könnte sofort zu einer erwachsenen Person gehen.",
+      "bild": "images/geschichtenkarten/GK-A5.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 6,
+      "titel": "Brainy wird nachgeäfft",
+      "anleitung": "Brainy spricht, ein Kind imitiert ihn spöttisch.",
+      "fragen": [
+        "Was fühlt Brainy?",
+        "Warum ist das unfair?",
+        "Was wäre ein guter Schritt?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte so nicht behandelt werden.",
+      "bild": "images/geschichtenkarten/GK-A6.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 7,
+      "titel": "Brainy wird ignoriert",
+      "anleitung": "Brainy spricht, niemand reagiert.",
+      "fragen": [
+        "Warum tut Ignorieren weh?",
+        "Was könnte Brainy helfen?",
+        "Was würdest du Brainy raten?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte gehört werden.",
+      "bild": "images/geschichtenkarten/GK-A7.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 8,
+      "titel": "Brainy wird beschämt",
+      "anleitung": "Brainy macht einen Fehler, andere lachen.",
+      "fragen": [
+        "Was fühlt Brainy?",
+        "Was hilft bei Scham?",
+        "Was wäre freundlich?"
+      ],
+      "hinweis": "Brainy könnte sagen: Bitte hör auf. Das ist mir unangenehm.",
+      "bild": "images/geschichtenkarten/GK-A8.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 9,
+      "titel": "Brainy sieht, wie jemand anderes gemobbt wird",
+      "anleitung": "Ein Kind wird ausgelacht. Brainy schaut unsicher.",
+      "fragen": [
+        "Was fühlt Brainy?",
+        "Was wäre mutig?",
+        "Wie kann Brainy helfen?"
+      ],
+      "hinweis": "Brainy könnte jemanden holen, der helfen kann.",
+      "bild": "images/geschichtenkarten/GK-A9.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 10,
+      "titel": "Brainy traut sich nicht, etwas zu sagen",
+      "anleitung": "Brainy wurde verletzt, schweigt aber.",
+      "fragen": [
+        "Warum schweigt Brainy?",
+        "Was könnte Mut machen?",
+        "Wem könnte Brainy vertrauen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich brauche jemanden, der mir zuhört.",
+      "bild": "images/geschichtenkarten/GK-A10.jpg",
+      "badge": "SET A · BRAINY ERLEBT MOBBING"
+    },
+    {
+      "nr": 11,
+      "titel": "Brainy sagt Stopp",
+      "anleitung": "Brainy sieht, wie ein Kind ausgelacht wird. Er stellt sich daneben und sagt ruhig: Stopp. Das ist nicht okay.",
+      "fragen": [
+        "Was fühlt Brainy in diesem Moment?",
+        "Warum ist Stopp sagen mutig?",
+        "Was könnte danach passieren?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte, dass du aufhörst.",
+      "bild": "images/geschichtenkarten/GK-B1.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 12,
+      "titel": "Brainy holt Hilfe",
+      "anleitung": "Brainy sieht, dass ein Kind geschubst wird. Er geht sofort zu einer Lehrkraft und sagt: Ich brauche Hilfe.",
+      "fragen": [
+        "Warum ist Hilfe holen wichtig?",
+        "Wen kann Brainy ansprechen?",
+        "Was ist daran mutig?"
+      ],
+      "hinweis": "Brainy könnte sagen: Komm bitte mit, ich brauche Unterstützung.",
+      "bild": "images/geschichtenkarten/GK-B2.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 13,
+      "titel": "Brainy tröstet jemanden",
+      "anleitung": "Ein Kind sitzt traurig auf der Bank. Brainy setzt sich daneben und sagt: Ich bin da.",
+      "fragen": [
+        "Warum hilft es, nicht allein zu sein?",
+        "Was könnte Brainy noch tun?",
+        "Was hilft dir, wenn du traurig bist?"
+      ],
+      "hinweis": "Brainy könnte sagen: Du bist nicht allein.",
+      "bild": "images/geschichtenkarten/GK-B3.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 14,
+      "titel": "Brainy stärkt einen Verteidiger",
+      "anleitung": "Ein anderes Kind sagt Hör auf!. Brainy nickt und stellt sich dazu.",
+      "fragen": [
+        "Warum ist es leichter, wenn man nicht allein ist?",
+        "Was macht Brainy hier richtig?",
+        "Wie fühlt sich das Opfer jetzt?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich bin bei dir.",
+      "bild": "images/geschichtenkarten/GK-B4.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 15,
+      "titel": "Brainy meldet etwas sicher",
+      "anleitung": "Brainy sieht eine gemeine Nachricht. Er zeigt sie einer erwachsenen Person, ohne sie weiterzuleiten.",
+      "fragen": [
+        "Warum ist Weiterleiten falsch?",
+        "Was ist sichere Meldung?",
+        "Wen kann Brainy informieren?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte das melden, weil es unfair ist.",
+      "bild": "images/geschichtenkarten/GK-B5.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 16,
+      "titel": "Brainy begleitet jemanden",
+      "anleitung": "Ein Kind hat Angst, in die Pause zu gehen. Brainy sagt: Ich gehe mit dir.",
+      "fragen": [
+        "Warum hilft Begleitung?",
+        "Was könnte Brainy beachten?",
+        "Was wäre ein guter nächster Schritt?"
+      ],
+      "hinweis": "Brainy könnte sagen: Wir gehen zusammen.",
+      "bild": "images/geschichtenkarten/GK-B6.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 17,
+      "titel": "Brainy zeigt Mut",
+      "anleitung": "Brainy sieht eine ungerechte Situation und sagt: Das fühlt sich nicht richtig an.",
+      "fragen": [
+        "Warum ist das mutig?",
+        "Was könnte Brainy danach tun?",
+        "Was hilft, wenn man unsicher ist?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte, dass wir fair bleiben.",
+      "bild": "images/geschichtenkarten/GK-B7.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 18,
+      "titel": "Brainy schützt jemanden",
+      "anleitung": "Ein Kind wird bedroht. Brainy stellt sich daneben und sagt: Ich bleibe bei dir.",
+      "fragen": [
+        "Warum hilft Nähe?",
+        "Was darf Brainy NICHT tun?",
+        "Wer kann zusätzlich helfen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich bleibe hier, bis Hilfe kommt.",
+      "bild": "images/geschichtenkarten/GK-B8.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 19,
+      "titel": "Brainy erklärt, warum etwas weh tut",
+      "anleitung": "Brainy sagt zu einem Kind: Wenn du so redest, tut mir das weh.",
+      "fragen": [
+        "Warum ist das wichtig?",
+        "Wie fühlt sich das Opfer?",
+        "Was könnte danach passieren?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich möchte freundlich behandelt werden.",
+      "bild": "images/geschichtenkarten/GK-B9.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 20,
+      "titel": "Brainy zeigt Grenzen",
+      "anleitung": "Brainy sagt klar: Ich möchte nicht, dass du mich so behandelst.",
+      "fragen": [
+        "Warum sind Grenzen wichtig?",
+        "Wie fühlt sich Brainy danach?",
+        "Was wäre ein guter nächster Schritt?"
+      ],
+      "hinweis": "Brainy könnte sagen: Stopp. Das möchte ich nicht.",
+      "bild": "images/geschichtenkarten/GK-B10.jpg",
+      "badge": "SET B · BRAINY HILFT ANDEREN"
+    },
+    {
+      "nr": 21,
+      "titel": "Brainy übt Ich-Botschaften",
+      "anleitung": "Brainy sagt: Ich fühle mich schlecht, wenn du mich auslachst.",
+      "fragen": [
+        "Warum helfen Ich-Botschaften?",
+        "Wie klingt das freundlich?",
+        "Was könnte Brainy noch sagen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich brauche, dass du aufhörst.",
+      "bild": "images/geschichtenkarten/GK-C1.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 22,
+      "titel": "Brainy übt Grenzen setzen",
+      "anleitung": "Brainy sagt: Nein, ich möchte das nicht.",
+      "fragen": [
+        "Warum ist Nein sagen schwer?",
+        "Was hilft dabei?",
+        "Wie kann Brainy ruhig bleiben?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich entscheide das für mich.",
+      "bild": "images/geschichtenkarten/GK-C2.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 23,
+      "titel": "Brainy übt Weggehen",
+      "anleitung": "Brainy merkt, dass eine Situation kippt. Er dreht sich um und geht.",
+      "fragen": [
+        "Warum ist Weggehen klug?",
+        "Was schützt Brainy dadurch?",
+        "Wohin könnte er gehen?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich gehe jetzt weg.",
+      "bild": "images/geschichtenkarten/GK-C3.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 24,
+      "titel": "Brainy übt Hilfe holen",
+      "anleitung": "Brainy sagt: Ich brauche Unterstützung.",
+      "fragen": [
+        "Wen kann Brainy ansprechen?",
+        "Warum ist das kein Petzen?",
+        "Was passiert danach?"
+      ],
+      "hinweis": "Brainy könnte sagen: Kannst du mir helfen?",
+      "bild": "images/geschichtenkarten/GK-C4.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 25,
+      "titel": "Brainy übt digitale Sicherheit",
+      "anleitung": "Brainy bekommt eine gemeine Nachricht und macht sofort einen Screenshot.",
+      "fragen": [
+        "Warum ist das wichtig?",
+        "Was darf Brainy NICHT tun?",
+        "Wen informiert Brainy?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich sichere das und hole Hilfe.",
+      "bild": "images/geschichtenkarten/GK-C5.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 26,
+      "titel": "Brainy übt Selbstschutz",
+      "anleitung": "Brainy merkt, dass er Angst bekommt. Er geht zu einem sicheren Ort.",
+      "fragen": [
+        "Was ist ein sicherer Ort?",
+        "Was hilft Brainy, ruhig zu werden?",
+        "Wen könnte er informieren?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich brauche kurz Sicherheit.",
+      "bild": "images/geschichtenkarten/GK-C6.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 27,
+      "titel": "Brainy übt Mut",
+      "anleitung": "Brainy hebt die Hand und sagt: Ich möchte etwas sagen.",
+      "fragen": [
+        "Warum ist das mutig?",
+        "Was könnte Brainy sagen?",
+        "Was hilft bei Unsicherheit?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich probiere es.",
+      "bild": "images/geschichtenkarten/GK-C7.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 28,
+      "titel": "Brainy übt Teamarbeit",
+      "anleitung": "Brainy sagt zu einem anderen Kind: Lass uns zusammenhalten.",
+      "fragen": [
+        "Warum hilft Teamarbeit?",
+        "Was stärkt eine Gruppe?",
+        "Was könnte Brainy tun?"
+      ],
+      "hinweis": "Brainy könnte sagen: Wir schaffen das gemeinsam.",
+      "bild": "images/geschichtenkarten/GK-C8.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 29,
+      "titel": "Brainy übt Ruhe",
+      "anleitung": "Brainy atmet tief ein, bevor er reagiert.",
+      "fragen": [
+        "Warum hilft Atmen?",
+        "Was passiert im Körper?",
+        "Was könnte Brainy danach tun?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich brauche kurz Ruhe.",
+      "bild": "images/geschichtenkarten/GK-C9.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    },
+    {
+      "nr": 30,
+      "titel": "Brainy übt Nein sagen",
+      "anleitung": "Brainy sagt klar: Nein, ich mache da nicht mit.",
+      "fragen": [
+        "Warum ist das wichtig?",
+        "Was schützt Brainy dadurch?",
+        "Was könnte danach passieren?"
+      ],
+      "hinweis": "Brainy könnte sagen: Ich entscheide das selbst.",
+      "bild": "images/geschichtenkarten/GK-C10.jpg",
+      "badge": "SET C · BRAINY LERNT STRATEGIEN"
+    }
+  ]
+}

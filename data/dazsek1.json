@@ -1,0 +1,285 @@
+{
+  "id": "dazsek1",
+  "titel": "DaZ-Sek-I-Deck",
+  "untertitel": "DaZ Sekundarstufe I",
+  "farbe": "#6E1438",
+  "farbe_hell": "#F0E7EB",
+  "farbe_rand": "#D0B3BF",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Der erste Tag in der neuen Schule",
+      "anleitung": "Für den Einstieg nach der Ankunft in einer neuen Sek-I-Schule.",
+      "fragen": [
+        "Was war heute anders, als du dachtest?",
+        "Was hat dir geholfen, dich ein bisschen sicherer zu fühlen?"
+      ],
+      "hinweis": "Ein Überblick über das Schulsystem (Fächer, Noten, Ablauf) entlastet mehr, als man denkt – Sek I ist oft ein komplett anderes System als im Herkunftsland.",
+      "bild": "images/dazsek1/DAZSEK1-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Das neue Schulsystem verstehen",
+      "anleitung": "Für Verwirrung über ein unbekanntes Schulsystem (Fächerwahl, Notensystem, Struktur).",
+      "fragen": [
+        "Was am Schulsystem hier verstehst du noch nicht ganz?",
+        "Wen könntest du das fragen?"
+      ],
+      "hinweis": "Nicht alles auf einmal erklären – konkrete offene Fragen sammeln und nacheinander klären.",
+      "bild": "images/dazsek1/DAZSEK1-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Eine neue Stadt, ein neues Leben",
+      "anleitung": "Für die ersten Eindrücke von einem neuen Ort im Jugendalter.",
+      "fragen": [
+        "Was ist hier anders, als du es kanntest?",
+        "Was hast du hier schon für dich entdeckt?"
+      ],
+      "hinweis": "Jugendliche orientieren sich oft eigenständiger als jüngere Kinder – eigene Entdeckungen ernst nehmen.",
+      "bild": "images/dazsek1/DAZSEK1-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Meine neue Klasse",
+      "anleitung": "Für die ersten Kontakte in einer komplexeren, distanzierteren Klassengemeinschaft.",
+      "fragen": [
+        "Wie ist die Stimmung in deiner neuen Klasse?",
+        "Wo fühlst du dich schon ein bisschen zugehörig?"
+      ],
+      "hinweis": "Sek-I-Klassen sind oft weniger offen als Grundschulklassen – realistische Erwartungen helfen.",
+      "bild": "images/dazsek1/DAZSEK1-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Wenn ich mehr weiß, als ich zeigen kann",
+      "anleitung": "Für die Erfahrung, durch die Sprachbarriere unterschätzt zu werden.",
+      "fragen": [
+        "In welchem Fach kannst du mehr, als du auf Deutsch zeigen kannst?",
+        "Was würde dir helfen, das zu zeigen?"
+      ],
+      "hinweis": "Sprachbarriere ist kein Leistungsproblem – ggf. Nachteilsausgleich oder andere Ausdrucksformen prüfen.",
+      "bild": "images/dazsek1/DAZSEK1-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Für meine Eltern übersetzen",
+      "anleitung": "Für Jugendliche, die offizielle Dokumente oder Behördentermine für ihre Eltern übersetzen.",
+      "fragen": [
+        "Musst du manchmal bei wichtigen Terminen übersetzen?",
+        "Wie fühlt sich diese Verantwortung für dich an?"
+      ],
+      "hinweis": "Diese Verantwortung ist größer als bei jüngeren Kindern (Behördensprache!) – explizit würdigen und bei Bedarf entlasten.",
+      "bild": "images/dazsek1/DAZSEK1-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Wenn jemand über meinen Akzent urteilt",
+      "anleitung": "Bei erlebtem Spott oder Vorurteil wegen Akzent, in diesem Alter oft subtiler und verletzender.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was würdest du der Person gern sagen?"
+      ],
+      "hinweis": "In diesem Alter wird Sprachspott oft mit Ausgrenzung verknüpft – ernst nehmen, nicht als „Kinderkram“ abtun.",
+      "bild": "images/dazsek1/DAZSEK1-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Was ich auf Deutsch schon richtig gut kann",
+      "anleitung": "Positiver Fortschritts-Impuls, altersgerecht konkret.",
+      "fragen": [
+        "Worin bist du auf Deutsch inzwischen richtig gut?",
+        "Wo hast du das zuletzt gemerkt?"
+      ],
+      "hinweis": "Konkrete Fortschritte benennen wirkt bei Jugendlichen glaubwürdiger als allgemeines Lob.",
+      "bild": "images/dazsek1/DAZSEK1-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Wer ich hier bin und wer ich zu Hause bin",
+      "anleitung": "Für beginnende Identitätsfragen im Jugendalter, verstärkt durch Migration.",
+      "fragen": [
+        "Fühlst du dich hier anders als zu Hause?",
+        "Welche Seite von dir zeigst du wo?"
+      ],
+      "hinweis": "Unterschiedliche Rollen in unterschiedlichen Kontexten sind normal – kein Widerspruch.",
+      "bild": "images/dazsek1/DAZSEK1-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Erwartungen von zu Hause und von hier",
+      "anleitung": "Für den Druck zwischen familiären Erwartungen und Erwartungen der neuen Umgebung.",
+      "fragen": [
+        "Was erwarten deine Eltern von dir?",
+        "Was erwartest du von dir selbst?"
+      ],
+      "hinweis": "Beide Erwartungen dürfen benannt werden, auch wenn sie sich widersprechen – kein Entweder-oder erzwingen.",
+      "bild": "images/dazsek1/DAZSEK1-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Wenn ich wegen meiner Herkunft anders behandelt werde",
+      "anleitung": "Für Diskriminierungserfahrungen, direkter benannt als im GS-Deck.",
+      "fragen": [
+        "Was ist passiert?",
+        "Wer könnte dich dabei unterstützen?"
+      ],
+      "hinweis": "Ernst nehmen, nicht relativieren. Bei wiederholten Vorfällen die Schule/Fachkraft aktiv einbeziehen.",
+      "bild": "images/dazsek1/DAZSEK1-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Beides sein dürfen",
+      "anleitung": "Positiver Reframing-Impuls zur doppelten kulturellen Zugehörigkeit.",
+      "fragen": [
+        "Was magst du an beiden Kulturen, die zu dir gehören?",
+        "Musst du dich für eine entscheiden?"
+      ],
+      "hinweis": "Zwei Zugehörigkeiten gleichzeitig sind eine Stärke, kein Entweder-oder.",
+      "bild": "images/dazsek1/DAZSEK1-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Meine Freundesgruppe hier",
+      "anleitung": "Für die komplexere soziale Struktur im Jugendalter (Gruppen, Cliquen).",
+      "fragen": [
+        "Wo findest du dich in den Gruppen hier wieder?",
+        "Was würde dir helfen, mehr dazuzugehören?"
+      ],
+      "hinweis": "Jugendliche Gruppenbildung ist komplex – Geduld einplanen, kein schneller Anschluss erwartbar.",
+      "bild": "images/dazsek1/DAZSEK1-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Wenn Sprüche kommen",
+      "anleitung": "Für abwertende Kommentare oder Mikroaggressionen im Schulalltag.",
+      "fragen": [
+        "Welche Sprüche hörst du manchmal?",
+        "Was hilft dir, damit umzugehen?"
+      ],
+      "hinweis": "Konkrete Handlungsoptionen (Kontern, Ignorieren, Melden) gemeinsam durchgehen, statt nur „das ist nicht schlimm“ zu sagen.",
+      "bild": "images/dazsek1/DAZSEK1-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Jemandem Neuem helfen",
+      "anleitung": "Für ältere Schüler:innen, die anderen neu Ankommenden Orientierung geben können.",
+      "fragen": [
+        "Was könntest du einem neuen Mitschüler/einer neuen Mitschülerin zeigen?",
+        "Wie hättest du dir das am Anfang gewünscht?"
+      ],
+      "hinweis": "Die eigene Erfahrung als Ressource nutzen – stärkt Selbstwirksamkeit besonders in diesem Alter.",
+      "bild": "images/dazsek1/DAZSEK1-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Eine Freundschaft, die die Sprache überbrückt hat",
+      "anleitung": "Positiver Rückblick auf eine gelungene Freundschaft trotz anfänglicher Sprachbarriere.",
+      "fragen": [
+        "Wer hat dir geholfen, hier anzukommen?",
+        "Was hat diese Freundschaft möglich gemacht?"
+      ],
+      "hinweis": "Konkrete positive Erfahrungen stärken das Vertrauen in weitere Kontakte.",
+      "bild": "images/dazsek1/DAZSEK1-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Was ich vermisse",
+      "anleitung": "Vorsichtig, ohne zu drängen – Raum für Heimweh geben. Nicht nach Fluchtdetails fragen.",
+      "fragen": [
+        "Was vermisst du manchmal?",
+        "Was hilft dir, wenn du das Vermissen spürst?"
+      ],
+      "hinweis": "Es geht um das Gefühl, nicht um die Details – bei belastenden Erinnerungen nicht nachbohren, ggf. Fachkraft einbeziehen.",
+      "bild": "images/dazsek1/DAZSEK1-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "In Kontakt bleiben",
+      "anleitung": "Für vermisste Familie/Freunde an einem anderen Ort, altersgerecht eigenständiger als bei DaZ-GS.",
+      "fragen": [
+        "Wie hältst du Kontakt zu Menschen, die dir wichtig sind?",
+        "Reicht dir das, oder fehlt noch was?"
+      ],
+      "hinweis": "Jugendliche pflegen oft eigenständig digitalen Kontakt – das als reale Ressource anerkennen, nicht kleinreden.",
+      "bild": "images/dazsek1/DAZSEK1-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Zwei Orte, die zu mir gehören",
+      "anleitung": "Reflektierter Zugang zu Herkunft und neuem Zuhause gleichzeitig.",
+      "fragen": [
+        "Was verbindet dich noch mit deinem Herkunftsort?",
+        "Was verbindet dich schon mit hier?"
+      ],
+      "hinweis": "Beide Verbindungen dürfen nebeneinander bestehen.",
+      "bild": "images/dazsek1/DAZSEK1-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Wenn das Vermissen groß wird",
+      "anleitung": "Für Momente akuten Heimwehs, altersgerecht ernst genommen.",
+      "fragen": [
+        "Was tust du, wenn das Vermissen besonders groß wird?",
+        "Wer oder was hilft dir dann?"
+      ],
+      "hinweis": "Trösten, nicht bagatellisieren – auch Jugendliche brauchen sichtbaren Raum für dieses Gefühl.",
+      "bild": "images/dazsek1/DAZSEK1-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Was ich mir für die Zukunft vorstelle",
+      "anleitung": "Für erste Zukunfts-/Berufsvorstellungen, ggf. durch Sprachbarriere erschwert.",
+      "fragen": [
+        "Was möchtest du später mal machen?",
+        "Was brauchst du dafür noch?"
+      ],
+      "hinweis": "Sprachbarriere ist ein Hindernis, kein Grund, Ziele kleiner zu stecken.",
+      "bild": "images/dazsek1/DAZSEK1-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Eine Ausbildung oder ein Weg, der zu mir passt",
+      "anleitung": "Für die konkrete Ausbildungs-/Berufswahl-Phase, migrationsspezifische Hürden mitdenken.",
+      "fragen": [
+        "Welcher Weg nach der Schule interessiert dich?",
+        "Wer könnte dir bei der Orientierung helfen?"
+      ],
+      "hinweis": "Anerkennung von Vorerfahrungen/Qualifikationen aus dem Herkunftsland aktiv mitdenken, nicht bei null anfangen lassen.",
+      "bild": "images/dazsek1/DAZSEK1-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Was ich schon alles geschafft habe",
+      "anleitung": "Ressourcenorientierter Rückblick auf den bisherigen Weg, altersgerecht mit größerer Perspektive.",
+      "fragen": [
+        "Was hast du seit deiner Ankunft schon alles geschafft?",
+        "Was hat dir dabei am meisten geholfen?"
+      ],
+      "hinweis": "Den ganzen Weg würdigen, nicht nur die Schulleistung.",
+      "bild": "images/dazsek1/DAZSEK1-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Worauf ich stolz bin",
+      "anleitung": "Guter Abschluss-Impuls.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du an deinen Weg hier denkst?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Guter Abschluss – bewusst als Rückblick lesen, nicht als Bewertung.",
+      "bild": "images/dazsek1/DAZSEK1-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Von der DaZ-Klasse in die Regelklasse",
+      "anleitung": "Für den zweiten großen Übergang nach der Ankunft: aus dem DaZ-Schutzraum ins reguläre Klassentempo.",
+      "fragen": [
+        "Was macht dir am Wechsel in die Regelklasse am meisten Sorgen?",
+        "Was von der DaZ-Zeit nimmst du mit?"
+      ],
+      "hinweis": "Tempo und Erwartungen steigen spürbar – realistische Übergangszeit einplanen, nicht abrupt „schwimmen lassen“.",
+      "bild": "images/dazsek1/DAZSEK1-25.jpg"
+    }
+  ]
+}

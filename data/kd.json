@@ -1,0 +1,395 @@
+{
+  "id": "kd",
+  "titel": "KD-Deck",
+  "untertitel": "Impulskarten Grundschule",
+  "farbe": "#2E9E5A",
+  "farbe_hell": "#E8F7EE",
+  "farbe_rand": "#C3E1CD",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie geht es mir heute?",
+      "anleitung": "Guter Einstieg in ein Gespräch, auch als fester Ritual-Start nutzbar.",
+      "fragen": [
+        "Welche Farbe passt gerade zu dir?",
+        "Magst du erzählen, warum?"
+      ],
+      "hinweis": "Am besten als festen, wiederkehrenden Einstieg nutzen (z. B. jede Woche), nicht nur wenn etwas Schwieriges ansteht – sonst verknüpft das Kind die Karte mit „jetzt kommt Ärger“.",
+      "bild": "images/kd/KD-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Mein Bauchgefühl",
+      "anleitung": "Für sehr junge Kinder, die „Gefühl“ noch schwer benennen können. Körperbezug nutzen.",
+      "fragen": [
+        "Was spürst du gerade in deinem Bauch?",
+        "Ist es ein gutes oder ein komisches Gefühl?"
+      ],
+      "hinweis": "Wenn ein Kind auch körperlich nichts benennen kann: nicht nachbohren, stattdessen zu KD-05 wechseln.",
+      "bild": "images/kd/KD-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Viele Gefühle auf einmal",
+      "anleitung": "Wenn ein Kind widersprüchliche Gefühle gleichzeitig zeigt (z. B. aufgeregt und ängstlich).",
+      "fragen": [
+        "Kannst du zwei Gefühle gleichzeitig haben?",
+        "Welche zwei fühlst du gerade?"
+      ],
+      "hinweis": "Beide Gefühle stehen lassen, das Kind muss sich nicht für eins entscheiden.",
+      "bild": "images/kd/KD-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Gefühle haben keine Farbe, die falsch ist",
+      "anleitung": "Entlastend einsetzen, wenn ein Kind sich für ein Gefühl schämt.",
+      "fragen": [
+        "Gibt es ein Gefühl, das du dir nicht erlaubst?",
+        "Was würde Brainy dazu sagen?"
+      ],
+      "hinweis": "Gut geeignet, wenn Scham wegen eines Gefühls sichtbar wird (z. B. Wut auf ein Geschwisterkind). Gefühl und Verhalten bleiben getrennt: das Gefühl ist immer okay, nicht jedes Verhalten.",
+      "bild": "images/kd/KD-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Wenn ich nicht weiß, was ich fühle",
+      "anleitung": "Entlastung: Nicht-Wissen ist in Ordnung, kein Druck zur sofortigen Antwort.",
+      "fragen": [
+        "Ist 'ich weiß es nicht' gerade okay für dich?",
+        "Möchtest du später nochmal schauen?"
+      ],
+      "hinweis": "„Ich weiß es nicht“ ist ein vollständiges, legitimes Ergebnis – kein Gespräch erzwingen.",
+      "bild": "images/kd/KD-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Wenn ich wütend bin",
+      "anleitung": "Einsetzen, wenn Kind sichtbar aufgebracht, aber ansprechbar ist. Ruhige Stimme, keine Bewertung.",
+      "fragen": [
+        "Wo im Körper spürst du die Wut?",
+        "Was hilft dir jetzt: reden, Pause oder bewegen?"
+      ],
+      "hinweis": "Nur einsetzen, wenn das Kind schon ansprechbar ist. Mitten in der akuten Wutreaktion hilft die Karte nicht – dort das kLAR-Modell nutzen (siehe Anleitung).",
+      "bild": "images/kd/KD-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Wenn ich Angst habe",
+      "anleitung": "Bei sichtbarer Ängstlichkeit vor einer konkreten Situation einsetzen.",
+      "fragen": [
+        "Wovor hast du gerade Angst?",
+        "Was würde dir jetzt helfen, dich sicherer zu fühlen?"
+      ],
+      "hinweis": "Bei akuter Angst direkt vor einer konkreten Situation eher kurzfristig beruhigen als mit der Karte vertiefen.",
+      "bild": "images/kd/KD-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Wenn ich traurig bin",
+      "anleitung": "Raum für Traurigkeit geben, nicht schnell trösten wollen.",
+      "fragen": [
+        "Möchtest du erzählen, was dich traurig macht?",
+        "Was tut dir gut, wenn du traurig bist?"
+      ],
+      "hinweis": "Raum geben, nicht schnell trösten oder ablenken wollen – Traurigkeit darf da sein.",
+      "bild": "images/kd/KD-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Was mich beruhigt",
+      "anleitung": "Gemeinsam eine persönliche Liste an Beruhigungsstrategien erarbeiten.",
+      "fragen": [
+        "Was hilft dir, wenn du dich aufgeregt fühlst?",
+        "Was davon können wir hier gerade machen?"
+      ],
+      "hinweis": "Gut geeignet, um gemeinsam eine persönliche „Werkzeugkiste“ aufzubauen, die auch außerhalb des Karten-Gesprächs nutzbar ist.",
+      "bild": "images/kd/KD-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Groß fühlen, obwohl ich klein bin",
+      "anleitung": "Bei Ohnmachtsgefühlen in Konfliktsituationen (z. B. gegenüber älteren Kindern) einsetzen.",
+      "fragen": [
+        "Wann fühlst du dich stark?",
+        "Was könnte dir helfen, dich größer zu fühlen?"
+      ],
+      "hinweis": "Besonders hilfreich nach Erfahrungen mit älteren oder stärkeren Kindern. Wie klein sich das Kind gefühlt hat, nicht kleinreden.",
+      "bild": "images/kd/KD-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Streit mit einem Freund",
+      "anleitung": "Nach einem frischen Konflikt einsetzen, wenn das Kind ansprechbar ist.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was wünschst du dir jetzt?"
+      ],
+      "hinweis": "Erst einsetzen, wenn sich die akute Situation schon beruhigt hat.",
+      "bild": "images/kd/KD-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Sorry sagen",
+      "anleitung": "Entschuldigung als aktive Fähigkeit üben, nicht erzwingen.",
+      "fragen": [
+        "Was möchtest du sagen?",
+        "Wie könntest du es sagen?"
+      ],
+      "hinweis": "Nicht zur Entschuldigung drängen – die Karte öffnet den Raum, erzwingt aber nichts.",
+      "bild": "images/kd/KD-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Wenn ich nicht schuld bin",
+      "anleitung": "Wichtig, um Kinder zu bestärken, sich nicht automatisch schuldig zu fühlen.",
+      "fragen": [
+        "Was war deine Rolle im Streit — und was war die des anderen?",
+        "Musst du dich entschuldigen, wenn du nichts falsch gemacht hast?"
+      ],
+      "hinweis": "Wichtig für Kinder, die schnell die volle Verantwortung übernehmen wollen. Bewusst bestärkend einsetzen, nicht relativierend.",
+      "bild": "images/kd/KD-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Wieder gut werden",
+      "anleitung": "Fokus auf konkrete, kindgerechte Wiedergutmachung (nicht nur Worte).",
+      "fragen": [
+        "Was könntest du tun, damit es wieder gut wird?",
+        "Was würde dir helfen, wenn du der andere wärst?"
+      ],
+      "hinweis": "Konkrete, machbare Handlung ist wichtiger als bloße Worte.",
+      "bild": "images/kd/KD-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Wenn zwei Freunde streiten",
+      "anleitung": "Für Situationen, in denen das begleitete Kind Zeuge eines fremden Streits ist.",
+      "fragen": [
+        "Was machst du, wenn zwei andere streiten?",
+        "Musst du dich einmischen?"
+      ],
+      "hinweis": "Kind nicht zur Vermittlung drängen. Es geht um den eigenen Umgang mit der Situation, nicht um Konfliktlösung für andere.",
+      "bild": "images/kd/KD-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Der erste Tag",
+      "anleitung": "Vor neuen Situationen (neue Klasse, neue Gruppe) einsetzen.",
+      "fragen": [
+        "Was macht dir am meisten Sorge?",
+        "Was würde dir helfen, dich sicherer zu fühlen?"
+      ],
+      "hinweis": "Vorbereitend vor der neuen Situation einsetzen, nicht erst wenn die Angst schon akut ist.",
+      "bild": "images/kd/KD-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Etwas Neues ausprobieren",
+      "anleitung": "Bei Zurückhaltung vor neuen Aktivitäten.",
+      "fragen": [
+        "Was würdest du gern ausprobieren?",
+        "Was ist der kleinste erste Schritt?"
+      ],
+      "hinweis": "Kleine, machbare erste Schritte betonen statt große Veränderung auf einmal.",
+      "bild": "images/kd/KD-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Wenn ich mich nicht traue",
+      "anleitung": "Entlastend einsetzen, Mut nicht einfordern, sondern begleiten.",
+      "fragen": [
+        "Was macht es gerade schwer?",
+        "Was würde es ein bisschen leichter machen?"
+      ],
+      "hinweis": "Mut nicht einfordern – Tempo des Kindes akzeptieren.",
+      "bild": "images/kd/KD-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Mutig sein, auch mit Angst",
+      "anleitung": "Vermitteln: Mut heißt nicht keine Angst haben, sondern trotzdem handeln.",
+      "fragen": [
+        "Wann warst du mutig, obwohl du Angst hattest?",
+        "Wie hat sich das angefühlt?"
+      ],
+      "hinweis": "Vermitteln: Angst und Mut dürfen gleichzeitig da sein.",
+      "bild": "images/kd/KD-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Hilfe holen ist okay",
+      "anleitung": "Hilfeholen als Stärke framen, nicht als Versagen.",
+      "fragen": [
+        "Wer könnte dir gerade helfen?",
+        "Was würdest du sagen, wenn du um Hilfe bittest?"
+      ],
+      "hinweis": "Immer als Stärke rahmen, nie als letzten Ausweg.",
+      "bild": "images/kd/KD-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Was ist ein guter Freund?",
+      "anleitung": "Gemeinsam Eigenschaften von Freundschaft sammeln, konkret statt abstrakt.",
+      "fragen": [
+        "Was macht jemanden zu einem guten Freund?",
+        "Bist du das auch für andere?"
+      ],
+      "hinweis": "Konkrete Beispiele aus dem Kinderalltag sammeln, nicht abstrakt bleiben.",
+      "bild": "images/kd/KD-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Wenn ich nicht mitspielen darf",
+      "anleitung": "Bei Ausschluss-Erfahrungen einsetzen, ohne die anderen Kinder vorschnell zu verurteilen.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was würdest du dir wünschen, was stattdessen passiert wäre?"
+      ],
+      "hinweis": "Andere Kinder nicht vorschnell verurteilen. Das Erleben des begleiteten Kindes ernst nehmen.",
+      "bild": "images/kd/KD-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Alleine in der Pause",
+      "anleitung": "Bei wiederkehrender Einsamkeit in der Pause einsetzen.",
+      "fragen": [
+        "Wie fühlt sich das Alleinsein für dich an?",
+        "Was könnte dir helfen, jemanden zu finden?"
+      ],
+      "hinweis": "Bei wiederkehrendem Muster zusätzlich Rücksprache mit der Schule halten – die Karte allein löst kein strukturelles Problem.",
+      "bild": "images/kd/KD-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Neue Freunde finden",
+      "anleitung": "Konkrete, machbare erste Schritte erarbeiten, nicht nur ermutigen.",
+      "fragen": [
+        "Wie könntest du auf jemanden zugehen?",
+        "Was könntest du fragen oder sagen?"
+      ],
+      "hinweis": "Konkrete, kleine erste Schritte erarbeiten statt allgemein zu ermutigen.",
+      "bild": "images/kd/KD-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Wenn jemand gemein zu mir ist",
+      "anleitung": "Wichtig: nicht bagatellisieren, ernst nehmen, klären ob es Einzelfall oder wiederkehrend ist.",
+      "fragen": [
+        "Was genau ist passiert?",
+        "Ist das schon öfter passiert?"
+      ],
+      "hinweis": "Ernst nehmen, klären ob Einzelfall oder wiederkehrend. Bei Hinweis auf Mobbing: Schule/Fachkraft einbeziehen, die Karte ersetzt das nicht.",
+      "bild": "images/kd/KD-25.jpg"
+    },
+    {
+      "nr": 26,
+      "titel": "Mein Bauch spürt mit",
+      "anleitung": "Körperwahrnehmung als Frühwarnsystem einführen.",
+      "fragen": [
+        "Merkst du manchmal im Bauch, wenn etwas nicht stimmt?",
+        "Wie fühlt sich das an?"
+      ],
+      "hinweis": "Körperwahrnehmung altersgerecht als Frühwarnsystem einführen, keine Diagnostik.",
+      "bild": "images/kd/KD-26.jpg"
+    },
+    {
+      "nr": 27,
+      "titel": "Wenn mein Körper „Stopp“ sagt",
+      "anleitung": "Körperliche Grenzsignale (Müdigkeit, Überforderung) ernst nehmen lernen.",
+      "fragen": [
+        "Woran merkst du, dass es genug ist?",
+        "Was machst du, wenn dein Körper Stopp sagt?"
+      ],
+      "hinweis": "Grenzsignale ernst nehmen, nicht als Trotz oder Unwilligkeit werten.",
+      "bild": "images/kd/KD-27.jpg"
+    },
+    {
+      "nr": 28,
+      "titel": "Was mir gut tut",
+      "anleitung": "Positive Ressourcen sammeln, für ruhige Momente außerhalb akuter Belastung.",
+      "fragen": [
+        "Was tut deinem Körper richtig gut?",
+        "Wie oft machst du das?"
+      ],
+      "hinweis": "Für ruhige Momente gedacht, nicht in akuter Belastung.",
+      "bild": "images/kd/KD-28.jpg"
+    },
+    {
+      "nr": 29,
+      "titel": "Mein Körper gehört mir",
+      "anleitung": "Grundlegende Selbstbestimmung über den eigenen Körper vermitteln, altersgerecht.",
+      "fragen": [
+        "Wer darf entscheiden, was mit deinem Körper passiert?",
+        "Was, wenn dir etwas nicht gefällt?"
+      ],
+      "hinweis": "Sensibles Thema, altersgerecht ohne Verunsicherung behandeln. Bei Hinweisen auf eine Grenzverletzung sofort die trägerinternen Kinderschutz-Vorgaben greifen lassen – die Karte ersetzt kein Schutzverfahren.",
+      "bild": "images/kd/KD-29.jpg"
+    },
+    {
+      "nr": 30,
+      "titel": "Zur Ruhe kommen",
+      "anleitung": "Guter Abschluss-Impuls fürs Deck — eine Ruhe-/Entspannungsübung anbieten.",
+      "fragen": [
+        "Was hilft dir, ruhig zu werden?",
+        "Möchten wir das jetzt gemeinsam ausprobieren?"
+      ],
+      "hinweis": "Guter Abschluss-Impuls, auch als letzte Karte einer Einheit gut einsetzbar.",
+      "bild": "images/kd/KD-30.jpg"
+    },
+    {
+      "nr": 31,
+      "titel": "Wenn sich zu Hause etwas ändert",
+      "anleitung": "Sehr behutsam einsetzen, bei Trennung oder neuer Familiensituation. Kein Drängen, Tempo des Kindes respektieren.",
+      "fragen": [
+        "Was ist bei dir zu Hause gerade anders?",
+        "Was ist gleich geblieben, auch wenn sich viel verändert?"
+      ],
+      "hinweis": "Besonders vorsichtig, Tempo des Kindes überlassen. Bei akuter Belastung eher nicht vertiefen.",
+      "bild": "images/kd/KD-31.jpg"
+    },
+    {
+      "nr": 32,
+      "titel": "Zwischen zwei Zuhause",
+      "anleitung": "Für Kinder im Wechselmodell. Beide Zuhause wertfrei nebeneinander stehen lassen, keins besser oder schlechter dastehen lassen.",
+      "fragen": [
+        "Was magst du an jedem deiner beiden Zuhause?",
+        "Was nimmst du dir von einem zum anderen mit?"
+      ],
+      "hinweis": "Beide Zuhause wertfrei nebeneinander stehen lassen.",
+      "bild": "images/kd/KD-32.jpg"
+    },
+    {
+      "nr": 33,
+      "titel": "Neue Menschen in der Familie",
+      "anleitung": "Bei Patchwork/neuen Bezugspersonen der Eltern. Zeit als legitimen Faktor zulassen, Akzeptanz nicht erzwingen.",
+      "fragen": [
+        "Was ist an der neuen Situation für dich noch ungewohnt?",
+        "Was würde dir helfen, dich wohler zu fühlen?"
+      ],
+      "hinweis": "Zeit als legitimen Faktor anerkennen, Akzeptanz darf sich nicht erzwingen lassen.",
+      "bild": "images/kd/KD-33.jpg"
+    },
+    {
+      "nr": 34,
+      "titel": "Die große Schule kommt",
+      "anleitung": "Vor dem Übergang zur weiterführenden Schule. Vorfreude und Sorge dürfen gleichzeitig da sein.",
+      "fragen": [
+        "Worauf freust du dich an der neuen Schule?",
+        "Was macht dir dabei auch ein bisschen Sorge?"
+      ],
+      "hinweis": "Gut einige Wochen vor dem eigentlichen Wechsel einsetzbar, nicht erst am letzten Schultag.",
+      "bild": "images/kd/KD-34.jpg"
+    },
+    {
+      "nr": 35,
+      "titel": "Wenn im Internet etwas gruselig war",
+      "anleitung": "Nach belastenden Online-Erlebnissen (Bilder/Videos). Nicht bewerten, nur auffangen.",
+      "fragen": [
+        "Was hast du gesehen, das dich erschreckt hat?",
+        "Wer ist da, mit dem du darüber reden kannst?"
+      ],
+      "hinweis": "Zeitnah nach dem Erlebnis einsetzen, wenn möglich. Bei wiederholten belastenden Erlebnissen: Eltern informieren, Mediennutzung gemeinsam anschauen.",
+      "bild": "images/kd/KD-35.jpg"
+    }
+  ]
+}

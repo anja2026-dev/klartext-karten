@@ -1,0 +1,389 @@
+{
+  "id": "tr",
+  "titel": "TR-Deck",
+  "untertitel": "Trainer-Reflexionskarten",
+  "farbe": "#3E5C76",
+  "farbe_hell": "#E9EEF2",
+  "farbe_rand": "#B9C7D1",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Prozessbegleiter:in, nicht Vortragende:r",
+      "anleitung": "Die Teilnehmenden bringen eigene Praxiserfahrung mit – die Aufgabe ist, sie mit dem System zu verknüpfen, nicht sie zu ersetzen.",
+      "fragen": [
+        "Wo verfalle ich eher in den Vortrags-Modus als ins Prozessbegleiten?",
+        "Was verändert sich, wenn ich eine Frage zurück in die Gruppe gebe statt sie selbst zu beantworten?"
+      ],
+      "hinweis": "Du musst nicht jede Frage beantworten. Manchmal ist „Was denkt ihr dazu?“ die bessere Antwort.",
+      "bild": "images/tr/TR-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Nicht bewerten – auch nicht implizit",
+      "anleitung": "Weder Erziehungsstile noch Familien noch Kolleg:innen bewerten, auch nicht durch Tonfall oder Mimik.",
+      "fragen": [
+        "Wann ist mir zuletzt eine Bewertung „rausgerutscht“, ohne dass ich es geplant hatte?",
+        "Woran erkenne ich bei mir selbst, dass ich gerade werte statt beschreibe?"
+      ],
+      "hinweis": "Ein wertfreier Tonfall ist trainierbar wie jede andere Fertigkeit – nicht Charaktersache.",
+      "bild": "images/tr/TR-02.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie bewertungsfrei war meine letzte Schulung wirklich?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 3,
+      "titel": "Autorität über das System, nicht über „richtig“ und „falsch“",
+      "anleitung": "Bei Unsicherheit, ob eine Frage noch „System“ oder schon „Supervision“ ist: „Was würde das KLAR-Modell hier vorschlagen?“ holt die Gruppe zurück zur Systemebene.",
+      "fragen": [
+        "Wo verwische ich die Grenze zwischen System erklären und Praxis bewerten?",
+        "Welche Rückfrage hilft mir, wieder auf die Systemebene zu wechseln?"
+      ],
+      "hinweis": "Diese eine Rückfrage ist erlaubt, immer zur Hand zu haben – sie muss nicht spontan erfunden werden.",
+      "bild": "images/tr/TR-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Erfahrungsbezug: An Vorhandenes andocken",
+      "anleitung": "Erwachsene lernen am besten, wenn neues Wissen an vorhandene Erfahrung andockt – deshalb starten Einheiten mit einer Praxissituation, nicht mit Theorie.",
+      "fragen": [
+        "Starte ich meine Einheiten wirklich mit einer Situation – oder rutsche ich doch in die Theorie zuerst?",
+        "Welche Praxissituation aus meinem eigenen Alltag passt zum nächsten Modul?"
+      ],
+      "hinweis": "Zwei aktuelle eigene Fallbeispiele parat zu haben ersetzt jede Theorie-Folie.",
+      "bild": "images/tr/TR-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Relevanzbedürfnis: Nutzen vor Werkzeug",
+      "anleitung": "Erwachsene wollen wissen, warum sie etwas lernen, bevor sie es lernen – den Nutzen erklären, bevor das Werkzeug erklärt wird.",
+      "fragen": [
+        "Erkläre ich den Nutzen zuerst – oder springe ich zu schnell zum „Wie“?",
+        "Wie würde ich den Nutzen dieses Werkzeugs in einem Satz erklären?"
+      ],
+      "hinweis": "Ein Satz reicht. Wenn er nicht in einen Satz passt, ist er noch nicht klar genug.",
+      "bild": "images/tr/TR-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Selbststeuerung: Wahlmöglichkeiten geben",
+      "anleitung": "Erwachsene wollen als Mitgestaltende behandelt werden, nicht als Empfangende – Wahl anbieten, z. B. welches Fallbeispiel vertieft wird.",
+      "fragen": [
+        "Wo könnte ich der Gruppe echte Wahl anbieten, wo tue ich es noch nicht?",
+        "Was passiert mit der Energie im Raum, wenn ich eine Wahl anbiete statt vorzugeben?"
+      ],
+      "hinweis": "Schon eine kleine Wahl reicht, um aus Empfangenden Mitgestaltende zu machen.",
+      "bild": "images/tr/TR-06.jpg",
+      "systemfrage": "Welche eine Entscheidung überlasse ich beim nächsten Training bewusst der Gruppe?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 7,
+      "titel": "Der Lernzyklus nach Kolb",
+      "anleitung": "Erleben → Reflektieren → Verallgemeinern → Anwenden. Jede Einheit sollte diesen Zyklus mindestens einmal durchlaufen.",
+      "fragen": [
+        "Welche der vier Phasen überspringe ich am ehesten?",
+        "Wie sieht der Zyklus in meiner letzten Einheit konkret aus – wo hakt er?"
+      ],
+      "hinweis": "Fehlt eine Phase meist die Reflexion („Was ist aufgefallen?“) – das ist der Schritt, der am leichtesten unter Zeitdruck wegfällt.",
+      "bild": "images/tr/TR-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Forming: Struktur und Sicherheit geben",
+      "anleitung": "Die Gruppe ist zurückhaltend, abwartend – klare Struktur und Sicherheit sind jetzt die Aufgabe.",
+      "fragen": [
+        "Woran erkenne ich Forming im Raum?",
+        "Was gibt mir selbst in dieser Phase Sicherheit?"
+      ],
+      "hinweis": "Zurückhaltung am Anfang ist kein schlechtes Zeichen – sie gehört zur Phase.",
+      "bild": "images/tr/TR-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Storming: Kritik einordnen statt verteidigen",
+      "anleitung": "Erste Widersprüche, Kritik am System („bei uns geht das nicht“) – normal und produktiv, nicht persönlich nehmen.",
+      "fragen": [
+        "Wie reagiere ich innerlich auf Systemkritik – verteidige ich reflexhaft?",
+        "Welche Gegenfrage hilft mir, von genereller Ablehnung zu einem konkreten Detail zu kommen?"
+      ],
+      "hinweis": "Storming ist ein Zeichen, dass die Gruppe sich ernsthaft mit dem System auseinandersetzt – nicht, dass etwas schiefläuft.",
+      "bild": "images/tr/TR-09.jpg",
+      "systemfrage": "Was würde eine skeptische Teilnehmerin sagen, was sie an diesem Widerstand eigentlich schützen will?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 10,
+      "titel": "Norming: Gemeinsame Arbeitsweise entstehen lassen",
+      "anleitung": "Die Gruppe einigt sich auf gemeinsame Arbeitsweisen – hier entsteht echtes Systemverständnis.",
+      "fragen": [
+        "Woran merke ich, dass die Gruppe in Norming übergeht?",
+        "Wo kann ich jetzt bewusst Raum lassen, statt weiter zu strukturieren?"
+      ],
+      "hinweis": "Norming ist der Moment, in dem weniger Eingreifen oft mehr bringt.",
+      "bild": "images/tr/TR-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Performing: Zurücknehmen können",
+      "anleitung": "Die Gruppe arbeitet eigenständig mit dem Material – hier kann sich die Trainer:in stärker zurücknehmen.",
+      "fragen": [
+        "Fällt es mir leicht, mich zurückzunehmen, wenn die Gruppe eigenständig arbeitet?",
+        "Was hindert mich daran, loszulassen?"
+      ],
+      "hinweis": "Zurücknehmen ist eine aktive Entscheidung, kein Kontrollverlust.",
+      "bild": "images/tr/TR-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Format und Zielgruppe klären",
+      "anleitung": "Teilnehmerzahl und Vorerfahrung vorab klären (Erstschulung vs. Auffrischung), passendes Format wählen.",
+      "fragen": [
+        "Kenne ich die Vorerfahrung meiner Gruppe wirklich, bevor ich plane?",
+        "Passt das gewählte Format tatsächlich zur Gruppengröße und zum Vorwissen?"
+      ],
+      "hinweis": "Eine kurze Vorab-Nachfrage bei der Anmeldung spart am Schulungstag viel Zeit.",
+      "bild": "images/tr/TR-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Raum und Technik vorbereiten",
+      "anleitung": "Gruppentische statt Reihenbestuhlung, genug Platz für Rollenspiele, Zugänge und Logins vorab geprüft.",
+      "fragen": [
+        "Wie oft scheitert bei mir eine gute Übung an einem ungeeigneten Raum statt am Inhalt?",
+        "Was prüfe ich inzwischen routinemäßig, was ich früher vergessen habe?"
+      ],
+      "hinweis": "15 Minuten vorher Technik testen ist keine Formalität – es ist die günstigste Investition des ganzen Tages.",
+      "bild": "images/tr/TR-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Eigene Praxisbeispiele parat haben",
+      "anleitung": "Mindestens zwei aktuelle Fallbeispiele aus der eigenen Praxis, passend zur Zielgruppe, vorbereitet mitbringen.",
+      "fragen": [
+        "Wie aktuell sind meine Standard-Fallbeispiele wirklich noch?",
+        "Welches neue Beispiel könnte ich beim nächsten Mal ergänzen?"
+      ],
+      "hinweis": "Fallbeispiele altern schneller, als man denkt – regelmäßig auffrischen.",
+      "bild": "images/tr/TR-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Am Tag selbst: die letzten 15 Minuten",
+      "anleitung": "Technik testen, Namensschilder/Vorstellungsrunde bei größeren Gruppen, Pausenzeiten sichtbar ankündigen.",
+      "fragen": [
+        "Was von diesen letzten 15 Minuten überspringe ich am ehesten, wenn ich selbst gestresst bin?",
+        "Wie merkt die Gruppe, dass ich gut vorbereitet bin, bevor ich ein Wort gesagt habe?"
+      ],
+      "hinweis": "Sichtbare Pausenzeiten reduzieren Unruhe – ein kleiner Aufwand mit großer Wirkung.",
+      "bild": "images/tr/TR-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Rollenspiel mit Kartenwechsel",
+      "anleitung": "Zwei TN spielen eine M3-Situation nach. Nach 2 Minuten Stopp, Karte tauschen, gleiche Szene mit anderem Werkzeug fortsetzen – zeigt die Wirkung von Werkzeugwahl konkret.",
+      "fragen": [
+        "Bei welchem Thema würde diese Methode besonders viel zeigen?",
+        "Was mache ich, wenn sich niemand freiwillig meldet?"
+      ],
+      "hinweis": "Freiwillige finden sich leichter, wenn du selbst die erste Rolle kurz vorspielst.",
+      "bild": "images/tr/TR-16.jpg",
+      "systemfrage": "Wann setze ich diese Methode das nächste Mal konkret ein?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 17,
+      "titel": "Karten-Sortieraufgabe",
+      "anleitung": "Gedruckte Kartenausschnitte in Kleingruppen nach Barometer-Farbe sortieren lassen – macht das Farbmodell greifbar, bevor es digital genutzt wird.",
+      "fragen": [
+        "Für welche Gruppe wäre die haptische Version hilfreicher als die digitale?",
+        "Wie viel Zeit brauche ich realistisch für diese Übung?"
+      ],
+      "hinweis": "Ausgedruckte Kartenausschnitte griffbereit zu haben lohnt sich – nicht erst am Schulungstag improvisieren.",
+      "bild": "images/tr/TR-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Fishbowl-Diskussion",
+      "anleitung": "Innenkreis diskutiert eine Grauzone, Außenkreis hört zu und schreibt Fragen auf Karten – gut für Recht-/Grenzfragen-Themen.",
+      "fragen": [
+        "Welche Grauzone aus meiner eigenen Praxis würde eine gute Fishbowl-Frage abgeben?",
+        "Wie moderiere ich, ohne selbst zu viel Raum einzunehmen?"
+      ],
+      "hinweis": "Die Außenkreis-Fragen am Ende laut vorlesen zu lassen bindet auch die Zuhörenden aktiv ein.",
+      "bild": "images/tr/TR-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Stiller Galeriegang",
+      "anleitung": "Ausgedruckte Fallbeispiele an den Wänden, Teilnehmende gehen still herum und schreiben Post-its mit „Welches Modul passt?“ – aktiviert vor der Theorie-Einheit.",
+      "fragen": [
+        "Wann in meinem Ablauf würde stille Einzelarbeit der Gruppe mehr bringen als Plenumsdiskussion?",
+        "Wie gehe ich mit der ungewohnten Stille im Raum um?"
+      ],
+      "hinweis": "Stille ist bei dieser Methode gewollt – nicht vorschnell auflösen.",
+      "bild": "images/tr/TR-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "„Das funktioniert bei uns nicht“ – Systemkritik auffangen",
+      "anleitung": "Häufig in der Storming-Phase. Nicht verteidigen, sondern konkretisieren: „Welcher Teil kostet dir konkret Zeit?“",
+      "fragen": [
+        "Wie reagiere ich im ersten Moment auf pauschale Kritik?",
+        "Welche Rückfrage funktioniert bei mir zuverlässig, um zu konkretisieren?"
+      ],
+      "hinweis": "Die Gegenfrage muss nicht klug sein, nur konkret – „Was genau kostet dich Zeit?“ reicht meistens.",
+      "bild": "images/tr/TR-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Dominante Teilnehmende einbinden",
+      "anleitung": "Direkt, aber wertschätzend würdigen und gleichzeitig Raum für andere öffnen; strukturell vorbeugen mit Kleingruppenarbeit statt offenem Plenum.",
+      "fragen": [
+        "Kenne ich meine Gruppe vorab gut genug, um das strukturell vorzubeugen?",
+        "Wie formuliere ich Anerkennung, ohne die Person zu beschämen?"
+      ],
+      "hinweis": "„Danke, das ist ein wichtiger Punkt – ich möchte gern auch hören, wie es bei anderen aussieht“ funktioniert fast immer.",
+      "bild": "images/tr/TR-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Emotional belastende Fallbeispiele auffangen",
+      "anleitung": "Bei Trauma-/Missbrauchs-/Mobbing-Themen kann eigene Betroffenheit hochkommen. Du bist Trainer:in, nicht Therapeut:in.",
+      "fragen": [
+        "Wo ist für mich persönlich die Grenze zwischen Auffangen und Therapieren?",
+        "Wie merke ich rechtzeitig, dass ich selbst emotional mitgehe?"
+      ],
+      "hinweis": "„Das klingt schwer – möchtest du in der Pause kurz mit mir sprechen?“ reicht als Sofortreaktion völlig aus.",
+      "bild": "images/tr/TR-22.jpg",
+      "systemfrage": "Welchen einen Satz halte ich mir für diese Situation griffbereit?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 23,
+      "titel": "Technische Probleme: Offline-Alternative",
+      "anleitung": "Immer eine Offline-Alternative vorbereitet haben; nie länger als 3–4 Minuten live vor der Gruppe debuggen.",
+      "fragen": [
+        "Habe ich für die wichtigsten Module wirklich eine Offline-Version griffbereit?",
+        "Wie gehe ich mit dem eigenen Stress um, wenn Technik ausfällt?"
+      ],
+      "hinweis": "Die 3–4-Minuten-Regel schützt vor allem die Gruppe vor Leerlauf – nicht dich vor Frustration.",
+      "bild": "images/tr/TR-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Feedback während der Übung, nicht nur danach",
+      "anleitung": "Feedback ist einer der stärksten Hebel für Lernerfolg – vorausgesetzt, es beschreibt konkret die Lücke zwischen aktuellem Stand und Ziel.",
+      "fragen": [
+        "Gebe ich laufend kurzes Feedback, oder sammle ich es bis zum Schluss?",
+        "Wie konkret ist mein Feedback wirklich – beschreibt es die Lücke oder nur „gut/nicht gut“?"
+      ],
+      "hinweis": "Ein Satz während der Übung wirkt oft mehr als eine ausführliche Rückmeldung am Ende.",
+      "bild": "images/tr/TR-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Konkret fragen statt „Wie fandet ihr's?“",
+      "anleitung": "Statt allgemeiner Fragen konkret fragen: „Welches Werkzeug nimmst du morgen als Erstes mit in die Praxis?“",
+      "fragen": [
+        "Welche Frage stelle ich standardmäßig – ist sie konkret genug?",
+        "Was würde sich ändern, wenn ich nach dem ersten Schritt morgen statt nach der Zufriedenheit fragen würde?"
+      ],
+      "hinweis": "Eine konkrete Abschlussfrage liefert dir gleichzeitig ein besseres Bild vom Lernerfolg als jede Zufriedenheitsfrage.",
+      "bild": "images/tr/TR-25.jpg"
+    },
+    {
+      "nr": 26,
+      "titel": "Schriftlich und anonym ermöglichen",
+      "anleitung": "Mündliches Feedback in der Gruppe ist oft sozial erwünscht gefärbt – schriftliche, anonyme Feedbackbögen zusätzlich anbieten.",
+      "fragen": [
+        "Wie unterscheidet sich das mündliche vom schriftlichen Feedback, das ich bekomme?",
+        "Nutze ich die anonymen Rückmeldungen tatsächlich aus, oder sammeln sie sich nur an?"
+      ],
+      "hinweis": "Schon ein kurzer anonymer Zettel am Ende bringt oft ehrlichere Rückmeldungen als die Plenumsrunde.",
+      "bild": "images/tr/TR-26.jpg"
+    },
+    {
+      "nr": 27,
+      "titel": "Checkliste nach der Schulung",
+      "anleitung": "Feedbackbögen auswerten und dokumentieren, Zertifikate ausstellen, offene Fragen der Gruppe an die TK-Koordination weiterleiten.",
+      "fragen": [
+        "Wie zügig nach der Schulung erledige ich diese Punkte üblicherweise?",
+        "Was bleibt bei mir am ehesten liegen?"
+      ],
+      "hinweis": "Direkt am selben Tag noch 10 Minuten für die Nachbereitung einplanen, bevor der Alltag wieder übernimmt.",
+      "bild": "images/tr/TR-27.jpg"
+    },
+    {
+      "nr": 28,
+      "titel": "Muster über mehrere Durchführungen erkennen",
+      "anleitung": "Eine kurze private Notiz pro Durchführung – nach 3–4 Durchführungen zeichnen sich Muster ab, welche Kapitel überarbeitet werden sollten.",
+      "fragen": [
+        "Führe ich diese Notizen bereits, oder verlasse ich mich auf mein Gedächtnis?",
+        "Welches Muster ist mir in den letzten Schulungen schon aufgefallen?"
+      ],
+      "hinweis": "Drei Stichpunkte pro Durchführung reichen – das muss kein aufwendiges Protokoll sein.",
+      "bild": "images/tr/TR-28.jpg",
+      "systemfrage": "Auf einer Skala von 1–10 – wie systematisch werte ich meine eigenen Schulungen bisher aus?",
+      "systemfrage_label": "SKALIERUNGSFRAGE"
+    },
+    {
+      "nr": 29,
+      "titel": "Offene Fragen weiterleiten",
+      "anleitung": "Fragen der Gruppe, die über die Schulung hinausgehen, gehören an die TK-Koordination weitergeleitet, nicht spontan selbst beantwortet.",
+      "fragen": [
+        "Wo beantworte ich eine Frage lieber selbst, obwohl sie eigentlich weitergeleitet gehört?",
+        "Was hindert mich daran, „Das kläre ich und melde mich“ zu sagen?"
+      ],
+      "hinweis": "„Das kläre ich und melde mich“ ist eine vollständige, professionelle Antwort – auch ohne sofortige Lösung.",
+      "bild": "images/tr/TR-29.jpg"
+    },
+    {
+      "nr": 30,
+      "titel": "Energie vor dem Bildschirm halten",
+      "anleitung": "Für Online- oder Hybrid-Schulungen, in denen die übliche Raum-Energie fehlt.",
+      "fragen": [
+        "Wie merke ich online, dass die Gruppe müde oder abwesend wird – anders als im Raum?",
+        "Welche eine Methode aus meinem Methodenkoffer funktioniert auch am Bildschirm?"
+      ],
+      "hinweis": "Kurze, bewusste Sprechpausen wirken online noch stärker als im Raum – Stille ist kein totes Zeichen der Technik.",
+      "bild": "images/tr/TR-30.jpg",
+      "systemfrage": "Welche Online-Moderationstechnik nehme ich mir für die nächste Hybrid-Schulung konkret vor?",
+      "systemfrage_label": "HANDLUNGSFRAGE"
+    },
+    {
+      "nr": 31,
+      "titel": "Skepsis auf Trägerebene ernst nehmen",
+      "anleitung": "Für Situationen, in denen der Widerstand nicht von den Kursteilnehmenden kommt, sondern von der Leitungsebene des Trägers, der KLARTEXT gerade erst einführt.",
+      "fragen": [
+        "Wessen Skepsis begegnet mir hier eigentlich – die der Gruppe oder die der Organisation dahinter?",
+        "Was würde diese Leitungsebene brauchen, um Vertrauen in das System aufzubauen?"
+      ],
+      "hinweis": "Institutionelle Skepsis ist selten gegen dich persönlich gerichtet – meist geht es um Kontrollverlust über einen neuen Prozess.",
+      "bild": "images/tr/TR-31.jpg",
+      "systemfrage": "Was würde eine skeptische Trägerleitung sagen, was sie mit ihrer Zurückhaltung eigentlich schützen will?",
+      "systemfrage_label": "ZIRKULÄRE FRAGE"
+    },
+    {
+      "nr": 32,
+      "titel": "Nach dem Workshop wieder auftanken",
+      "anleitung": "Für die Zeit nach einem intensiven 1- oder 2-Tages-Workshop, wenn belastende Fallbeispiele nachwirken. Erweitert TR-22 um die Phase danach.",
+      "fragen": [
+        "Was von diesem Workshop trägst du noch mit dir herum, obwohl er vorbei ist?",
+        "Was hilft dir persönlich, nach einem intensiven Trainingstag wirklich abzuschalten?"
+      ],
+      "hinweis": "Psychohygiene nach belastenden Fallbeispielen ist kein Luxus, sondern Voraussetzung für die nächste gute Schulung.",
+      "bild": "images/tr/TR-32.jpg"
+    },
+    {
+      "nr": 33,
+      "titel": "Heterogene Vorbildung als Ausgangspunkt",
+      "anleitung": "Für Trainingsgruppen mit sehr unterschiedlichen Vorerfahrungen, Ausbildungswegen oder kulturellen Hintergründen innerhalb der INGRA-Teams.",
+      "fragen": [
+        "Wie unterschiedlich ist die Vorbildung in meiner aktuellen Gruppe wirklich?",
+        "Wo passe ich mein Beispiel oder meine Sprache noch nicht an diese Unterschiede an?"
+      ],
+      "hinweis": "Heterogenität ist kein Störfaktor, der ausgeglichen werden muss – sie ist der Ausgangspunkt guter Erwachsenenbildung.",
+      "bild": "images/tr/TR-33.jpg"
+    }
+  ]
+}

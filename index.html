@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>KLARTEXT-Mentoring Karten</title>
+<meta name="theme-color" content="#1B3A4B">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" id="appleTouchIcon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button id="backBtn" class="iconbtn" hidden aria-label="Zurück zur Übersicht">&#8592;</button>
+  <div class="brand">
+    <span class="logo">K</span>
+    <span class="brandtext">KLARTEXT-Mentoring</span>
+  </div>
+  <span class="progress" id="progress"></span>
+  <a href="https://klartext-mentoring.de" class="iconbtn" id="homeBtn" aria-label="Zum KLARTEXT-Shop" title="Zum KLARTEXT-Shop">🏠</a>
+</header>
+
+<main id="app">
+
+  <section id="screen-decks" class="screen">
+    <h1 class="pagetitle">Kartendecks</h1>
+    <p class="pagesub">Deck antippen, dann Karte antippen zum Umdrehen.</p>
+    <p class="pagesub" style="margin-top:-.5rem;"><a href="https://klartext-mentoring.de/KLARTEXT_Barometer_kLAR_Erklaerung.html" style="color:inherit;text-decoration:underline;">Barometer &amp; kLAR-Modell kurz erklärt</a></p>
+
+    <div class="searchwrap">
+      <div class="searchbox">
+        <i class="fa-solid fa-magnifying-glass searchicon"></i>
+        <input type="search" id="searchInput" class="searchinput" placeholder="Karten durchsuchen … z. B. „Wut“, „Elterngespräch“, „Mobbing“" autocomplete="off">
+      </div>
+      <div id="searchResults" class="searchresults" hidden></div>
+    </div>
+
+    <div id="deckCategories"></div>
+  </section>
+
+  <section id="screen-cards" class="screen" hidden>
+    <div class="cardstage">
+      <div id="flashcard" class="flashcard" role="button" tabindex="0" aria-label="Karte umdrehen">
+        <div class="face face-front">
+          <div class="badge" id="cardBadge"></div>
+          <div class="frontimgwrap" id="frontImgWrap">
+            <img id="cardImg" alt="">
+          </div>
+          <div class="fronticonwrap" id="frontIconWrap" hidden>
+            <i id="frontIcon" class="fa-solid"></i>
+          </div>
+          <h2 id="cardTitelFront" class="cardtitel-front"></h2>
+          <p class="taphint">antippen zum Umdrehen</p>
+        </div>
+        <div class="face face-back">
+          <div class="backscroll">
+            <h2 id="cardTitelBack" class="cardtitel-back"></h2>
+
+            <div id="impulsBack">
+              <div class="section">
+                <span class="label">ANLEITUNG</span>
+                <p id="cardAnleitung"></p>
+              </div>
+              <div class="section">
+                <span class="label">IMPULSFRAGEN</span>
+                <div id="cardFragen" class="fragenlist"></div>
+              </div>
+              <div class="section" id="systemfrageWrap" hidden>
+                <span class="label" id="systemfrageLabel"></span>
+                <div class="frage-box frage-box-system" id="cardSystemfrage"></div>
+              </div>
+              <div class="section hinweisbox" id="hinweisWrap">
+                <span class="label label-gold">TIPP FÜR DICH</span>
+                <p id="cardHinweis"></p>
+              </div>
+            </div>
+
+            <div id="handlungBack" hidden>
+              <div class="section" id="introWrap">
+                <span class="label" id="introLabel">SITUATION</span>
+                <p id="cardIntro"></p>
+              </div>
+              <div class="section">
+                <span class="label" id="schritteLabel">SCHRITTE</span>
+                <ol id="cardSchritte" class="schritteliste"></ol>
+              </div>
+              <div class="section" id="abgrenzungWrap" hidden>
+                <span class="label">TUN / NICHT TUN</span>
+                <table class="abgrenzungtabelle" id="cardAbgrenzung"></table>
+              </div>
+              <div class="section hinweisbox" id="notizWrap" hidden>
+                <span class="label label-gold" id="notizLabel"></span>
+                <p id="cardNotiz"></p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="cardnav">
+      <button id="prevBtn" class="navbtn" aria-label="Vorherige Karte">&#8592;</button>
+      <button id="shuffleBtn" class="navbtn navbtn-ghost" aria-label="Zufällige Karte">Zufall</button>
+      <button id="nextBtn" class="navbtn" aria-label="Nächste Karte">&#8594;</button>
+    </nav>
+  </section>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

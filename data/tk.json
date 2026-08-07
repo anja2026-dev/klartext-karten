@@ -1,0 +1,485 @@
+{
+  "id": "tk",
+  "titel": "TK-Deck",
+  "untertitel": "Handlungskarten für die Teamkoordination",
+  "farbe": "#4A148C",
+  "farbe_hell": "#F3E5FF",
+  "farbe_rand": "#CEA9E2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Koordination im Team",
+      "situation": "Mehrere INGRA betreuen dasselbe Kind oder Team, Zuständigkeiten sind unklar.",
+      "schritte": [
+        "Rollen und Zuständigkeiten einmal schriftlich festhalten",
+        "Wer entscheidet was, wer informiert wen",
+        "Feste Übergabepunkte statt Zufallsgespräche",
+        "Bei Unklarheit: TK fragen, nicht raten"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Zuständigkeiten schriftlich fixieren",
+          "Feste Übergabepunkte nutzen",
+          "Bei Unklarheit früh nachfragen"
+        ],
+        "nicht_tun": [
+          "Stillschweigend annehmen, wer zuständig ist",
+          "Nur zufällig auf dem Flur austauschen",
+          "Aus Höflichkeit unklar lassen"
+        ]
+      },
+      "quelle": "Rollenklarheit-Konzept (Katzenbach & Smith, The Wisdom of Teams, 1993) – vorgeschlagen, bitte gegenprüfen.",
+      "bild": "images/tk/TK-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Fallbesprechung strukturieren",
+      "situation": "Ein Fall soll im Team besprochen werden, Gefahr: unstrukturiert, zu lang, ohne Ergebnis.",
+      "schritte": [
+        "Fall in 2–3 Sätzen einleiten (Fakten, kein Urteil)",
+        "Fragerunde vor Meinungsrunde",
+        "Erst wenn alle gehört wurden: Einschätzungen sammeln",
+        "Konkretes Ergebnis + Verantwortliche festhalten"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Fragen vor Bewerten",
+          "Alle zu Wort kommen lassen",
+          "Ergebnis schriftlich festhalten"
+        ],
+        "nicht_tun": [
+          "Sofort Lösungen vorschlagen",
+          "Nur die Lautesten hören",
+          "Ohne Ergebnis auseinandergehen"
+        ]
+      },
+      "quelle": "Kollegiale Fallberatung (Schlee, J., 2019) – vorgeschlagen, bitte gegenprüfen.",
+      "bild": "images/tk/TK-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Hilfeplangespräch vorbereiten",
+      "situation": "Ein Hilfeplangespräch (§ 36 SGB VIII) steht an, INGRA und TK müssen strukturiert vorbereitet reingehen.",
+      "schritte": [
+        "Beobachtungszeitraum sichten, Kernpunkte auswählen",
+        "Konkrete Beispiele statt allgemeiner Einschätzungen vorbereiten",
+        "Eigene Zielvorschläge vorab klären",
+        "Rollen im Gespräch kurz absprechen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Konkrete Beispiele mitbringen",
+          "Rollen vorher klären",
+          "Zielvorschläge vorbereiten"
+        ],
+        "nicht_tun": [
+          "Nur vage Eindrücke schildern",
+          "Im Gespräch improvisieren, wer redet",
+          "Unvorbereitet auf andere warten"
+        ]
+      },
+      "quelle": "SGB VIII § 36 (Hilfeplan) – bereits im Quellenregister der Serie bestätigt.",
+      "bild": "images/tk/TK-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "§ 8a – Schutzauftrag",
+      "situation": "Anzeichen, die auf eine mögliche Kindeswohlgefährdung hindeuten könnten – Unsicherheit, wie einzuordnen.",
+      "schritte": [
+        "Beobachtung konkret und zeitnah dokumentieren (Fakten, keine Bewertung)",
+        "Insoweit erfahrene Fachkraft einbeziehen (§ 8a Abs. 4)",
+        "TK sofort informieren, auch bei Unsicherheit",
+        "Weiteres Vorgehen gemeinsam festlegen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Sofort dokumentieren und melden",
+          "Fachkraft einbeziehen",
+          "TK informieren, auch im Zweifel"
+        ],
+        "nicht_tun": [
+          "Erst selbst \"sicher sein\" wollen",
+          "Allein entscheiden",
+          "Abwarten, \"wird schon nichts sein\""
+        ]
+      },
+      "quelle": "SGB VIII § 8a (Schutzauftrag bei Kindeswohlgefährdung).",
+      "bild": "images/tk/TK-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Qualitätssicherung",
+      "situation": "Regelmäßige Überprüfung, ob Standards in der Fallarbeit eingehalten werden.",
+      "schritte": [
+        "Stichproben statt lückenloser Kontrolle",
+        "Standards konkret und schriftlich vorher festlegen",
+        "Rückmeldung wertschätzend, nicht als Kontrolle \"von oben\"",
+        "Ergebnisse für Weiterentwicklung nutzen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Standards vorher klar kommunizieren",
+          "Wertschätzend rückmelden",
+          "Ergebnisse nutzen"
+        ],
+        "nicht_tun": [
+          "Erst bei der Prüfung Maßstäbe erfinden",
+          "Als reine Kontrolle auftreten",
+          "Nur dokumentieren, nichts verändern"
+        ]
+      },
+      "quelle": "DIN EN ISO 9001:2015 – in der Jugendhilfe verbreitete Qualitätsmanagement-Norm.",
+      "bild": "images/tk/TK-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Teamentwicklung",
+      "situation": "Ein Team ist neu zusammengestellt oder durchläuft eine Veränderung.",
+      "schritte": [
+        "Phase erkennen: Findung, Auseinandersetzung, Klärung oder eingespielt",
+        "In Findung/Auseinandersetzung: mehr Struktur, nicht weniger",
+        "Konflikte als Teil des Prozesses einordnen, nicht als Störung",
+        "Erfolge im Team sichtbar machen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Phase benennen, Erwartungen anpassen",
+          "Reibung als normal einordnen",
+          "Kleine Erfolge sichtbar machen"
+        ],
+        "nicht_tun": [
+          "Von Tag eins \"eingespieltes Team\" erwarten",
+          "Reibung sofort persönlich nehmen",
+          "Nur Probleme besprechen"
+        ]
+      },
+      "quelle": "Tuckman, B. W. (1965). Developmental Sequence in Small Groups – etabliertes Modell.",
+      "bild": "images/tk/TK-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Kultursensible Begleitung organisieren",
+      "situation": "Familie spricht wenig/kein Deutsch, oder kulturelle Missverständnisse erschweren die Zusammenarbeit.",
+      "schritte": [
+        "Sprachmittlung früh organisieren, nicht erst bei Problemen",
+        "Nie Kinder als Dolmetscher einsetzen",
+        "Kulturelle Erwartungen offen ansprechen, nicht annehmen",
+        "Dolmetscher-Einsatz dokumentieren"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Professionelle Sprachmittlung organisieren",
+          "Erwartungen offen ansprechen",
+          "Einsatz dokumentieren"
+        ],
+        "nicht_tun": [
+          "Kind als Dolmetscher nutzen",
+          "Kulturelle Annahmen ungeprüft übernehmen",
+          "Bei jedem Fall neu improvisieren"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, angelehnt an Standards zu Sprachmittlung in der Kinder- und Jugendhilfe.",
+      "bild": "images/tk/TK-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Konflikt im Team",
+      "situation": "Zwischen zwei Teammitgliedern (oder Team/Familie) hat sich Spannung aufgebaut, die die Arbeit beeinträchtigt.",
+      "schritte": [
+        "Konflikt benennen, bevor er eskaliert",
+        "Getrennte Gespräche vor gemeinsamem Gespräch, wenn nötig",
+        "Sachebene und Beziehungsebene trennen",
+        "Konkrete Vereinbarung statt vager Versöhnung"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Früh ansprechen",
+          "Sach- und Beziehungsebene trennen",
+          "Konkrete Vereinbarung treffen"
+        ],
+        "nicht_tun": [
+          "Aussitzen, bis es eskaliert",
+          "Alles vermischen",
+          "Bei \"ist doch geklärt\" stehen bleiben"
+        ]
+      },
+      "quelle": "Glasl, F. Konfliktmanagement – 9-Stufen-Eskalationsmodell, etabliert in der Konfliktforschung.",
+      "bild": "images/tk/TK-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Krisenprotokoll",
+      "situation": "Eine Krisensituation ist eingetreten oder gemeldet worden, Sofortmaßnahmen und Meldewege sind gefragt.",
+      "schritte": [
+        "Sicherheit zuerst – bei akuter Gefahr: siehe Feuerwehrkarten in der App",
+        "Sofort dokumentieren: was, wann, wer war beteiligt",
+        "Meldewege einhalten (TK, ggf. Jugendamt, ggf. § 8a)",
+        "Nachbesprechung im Team terminieren, nicht auslassen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Meldewege einhalten",
+          "Sofort dokumentieren",
+          "Nachbesprechung terminieren"
+        ],
+        "nicht_tun": [
+          "Selbst \"regeln\" und nicht melden",
+          "Erst später aus dem Gedächtnis aufschreiben",
+          "Nach der Akutphase nichts aufarbeiten"
+        ]
+      },
+      "quelle": "KLARTEXT-System – Anschluss an Feuerwehrkarten FK-01–08 (App).",
+      "bild": "images/tk/TK-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Schulkommunikation",
+      "situation": "Abstimmung mit Schule/Lehrkraft ist nötig, läuft aber unregelmäßig oder nur bei Problemen.",
+      "schritte": [
+        "Feste, regelmäßige Kontaktpunkte statt nur Anlass-Kommunikation",
+        "Beobachtungen konkret und wertfrei schildern",
+        "Erwartungen beider Seiten offen klären",
+        "Vereinbarungen schriftlich festhalten"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Regelmäßige Kontaktpunkte einplanen",
+          "Konkret und wertfrei schildern",
+          "Vereinbarungen schriftlich festhalten"
+        ],
+        "nicht_tun": [
+          "Nur bei Problemen melden",
+          "Pauschal urteilen",
+          "Mündliche Absprachen offen lassen"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, Anschluss an LK-Basis-Deck (Zusammenarbeit Schule–Schulbegleitung).",
+      "bild": "images/tk/TK-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Elternkontakt begleiten",
+      "situation": "Kontakt zu Eltern ist angespannt, unklar oder es besteht Vertrauensverlust.",
+      "schritte": [
+        "Transparenz herstellen: was wird dokumentiert, was weitergegeben",
+        "Erwartungen beiderseits offen klären",
+        "Regelmäßigen, verlässlichen Kontakt anbieten",
+        "Grenzen der eigenen Rolle klar benennen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Offen sagen, was dokumentiert wird",
+          "Regelmäßig, nicht nur bei Problemen melden",
+          "Eigene Rolle klar benennen"
+        ],
+        "nicht_tun": [
+          "Heimlich wirkende Berichte",
+          "Nur bei Krise Kontakt aufnehmen",
+          "Zu viel/zu wenig Nähe suggerieren"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, angelehnt an Grundsätze transparenter Elternarbeit in der Eingliederungshilfe.",
+      "bild": "images/tk/TK-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Zieldefinition & Hilfeplan",
+      "situation": "Im Hilfeplan sollen Ziele für die kommende Phase formuliert werden, bisherige Ziele waren zu vage.",
+      "schritte": [
+        "Ziel so konkret formulieren, dass beobachtbar ist, ob es erreicht wurde",
+        "Realistischen Zeitrahmen setzen",
+        "Wer prüft wann, woran wird der Fortschritt festgemacht",
+        "Ziel mit Kind/Familie besprechen, nicht nur intern festlegen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Messbar formulieren",
+          "Zeitrahmen festlegen",
+          "Mit Kind/Familie besprechen"
+        ],
+        "nicht_tun": [
+          "\"Soll sich besser fühlen\" ohne Kriterium",
+          "Offen lassen, bis wann",
+          "Nur intern festlegen"
+        ]
+      },
+      "quelle": "Doran, G. T. (1981). SMART-Ziele-Modell; SGB VIII § 36.",
+      "bild": "images/tk/TK-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Abschlussgespräch INGRA",
+      "situation": "Eine Begleitung endet (Zielerreichung, Schulwechsel, Beendigung) – Abschluss soll professionell gestaltet werden.",
+      "schritte": [
+        "Abschluss ankündigen, nicht überraschend beenden",
+        "Rückblick gemeinsam mit Kind/Familie: was hat sich verändert",
+        "Übergabe an Nachfolgende strukturiert vorbereiten",
+        "Bewusster Abschied statt \"stilles Verschwinden\""
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Abschluss frühzeitig ankündigen",
+          "Gemeinsamen Rückblick halten",
+          "Bewusst verabschieden"
+        ],
+        "nicht_tun": [
+          "Überraschend beenden",
+          "Nur organisatorisch abwickeln",
+          "Kommentarlos verschwinden"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, angelehnt an Prinzipien professioneller Beziehungsbeendigung in der sozialen Arbeit.",
+      "bild": "images/tk/TK-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Dokumentationsprüfung",
+      "situation": "Eine Dokumentation (Fallakte, Notiz, Bericht) soll geprüft werden, bevor sie weitergeht.",
+      "schritte": [
+        "Fakten von Interpretation trennen",
+        "Nur entscheidungsrelevante Informationen, keine Nebensächlichkeiten",
+        "Datenschutz prüfen: darf das so stehen, wer darf es lesen",
+        "Bei Unsicherheit: Rücksprache statt eigenmächtig kürzen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Fakten von Meinung trennen",
+          "Nur Relevantes dokumentieren",
+          "Datenschutz aktiv prüfen"
+        ],
+        "nicht_tun": [
+          "Vermutungen als Fakten formulieren",
+          "Alles Private mit aufschreiben",
+          "\"Wird schon passen\" denken"
+        ]
+      },
+      "quelle": "DSGVO – Grundsatz der Datenminimierung, Art. 5 Abs. 1 lit. c.",
+      "bild": "images/tk/TK-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Vertretungsorganisation",
+      "situation": "Eine INGRA fällt aus (Krankheit, Urlaub), Vertretung muss kurzfristig organisiert werden.",
+      "schritte": [
+        "Übergabedokument bereithalten, nicht erst im Ausfall erstellen",
+        "Wichtigste Informationen priorisieren",
+        "Vertretung kurz einweisen, nicht nur Dokument schicken",
+        "Rückmeldung nach Einsatz einholen für nächstes Mal"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Übergabedokument aktuell halten",
+          "Kurze persönliche Einweisung",
+          "Rückmeldung einholen"
+        ],
+        "nicht_tun": [
+          "Erst im Ausfall improvisieren",
+          "Nur Dokument ohne Gespräch schicken",
+          "Nach Einsatz nichts nachfragen"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, Anschluss an TK_Vertretungsassistent (App).",
+      "bild": "images/tk/TK-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Selbstfürsorge TK",
+      "situation": "TK trägt viel Verantwortung für mehrere Fälle/Teams gleichzeitig – Erschöpfungssignale zeigen sich.",
+      "schritte": [
+        "Frühwarnzeichen bei sich selbst erkennen (Reizbarkeit, Rückzug, Zynismus)",
+        "Aufgaben realistisch delegieren statt alles selbst zu tragen",
+        "Feste Erholungszeiten aktiv schützen",
+        "Bei anhaltender Erschöpfung offen ansprechen, nicht durchhalten"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Frühwarnzeichen ernst nehmen",
+          "Aufgaben delegieren",
+          "Erholungszeiten schützen"
+        ],
+        "nicht_tun": [
+          "\"Geht schon noch\" bis zum Zusammenbruch",
+          "Alles selbst kontrollieren wollen",
+          "Pausen als Erstes streichen"
+        ]
+      },
+      "quelle": "Maslach, C. & Jackson, S. E. (1981). Maslach Burnout Inventory – etabliertes Burnout-Modell.",
+      "bild": "images/tk/TK-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Zeitmanagement",
+      "situation": "Zu viele Aufgaben gleichzeitig, unklar, was zuerst dran ist.",
+      "schritte": [
+        "Aufgaben nach Dringlichkeit und Wichtigkeit sortieren",
+        "Nicht-Dringendes bewusst terminieren, nicht aufschieben",
+        "Pufferzeiten für Unvorhergesehenes einplanen",
+        "Am Ende kurz reflektieren, was funktioniert hat"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Nach Dringlichkeit/Wichtigkeit sortieren",
+          "Pufferzeiten einplanen",
+          "Kurz reflektieren"
+        ],
+        "nicht_tun": [
+          "Nach \"was zuerst reinkam\" abarbeiten",
+          "Tag komplett verplanen",
+          "Nur weitermachen ohne Rückblick"
+        ]
+      },
+      "quelle": "Eisenhower-Matrix (Dringlichkeit/Wichtigkeit-Prinzip), verbreitetes Zeitmanagement-Werkzeug.",
+      "bild": "images/tk/TK-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Meetingstruktur",
+      "situation": "Ein Meeting steht an, Gefahr: zu lang, ohne klares Ergebnis, Teilnehmende unvorbereitet.",
+      "schritte": [
+        "Klare Tagesordnung vorher verschicken",
+        "Zeitrahmen pro Punkt festlegen",
+        "Ergebnis/Entscheidung pro Punkt explizit festhalten",
+        "Nächste Schritte mit Verantwortlichen am Ende zusammenfassen"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Tagesordnung vorher verschicken",
+          "Zeitrahmen einhalten",
+          "Ergebnisse festhalten"
+        ],
+        "nicht_tun": [
+          "Ohne Agenda starten",
+          "Einzelne Punkte ausufern lassen",
+          "Ohne Protokoll auseinandergehen"
+        ]
+      },
+      "quelle": "KLARTEXT-Praxis, angelehnt an verbreitete Meeting-Moderationsprinzipien (Timeboxing).",
+      "bild": "images/tk/TK-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Feedback geben",
+      "situation": "Rückmeldung an ein Teammitglied ist nötig – konstruktiv, nicht verletzend, nicht vermieden.",
+      "schritte": [
+        "Konkrete Situation benennen, nicht pauschal urteilen",
+        "Beobachtetes Verhalten und dessen Wirkung beschreiben",
+        "Raum für die Sicht der anderen Person lassen",
+        "Gemeinsam nächsten Schritt vereinbaren"
+      ],
+      "abgrenzung": {
+        "tun": [
+          "Konkrete Situation benennen",
+          "Verhalten/Wirkung trennen von Person",
+          "Nächsten Schritt vereinbaren"
+        ],
+        "nicht_tun": [
+          "Pauschal \"du machst immer…\"",
+          "Charakter bewerten",
+          "Feedback ohne Konsequenz stehen lassen"
+        ]
+      },
+      "quelle": "SBI-Modell (Situation-Behavior-Impact, Center for Creative Leadership); Rosenberg, M. B. (GfK) – vorgeschlagen zur Gegenprüfung.",
+      "bild": "images/tk/TK-19.jpg"
+    }
+  ]
+}

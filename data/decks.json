@@ -1,0 +1,218 @@
+[
+  {
+    "id": "kd",
+    "titel": "KD-Deck",
+    "untertitel": "Impulskarten Grundschule",
+    "farbe": "#2E9E5A",
+    "anzahl": 35,
+    "kategorie": "zielgruppe",
+    "code": "KD"
+  },
+  {
+    "id": "jd",
+    "titel": "JD-Deck",
+    "untertitel": "Impulskarten Jugendliche",
+    "farbe": "#2F6B6E",
+    "anzahl": 52,
+    "kategorie": "zielgruppe",
+    "code": "JD"
+  },
+  {
+    "id": "el",
+    "titel": "EL-Deck",
+    "untertitel": "Reflexionskarten Eltern",
+    "farbe": "#BF5B3E",
+    "anzahl": 58,
+    "kategorie": "zielgruppe",
+    "code": "EL"
+  },
+  {
+    "id": "lk",
+    "titel": "LK-Deck",
+    "untertitel": "Reflexionskarten Lehrkräfte",
+    "farbe": "#6B4E71",
+    "anzahl": 71,
+    "kategorie": "zielgruppe",
+    "code": "LK"
+  },
+  {
+    "id": "tr",
+    "titel": "TR-Deck",
+    "untertitel": "Trainer-Reflexionskarten",
+    "farbe": "#3E5C76",
+    "anzahl": 33,
+    "kategorie": "zielgruppe",
+    "code": "TR"
+  },
+  {
+    "id": "at",
+    "titel": "AT-Deck",
+    "untertitel": "Autismus-Impulskarten",
+    "farbe": "#7C8C7E",
+    "anzahl": 24,
+    "kategorie": "zielgruppe",
+    "code": "AT"
+  },
+  {
+    "id": "adhs",
+    "titel": "ADHS-Deck",
+    "untertitel": "ADHS-Impulskarten",
+    "farbe": "#6B7FD7",
+    "anzahl": 24,
+    "kategorie": "zielgruppe",
+    "code": "ADHS"
+  },
+  {
+    "id": "fs",
+    "titel": "FS-Deck",
+    "untertitel": "Impulskarten Förderschule",
+    "farbe": "#DEB234",
+    "anzahl": 32,
+    "kategorie": "zielgruppe",
+    "code": "FS"
+  },
+  {
+    "id": "dazgs",
+    "titel": "DaZ-GS-Deck",
+    "untertitel": "DaZ Grundschule",
+    "farbe": "#00ACD6",
+    "anzahl": 25,
+    "kategorie": "zielgruppe",
+    "code": "DaZ-GS"
+  },
+  {
+    "id": "dazsek1",
+    "titel": "DaZ-Sek-I-Deck",
+    "untertitel": "DaZ Sekundarstufe I",
+    "farbe": "#6E1438",
+    "anzahl": 25,
+    "kategorie": "zielgruppe",
+    "code": "DaZ-Sek I"
+  },
+  {
+    "id": "ogs",
+    "titel": "OGS-Deck",
+    "untertitel": "Impulskarten Offene Ganztagsschule",
+    "farbe": "#8BC34A",
+    "anzahl": 32,
+    "kategorie": "zielgruppe",
+    "code": "OGS"
+  },
+  {
+    "id": "geschichtenkarten",
+    "titel": "Geschichtenkarten",
+    "untertitel": "Brainy erlebt & lernt (3 Sets)",
+    "farbe": "#961E23",
+    "anzahl": 30,
+    "kategorie": "zielgruppe",
+    "code": "GK"
+  },
+  {
+    "id": "lrs-sek1",
+    "titel": "LRS/Dyskalkulie-Deck",
+    "untertitel": "Lernbesonderheiten Sek I",
+    "farbe": "#BF9369",
+    "anzahl": 10,
+    "kategorie": "zielgruppe",
+    "code": "LRS"
+  },
+  {
+    "id": "tk",
+    "titel": "TK-Deck",
+    "untertitel": "Handlungskarten für die Teamkoordination",
+    "farbe": "#4A148C",
+    "anzahl": 19,
+    "kategorie": "handlung",
+    "code": "TK"
+  },
+  {
+    "id": "krisendeck",
+    "titel": "Krisendeck",
+    "untertitel": "Akute Krisensituationen – Barometer Rot",
+    "farbe": "#C62828",
+    "anzahl": 8,
+    "kategorie": "handlung",
+    "code": "FK"
+  },
+  {
+    "id": "werkzeug",
+    "titel": "Werkzeugkarten",
+    "untertitel": "26 Mini-Interventionen für den Alltag",
+    "farbe": "#B07D2A",
+    "anzahl": 26,
+    "kategorie": "handlung",
+    "code": "M3"
+  },
+  {
+    "id": "mb",
+    "titel": "Mobbing-Intervention",
+    "untertitel": "Vom ersten Anzeichen bis zur Nachsorge",
+    "farbe": "#D81B60",
+    "anzahl": 15,
+    "kategorie": "handlung",
+    "code": "MB"
+  },
+  {
+    "id": "hb",
+    "titel": "Hochbegabung",
+    "untertitel": "Erkennen, Herausforderungen, Handeln",
+    "farbe": "#2024C4",
+    "anzahl": 12,
+    "kategorie": "handlung",
+    "code": "HB"
+  },
+  {
+    "id": "smi",
+    "titel": "SMI-Deck",
+    "untertitel": "Systemische Mobbing-Intervention",
+    "farbe": "#592D59",
+    "anzahl": 10,
+    "kategorie": "handlung",
+    "code": "SMI"
+  },
+  {
+    "id": "sp",
+    "titel": "SP-Deck",
+    "untertitel": "Springer-INGRAs",
+    "farbe": "#5A4A42",
+    "anzahl": 7,
+    "kategorie": "handlung",
+    "code": "SP"
+  },
+  {
+    "id": "insel-schule",
+    "titel": "Insel-Set · Schule",
+    "untertitel": "Raumzonen für pädagogische Strukturierung",
+    "farbe": "#26A69A",
+    "anzahl": 8,
+    "kategorie": "material",
+    "code": "IS"
+  },
+  {
+    "id": "insel-eltern",
+    "titel": "Insel-Set · Zuhause",
+    "untertitel": "Raumzonen für Familien",
+    "farbe": "#3F51B5",
+    "anzahl": 8,
+    "kategorie": "material",
+    "code": "IS"
+  },
+  {
+    "id": "zonen-schule",
+    "titel": "Zonen-Set · Schule",
+    "untertitel": "Raumzonen für Jugendliche in der Schule",
+    "farbe": "#37474F",
+    "anzahl": 4,
+    "kategorie": "material",
+    "code": "ZS"
+  },
+  {
+    "id": "zonen-eltern",
+    "titel": "Zonen-Set · Zuhause",
+    "untertitel": "Raumzonen für Jugendliche zuhause",
+    "farbe": "#5B7A80",
+    "anzahl": 4,
+    "kategorie": "material",
+    "code": "ZS"
+  }
+]

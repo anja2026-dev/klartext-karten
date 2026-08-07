@@ -1,0 +1,133 @@
+{
+  "id": "lrs-sek1",
+  "titel": "LRS/Dyskalkulie-Deck",
+  "untertitel": "Lernbesonderheiten Sek I",
+  "farbe": "#BF9369",
+  "farbe_hell": "#F5EBDD",
+  "farbe_rand": "#E0CBA8",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Buchstaben-Salat umdeuten",
+      "anleitung": "Für Jugendliche, die sich für ihre Rechtschreibung schämen. Es geht darum, den Fehler vom Werturteil zu trennen.",
+      "fragen": [
+        "Was denkst du über dich, wenn ein Wort falsch geschrieben ist?",
+        "Was würdest du einem Freund/einer Freundin sagen, dem/der das passiert?"
+      ],
+      "hinweis": "Mündlich vor Schriftlich: Bewerte in allen Fächern außer Deutsch das Wissen, nicht die Rechtschreibung. Ein Referat mit Fehlern in der PowerPoint ist trotzdem inhaltlich richtig.",
+      "quelle": "Schulte-Körne, G. & Galuschka, K. Lese-Rechtschreibstörung (LRS). Göttingen: Hogrefe.",
+      "bild": "images/lrs-sek1/L-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Nachteilsausgleich verstehen",
+      "anleitung": "Viele Jugendliche empfinden Nachteilsausgleich als Stigma statt als Recht. Es hilft, ihn als das zu benennen, was er ist: ein Ausgleich, kein Vorteil.",
+      "fragen": [
+        "Was denkst du, wenn du an deinen Nachteilsausgleich denkst – Erleichterung oder Scham?",
+        "Wer sollte wissen, dass du einen Nachteilsausgleich hast – und wer nicht?"
+      ],
+      "hinweis": "Struktur-Hilfen: Bei komplexen Schreibaufgaben auf einen Schritt-Plan verweisen (M3-15) – das entlastet zusätzlich zum formalen Ausgleich.",
+      "quelle": "Bundesverband Legasthenie und Dyskalkulie e.V. (BVL) – Nachteilsausgleich, rechtliche Grundlage nach KMK-Beschlüssen der Länder.",
+      "bild": "images/lrs-sek1/L-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Fremdsprachen-Frust",
+      "anleitung": "Eine zweite Fremdsprache kann für Jugendliche mit LRS besonders belastend sein – zwei Schriftsysteme gleichzeitig zu meistern, verschärft die Schwierigkeit.",
+      "fragen": [
+        "Was genau macht die Fremdsprache schwerer als Deutsch für dich?",
+        "Was würde dir helfen, ohne dass du \"weniger\" machst als andere?"
+      ],
+      "hinweis": "Multisensorik: Wissensvermittlung über Visualisierung (M3-17) und Audio-Medien anbieten – Vokabeln hören statt nur lesen entlastet spürbar.",
+      "quelle": "Schulte-Körne, G. & Galuschka, K., s.o.",
+      "bild": "images/lrs-sek1/L-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Wissen zeigen, nicht nur schreiben",
+      "anleitung": "Schriftliche Leistungsnachweise messen oft mehr die Rechtschreibung als das Fachwissen. Andere Ausdrucksformen können echtes Wissen sichtbar machen.",
+      "fragen": [
+        "In welcher Form könntest du dein Wissen zeigen, wenn Schreiben nicht das einzige Mittel wäre (mündlich, Skizze, Audio)?",
+        "Welches Fach würde davon am meisten profitieren?"
+      ],
+      "hinweis": "Mündlich vor Schriftlich gilt für alle Fächer außer Deutsch – das Fachwissen zählt, nicht die Rechtschreibleistung.",
+      "quelle": "Schulte-Körne, G. & Galuschka, K., s.o.",
+      "bild": "images/lrs-sek1/L-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Laptop als Werkzeug, nicht als Sonderweg",
+      "anleitung": "Digitale Hilfsmittel (Rechtschreibkorrektur, Sprachausgabe) werden von Mitschüler:innen manchmal als \"Extrawurst\" wahrgenommen – dabei sind sie ein Werkzeug wie eine Brille.",
+      "fragen": [
+        "Wie fühlt es sich an, den Laptop zu nutzen, wenn andere mit der Hand schreiben?",
+        "Was würde helfen, damit sich das nicht wie ein Sonderweg anfühlt?"
+      ],
+      "hinweis": "Eine kurze, sachliche Erklärung in der Klasse (\"so wie eine Brille\") nimmt oft mehr Druck als Schweigen darüber.",
+      "quelle": "BVL – Nachteilsausgleich, digitale Hilfsmittel als anerkannte Form.",
+      "bild": "images/lrs-sek1/L-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Schreib-Tempo",
+      "anleitung": "Unter Zeitdruck steigt die Fehlerquote oft zusätzlich. Zeitverlängerung ist keine Erleichterung der Aufgabe, sondern ein Ausgleich der Bearbeitungsgeschwindigkeit.",
+      "fragen": [
+        "Was passiert mit deiner Konzentration, wenn die Zeit knapp wird?",
+        "Wie viel zusätzliche Zeit würde wirklich helfen – und wofür genau?"
+      ],
+      "hinweis": "Zeit-Management: Sichtbare Zeit (M3-21) nutzen, um Druck zu reduzieren, statt Zeit nur zuzuteilen ohne Transparenz für den Jugendlichen.",
+      "quelle": "Schulte-Körne, G. & Galuschka, K., s.o.",
+      "bild": "images/lrs-sek1/L-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Zukunftsdruck",
+      "anleitung": "Jugendliche mit LRS sorgen sich oft besonders um Ausbildung, Noten und Zukunftschancen – die Sorge kann größer wirken als das eigentliche Problem.",
+      "fragen": [
+        "Was genau befürchtest du für deine Zukunft wegen der LRS?",
+        "Was weißt du über Menschen mit LRS, die trotzdem ihren Weg gemacht haben?"
+      ],
+      "hinweis": "LRS betrifft die Rechtschreibung, nicht die Intelligenz oder die beruflichen Chancen – das explizit benennen hilft gegen Katastrophisieren.",
+      "quelle": "Schulte-Körne, G. & Galuschka, K., s.o.",
+      "bild": "images/lrs-sek1/L-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Mengen-Rätsel",
+      "anleitung": "Für Jugendliche mit Dyskalkulie ist oft nicht das Rechnen selbst das Problem, sondern das Verständnis von Mengen und ihrer Beziehung zueinander.",
+      "fragen": [
+        "Wann merkst du, dass Zahlen für dich \"nicht wie Bilder\" funktionieren, sondern nur wie Symbole?",
+        "Was hilft dir, dir eine Menge wirklich vorzustellen?"
+      ],
+      "hinweis": "Visualisierung (M3-17) einsetzen – Mengen als Bilder statt nur als Ziffern zeigen, entlastet das Zahlenverständnis direkt.",
+      "quelle": "von Aster, M. & Shalev, R. S. (2007). Number development and developmental dyscalculia. Developmental Medicine & Child Neurology, 49(11), 868–873.",
+      "bild": "images/lrs-sek1/D-01.jpg",
+      "badge": "Dyskalkulie"
+    },
+    {
+      "nr": 9,
+      "titel": "Stress mit Zeit und Geld",
+      "anleitung": "Uhrzeiten lesen, Geld zählen, Prozentrechnung im Alltag – diese alltäglichen Rechenanforderungen können bei Dyskalkulie besonders belasten, weil sie ständig vorkommen.",
+      "fragen": [
+        "In welcher Alltagssituation macht dir das Rechnen am meisten Stress?",
+        "Welches Hilfsmittel (Taschenrechner, App, Uhr mit Zahlen) würde diesen Stress konkret senken?"
+      ],
+      "hinweis": "Der Einsatz von Hilfsmitteln im Alltag ist keine Ausrede, sondern ein Ausgleich – genau wie eine Brille beim Sehen.",
+      "quelle": "von Aster, M. & Shalev, R. S. (2007), s.o.",
+      "bild": "images/lrs-sek1/D-02.jpg",
+      "badge": "Dyskalkulie"
+    },
+    {
+      "nr": 10,
+      "titel": "Der eigene Rechenweg",
+      "anleitung": "Es gibt oft mehrere richtige Wege zu einem Rechenergebnis. Der eigene, vielleicht ungewöhnliche Weg zählt genauso, wenn er zum richtigen Ergebnis führt.",
+      "fragen": [
+        "Wie rechnest du – auf welchem Weg kommst du meistens zum richtigen Ergebnis?",
+        "Wann hat dir jemand gesagt, dein Weg sei \"falsch\", obwohl das Ergebnis stimmte?"
+      ],
+      "hinweis": "Struktur-Hilfen: Bei mehrschrittigen Rechenaufgaben auf den Schritt-Plan (M3-15) verweisen – der eigene Weg darf dabei erhalten bleiben.",
+      "quelle": "von Aster, M. & Shalev, R. S. (2007), s.o.",
+      "bild": "images/lrs-sek1/D-03.jpg",
+      "badge": "Dyskalkulie"
+    }
+  ]
+}

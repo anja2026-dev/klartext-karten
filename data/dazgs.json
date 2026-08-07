@@ -1,0 +1,285 @@
+{
+  "id": "dazgs",
+  "titel": "DaZ-GS-Deck",
+  "untertitel": "DaZ Grundschule",
+  "farbe": "#00ACD6",
+  "farbe_hell": "#E5F6FA",
+  "farbe_rand": "#ADE4F1",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Der erste Tag in der neuen Schule",
+      "anleitung": "Für den Einstieg nach der Ankunft in einer neuen Schule.",
+      "fragen": [
+        "Was war heute anders, als du dachtest?",
+        "Was hat dir geholfen, dich ein bisschen sicherer zu fühlen?"
+      ],
+      "hinweis": "Ein Rundgang oder eine feste Bezugsperson am ersten Tag hilft mehr als viele Erklärungen auf einmal.",
+      "bild": "images/dazgs/DAZGS-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Wenn ich am Anfang nichts verstehe",
+      "anleitung": "Für Momente akuter Sprachüberforderung, entlastend statt fordernd.",
+      "fragen": [
+        "Was hilft dir, wenn du etwas nicht verstehst?",
+        "Traust du dich zu fragen, wenn etwas unklar ist?"
+      ],
+      "hinweis": "Nicht verstehen ist am Anfang normal – nicht als fehlende Anstrengung werten.",
+      "bild": "images/dazgs/DAZGS-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Ein neuer Ort",
+      "anleitung": "Für die ersten Eindrücke von einem neuen Ort.",
+      "fragen": [
+        "Was ist hier anders, als du es kanntest?",
+        "Gibt es etwas, das dir hier schon gefällt?"
+      ],
+      "hinweis": "Beides darf gleichzeitig da sein – Fremdheit und erste positive Momente.",
+      "bild": "images/dazgs/DAZGS-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Meine Klasse kennenlernen",
+      "anleitung": "Für die ersten Kontakte in der neuen Klasse.",
+      "fragen": [
+        "Wer in der Klasse ist dir schon aufgefallen?",
+        "Was würdest du gern über sie wissen?"
+      ],
+      "hinweis": "Kleine, konkrete Beobachtungen sind ein besserer erster Schritt als die große Erwartung, sofort Freunde zu finden.",
+      "bild": "images/dazgs/DAZGS-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Wenn mir die Wörter fehlen",
+      "anleitung": "Bei sichtbarer Frustration über fehlende Wörter.",
+      "fragen": [
+        "Wann fehlen dir die Wörter am meisten?",
+        "Was machst du, wenn dir ein Wort fehlt?"
+      ],
+      "hinweis": "Zeigen, Zeichnen oder die Muttersprache nutzen sind gute Übergangslösungen, kein Umweg.",
+      "bild": "images/dazgs/DAZGS-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Zwei Sprachen im Kopf",
+      "anleitung": "Für das Erleben, zwischen zwei Sprachen zu wechseln oder sie zu mischen.",
+      "fragen": [
+        "Passiert es dir, dass sich zwei Sprachen in deinem Kopf mischen?",
+        "Welche Sprache kommt dir in welchen Momenten zuerst?"
+      ],
+      "hinweis": "Sprachen mischen ist ein normaler Teil des Zweisprachig-Werdens, kein Fehler.",
+      "bild": "images/dazgs/DAZGS-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Wenn jemand über meine Aussprache lacht",
+      "anleitung": "Bei erlebtem Spott wegen Akzent oder Fehlern.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was würdest du der Person gern sagen?"
+      ],
+      "hinweis": "Ernst nehmen, nicht bagatellisieren – ein Fehler beim Deutschlernen ist kein Grund zum Auslachen.",
+      "bild": "images/dazgs/DAZGS-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Ein Wort, das ich neu gelernt habe",
+      "anleitung": "Positiver Fortschritts-Impuls.",
+      "fragen": [
+        "Welches neue Wort hast du zuletzt gelernt?",
+        "Wo hast du es benutzt?"
+      ],
+      "hinweis": "Fortschritt sichtbar machen – auch kleine Schritte zählen.",
+      "bild": "images/dazgs/DAZGS-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Zu Hause anders sprechen als in der Schule",
+      "anleitung": "Für das Erleben von zwei Sprachwelten (Familie vs. Schule).",
+      "fragen": [
+        "Welche Sprache sprichst du zu Hause?",
+        "Ist das für dich zwei verschiedene Welten oder eine?"
+      ],
+      "hinweis": "Beide Sprachen sind wertvoll – die Familiensprache ist kein Hindernis für Deutsch.",
+      "bild": "images/dazgs/DAZGS-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Für meine Eltern übersetzen",
+      "anleitung": "Für Kinder, die als Sprachmittler für Eltern einspringen.",
+      "fragen": [
+        "Musst du manchmal für deine Eltern übersetzen?",
+        "Wie fühlt sich das für dich an?"
+      ],
+      "hinweis": "Übersetzen kann stolz machen, aber auch belasten – beides ernst nehmen. Bei viel Verantwortung Rücksprache mit der Schule halten.",
+      "bild": "images/dazgs/DAZGS-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Was ich von zu Hause mitgebracht habe",
+      "anleitung": "Für Traditionen, Gewohnheiten, Gegenstände von „zu Hause“.",
+      "fragen": [
+        "Was von zu Hause ist dir hier besonders wichtig?",
+        "Möchtest du davon erzählen?"
+      ],
+      "hinweis": "Echtes Interesse an der Herkunft zeigen, ohne auszufragen.",
+      "bild": "images/dazgs/DAZGS-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Weder das eine noch das andere – oder beides?",
+      "anleitung": "Für ältere Grundschulkinder, die anfangen, über Zugehörigkeit nachzudenken.",
+      "fragen": [
+        "Fühlst du dich manchmal zwischen zwei Welten?",
+        "Was magst du an beiden?"
+      ],
+      "hinweis": "Zwei Zugehörigkeiten gleichzeitig sind kein Widerspruch.",
+      "bild": "images/dazgs/DAZGS-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Spielen ohne viele Worte",
+      "anleitung": "Zeigt, dass Kontakt auch ohne perfekte Sprache möglich ist.",
+      "fragen": [
+        "Welches Spiel geht auch ohne viele Worte?",
+        "Mit wem hast du das schon ausprobiert?"
+      ],
+      "hinweis": "Bewegungsspiele/Sport sind oft die ersten erfolgreichen Kontaktbrücken.",
+      "bild": "images/dazgs/DAZGS-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Mein erster Freund hier",
+      "anleitung": "Positiver Rückblick auf eine erste gelungene Freundschaft.",
+      "fragen": [
+        "Wer war der oder die Erste, mit dem/der du dich hier angefreundet hast?",
+        "Was hat den Anfang leicht gemacht?"
+      ],
+      "hinweis": "Die Geschichte des ersten Kontakts hilft, das eigene Können als Ressource zu sehen.",
+      "bild": "images/dazgs/DAZGS-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Wenn ich nicht mitreden kann",
+      "anleitung": "Bei Ausschlusserleben wegen Sprache.",
+      "fragen": [
+        "Wann fühlst du dich außen vor, weil du nicht alles verstehst?",
+        "Was würde dir helfen, mehr dazuzugehören?"
+      ],
+      "hinweis": "Ernst nehmen, ggf. mit der ganzen Klasse an Einbindung arbeiten – liegt nicht allein am Kind.",
+      "bild": "images/dazgs/DAZGS-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Jemandem Neuem helfen",
+      "anleitung": "Für Kinder, die schon länger da sind und nun anderen neu Ankommenden helfen können.",
+      "fragen": [
+        "Was könntest du einem neuen Kind zeigen?",
+        "Wie hättest du dir das am Anfang gewünscht?"
+      ],
+      "hinweis": "Die eigene Erfahrung als Stärke nutzen – stärkt Selbstwirksamkeit.",
+      "bild": "images/dazgs/DAZGS-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Was ich vermisse",
+      "anleitung": "Vorsichtig, ohne zu drängen – Raum für Heimweh geben. Nicht nach Fluchtdetails fragen.",
+      "fragen": [
+        "Was vermisst du manchmal?",
+        "Was hilft dir, wenn du das Vermissen spürst?"
+      ],
+      "hinweis": "Es geht um das Gefühl, nicht um die Details – bei belastenden Erinnerungen nicht nachbohren, ggf. Fachkraft einbeziehen.",
+      "bild": "images/dazgs/DAZGS-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Menschen, die ich vermisse",
+      "anleitung": "Für vermisste Familie/Freunde an einem anderen Ort.",
+      "fragen": [
+        "An wen denkst du oft?",
+        "Gibt es eine Art, wie du in Kontakt bleibst?"
+      ],
+      "hinweis": "Kontakt halten (Fotos, Anrufe) ist eine wertvolle Ressource, wenn möglich unterstützen.",
+      "bild": "images/dazgs/DAZGS-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Essen, das mich an zu Hause erinnert",
+      "anleitung": "Niedrigschwelliger, positiver Zugang zum Thema Herkunft.",
+      "fragen": [
+        "Welches Essen erinnert dich an zu Hause?",
+        "Isst du das noch manchmal hier?"
+      ],
+      "hinweis": "Ein einfacher, positiv besetzter Einstieg ins Thema Herkunft.",
+      "bild": "images/dazgs/DAZGS-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Wenn das Vermissen groß wird",
+      "anleitung": "Für Momente akuten Heimwehs.",
+      "fragen": [
+        "Was tust du, wenn das Vermissen besonders groß ist?",
+        "Wer kann dich dann trösten?"
+      ],
+      "hinweis": "Trösten, nicht ablenken wollen – das Gefühl darf da sein.",
+      "bild": "images/dazgs/DAZGS-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Das erste Mal Deutsch gesprochen",
+      "anleitung": "Rückblick auf einen konkreten Sprach-Meilenstein.",
+      "fragen": [
+        "Erinnerst du dich an das erste Mal, als du auf Deutsch etwas gesagt hast?",
+        "Wie hat sich das angefühlt?"
+      ],
+      "hinweis": "Diesen Moment bewusst würdigen, auch wenn er schon lange her ist.",
+      "bild": "images/dazgs/DAZGS-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Ein Wort in meiner Sprache",
+      "anleitung": "Positiver Rollentausch – das Kind bringt anderen etwas bei.",
+      "fragen": [
+        "Welches Wort in deiner Sprache möchtest du der Klasse beibringen?",
+        "Was bedeutet es?"
+      ],
+      "hinweis": "Macht die Herkunftssprache als Können sichtbar, nicht als Defizit.",
+      "bild": "images/dazgs/DAZGS-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Was ich schon alles kann",
+      "anleitung": "Ressourcenorientierter Rückblick auf den bisherigen Weg.",
+      "fragen": [
+        "Was kannst du heute, das du am Anfang noch nicht konntest?",
+        "Was hat dir dabei am meisten geholfen?"
+      ],
+      "hinweis": "Fortschritt konkret benennen – motiviert mehr als allgemeines Lob.",
+      "bild": "images/dazgs/DAZGS-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Worauf ich stolz bin",
+      "anleitung": "Guter Abschluss-Impuls.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du an deinen Weg hier denkst?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Guter Abschluss – bewusst als Rückblick lesen, nicht als Bewertung.",
+      "bild": "images/dazgs/DAZGS-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Von der Sprachförderung in die neue Klasse",
+      "anleitung": "Für den Übergang aus der DaZ-/Vorbereitungsklasse in die Regelklasse, wenn die vertraute Kleingruppe und Unterstützung wegfällt.",
+      "fragen": [
+        "Was wird in der neuen Klasse anders sein als in der DaZ-Gruppe?",
+        "Was von der DaZ-Zeit hilft dir dabei weiter?"
+      ],
+      "hinweis": "Der Wechsel bedeutet oft auch den Verlust der vertrauten Kleingruppe – das aktiv ansprechen, nicht nur als Fortschritt feiern.",
+      "bild": "images/dazgs/DAZGS-25.jpg"
+    }
+  ]
+}

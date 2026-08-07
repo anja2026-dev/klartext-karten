@@ -1,0 +1,362 @@
+{
+  "id": "fs",
+  "titel": "FS-Deck",
+  "untertitel": "Impulskarten Förderschule",
+  "farbe": "#DEB234",
+  "farbe_hell": "#FBF3DC",
+  "farbe_rand": "#EDDBA8",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie geht es mir heute?",
+      "anleitung": "Ein guter Anfang für ein Gespräch. Die Karte kann man oft benutzen.",
+      "fragen": [
+        "Welche Farbe passt zu dir?",
+        "Willst du erzählen, warum?"
+      ],
+      "hinweis": "Benutze die Karte oft. Nicht nur bei Problemen.",
+      "bild": "images/fs/FS-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Mein Bauchgefühl",
+      "anleitung": "Für kleine Kinder. Manche Kinder kennen die Wörter für Gefühle noch nicht. Der Bauch hilft.",
+      "fragen": [
+        "Was spürst du gerade in deinem Bauch?",
+        "Ist das Gefühl gut oder komisch?"
+      ],
+      "hinweis": "Spürt das Kind nichts? Dann frag nicht weiter. Nimm stattdessen Karte FS-05.",
+      "bild": "images/fs/FS-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Viele Gefühle auf einmal",
+      "anleitung": "Für Momente mit zwei Gefühlen gleichzeitig. Zum Beispiel aufgeregt und ängstlich.",
+      "fragen": [
+        "Kannst du zwei Gefühle gleichzeitig haben?",
+        "Welche zwei Gefühle sind das gerade?"
+      ],
+      "hinweis": "Beide Gefühle dürfen da sein. Das Kind muss sich nicht entscheiden.",
+      "bild": "images/fs/FS-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Kein Gefühl ist falsch",
+      "anleitung": "Für Momente, in denen sich ein Kind für ein Gefühl schämt.",
+      "fragen": [
+        "Gibt es ein Gefühl, das du dir nicht erlaubst?",
+        "Was sagt Brainy dazu?"
+      ],
+      "hinweis": "Das Gefühl ist immer okay. Nicht jedes Verhalten ist okay. Trenne diese zwei Dinge.",
+      "bild": "images/fs/FS-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Wenn ich nicht weiß, was ich fühle",
+      "anleitung": "Nicht wissen ist okay. Kein Druck für eine schnelle Antwort.",
+      "fragen": [
+        "Ist 'Ich weiß es nicht' gerade okay für dich?",
+        "Willst du später noch mal schauen?"
+      ],
+      "hinweis": "'Ich weiß es nicht' ist eine gute Antwort. Zwinge das Kind nicht zum Reden.",
+      "bild": "images/fs/FS-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Wenn ich wütend bin",
+      "anleitung": "Nutze die Karte, wenn das Kind wütend, aber ansprechbar ist. Bleib ruhig. Bewerte nicht.",
+      "fragen": [
+        "Wo im Körper spürst du die Wut?",
+        "Was hilft dir jetzt: Reden, Pause oder Bewegung?"
+      ],
+      "hinweis": "Nutze die Karte nur, wenn das Kind schon ansprechbar ist. Mitten in der Wut hilft das kLAR-Modell besser.",
+      "bild": "images/fs/FS-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Wenn ich Angst habe",
+      "anleitung": "Nutze die Karte bei sichtbarer Angst vor einer Situation.",
+      "fragen": [
+        "Wovor hast du gerade Angst?",
+        "Was hilft dir jetzt, dich sicherer zu fühlen?"
+      ],
+      "hinweis": "Bei akuter Angst erst beruhigen. Die Karte kommt danach.",
+      "bild": "images/fs/FS-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Wenn ich traurig bin",
+      "anleitung": "Gib Raum für Traurigkeit. Tröste nicht zu schnell.",
+      "fragen": [
+        "Willst du erzählen, was dich traurig macht?",
+        "Was tut dir gut, wenn du traurig bist?"
+      ],
+      "hinweis": "Traurigkeit darf da sein. Nicht ablenken.",
+      "bild": "images/fs/FS-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Was mich beruhigt",
+      "anleitung": "Sammelt gemeinsam Ideen, die beruhigen.",
+      "fragen": [
+        "Was hilft dir, wenn du aufgeregt bist?",
+        "Was davon können wir jetzt machen?"
+      ],
+      "hinweis": "Baut gemeinsam eine Liste. Die Liste hilft auch später.",
+      "bild": "images/fs/FS-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Groß fühlen, obwohl ich klein bin",
+      "anleitung": "Nutze die Karte bei Ohnmacht in einem Streit. Zum Beispiel mit älteren Kindern.",
+      "fragen": [
+        "Wann fühlst du dich stark?",
+        "Was hilft dir, dich größer zu fühlen?"
+      ],
+      "hinweis": "Rede das Gefühl nicht klein.",
+      "bild": "images/fs/FS-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Streit mit einem Freund",
+      "anleitung": "Nutze die Karte nach einem frischen Streit. Erst wenn das Kind ansprechbar ist.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was wünschst du dir jetzt?"
+      ],
+      "hinweis": "Warte, bis sich die Situation beruhigt hat.",
+      "bild": "images/fs/FS-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Sorry sagen",
+      "anleitung": "Übe Entschuldigung als Fähigkeit. Zwinge nicht dazu.",
+      "fragen": [
+        "Was willst du sagen?",
+        "Wie willst du es sagen?"
+      ],
+      "hinweis": "Dräng nicht zur Entschuldigung. Die Karte öffnet nur den Raum.",
+      "bild": "images/fs/FS-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Wenn ich nicht schuld bin",
+      "anleitung": "Stärke Kinder, die sich zu schnell schuldig fühlen.",
+      "fragen": [
+        "Was war deine Rolle im Streit? Was war die Rolle vom anderen Kind?",
+        "Musst du dich entschuldigen, wenn du nichts falsch gemacht hast?"
+      ],
+      "hinweis": "Stärke das Kind. Rede die Sache nicht klein.",
+      "bild": "images/fs/FS-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Wieder gut werden",
+      "anleitung": "Es geht um eine konkrete Wiedergutmachung. Nicht nur um Worte.",
+      "fragen": [
+        "Was kannst du tun, damit es wieder gut wird?",
+        "Was braucht das andere Kind jetzt?"
+      ],
+      "hinweis": "Eine kleine Handlung ist wichtiger als viele Worte.",
+      "bild": "images/fs/FS-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Wenn zwei Freunde streiten",
+      "anleitung": "Für Kinder, die einen fremden Streit miterleben.",
+      "fragen": [
+        "Was machst du, wenn zwei andere streiten?",
+        "Musst du dich einmischen?"
+      ],
+      "hinweis": "Dräng das Kind nicht zum Vermitteln. Es geht um sein eigenes Erleben.",
+      "bild": "images/fs/FS-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Der erste Tag",
+      "anleitung": "Nutze die Karte vor einer neuen Situation. Zum Beispiel eine neue Klasse.",
+      "fragen": [
+        "Was macht dir am meisten Sorgen?",
+        "Was hilft dir, dich sicherer zu fühlen?"
+      ],
+      "hinweis": "Nutze die Karte vorher. Nicht erst, wenn die Angst schon groß ist.",
+      "bild": "images/fs/FS-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Etwas Neues ausprobieren",
+      "anleitung": "Für Zurückhaltung vor neuen Dingen.",
+      "fragen": [
+        "Was möchtest du gern ausprobieren?",
+        "Was ist der kleinste erste Schritt?"
+      ],
+      "hinweis": "Kleine Schritte sind besser als ein großer Sprung.",
+      "bild": "images/fs/FS-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Wenn ich mich nicht traue",
+      "anleitung": "Begleite das Kind. Verlang keinen Mut.",
+      "fragen": [
+        "Was macht es gerade schwer?",
+        "Was macht es leichter?"
+      ],
+      "hinweis": "Verlang keinen Mut. Akzeptiere das Tempo vom Kind.",
+      "bild": "images/fs/FS-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Mutig sein, auch mit Angst",
+      "anleitung": "Zeige: Mut heißt nicht, keine Angst zu haben.",
+      "fragen": [
+        "Wann warst du mutig, obwohl du Angst hattest?",
+        "Wie hat sich das angefühlt?"
+      ],
+      "hinweis": "Angst und Mut dürfen gleichzeitig da sein.",
+      "bild": "images/fs/FS-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Hilfe holen ist okay",
+      "anleitung": "Zeige: Hilfe holen ist stark. Kein Versagen.",
+      "fragen": [
+        "Wer kann dir gerade helfen?",
+        "Was sagst du, wenn du um Hilfe bittest?"
+      ],
+      "hinweis": "Hilfe holen ist immer eine Stärke.",
+      "bild": "images/fs/FS-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Was ist ein guter Freund?",
+      "anleitung": "Sammelt gemeinsam Eigenschaften von Freundschaft. Konkret, nicht abstrakt.",
+      "fragen": [
+        "Was macht jemanden zu einem guten Freund?",
+        "Bist du das auch für andere?"
+      ],
+      "hinweis": "Sammelt Beispiele aus dem Alltag vom Kind.",
+      "bild": "images/fs/FS-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Wenn ich nicht mitspielen darf",
+      "anleitung": "Für Ausschluss-Erfahrungen. Verurteile andere Kinder nicht vorschnell.",
+      "fragen": [
+        "Was ist passiert?",
+        "Was wünschst du dir stattdessen?"
+      ],
+      "hinweis": "Nimm das Erleben vom Kind ernst.",
+      "bild": "images/fs/FS-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Alleine in der Pause",
+      "anleitung": "Für wiederkehrende Einsamkeit in der Pause.",
+      "fragen": [
+        "Wie fühlt sich das Alleinsein für dich an?",
+        "Was hilft dir, jemanden zu finden?"
+      ],
+      "hinweis": "Sprich bei einem Muster auch mit der Schule. Die Karte allein reicht nicht.",
+      "bild": "images/fs/FS-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Neue Freunde finden",
+      "anleitung": "Erarbeitet konkrete erste Schritte.",
+      "fragen": [
+        "Wie kannst du auf jemanden zugehen?",
+        "Was kannst du fragen oder sagen?"
+      ],
+      "hinweis": "Kleine, machbare Schritte sind besser als nur Ermutigung.",
+      "bild": "images/fs/FS-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Wenn jemand gemein zu mir ist",
+      "anleitung": "Nimm das Kind ernst. Bagatellisiere nicht.",
+      "fragen": [
+        "Was genau ist passiert?",
+        "Ist das schon öfter passiert?"
+      ],
+      "hinweis": "Bei Hinweisen auf Mobbing: Hol die Schule oder eine Fachkraft dazu.",
+      "bild": "images/fs/FS-25.jpg"
+    },
+    {
+      "nr": 26,
+      "titel": "Mein Bauch spürt mit",
+      "anleitung": "Führe Körperwahrnehmung als Frühwarnsystem ein.",
+      "fragen": [
+        "Merkst du manchmal im Bauch, wenn etwas nicht stimmt?",
+        "Wie fühlt sich das an?"
+      ],
+      "hinweis": "Das ist kein Test. Es geht nur um das Wahrnehmen.",
+      "bild": "images/fs/FS-26.jpg"
+    },
+    {
+      "nr": 27,
+      "titel": "Wenn mein Körper „Stopp“ sagt",
+      "anleitung": "Nimm körperliche Grenzsignale ernst. Zum Beispiel Müdigkeit.",
+      "fragen": [
+        "Woran merkst du, dass es genug ist?",
+        "Was machst du, wenn dein Körper Stopp sagt?"
+      ],
+      "hinweis": "Das ist kein Trotz. Nimm das Signal ernst.",
+      "bild": "images/fs/FS-27.jpg"
+    },
+    {
+      "nr": 28,
+      "titel": "Was mir gut tut",
+      "anleitung": "Sammelt positive Dinge für ruhige Momente.",
+      "fragen": [
+        "Was tut deinem Körper gut?",
+        "Wie oft machst du das?"
+      ],
+      "hinweis": "Nutze die Karte in ruhigen Momenten. Nicht in akutem Stress.",
+      "bild": "images/fs/FS-28.jpg"
+    },
+    {
+      "nr": 29,
+      "titel": "Mein Körper gehört mir",
+      "anleitung": "Vermittle altersgerecht: Das Kind bestimmt über den eigenen Körper.",
+      "fragen": [
+        "Wer darf entscheiden, was mit deinem Körper passiert?",
+        "Was machst du, wenn dir etwas nicht gefällt?"
+      ],
+      "hinweis": "Bei Hinweisen auf eine Grenzverletzung: Sofort die Kinderschutz-Regeln nutzen. Die Karte ersetzt das nicht.",
+      "bild": "images/fs/FS-29.jpg"
+    },
+    {
+      "nr": 30,
+      "titel": "Zur Ruhe kommen",
+      "anleitung": "Ein guter Abschluss. Biete eine Ruheübung an.",
+      "fragen": [
+        "Was hilft dir, ruhig zu werden?",
+        "Wollen wir das jetzt zusammen probieren?"
+      ],
+      "hinweis": "Eine gute letzte Karte für eine Einheit.",
+      "bild": "images/fs/FS-30.jpg"
+    },
+    {
+      "nr": 31,
+      "titel": "Wenn Lernen schwerfällt",
+      "anleitung": "Für Momente, in denen eine Aufgabe trotz viel Anstrengung nicht klappt.",
+      "fragen": [
+        "Was ist gerade schwer für dich?",
+        "Was hilft dir, wenn etwas nicht auf Anhieb klappt?"
+      ],
+      "hinweis": "Anstrengung darf sichtbar sein. Nicht zu schnell trösten oder die Aufgabe leichter machen.",
+      "bild": "images/fs/FS-31.jpg"
+    },
+    {
+      "nr": 32,
+      "titel": "Sagen, was ich brauche",
+      "anleitung": "Für Kinder, die Talker, Bilder oder Gebärden nutzen. Anders als bei FS-20 geht es hier um den eigenen Weg, sich auszudrücken.",
+      "fragen": [
+        "Wie sagst du, was du brauchst?",
+        "Was hilft dir dabei am meisten?"
+      ],
+      "hinweis": "Jeder Weg zu sagen, was man braucht, zählt. Auch ohne Worte.",
+      "bild": "images/fs/FS-32.jpg"
+    }
+  ]
+}

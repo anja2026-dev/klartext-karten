@@ -1,0 +1,130 @@
+{
+  "id": "smi",
+  "titel": "SMI-Deck",
+  "untertitel": "Systemische Mobbing-Intervention",
+  "farbe": "#592D59",
+  "farbe_hell": "#EEE3EE",
+  "farbe_rand": "#D3B8D3",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Rollen im Schatten",
+      "anleitung": "Bei Mobbing gibt es selten nur Täter:in und Opfer. Salmivalli u. a. identifizierten weitere Rollen: Assistent:in, Verstärker:in, Verteidiger:in, Außenstehende. Wer diese Rollen erkennt, kann gezielter ansetzen als nur bei den zwei Hauptfiguren.",
+      "fragen": [
+        "Welche Rolle nimmt welches Kind in dieser Klasse tatsächlich ein – nicht nur Täter:in/Opfer?",
+        "Wen könnte ich gezielt als Verteidiger:in stärken?"
+      ],
+      "hinweis": "Verstärker:innen (die lachen, zuschauen, Aufmerksamkeit geben) tragen die Dynamik oft mehr als der/die Täter:in selbst – dort anzusetzen wirkt oft schneller.",
+      "quelle": "Salmivalli, C., Lagerspetz, K., Björkqvist, K., Österman, K. & Kaukiainen, A. (1996). Bullying as a group process: Participant roles and their relations to social status within the group. Aggressive Behavior, 22, 1–15.",
+      "bild": "images/smi/SMI-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Die stille Mehrheit",
+      "anleitung": "Die meisten Kinder in einer Klasse sind weder Täter:in noch Opfer – sie sehen zu, sagen nichts. Diese stille Mehrheit ist der größte Hebel, den eine Klasse hat.",
+      "fragen": [
+        "Was würde die stille Mehrheit brauchen, um nicht mehr still zu bleiben?",
+        "Gibt es schon ein sicheres, anonymes Meldesystem – kennt die Klasse es wirklich?"
+      ],
+      "hinweis": "Schweigen ist selten Zustimmung. Oft ist es Angst, selbst zur Zielscheibe zu werden – das ernst nehmen, nicht als Gleichgültigkeit werten.",
+      "quelle": "Salmivalli et al. (1996), s.o. – Konzept der Bystander-Mehrheit.",
+      "bild": "images/smi/SMI-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Den Teufelskreis durchbrechen",
+      "anleitung": "Mobbing-Dynamiken laufen oft in sich verstärkenden Mustern. Lösungsfokussiert bedeutet: nicht die Ursache suchen, sondern den Kreislauf an einer Stelle unterbrechen.",
+      "fragen": [
+        "An welcher Stelle im Kreislauf könnte eine kleine Veränderung die größte Wirkung haben?",
+        "Was ist die eine Ausnahme – eine Situation, in der der Kreislauf schon mal nicht wie erwartet lief?"
+      ],
+      "hinweis": "Nicht \"wer hat angefangen\" fragen. Fragen, was beim letzten Mal anders war, als es besser lief.",
+      "quelle": "de Shazer, S. (1988). Clues: Investigating Solutions in Brief Therapy. New York: W. W. Norton. — vorgeschlagen, bitte gegenprüfen (wie bei EL/LK).",
+      "bild": "images/smi/SMI-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Transparenz schaffen",
+      "anleitung": "Geheimhaltung schützt selten das betroffene Kind – sie schützt oft nur die Dynamik. Offenheit im Klassenrahmen (ohne Bloßstellung) nimmt dem Verhalten die Bühne.",
+      "fragen": [
+        "Was würde sich verändern, wenn das Thema offen im Klassenrat besprochen würde – ohne Namen zu nennen?",
+        "Wie kann ich Transparenz schaffen, ohne das betroffene Kind zusätzlich zu exponieren?"
+      ],
+      "hinweis": "Transparenz heißt nicht Bloßstellung. Es geht ums Verhalten als Klassenthema, nicht um eine Anklage einzelner Namen vor der Gruppe.",
+      "quelle": "—",
+      "bild": "images/smi/SMI-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Ressourcen der Klasse",
+      "anleitung": "Jede Klasse hat schon Stärken im Umgang miteinander – Fairness-Regeln, positive Rituale, einzelne starke Verteidiger:innen. Diese Ressourcen aktivieren, statt nur Defizite zu bearbeiten.",
+      "fragen": [
+        "Welche Stärke hat diese Klasse im Umgang miteinander schon gezeigt – auch wenn es nur einmal war?",
+        "Wer in der Klasse könnte diese Stärke sichtbar vorleben?"
+      ],
+      "hinweis": "Ressourcenorientierung heißt nicht, das Problem kleinzureden – es heißt, mit dem zu arbeiten, was schon da ist.",
+      "quelle": "de Shazer, S. (1988), s.o. – lösungsfokussierte Grundhaltung.",
+      "bild": "images/smi/SMI-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Cybermobbing erkennen",
+      "anleitung": "Cybermobbing läuft oft unsichtbar für Erwachsene weiter, auch wenn die Situation in der Schule scheinbar beruhigt ist. Es braucht eigene Aufmerksamkeit, eigene Fragen.",
+      "fragen": [
+        "Welche Hinweise auf digitale Fortsetzung habe ich bisher übersehen (Gruppenchats, Ausschluss aus Gruppen)?",
+        "Wer könnte als Vertrauensperson für digitale Vorfälle benannt werden?"
+      ],
+      "hinweis": "Cybermobbing endet nicht am Schultor. Nachfragen, ob \"es online weitergeht\" gehört mit dazu.",
+      "quelle": "Olweus, D., Limber, S. & Mihalic, S. F. (1999). Blueprints for Violence Prevention, Book Nine: Bullying Prevention Program. Boulder, CO: Center for the Study and Prevention of Violence.",
+      "bild": "images/smi/SMI-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Die Eltern-Schule-Allianz",
+      "anleitung": "Eltern erfahren oft spät oder gefiltert von Vorfällen. Eine funktionierende Allianz zwischen Schule und Elternhaus verhindert, dass Fronten statt Zusammenarbeit entstehen.",
+      "fragen": [
+        "Wie informiere ich die Eltern so, dass sie Partner:in werden statt Gegner:in?",
+        "Welche gemeinsamen nächsten Schritte kann ich konkret vorschlagen?"
+      ],
+      "hinweis": "Eltern brauchen zuerst das Gefühl, ernst genommen zu werden – erst danach sind sie offen für gemeinsames Handeln.",
+      "quelle": "Christenson, S. L. & Sheridan, S. M. (2001). Schools and Families: Creating Essential Connections for Learning. New York: Guilford Press.",
+      "bild": "images/smi/SMI-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Status-Check",
+      "anleitung": "Sozialer Status in der Gruppe verschiebt sich ständig. Ein regelmäßiger, kurzer Status-Check verhindert, dass sich Dynamiken unbemerkt verfestigen.",
+      "fragen": [
+        "Wie hat sich der soziale Status der beteiligten Kinder in den letzten Wochen verändert?",
+        "Gibt es ein einfaches, wiederholbares Format für diesen Check (z. B. Soziogramm, kurze Einzelgespräche)?"
+      ],
+      "hinweis": "Ein Status-Check muss nicht aufwendig sein – ein kurzes „Wie läuft's gerade mit …?\" alle paar Wochen reicht oft.",
+      "quelle": "Salmivalli et al. (1996), s.o. – sozialer Status als Dynamik-Faktor.",
+      "bild": "images/smi/SMI-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Humor als Werkzeug",
+      "anleitung": "Humor kann Spannung lösen, aber auch verletzen. Der Unterschied liegt darin, ob er sich gegen jemanden richtet oder eine Situation gemeinsam entschärft.",
+      "fragen": [
+        "Wann hilft ein humorvoller Kommentar, die Situation zu entspannen – und wann verstärkt er sie?",
+        "Wie unterscheide ich \"mit jemandem lachen\" von \"über jemanden lachen\" im konkreten Moment?"
+      ],
+      "hinweis": "Humor, der auf Kosten eines Kindes geht, ist kein Humor, sondern eine mildere Form der gleichen Dynamik.",
+      "quelle": "Watzlawick, P., Weakland, J. H. & Fisch, R. (1974). Change: Principles of Problem Formation and Problem Resolution. New York: W. W. Norton.",
+      "bild": "images/smi/SMI-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Nachhaltigkeit sichern",
+      "anleitung": "Eine Intervention, die einmal wirkt, reicht selten. Nachhaltige Veränderung entsteht, wenn die Klasse selbst erlebt, dass sie etwas bewirken kann.",
+      "fragen": [
+        "Was hat die Klasse in dieser Situation selbst bewirkt – und wie mache ich das sichtbar?",
+        "Wie halte ich die Wirkung über die akute Situation hinaus im Blick (Wiedervorlage, Nachfrage in 4 Wochen)?"
+      ],
+      "hinweis": "Selbstwirksamkeitserleben trägt weiter als jede externe Ermahnung – die Klasse soll merken: \"Wir haben das verändert.\"",
+      "quelle": "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215.",
+      "bild": "images/smi/SMI-10.jpg"
+    }
+  ]
+}

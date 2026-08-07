@@ -1,0 +1,129 @@
+{
+  "id": "insel-schule",
+  "titel": "Insel-Set · Schule",
+  "untertitel": "Raumzonen für pädagogische Strukturierung",
+  "farbe": "#26A69A",
+  "farbe_hell": "#E0F2EF",
+  "farbe_rand": "#79C8C0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Regel-Insel",
+      "situation": "Ort für kurze Klärungen, Mini-Regelgespräche und Orientierung.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Nur kurze Gespräche (1–2 Minuten)",
+        "Keine Diskussionen",
+        "Klärung → zurück zur Aktivität"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Kinder wissen, wo sie Unsicherheiten klären können. Verhindert, dass Regelgespräche den Raum blockieren.",
+      "bild": "images/insel-schule/INSEL-REGEL.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 2,
+      "titel": "Ruhe-Insel",
+      "situation": "Selbstregulation, Reizreduktion, Rückzug.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Leise sein",
+        "Nicht sprechen",
+        "Max. 5 Minuten",
+        "Keine Medien oder Geräuschspielzeuge (Ausnahme: Noise-Cancelling-Kopfhörer)"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Kinder können sich selbstständig beruhigen. Unterstützt Emotionsregulation und Reizfilterung.",
+      "bild": "images/insel-schule/INSEL-RUHE.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 3,
+      "titel": "Arbeits-Insel",
+      "situation": "Fokus, Aufgabenbearbeitung, Lernzeit.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Konzentration",
+        "Keine Gespräche",
+        "Aufgaben sichtbar (Mini-Whiteboard)"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Klare Struktur für Kinder mit Fokus-Schwierigkeiten. Minimiert Ablenkung und Chaos.",
+      "bild": "images/insel-schule/INSEL-ARBEIT.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 4,
+      "titel": "Bewegungs-Insel",
+      "situation": "Motorische Pausen, Energieabbau.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "30–60 Sekunden",
+        "Nur definierte Bewegungen (z. B. 3 Sprünge, 5 Schritte)",
+        "Kein Rennen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Kinder können Energie regulieren, ohne den Raum zu stören. Unterstützt Impulskontrolle.",
+      "bild": "images/insel-schule/INSEL-BEWEGUNG.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 5,
+      "titel": "Kreativ-Insel",
+      "situation": "Zeichnen, Basteln, sensorische Materialien.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Materialien bleiben auf der Insel",
+        "Kein Chaos mitnehmen",
+        "5–10 Minuten"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Fördert Ausdruck, Feinmotorik und Selbstwirksamkeit.",
+      "bild": "images/insel-schule/INSEL-KREATIV.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 6,
+      "titel": "Gesprächs-Insel",
+      "situation": "Kurze 1:1-Gespräche.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Max. 3 Minuten",
+        "Keine Konfliktbearbeitung (dafür Regel-Insel)"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Strukturierte Gesprächsangebote ohne Raumstörung.",
+      "bild": "images/insel-schule/INSEL-GESPRAECH.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 7,
+      "titel": "Emotions-Insel",
+      "situation": "Gefühle benennen, Emotionskarten nutzen.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Gefühl benennen",
+        "Passende Karte auswählen",
+        "Kurze Reflexion"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Unterstützt Emotionskompetenz und Selbstwahrnehmung.",
+      "bild": "images/insel-schule/INSEL-EMOTION.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    },
+    {
+      "nr": 8,
+      "titel": "Material-Insel",
+      "situation": "Ort für Materialien, die Kinder selbstständig holen dürfen.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Nur erlaubte Materialien",
+        "Nach Nutzung zurückbringen"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Fördert Selbstständigkeit und Ordnung.",
+      "bild": "images/insel-schule/INSEL-MATERIAL.jpg",
+      "badge": "INSEL-SET · SCHULE"
+    }
+  ]
+}

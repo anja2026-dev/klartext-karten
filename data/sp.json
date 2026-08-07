@@ -1,0 +1,94 @@
+{
+  "id": "sp",
+  "titel": "SP-Deck",
+  "untertitel": "Springer-INGRAs",
+  "farbe": "#5A4A42",
+  "farbe_hell": "#EDE6E2",
+  "farbe_rand": "#D3C4BB",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Blitz-Check",
+      "anleitung": "Als Springer-INGRA hast du oft nur Minuten, um dich in einer neuen Klasse zu orientieren, bevor du handeln musst.",
+      "fragen": [
+        "Welche 3 Informationen brauche ich in den ersten 5 Minuten wirklich (Barometer-Stand des Kindes, akute Trigger, Ansprechperson vor Ort)?",
+        "Wo bekomme ich diese Informationen am schnellsten her?"
+      ],
+      "hinweis": "Ein kurzer, standardisierter Blitz-Check (3 Fragen an die Lehrkraft) ersetzt keinen langen Übergabebericht, verschafft aber sofort Handlungssicherheit.",
+      "quelle": "—",
+      "bild": "images/sp/SP-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Gast in der Klasse",
+      "anleitung": "In einer fremden Klasse bist du zu Gast im System der Stammlehrkraft – deine Autorität ist geliehen, nicht gegeben.",
+      "fragen": [
+        "Wie kläre ich mit der Lehrkraft vorab, welche Regeln in dieser Klasse gelten?",
+        "Was mache ich, wenn meine übliche Vorgehensweise nicht zur Klassenregel passt?"
+      ],
+      "hinweis": "Vorab-Abstimmung mit der Lehrkraft (\"Wie handhabt ihr das hier normalerweise?\") verhindert Reibung in der akuten Situation.",
+      "quelle": "—",
+      "bild": "images/sp/SP-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Die Chance des Neuanfangs",
+      "anleitung": "Anders als die Stammkraft hast du keine Vorgeschichte mit dem Kind – das kann ein Vorteil sein, wenn eine Beziehung festgefahren ist.",
+      "fragen": [
+        "Was weiß ich noch nicht über dieses Kind – und was könnte ich dadurch unvoreingenommener sehen?",
+        "Wie nutze ich diesen \"unbelasteten Blick\" bewusst?"
+      ],
+      "hinweis": "Ein Kind reagiert manchmal anders auf eine neue Bezugsperson, gerade weil keine alte Dynamik mitschwingt – das ist keine Konkurrenz zur Stammkraft, sondern eine Chance für alle.",
+      "quelle": "— (inhaltlich verwandt mit de Shazers Ausnahme-Fokus, 1988, aber nicht erzwungen zitiert)",
+      "bild": "images/sp/SP-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Der Nachmittags-Crash",
+      "anleitung": "Springer-Einsätze finden oft nachmittags statt, wenn die Energie- und Regulationsreserven des Kindes schon aufgebraucht sind.",
+      "fragen": [
+        "Wie erkenne ich den Unterschied zwischen \"normaler Nachmittagsmüdigkeit\" und echter Überlastung?",
+        "Welches Regulationstool passt in dieser Tageszeit am besten (kurz, wenig Aufwand)?"
+      ],
+      "hinweis": "Nachmittags weniger erwarten, nicht mehr – die Reserven sind oft schon am Limit, bevor du überhaupt ankommst.",
+      "quelle": "—",
+      "bild": "images/sp/SP-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Die Brücke zur Stammkraft",
+      "anleitung": "Deine Übergabe an die Stammkraft entscheidet, ob dein Einsatz nachwirkt oder verpufft.",
+      "fragen": [
+        "Was muss die Stammkraft unbedingt wissen, um morgen dort weiterzumachen, wo ich aufgehört habe?",
+        "In welcher Form (schriftlich, kurzes Gespräch) kommt diese Information am zuverlässigsten an?"
+      ],
+      "hinweis": "Eine knappe, konkrete Übergabe (3 Sätze) wird eher gelesen als ein langer Bericht – Qualität vor Vollständigkeit.",
+      "quelle": "—",
+      "bild": "images/sp/SP-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Eltern-Erwartungen",
+      "anleitung": "Eltern kennen dich als Springer-INGRA oft nicht – Vertrauen musst du dir in kürzerer Zeit erarbeiten als eine Stammkraft.",
+      "fragen": [
+        "Wie stelle ich mich und meine Rolle in einem ersten Kontakt klar und knapp vor?",
+        "Was kann ich realistisch versprechen – und was nicht?"
+      ],
+      "hinweis": "Transparenz über die eigene, zeitlich begrenzte Rolle schafft mehr Vertrauen als der Versuch, wie eine Dauerlösung zu wirken.",
+      "quelle": "Christenson, S. L. & Sheridan, S. M. (2001). Schools and Families: Creating Essential Connections for Learning. Guilford Press. — Grundprinzip transparenter Kommunikation, übertragen auf die Springer-Situation.",
+      "bild": "images/sp/SP-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Selbstschutz",
+      "anleitung": "Ständig wechselnde Systeme, ständig neue Beziehungsarbeit – Springer-Einsätze sind kognitiv und emotional besonders fordernd.",
+      "fragen": [
+        "Wie merke ich, wenn die vielen Wechsel an meine eigene Substanz gehen?",
+        "Welches Ritual hilft mir, zwischen zwei Einsätzen \"umzuschalten\"?"
+      ],
+      "hinweis": "Ein kurzes Übergangsritual zwischen zwei Einsätzen (auch nur 2 Minuten) schützt vor Vermischung der Systeme – im Kopf und im Körper.",
+      "quelle": "—",
+      "bild": "images/sp/SP-07.jpg"
+    }
+  ]
+}

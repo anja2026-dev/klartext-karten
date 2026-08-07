@@ -1,0 +1,70 @@
+{
+  "id": "zonen-schule",
+  "titel": "Zonen-Set · Schule",
+  "untertitel": "Raumzonen für Jugendliche in der Schule",
+  "farbe": "#37474F",
+  "farbe_hell": "#DEE3E5",
+  "farbe_rand": "#828D92",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Rückzugs-Zone",
+      "situation": "Reizreduktion – sich für einen Moment zurückziehen dürfen, ohne sich zu rechtfertigen.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Zeitlich begrenzt (z. B. 5–10 Minuten)",
+        "Kein Gespräch erzwingen",
+        "Danach freiwillige Rückmeldung, keine Pflicht"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Selbstregulation ohne Bloßstellung. Verhindert Eskalation durch Reizüberflutung.",
+      "bild": "images/zonen-schule/ZONE-RUECKZUG.jpg",
+      "badge": "ZONEN-SET · SCHULE"
+    },
+    {
+      "nr": 2,
+      "titel": "Fokus-Zone",
+      "situation": "Ungestörtes konzentriertes Arbeiten, z. B. bei Prüfungsvorbereitung oder Reizempfindlichkeit.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Keine Gespräche",
+        "Feste Arbeitszeit vereinbaren",
+        "Ergebnis sichtbar machen (z. B. Checkliste)"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Weniger Ablenkung. Unterstützt bei ADHS/Konzentrationsschwierigkeiten.",
+      "bild": "images/zonen-schule/ZONE-FOKUS.jpg",
+      "badge": "ZONEN-SET · SCHULE"
+    },
+    {
+      "nr": 3,
+      "titel": "Klärungs-Zone",
+      "situation": "Kurze, sachliche Klärung eines Konflikts oder einer Regelfrage, ohne Publikum.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Max. 5 Minuten",
+        "Auf Augenhöhe sprechen, nicht von oben herab",
+        "Lösung statt Bestrafung"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Deeskalation. Konfliktklärung wird als fair statt als Kontrolle erlebt.",
+      "bild": "images/zonen-schule/ZONE-KLAERUNG.jpg",
+      "badge": "ZONEN-SET · SCHULE"
+    },
+    {
+      "nr": 4,
+      "titel": "Gesprächs-Zone",
+      "situation": "1:1-Gespräch mit Vertrauensperson (LK/INGRA), auf Wunsch der/des Jugendlichen.",
+      "intro_label": "ZWECK",
+      "schritte": [
+        "Freiwillig, nie erzwungen",
+        "Vertraulich, soweit rechtlich möglich",
+        "Klar begrenzte Zeit"
+      ],
+      "schritte_label": "REGELN",
+      "nutzen": "Stärkt Vertrauen. Erwachsene werden als ansprechbar erlebt, nicht nur als Autorität.",
+      "bild": "images/zonen-schule/ZONE-GESPRAECH.jpg",
+      "badge": "ZONEN-SET · SCHULE"
+    }
+  ]
+}

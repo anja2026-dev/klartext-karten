@@ -1,0 +1,582 @@
+{
+  "id": "jd",
+  "titel": "JD-Deck",
+  "untertitel": "Impulskarten Jugendliche",
+  "farbe": "#2F6B6E",
+  "farbe_hell": "#EAF3F3",
+  "farbe_rand": "#C3DCDC",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Ich und die anderen",
+      "anleitung": "Einsetzen bei Vergleich mit anderen (online/live), nicht bewerten, nur öffnen.",
+      "fragen": [
+        "Mit wem vergleichst du dich am meisten?",
+        "Was übersiehst du dabei an dir selbst?"
+      ],
+      "hinweis": "Nicht korrigierend eingreifen, wenn der Vergleich negativ ausfällt. Erst mal nur benennen lassen, was da ist.",
+      "bild": "images/jd/JD-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Was andere von mir denken",
+      "anleitung": "Bei „Die denken bestimmt...“ nutzen, Unterschied Annahme/Fakt zeigen.",
+      "fragen": [
+        "Woher weißt du, was die anderen wirklich denken?",
+        "Was würdest du dir wünschen, dass sie denken?"
+      ],
+      "hinweis": "Gut geeignet, wenn viele Gedanken um andere Menschen kreisen. Bei akuter sozialer Angst eher beruhigen als hinterfragen.",
+      "bild": "images/jd/JD-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Meine Stärken sehen",
+      "anleitung": "Für ruhige Momente, nicht in akuter Krise.",
+      "fragen": [
+        "Worauf bist du an dir selbst stolz, auch wenn es klein ist?",
+        "Wer würde dir noch eine Stärke von dir nennen?"
+      ],
+      "hinweis": "Nicht in akuten Krisenmomenten einsetzen – dann wirkt die Frage nach Stärken schnell deplatziert. Für ruhige Gesprächsmomente reservieren.",
+      "bild": "images/jd/JD-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Ein schlechter Tag ist kein schlechtes Ich",
+      "anleitung": "Nach Rückschlägen, Trennung Tag/Person betonen.",
+      "fragen": [
+        "Was ist heute schiefgelaufen – und was sagt das über dich als Person?",
+        "Was würdest du einer befreundeten Person an deiner Stelle sagen?"
+      ],
+      "hinweis": "Direkt nach einem Rückschlag einsetzbar. Hilft, Tagesform und Selbstbild zu trennen, bevor sich Selbstkritik festsetzt.",
+      "bild": "images/jd/JD-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Alle wissen schon, was sie wollen – nur ich nicht",
+      "anleitung": "Bei Berufswahl-/Zukunftsangst, Druck rausnehmen.",
+      "fragen": [
+        "Woher kommt das Gefühl, du müsstest es schon wissen?",
+        "Was interessiert dich gerade, auch wenn es kein Plan ist?"
+      ],
+      "hinweis": "Eignet sich gut mit Abstand zu konkreten Bewerbungs- oder Entscheidungsfristen – dann wirkt der Druck weniger akut.",
+      "bild": "images/jd/JD-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Erwartungen von zu Hause",
+      "anleitung": "Vorsichtig, nicht wertend gegenüber Eltern.",
+      "fragen": [
+        "Welche Erwartung spürst du am stärksten?",
+        "Ist das auch dein eigener Wunsch, oder eher ein fremder?"
+      ],
+      "hinweis": "Neutral bleiben, nicht gegen die Eltern positionieren, auch wenn der/die Jugendliche das erwartet.",
+      "bild": "images/jd/JD-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Angst vorm Scheitern",
+      "anleitung": "Bei Prüfungs-/Entscheidungsangst, Scheitern als Teil des Lernens.",
+      "fragen": [
+        "Was wäre das Schlimmste, wenn es nicht klappt?",
+        "Was würdest du danach als Nächstes tun?"
+      ],
+      "hinweis": "Nicht direkt vor der Prüfung einsetzen – dann hilft kurzfristige Beruhigung mehr als Reflexion. Gut geeignet in ruhigeren Momenten davor oder danach.",
+      "bild": "images/jd/JD-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Was, wenn ich meine Meinung später ändere?",
+      "anleitung": "Bei Entscheidungsdruck, Entscheidungen sind nicht endgültig.",
+      "fragen": [
+        "Was macht dir am meisten Angst an der Entscheidung?",
+        "Was würde passieren, wenn du sie später änderst?"
+      ],
+      "hinweis": "Hilfreich vor größeren Entscheidungen. Nicht erst einsetzen, wenn die Entscheidung schon gefallen ist.",
+      "bild": "images/jd/JD-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Streit ohne Verlierer",
+      "anleitung": "Direkt nach Konflikt, wenn beide ansprechbar sind.",
+      "fragen": [
+        "Was wolltest du eigentlich erreichen im Streit?",
+        "Was hättest du anders sagen können, ohne nachzugeben?"
+      ],
+      "hinweis": "Erst einsetzen, wenn sich die Situation beruhigt hat – mitten im akuten Streit wirkt die Karte eher wie ein Verhör.",
+      "bild": "images/jd/JD-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Wenn ich wütend bin, sage ich...",
+      "anleitung": "Bei wiederkehrenden verbalen Eskalationen, Fokus Formulierung statt Gefühl unterdrücken.",
+      "fragen": [
+        "Was sagst du normalerweise, wenn du wütend bist?",
+        "Wie könntest du dasselbe sagen, ohne zu verletzen?"
+      ],
+      "hinweis": "Fokus liegt auf der Formulierung, nicht auf dem Gefühl selbst. Wut nicht kleinreden, nur die Ausdrucksform gemeinsam anschauen.",
+      "bild": "images/jd/JD-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Missverständnisse klären",
+      "anleitung": "Bei Konflikt durch Fehlinterpretation, Fokus Nachfragen statt Annehmen.",
+      "fragen": [
+        "Was hast du gedacht, was der andere meint?",
+        "Was könntest du stattdessen fragen?"
+      ],
+      "hinweis": "Besonders wirksam bei wiederkehrenden Missverständnissen mit derselben Person – Muster sichtbar machen.",
+      "bild": "images/jd/JD-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Sich entschuldigen, ohne sich klein zu machen",
+      "anleitung": "Bei Widerstand gegen Entschuldigung, Entschuldigung ≠ Schwäche.",
+      "fragen": [
+        "Was fällt dir schwer am Entschuldigen?",
+        "Wie könntest du dich entschuldigen und trotzdem zu dir stehen?"
+      ],
+      "hinweis": "Nicht einsetzen, um eine Entschuldigung zu erzwingen. Die Karte öffnet, drängt aber nicht.",
+      "bild": "images/jd/JD-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Nein sagen können",
+      "anleitung": "Bei wiederkehrendem Nachgeben trotz Widerwillen.",
+      "fragen": [
+        "Wann fällt dir Nein sagen besonders schwer?",
+        "Was könnte passieren, wenn du es trotzdem sagst?"
+      ],
+      "hinweis": "Gut geeignet, um ein wiederkehrendes Muster zu benennen, statt nur eine einzelne Situation zu bearbeiten.",
+      "bild": "images/jd/JD-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Gruppendruck erkennen",
+      "anleitung": "Bei Mitläufer-Verhalten/Gruppenzwang.",
+      "fragen": [
+        "Wann hast du zuletzt etwas gemacht, das du eigentlich nicht wolltest?",
+        "Was hätte dir geholfen, anders zu handeln?"
+      ],
+      "hinweis": "Nicht moralisierend einsetzen – Ziel ist Verstehen des eigenen Verhaltens, nicht Bewertung.",
+      "bild": "images/jd/JD-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Meine Grenze ist okay, auch wenn andere sie nicht verstehen",
+      "anleitung": "Nach Zurückweisung wegen einer Grenze, bestärkend nicht rechtfertigend.",
+      "fragen": [
+        "Wessen Reaktion beschäftigt dich gerade am meisten?",
+        "Was würdest du dir selbst sagen, wenn du dich verstehst?"
+      ],
+      "hinweis": "Bestärkend einsetzen, nicht um die Grenze im Nachhinein zu rechtfertigen oder zu verhandeln.",
+      "bild": "images/jd/JD-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Wann sage ich \"Stopp\"?",
+      "anleitung": "Vorsorglich einsetzen, nicht in akuter Grenzverletzung – das ist ein Moment für sofortiges Handeln, nicht für Reflexion.",
+      "fragen": [
+        "Woran merkst du, dass eine Grenze erreicht ist?",
+        "Wie klingt dein Stopp – laut, leise, deutlich?"
+      ],
+      "hinweis": "Nicht in einer akuten Grenzverletzung einsetzen – dann braucht es sofortiges Eingreifen, keine Reflexion. Diese Karte ist für ruhige Momente zur Vorbereitung gedacht.",
+      "bild": "images/jd/JD-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Vor der Prüfung: was hilft wirklich?",
+      "anleitung": "In Prüfungsvorbereitung, konkrete machbare Ideen statt Druck.",
+      "fragen": [
+        "Was hilft dir wirklich, wenn du nervös bist?",
+        "Was tust du stattdessen, obwohl es nicht hilft?"
+      ],
+      "hinweis": "Am besten mit zeitlichem Abstand zur Prüfung nutzen, damit die Ideen auch umsetzbar sind.",
+      "bild": "images/jd/JD-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Wenn der Kopf voll ist",
+      "anleitung": "Bei Gedankenkarussell/Überforderung, kein Lösungsdruck.",
+      "fragen": [
+        "Was drängt sich gerade am meisten in deinem Kopf?",
+        "Was könntest du für einen Moment beiseitelegen?"
+      ],
+      "hinweis": "Keinen Lösungsdruck aufbauen – reicht, wenn die Gedanken einmal ausgesprochen werden.",
+      "bild": "images/jd/JD-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Perfekt ist nicht das Ziel",
+      "anleitung": "Bei Perfektionismus/Selbstkritik nach Ergebnissen.",
+      "fragen": [
+        "Wie gut muss etwas sein, damit es für dich okay ist?",
+        "Was verpasst du, wenn du auf perfekt wartest?"
+      ],
+      "hinweis": "Nicht direkt nach einem konkreten Misserfolg einsetzen, wenn die Selbstkritik noch frisch ist – dann eher validieren.",
+      "bild": "images/jd/JD-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Pause ist keine Schwäche",
+      "anleitung": "Bei Erschöpfung trotz Erfolgsdruck, Pause als Strategie framen.",
+      "fragen": [
+        "Wann hast du dir zuletzt eine echte Pause erlaubt?",
+        "Was hält dich davon ab, öfter zu pausieren?"
+      ],
+      "hinweis": "Pause als Strategie framen, nicht als Belohnung fürs Funktionieren – sonst bleibt der Leistungsdruck im Hintergrund bestehen.",
+      "bild": "images/jd/JD-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Ernst genommen werden wollen",
+      "anleitung": "Bei „das verstehst du noch nicht“-Erfahrungen.",
+      "fragen": [
+        "Wann hast du dich zuletzt nicht ernst genommen gefühlt?",
+        "Was würde dir zeigen, dass man dich ernst nimmt?"
+      ],
+      "hinweis": "Erst mal nur zuhören – die Erfahrung nicht relativieren, auch wenn sie aus Erwachsenensicht nachvollziehbar wirkt.",
+      "bild": "images/jd/JD-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Wenn Erwachsene nicht zuhören",
+      "anleitung": "Bei Kommunikationsabbruch mit Eltern/Lehrkräften.",
+      "fragen": [
+        "Woran merkst du, dass jemand nicht wirklich zuhört?",
+        "Was könntest du anders sagen, damit es ankommt?"
+      ],
+      "hinweis": "Fokus auf die eigene Formulierung legen, nicht auf eine Verteidigung der Erwachsenen.",
+      "bild": "images/jd/JD-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Vertrauen aufbauen",
+      "anleitung": "Bei belastetem Verhältnis zu Bezugsperson, langsamer Prozess.",
+      "fragen": [
+        "Was bräuchtest du, um wieder mehr zu vertrauen?",
+        "Was hast du selbst schon getan, um Vertrauen aufzubauen?"
+      ],
+      "hinweis": "Als langsamer Prozess verstehen – keine schnelle Lösung erwarten oder einfordern.",
+      "bild": "images/jd/JD-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie ich Hilfe holen kann, ohne mich zu schämen",
+      "anleitung": "Bei Hilfe-Vermeidung aus Scham, Hilfe holen als Stärke framen.",
+      "fragen": [
+        "Was hält dich davon ab, Hilfe zu holen?",
+        "Wer wäre eine Person, die du fragen könntest?"
+      ],
+      "hinweis": "Hilfe holen konsequent als Stärke framen, nie als letzten Ausweg.",
+      "bild": "images/jd/JD-24.jpg"
+    },
+    {
+      "nr": 25,
+      "titel": "Wer bin ich, wenn ich allein bin?",
+      "anleitung": "Bei Fragen nach Identität abseits von Gruppenzugehörigkeit.",
+      "fragen": [
+        "Was machst du gern, wenn niemand zuschaut?",
+        "Was davon zeigst du auch anderen?"
+      ],
+      "hinweis": "Eignet sich gut in ruhigen, unbeobachteten Momenten – nicht in der Gruppe oder unter Zeitdruck stellen.",
+      "bild": "images/jd/JD-25.jpg"
+    },
+    {
+      "nr": 26,
+      "titel": "Anders sein dürfen",
+      "anleitung": "Bei Anpassungsdruck/Scham über eigene Interessen.",
+      "fragen": [
+        "Was an dir ist anders als bei den meisten anderen?",
+        "Wann fühlt sich das gut an, wann schwer?"
+      ],
+      "hinweis": "Unterschiede wertfrei stehen lassen – nicht vorschnell normalisieren oder erklären wollen.",
+      "bild": "images/jd/JD-26.jpg"
+    },
+    {
+      "nr": 27,
+      "titel": "Was mir wichtig ist",
+      "anleitung": "Für Werteklärung, z. B. nach Konflikten über Prioritäten.",
+      "fragen": [
+        "Was ist dir wichtiger als du zeigst?",
+        "Wofür würdest du auch mal unbequem werden?"
+      ],
+      "hinweis": "Gut nach Konflikten über Prioritäten einsetzbar – hilft, eigene Werte von übernommenen zu unterscheiden.",
+      "bild": "images/jd/JD-27.jpg"
+    },
+    {
+      "nr": 28,
+      "titel": "Vergleich mit dem, wer ich mal war",
+      "anleitung": "Bei Veränderungswunsch/Rückblick.",
+      "fragen": [
+        "Was ist heute anders an dir als vor einem Jahr?",
+        "Was davon war deine Entscheidung, was ist einfach passiert?"
+      ],
+      "hinweis": "Rückblick wertschätzend halten – auch unfreiwillige Veränderungen dürfen als Veränderung stehen bleiben.",
+      "bild": "images/jd/JD-28.jpg"
+    },
+    {
+      "nr": 29,
+      "titel": "Handy weglegen können",
+      "anleitung": "Bei Kontrollverlust-Gefühl, nicht moralisierend.",
+      "fragen": [
+        "Wann merkst du, dass du eigentlich aufhören wolltest?",
+        "Was passiert kurz bevor du wieder zum Handy greifst?"
+      ],
+      "hinweis": "Nicht moralisierend einsetzen – Ziel ist Selbstbeobachtung, nicht Handyverzicht als Ziel an sich.",
+      "bild": "images/jd/JD-29.jpg"
+    },
+    {
+      "nr": 30,
+      "titel": "Online anders sein als offline",
+      "anleitung": "Bei Diskrepanz Online-Auftritt/echtes Erleben.",
+      "fragen": [
+        "Was zeigst du online, was du offline nicht zeigst?",
+        "Was würde passieren, wenn beides gleicher wäre?"
+      ],
+      "hinweis": "Ohne Bewertung der Online-Selbstdarstellung einsetzen – Unterschied benennen reicht, muss nicht aufgelöst werden.",
+      "bild": "images/jd/JD-30.jpg"
+    },
+    {
+      "nr": 31,
+      "titel": "Nachts noch wach wegen dem Handy",
+      "anleitung": "Bei Schlafproblemen durch Bildschirmzeit.",
+      "fragen": [
+        "Was hält dich nachts am Handy fest?",
+        "Was würdest du morgen gern anders machen?"
+      ],
+      "hinweis": "Halten die Schlafprobleme über längere Zeit an, ist das ein Fall für Eltern oder eine Fachperson – nicht für weitere Nachfragen durch die INGRA.",
+      "bild": "images/jd/JD-31.jpg"
+    },
+    {
+      "nr": 32,
+      "titel": "Wenn ein Kommentar wehtut",
+      "anleitung": "Nach negativer Online-Erfahrung.",
+      "fragen": [
+        "Was genau hat dich an dem Kommentar getroffen?",
+        "Was hättest du gebraucht, direkt danach?"
+      ],
+      "hinweis": "Zeitnah nach dem Erlebnis einsetzen, wenn möglich – validieren geht vor Einordnen.",
+      "bild": "images/jd/JD-32.jpg"
+    },
+    {
+      "nr": 33,
+      "titel": "Wenn sich zu Hause etwas ändert",
+      "anleitung": "Bei Trennung/Umzug/neuer Familienkonstellation, sehr vorsichtig.",
+      "fragen": [
+        "Was ist für dich gerade am schwersten an der Veränderung?",
+        "Was ist gleich geblieben, trotz allem?"
+      ],
+      "hinweis": "Besonders vorsichtig einsetzen und Tempo der/des Jugendlichen überlassen – bei akuter Belastung eher nicht vertiefen.",
+      "bild": "images/jd/JD-33.jpg"
+    },
+    {
+      "nr": 34,
+      "titel": "Zwischen zwei Zuhause",
+      "anleitung": "Für Jugendliche im Wechselmodell.",
+      "fragen": [
+        "Was ist an jedem der beiden Zuhause gut?",
+        "Was nimmst du dir von einem Ort zum anderen mit?"
+      ],
+      "hinweis": "Beide Zuhause wertfrei nebeneinander stehen lassen – keinen Ort besser oder schlechter dastehen lassen.",
+      "bild": "images/jd/JD-34.jpg"
+    },
+    {
+      "nr": 35,
+      "titel": "Neue Familienmitglieder akzeptieren",
+      "anleitung": "Bei Patchwork/Stiefgeschwistern/neuen Bezugspersonen der Eltern.",
+      "fragen": [
+        "Was fällt dir an der neuen Situation schwer?",
+        "Wobei bräuchtest du mehr Zeit?"
+      ],
+      "hinweis": "Zeit als legitimen Faktor anerkennen – Akzeptanz darf sich nicht erzwingen lassen.",
+      "bild": "images/jd/JD-35.jpg"
+    },
+    {
+      "nr": 36,
+      "titel": "Verantwortung für jüngere Geschwister",
+      "anleitung": "Bei Überforderung durch Care-Aufgaben.",
+      "fragen": [
+        "Was übernimmst du zu Hause, das eigentlich viel für dich ist?",
+        "Wer weiß, wie viel das gerade ist?"
+      ],
+      "hinweis": "Aufmerksam sein, ob die Verantwortung altersgerecht ist. Bei deutlicher Überforderung reicht Reflexion allein nicht – dann Rücksprache mit der für den Hilfeplan zuständigen Fachkraft halten.",
+      "bild": "images/jd/JD-36.jpg"
+    },
+    {
+      "nr": 37,
+      "titel": "Etwas Neues ausprobieren",
+      "anleitung": "Bei Zurückhaltung vor neuen Aktivitäten/Freundschaften.",
+      "fragen": [
+        "Was würdest du gern ausprobieren, wenn nichts schiefgehen könnte?",
+        "Was ist der kleinste erste Schritt?"
+      ],
+      "hinweis": "Kleine, machbare erste Schritte betonen – große Veränderungen wirken eher abschreckend.",
+      "bild": "images/jd/JD-37.jpg"
+    },
+    {
+      "nr": 38,
+      "titel": "Einen Fehler zugeben",
+      "anleitung": "Nach eigenem Fehlverhalten.",
+      "fragen": [
+        "Was ist das Schlimmste, das passieren könnte, wenn du es zugibst?",
+        "Was würde es leichter machen?"
+      ],
+      "hinweis": "Nicht einsetzen, um ein Geständnis zu erzwingen – die Karte unterstützt, wenn der Wunsch zuzugeben schon da ist.",
+      "bild": "images/jd/JD-38.jpg"
+    },
+    {
+      "nr": 39,
+      "titel": "Feedback annehmen, ohne einzuknicken",
+      "anleitung": "Nach kritischem Feedback von Lehrkraft/Trainer:in.",
+      "fragen": [
+        "Welcher Teil des Feedbacks stimmt, auch wenn's wehtut?",
+        "Welcher Teil gehört nicht dir?"
+      ],
+      "hinweis": "Mit etwas zeitlichem Abstand zum Feedback einsetzen, wenn die erste Reaktion abgeklungen ist.",
+      "bild": "images/jd/JD-39.jpg"
+    },
+    {
+      "nr": 40,
+      "titel": "Stolz auf den eigenen Weg",
+      "anleitung": "Möglicher Abschluss-Impuls, Rückblick auf Wachstum.",
+      "fragen": [
+        "Worauf bist du stolz, wenn du auf die letzten Monate schaust?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Gut als Abschlusskarte einer Begleitung oder eines Zeitraums geeignet – bewusst als Rückblick, nicht als Bewertung rahmen.",
+      "bild": "images/jd/JD-40.jpg"
+    },
+    {
+      "nr": 41,
+      "titel": "Erstes Praktikum – und dann?",
+      "anleitung": "Einsetzen vor oder während des ersten Praktikums/Werkstatttags, wenn Unsicherheit vor der neuen Situation im Vordergrund steht.",
+      "fragen": [
+        "Was macht dir am meisten Sorgen vor dem Praktikum?",
+        "Was würde dir helfen, es trotzdem zu versuchen?"
+      ],
+      "hinweis": "Angst nicht kleinreden, nur öffnen. Nicht einsetzen, um die Sorge wegzureden.",
+      "bild": "images/jd/JD-41.jpg"
+    },
+    {
+      "nr": 42,
+      "titel": "Wenn die Arbeit nicht wie erwartet ist",
+      "anleitung": "Bei Enttäuschung während/nach einem Praktikum, wenn die Realität nicht dem Wunschberuf entspricht.",
+      "fragen": [
+        "Was ist anders, als du es dir vorgestellt hast?",
+        "Was nimmst du trotzdem für dich mit?"
+      ],
+      "hinweis": "Enttäuschung nicht wegreden, aber auch nicht als endgültiges Urteil über den ganzen Berufsweg stehen lassen.",
+      "bild": "images/jd/JD-42.jpg"
+    },
+    {
+      "nr": 43,
+      "titel": "Kritik bei der Arbeit annehmen",
+      "anleitung": "Rückmeldung von Anleiter:innen/Chef:innen in der echten Arbeitswelt, wo Fehler direkte Konsequenzen haben können.",
+      "fragen": [
+        "Was war schwer an der Rückmeldung?",
+        "Was machst du beim nächsten Mal anders?"
+      ],
+      "hinweis": "Anders als bei JD-39 (Feedback von Lehrkraft/Trainer:in): hier zählt, dass Fehler in der Arbeitswelt andere Folgen haben als in der Schule. Nicht relativieren, aber auch nicht dramatisieren.",
+      "bild": "images/jd/JD-43.jpg"
+    },
+    {
+      "nr": 44,
+      "titel": "Was ich wirklich gut kann",
+      "anleitung": "Für Selbstwirksamkeitserleben durch praktische/handwerkliche Tätigkeit, besonders wertvoll für Jugendliche mit wenig schulischen Erfolgserlebnissen.",
+      "fragen": [
+        "Bei welcher Aufgabe hast du gemerkt: Das kann ich richtig gut?",
+        "Wer hat das auch schon an dir bemerkt?"
+      ],
+      "hinweis": "Gut direkt nach einem gelungenen praktischen Arbeitsschritt einsetzbar, um Erfolg bewusst zu machen.",
+      "bild": "images/jd/JD-44.jpg"
+    },
+    {
+      "nr": 45,
+      "titel": "Wenn eine Beziehung endet",
+      "anleitung": "Bei akutem Trennungsschmerz, keine schnellen Lösungen anbieten, Trennung nicht bewerten, auch wenn sie kurz war.",
+      "fragen": [
+        "Was tut gerade am meisten weh?",
+        "Was ist gleich geblieben, obwohl sich gerade so viel verändert hat?"
+      ],
+      "hinweis": "Nicht relativieren („war doch nur kurz zusammen“) – der Schmerz ist unabhängig von der Beziehungsdauer real. Bei anhaltender starker Belastung nicht allein mit Reflexion arbeiten, Fachperson einbeziehen.",
+      "bild": "images/jd/JD-45.jpg"
+    },
+    {
+      "nr": 46,
+      "titel": "Verliebt sein zum ersten Mal",
+      "anleitung": "Bei erster Beziehung/Verliebtheit, Aufregung und Unsicherheit gleichermaßen Raum geben, nicht belächeln.",
+      "fragen": [
+        "Was macht dich an der Situation gerade am meisten unsicher?",
+        "Was würdest du gern jemanden fragen, der/die schon mehr Erfahrung hat?"
+      ],
+      "hinweis": "Nicht ins Elternhafte kippen („das geht schon vorbei“) – ernst nehmen, ohne zu dramatisieren oder zu verharmlosen.",
+      "bild": "images/jd/JD-46.jpg"
+    },
+    {
+      "nr": 47,
+      "titel": "Eifersucht, die alles auffrisst",
+      "anleitung": "Bei starker Eifersucht, Gefühl benennen ohne zu bewerten, Fokus auf eigenes Erleben statt Kontrolle der anderen Person.",
+      "fragen": [
+        "Was genau macht dir am meisten Angst, wenn du eifersüchtig bist?",
+        "Was würde dir helfen, dich sicherer zu fühlen, ohne die andere Person zu kontrollieren?"
+      ],
+      "hinweis": "Gefühl nicht moralisch bewerten, aber auf kontrollierendes Verhalten (Nachrichten checken, Ausfragen) behutsam hinweisen, wenn es zur Sprache kommt.",
+      "bild": "images/jd/JD-47.jpg"
+    },
+    {
+      "nr": 48,
+      "titel": "Wenn die Gefühle nicht erwidert werden",
+      "anleitung": "Bei unerwiderter Liebe/Zurückweisung, Gefühl der Ablehnung validieren, bevor irgendetwas eingeordnet wird.",
+      "fragen": [
+        "Was war der schwerste Moment, als du gemerkt hast, dass die Gefühle nicht erwidert werden?",
+        "Was hilft dir, trotzdem zu dir zu stehen?"
+      ],
+      "hinweis": "Validieren geht vor Einordnen (wie bei JD-32). Nicht vorschnell trösten („es gibt so viele andere“) – erst das Gefühl anerkennen. Bei Anzeichen von Rückzug oder starker Verzweiflung nicht allein lassen – Fachperson einbeziehen.",
+      "bild": "images/jd/JD-48.jpg"
+    },
+    {
+      "nr": 49,
+      "titel": "Was eine gute Freundschaft ausmacht",
+      "anleitung": "Für ruhige Reflexionsmomente, nicht nur in Konfliktsituationen einsetzbar.",
+      "fragen": [
+        "Was schätzt du an deiner besten Freundschaft am meisten?",
+        "Was gibst du selbst in diese Freundschaft?"
+      ],
+      "hinweis": "Guter positiver Gegenpol zu den Konflikt-Karten (JD-09 bis JD-12) – nicht nur bei Problemen an Freundschaft erinnern.",
+      "bild": "images/jd/JD-49.jpg"
+    },
+    {
+      "nr": 50,
+      "titel": "Für jemanden da sein, ohne sich zu verlieren",
+      "anleitung": "Bei Überforderung durch die Bedürfnisse von Freund:innen.",
+      "fragen": [
+        "Wie viel gibst du gerade in dieser Freundschaft, und wie viel bekommst du zurück?",
+        "Woran würdest du merken, dass es zu viel wird?"
+      ],
+      "hinweis": "Nicht in Richtung „diese Freundschaft beenden“ lenken – Ziel ist Balance finden, nicht Bewertung der Freundschaft.",
+      "bild": "images/jd/JD-50.jpg"
+    },
+    {
+      "nr": 51,
+      "titel": "Dazugehören, ohne sich zu verbiegen",
+      "anleitung": "Bei Unsicherheit, ob man in eine Gruppe passt, oder dem Gefühl, sich anpassen zu müssen.",
+      "fragen": [
+        "Bei wem fühlst du dich am meisten du selbst?",
+        "Was müsstest du an dir ändern, um noch mehr dazuzugehören – und willst du das?"
+      ],
+      "hinweis": "Anschlussfähig an JD-26 (Anders sein dürfen) – hier der Fokus auf die Gruppe statt auf das Individuum.",
+      "bild": "images/jd/JD-51.jpg"
+    },
+    {
+      "nr": 52,
+      "titel": "Wenn Freundschaften sich verändern",
+      "anleitung": "Bei auseinanderdriftenden Freundschaften, z. B. nach Schulwechsel oder unterschiedlicher Entwicklung.",
+      "fragen": [
+        "Was hat sich zwischen euch verändert?",
+        "Was bleibt trotzdem wertvoll, auch wenn es nicht mehr wie früher ist?"
+      ],
+      "hinweis": "Nicht als Scheitern rahmen – Veränderung von Freundschaften ist normal, nicht automatisch ein Verlust.",
+      "bild": "images/jd/JD-52.jpg"
+    }
+  ]
+}

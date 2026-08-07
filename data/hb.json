@@ -1,0 +1,203 @@
+{
+  "id": "hb",
+  "titel": "Hochbegabung",
+  "untertitel": "Erkennen, Herausforderungen, Handeln",
+  "farbe": "#2024C4",
+  "farbe_hell": "#E3E4FA",
+  "farbe_rand": "#B2B5ED",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Was ist Hochbegabung?",
+      "icon": "lightbulb",
+      "situation": "Hochbegabung ist mehr als ein hoher IQ – sie zeigt sich erst im Zusammenspiel von Fähigkeit, Kreativität und Motivation.",
+      "schritte": [
+        "Nicht nur IQ – Renzulli (1978): Hochbegabung = überdurchschnittliche Fähigkeit + Kreativität + Aufgabenengagement",
+        "Umfeld zählt mit – Mönks (1990): zusätzlich entscheidend sind Familie, Schule, Gleichaltrige",
+        "Vier Bereiche möglich – Gagné (DMGT): intellektuell, kreativ, sozio-affektiv, sensomotorisch",
+        "Häufigkeit – enger IQ-Sinn meist oberste ca. 2%, im weiteren Begabungssinn (Gagné) oberste 10%",
+        "Kein Selbstläufer – Begabung wird nur mit Förderung zu sichtbarer Leistung (Talent)",
+        "Nicht immer sichtbar – zeigt sich nicht zwingend in guten Noten"
+      ],
+      "merksatz": "„Hochbegabung ist ein Potenzial – keine Garantie.“",
+      "badge": "HB-01 · Schulbegleitung & Team – Basiswissen"
+    },
+    {
+      "nr": 2,
+      "titel": "Merkmale erkennen",
+      "icon": "magnifying-glass",
+      "situation": "Typische Anzeichen im Schulalltag – frühzeitig erkennen statt erst bei Auffälligkeiten reagieren.",
+      "schritte": [
+        "Schnelles Begreifen – neue Inhalte werden ungewöhnlich schnell erfasst",
+        "Großer Wortschatz – differenzierte Sprache, oft wie „kleine Erwachsene“",
+        "Hohe Wissbegierde – viele Fragen, eigenständige Themenvertiefung",
+        "Ungewöhnliches Gedächtnis – merkt sich Zusammenhänge, nicht nur Fakten",
+        "Hoher eigener Anspruch – Perfektionismus zeigt sich oft schon früh",
+        "Quer denken – ungewöhnliche Lösungswege, hinterfragt Regeln und Autoritäten",
+        "Nicht immer „Streber“ – manche fallen eher durch Langeweile oder Verhalten auf"
+      ],
+      "merksatz": "„Wer immer 'warum' fragt, denkt oft schon einen Schritt weiter.“",
+      "badge": "HB-02 · Schulbegleitung & Lehrkraft – frühzeitige Einschätzung"
+    },
+    {
+      "nr": 3,
+      "titel": "Asynchrone Entwicklung",
+      "icon": "shuffle",
+      "situation": "Kognitiv oft weit voraus, emotional altersgemäß – die Entwicklung verläuft nicht gleichmäßig.",
+      "schritte": [
+        "Ungleiche Entwicklung – Denken kann Jahre voraus sein, Gefühlsregulation nicht",
+        "Typische Folge – diskutiert wie ein Teenager, reagiert bei Frustration wie das eigene Alter",
+        "Nicht „verwöhnt“ – Wutausbrüche oder Tränen sind Ausdruck der Entwicklungslücke, keine Charakterschwäche",
+        "Selbstwahrnehmung – Kinder merken oft selbst, dass sie „anders“ ticken – das verunsichert",
+        "Konsequenz für uns – kognitiv fordern, aber emotional altersgemäß begleiten",
+        "Nicht überfordern – hohes Denkvermögen bedeutet nicht automatisch Reife in allen Bereichen"
+      ],
+      "merksatz": "„Klug im Kopf – kindlich im Gefühl. Beides ist wahr.“",
+      "badge": "HB-03 · Schulbegleitung – Einordnung von Verhalten"
+    },
+    {
+      "nr": 4,
+      "titel": "Underachievement",
+      "icon": "arrow-trend-down",
+      "situation": "Wenn Potenzial nicht sichtbar wird – je nach Definition bleiben ca. 10–25% der Hochbegabten unter ihren Möglichkeiten.",
+      "schritte": [
+        "Was es ist – deutliche Lücke zwischen Fähigkeit und tatsächlicher schulischer Leistung",
+        "Häufigkeit – Schätzungen schwanken je nach Definition zwischen ca. 10 und 25%",
+        "Typische Anzeichen – schwache Noten trotz hoher Fähigkeit, unvollständige Aufgaben, Desinteresse",
+        "Häufige Ursachen – fehlende Lernstrategien (nie nötig gewesen), Unterforderung, fehlende Anerkennung",
+        "Teufelskreis – schlechte Erfahrungen führen zu noch weniger Engagement",
+        "Was hilft – Ursache statt Symptom ansprechen, kleine Erfolgserlebnisse schaffen, echte Herausforderung bieten"
+      ],
+      "merksatz": "„Nicht faul – oft einfach nie gefordert.“",
+      "badge": "HB-04 · Schulbegleitung & Lehrkraft"
+    },
+    {
+      "nr": 5,
+      "titel": "Perfektionismus & Versagensangst",
+      "icon": "circle-exclamation",
+      "situation": "Hoher eigener Anspruch kann zur Blockade werden, wenn Fehler als Bedrohung erlebt werden.",
+      "schritte": [
+        "Woher es kommt – frühe Erfolge ohne Anstrengung erzeugen die Erwartung, alles müsse leicht und perfekt gelingen",
+        "Typisches Muster – Angst vor der ersten echten Herausforderung, lieber gar nicht anfangen als scheitern",
+        "Vermeidung – Aufgaben werden verzögert, abgebrochen oder ganz gemieden",
+        "Selbstwert hängt an Leistung – ein Fehler wird schnell als „ich bin nicht gut genug“ erlebt",
+        "Was hilft – Anstrengung statt Ergebnis loben, eigenes Scheitern normalisieren, Fehler als Lernschritt zeigen",
+        "Vorsicht – keinen zusätzlichen Druck durch noch höhere Erwartungen aufbauen"
+      ],
+      "merksatz": "„Nicht das Ergebnis zählt zuerst – der Versuch.“",
+      "badge": "HB-05 · Schulbegleitung – emotionale Begleitung"
+    },
+    {
+      "nr": 6,
+      "titel": "Soziale Herausforderungen",
+      "icon": "user-group",
+      "situation": "Anschluss an Gleichaltrige finden, wenn die Denkweise weit voraus ist.",
+      "schritte": [
+        "Fehlender Anschluss – Interessen und Gesprächsthemen unterscheiden sich oft deutlich von Gleichaltrigen",
+        "Mönks-Modell – soziale Kompetenz und Umfeld sind mitentscheidend, ob Begabung sich gut entfalten kann",
+        "Typische Reaktionen – Rückzug, Anpassung nach unten („Dummstellen“) oder dominantes Verhalten in der Gruppe",
+        "Geistige Peers – oft mehr Verständnis bei älteren Kindern oder Erwachsenen als bei Gleichaltrigen",
+        "Was hilft – Kontakt zu Kindern mit ähnlichen Interessen ermöglichen, nicht nur nach Alter gruppieren",
+        "Vorsicht – „Dummstellen“ nicht bestärken, echtes Interesse ernst nehmen"
+      ],
+      "merksatz": "„Gleich alt heißt nicht automatisch gleich gut verstanden.“",
+      "badge": "HB-06 · Schulbegleitung – soziale Integration"
+    },
+    {
+      "nr": 7,
+      "titel": "Doppelbegabung / Twice-Exceptional",
+      "icon": "clone",
+      "situation": "Hochbegabung kann eine andere Besonderheit überdecken – und umgekehrt.",
+      "schritte": [
+        "Was es bedeutet – Hochbegabung tritt gemeinsam mit einer weiteren Besonderheit auf, z. B. ADHS, Autismus oder LRS",
+        "Maskierungseffekt – Begabung kann die andere Besonderheit verdecken, die Besonderheit die Begabung",
+        "Verwechslungsgefahr – Unruhe kann als ADHS gedeutet werden, obwohl sie eigentlich Unterforderung ist – oder umgekehrt",
+        "Doppelte Härte – betroffene Kinder erfüllen oft keine der beiden „reinen“ Erwartungshaltungen",
+        "Was hilft – beide Seiten mitdenken, nicht vorschnell nur eine Erklärung suchen",
+        "Fachliche Abklärung – bei Verdacht auf Doppelbegabung lohnt sich eine differenzierte Diagnostik"
+      ],
+      "merksatz": "„Zwei Besonderheiten können sich gegenseitig verstecken.“",
+      "badge": "HB-07 · Schulbegleitung – Diagnostik-Bewusstsein"
+    },
+    {
+      "nr": 8,
+      "titel": "Langeweile & Verweigerung",
+      "icon": "clock",
+      "situation": "Unterforderung sieht im Klassenzimmer oft aus wie ein Verhaltensproblem.",
+      "schritte": [
+        "Häufiges Muster – Unterricht wird als zu langsam oder zu einfach erlebt",
+        "Typische Reaktionen – Stören, Tagträumen, Widerstand, „Klassenclown“-Verhalten",
+        "Fehlschluss – vorschnell als Verhaltensauffälligkeit oder Konzentrationsproblem eingeordnet",
+        "Genauer hinschauen – wann genau tritt das Verhalten auf? Bei welchen Aufgaben?",
+        "Was hilft – zusätzliche Denkanstöße, komplexere Aufgabenstellungen, Verantwortung übertragen",
+        "Nicht nur bestrafen – Konsequenzen ohne Ursachenklärung ändern nichts an der Unterforderung"
+      ],
+      "merksatz": "„Wer sich langweilt, sucht sich seine eigene Beschäftigung – nicht immer die gewünschte.“",
+      "badge": "HB-08 · Schulbegleitung – Verhalten einordnen"
+    },
+    {
+      "nr": 9,
+      "titel": "Enrichment & Akzeleration",
+      "icon": "rocket",
+      "situation": "Zwei bewährte Wege, Begabung passend zu fördern.",
+      "schritte": [
+        "Enrichment – zusätzliche Vertiefung und Erweiterung innerhalb oder neben dem regulären Unterricht",
+        "Akzeleration – schnelleres Durchlaufen des Lernstoffs, z. B. Klasse überspringen oder Fächer vorziehen",
+        "Beides möglich – die Wege schließen sich nicht aus, oft ist eine Kombination sinnvoll",
+        "Kein Standardrezept – die passende Form hängt vom einzelnen Kind ab, nicht nur vom Fähigkeitsniveau",
+        "Rolle der Schulbegleitung – Beobachtungen einbringen, wo genau das Kind unterfordert wirkt",
+        "Realistisch bleiben – Fördermaßnahmen brauchen Abstimmung mit Lehrkraft, Schulleitung und Eltern"
+      ],
+      "merksatz": "„Nicht mehr vom Gleichen – sondern etwas anderes oder schneller.“",
+      "badge": "HB-09 · Schulbegleitung & Lehrkraft – Fördermöglichkeiten"
+    },
+    {
+      "nr": 10,
+      "titel": "Diagnostik: wann testen?",
+      "icon": "list-check",
+      "situation": "Eine Testung kann Klarheit schaffen – aber sie ist kein Muss und keine alleinige Entscheidung der Schulbegleitung.",
+      "schritte": [
+        "Wann sinnvoll – bei deutlichem Verdacht, v. a. wenn Verhalten oder Leistung nicht erklärbar wirken",
+        "Wer entscheidet – Eltern in Abstimmung mit Fachstellen, nicht die Schulbegleitung allein",
+        "Was getestet wird – meist IQ-Tests, ergänzt um Persönlichkeits- und Motivationsfragebögen",
+        "Kein Selbstzweck – eine Diagnose allein verändert nichts, entscheidend ist die daraus folgende Förderung",
+        "Rolle der Schulbegleitung – Beobachtungen dokumentieren, die für die Fachstelle hilfreich sein können",
+        "Nicht drängen – Familien brauchen Zeit, sich für oder gegen eine Testung zu entscheiden"
+      ],
+      "merksatz": "„Eine Diagnose ist ein Werkzeug – kein Etikett.“",
+      "badge": "HB-10 · Schulbegleitung – Einordnung, nicht Durchführung"
+    },
+    {
+      "nr": 11,
+      "titel": "Zusammenarbeit mit der Lehrkraft",
+      "icon": "handshake",
+      "situation": "Fördermaßnahmen wirken nur, wenn Schulbegleitung und Lehrkraft an einem Strang ziehen.",
+      "schritte": [
+        "Beobachtungen teilen – konkrete Situationen schildern, nicht nur „das Kind ist unterfordert“",
+        "Gemeinsame Sprache finden – Begriffe wie Asynchronie oder Underachievement kurz erklären, wenn nötig",
+        "Kleine Schritte vorschlagen – z. B. Zusatzaufgaben, mehr Verantwortung, differenzierte Arbeitsaufträge",
+        "Regelmäßig austauschen – kurze, feste Rückmeldungen statt einmaliger Gespräche",
+        "Verständnis werben – Unterforderung wird im stressigen Schulalltag leicht übersehen",
+        "Realistisch bleiben – nicht jede Idee ist sofort umsetzbar, kleine Erfolge zählen"
+      ],
+      "merksatz": "„Eine gute Idee ohne Absprache bleibt wirkungslos.“",
+      "badge": "HB-11 · Schulbegleitung – Abstimmung im Team"
+    },
+    {
+      "nr": 12,
+      "titel": "Elterngespräch bei Hochbegabung",
+      "icon": "comments",
+      "situation": "Eltern hochbegabter Kinder erleben oft Skepsis – ein sensibles Gespräch braucht Fingerspitzengefühl.",
+      "schritte": [
+        "Häufige Reaktion – manche Eltern erleben Unglauben oder Abwehr („stellt sich nur an“)",
+        "Andere Eltern – manche vermuten Hochbegabung schon lange und fühlen sich endlich gehört",
+        "Ohne Etikett sprechen – Beobachtungen statt Diagnosen schildern",
+        "Ressourcen zeigen – nicht nur Herausforderungen, auch Stärken benennen",
+        "Nächste Schritte – bei Bedarf auf Fachstellen zur Diagnostik hinweisen, keine Vorfestlegung treffen",
+        "Über TK – Elternkontakt läuft wie bei anderen Themen über die Teamkoordination"
+      ],
+      "merksatz": "„Erst zuhören, dann einordnen.“",
+      "badge": "HB-12 · Schulbegleitung – über TK/Klassenleitung"
+    }
+  ]
+}

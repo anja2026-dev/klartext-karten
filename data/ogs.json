@@ -1,0 +1,426 @@
+{
+  "id": "ogs",
+  "titel": "OGS-Deck",
+  "untertitel": "Impulskarten Offene Ganztagsschule",
+  "farbe": "#8BC34A",
+  "farbe_hell": "#EEF6E3",
+  "farbe_rand": "#CEE3B0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Die Gruppe gerade lesen",
+      "anleitung": "Guter Einstieg, um die aktuelle Gruppenphase bewusst wahrzunehmen.",
+      "fragen": [
+        "In welcher Phase steckt deine Gruppe gerade – neu zusammen, mitten im Aushandeln, oder schon eingespielt?",
+        "Was verändert sich gerade spürbar in der Gruppe?"
+      ],
+      "hinweis": "Jede Gruppe durchläuft diese Phasen mehrfach im Jahr – neue Kinder, Ferien, Jahreszeiten verändern die Dynamik immer wieder neu.",
+      "bild": "images/ogs/OGS-01.jpg",
+      "systemfrage": "Wie reagiert die Gruppe als Ganzes, wenn ein einzelnes Kind fehlt?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 2,
+      "titel": "Wenn zwei Grüppchen entstehen",
+      "anleitung": "Für Momente, in denen sich die Gruppe sichtbar in kleinere Grüppchen aufteilt.",
+      "fragen": [
+        "Woran erkennst du, dass sich hier zwei Grüppchen gebildet haben?",
+        "Braucht das gerade eine Reaktion, oder ist das völlig normal?"
+      ],
+      "hinweis": "Nicht jede Kleingruppe ist ein Problem – manche Kinder brauchen einfach einen kleineren Rahmen.",
+      "bild": "images/ogs/OGS-02.jpg",
+      "systemfrage": "Welche Rolle spielst du selbst dabei, ob sich Grüppchen verfestigen oder wieder mischen?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 3,
+      "titel": "Unruhe im Raum verstehen",
+      "anleitung": "Wenn die ganze Gruppe unruhig wirkt, ohne dass ein einzelnes Kind auffällig ist.",
+      "fragen": [
+        "Was ist heute anders als sonst – Wetter, Personal, Tagesablauf?",
+        "Steckt die Unruhe in einzelnen Kindern oder in der ganzen Gruppe?"
+      ],
+      "hinweis": "Gruppenstimmung ist ansteckend – in beide Richtungen.",
+      "bild": "images/ogs/OGS-03.jpg",
+      "systemfrage": "Wie verändert sich die Stimmung, wenn du selbst ruhiger oder präsenter wirst?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 4,
+      "titel": "Die stille Mehrheit sehen",
+      "anleitung": "Für den Blick auf Kinder, die in der Gruppendynamik wenig auffallen.",
+      "fragen": [
+        "Welche Kinder hast du heute kaum wahrgenommen?",
+        "Was würde sich ändern, wenn du bewusst zu ihnen gehst?"
+      ],
+      "hinweis": "Laute Kinder bekommen oft mehr Aufmerksamkeit, nicht weil sie mehr brauchen, sondern weil sie mehr auffallen.",
+      "bild": "images/ogs/OGS-04.jpg",
+      "systemfrage": "Wie verteilt sich deine Aufmerksamkeit normalerweise in der Gruppe – und warum?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 5,
+      "titel": "Der Start in den Nachmittag",
+      "anleitung": "Für die Gestaltung eines verlässlichen Ankommens in der OGS.",
+      "fragen": [
+        "Wie sieht das Ankommen bei euch gerade aus – gibt es einen festen Ablauf?",
+        "Woran merkst du, ob ein Kind gut angekommen ist?"
+      ],
+      "hinweis": "Ein Ritual muss nicht groß sein – ein fester Gruß, ein fester Platz reicht oft schon.",
+      "bild": "images/ogs/OGS-05.jpg",
+      "systemfrage": "Was würde sich verändern, wenn jedes Kind ein festes Ankommens-Ritual hätte?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 6,
+      "titel": "Wenn ein Ritual nicht mehr trägt",
+      "anleitung": "Für Situationen, in denen ein bewährtes Ritual plötzlich nicht mehr funktioniert.",
+      "fragen": [
+        "Seit wann trägt das Ritual nicht mehr?",
+        "Ist es das Ritual selbst, oder hat sich die Gruppe verändert?"
+      ],
+      "hinweis": "Rituale dürfen sich mit der Gruppe weiterentwickeln – ein Ritual ist kein Gesetz.",
+      "bild": "images/ogs/OGS-06.jpg",
+      "systemfrage": "Braucht die Gruppe gerade eher mehr oder weniger Struktur?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 7,
+      "titel": "Signale statt Ansagen",
+      "anleitung": "Für wiederkehrende Übergänge, die ohne viele Worte funktionieren sollen.",
+      "fragen": [
+        "Welches Signal nutzt du schon – und verstehen es wirklich alle Kinder?",
+        "Wo würde ein festes Signal Zeit und Nerven sparen?"
+      ],
+      "hinweis": "Ein Signal wirkt nur, wenn es immer gleich bleibt – auch an stressigen Tagen.",
+      "bild": "images/ogs/OGS-07.jpg",
+      "systemfrage": "Wie reagieren die Kinder auf dein Signal, wenn du selbst gestresst bist?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 8,
+      "titel": "Rituale am Ende des Tages",
+      "anleitung": "Für einen ruhigen, klaren Abschluss des Nachmittags.",
+      "fragen": [
+        "Wie endet der Nachmittag bei euch gerade – fließend oder klar markiert?",
+        "Was würde den Kindern helfen, gut loszulassen?"
+      ],
+      "hinweis": "Ein guter Abschluss ist oft wichtiger als ein guter Anfang – er bleibt länger im Gedächtnis.",
+      "bild": "images/ogs/OGS-08.jpg",
+      "systemfrage": "Was nehmen die Kinder aus deinem Abschluss-Ritual mit nach Hause?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 9,
+      "titel": "Erst zuhören, dann handeln",
+      "anleitung": "Für den ersten Moment, wenn ein Streit auffällt.",
+      "fragen": [
+        "Was hast du wirklich gesehen, bevor du eingegriffen hast?",
+        "Was hättest du übersehen, wenn du sofort reagiert hättest?"
+      ],
+      "hinweis": "Nicht jeder Streit braucht sofort einen Erwachsenen – manchmal reicht Beobachten aus der Nähe.",
+      "bild": "images/ogs/OGS-09.jpg",
+      "systemfrage": "Wie oft greifst du ein, obwohl die Kinder es allein regeln könnten?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 10,
+      "titel": "Beide Seiten hören",
+      "anleitung": "Für die eigentliche Streitschlichtung zwischen zwei Kindern.",
+      "fragen": [
+        "Hat wirklich jedes Kind seine Version erzählen können?",
+        "Wessen Version hast du zuerst geglaubt – und warum?"
+      ],
+      "hinweis": "Die erste Version ist selten die ganze Geschichte.",
+      "bild": "images/ogs/OGS-10.jpg",
+      "systemfrage": "Welches Kind bekommt bei euch häufiger automatisch Recht?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 11,
+      "titel": "Wenn derselbe Streit wiederkommt",
+      "anleitung": "Für wiederkehrende Konflikte zwischen denselben Kindern.",
+      "fragen": [
+        "Was ist an diesem Streit eigentlich immer gleich?",
+        "Was müsste sich strukturell ändern, damit der Streit nicht wiederkommt?"
+      ],
+      "hinweis": "Wiederkehrende Konflikte sind oft ein Strukturproblem, kein Charakterproblem.",
+      "bild": "images/ogs/OGS-11.jpg",
+      "systemfrage": "Sitzen, spielen oder warten diese Kinder regelmäßig an denselben Reibungspunkten?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 12,
+      "titel": "Lösung finden lassen",
+      "anleitung": "Für den Moment, in dem die Kinder selbst eine Lösung entwickeln sollen.",
+      "fragen": [
+        "Was schlagen die Kinder selbst vor, wenn du nicht gleich eine Lösung anbietest?",
+        "Woran erkennst du, ob eine Lösung wirklich trägt?"
+      ],
+      "hinweis": "Eine von Kindern selbst gefundene Lösung hält oft länger als eine vorgegebene.",
+      "bild": "images/ogs/OGS-12.jpg",
+      "systemfrage": "Was traust du dieser Gruppe an eigener Konfliktlösung wirklich zu?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 13,
+      "titel": "Wenige, klare Regeln",
+      "anleitung": "Für den Grundstock an Regeln im OGS-Alltag.",
+      "fragen": [
+        "Wie viele Regeln gelten bei euch gerade wirklich – und kennt sie jedes Kind?",
+        "Welche Regel könntet ihr streichen, ohne dass etwas fehlt?"
+      ],
+      "hinweis": "Fünf Regeln, die wirklich gelten, wirken mehr als fünfzehn, die niemand kennt.",
+      "bild": "images/ogs/OGS-13.jpg",
+      "systemfrage": "Gelten eure Regeln für alle Kinder gleich, oder gibt es stille Ausnahmen?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 14,
+      "titel": "Regeln gemeinsam entwickeln",
+      "anleitung": "Für die Beteiligung der Kinder an der Regelfindung.",
+      "fragen": [
+        "Welche Regel würden die Kinder selbst vorschlagen, wenn du sie fragst?",
+        "Was verändert sich, wenn eine Regel von den Kindern selbst kommt?"
+      ],
+      "hinweis": "Mitbestimmte Regeln werden seltener gebrochen als verordnete.",
+      "bild": "images/ogs/OGS-14.jpg",
+      "systemfrage": "Wie viel Mitsprache trauen wir den Kindern bei Regeln wirklich zu?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 15,
+      "titel": "Eine Grenze halten",
+      "anleitung": "Für Situationen, in denen eine Regel klar durchgesetzt werden muss.",
+      "fragen": [
+        "Was macht es dir gerade schwer, konsequent zu bleiben?",
+        "Was würde passieren, wenn du diese Grenze nicht hältst?"
+      ],
+      "hinweis": "Konsequent sein heißt nicht hart sein – nur verlässlich.",
+      "bild": "images/ogs/OGS-15.jpg",
+      "systemfrage": "Wie reagiert die ganze Gruppe, wenn eine Regel bei einem Kind nicht gilt?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 16,
+      "titel": "Regeln überprüfen",
+      "anleitung": "Für die regelmäßige Reflexion, ob bestehende Regeln noch passen.",
+      "fragen": [
+        "Welche eurer Regeln ist eigentlich schon lange nicht mehr sinnvoll?",
+        "Was hat sich in der Gruppe verändert, seit diese Regel entstand?"
+      ],
+      "hinweis": "Regeln, die nie überprüft werden, verlieren irgendwann ihren Sinn – und ihre Wirkung.",
+      "bild": "images/ogs/OGS-16.jpg",
+      "systemfrage": "Wer würde es merken, wenn ihr eine überholte Regel einfach streicht?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 17,
+      "titel": "Ankommen dürfen",
+      "anleitung": "Für den ersten Kontakt mit einem neuen Kind in der Gruppe.",
+      "fragen": [
+        "Was braucht dieses Kind gerade am meisten, um sich sicher zu fühlen?",
+        "Wie zeigst du ihm, dass es willkommen ist, ohne es zu bedrängen?"
+      ],
+      "hinweis": "Sicherheit entsteht nicht durch viele Worte, sondern durch verlässliche kleine Gesten.",
+      "bild": "images/ogs/OGS-17.jpg",
+      "systemfrage": "Wie nimmt die bestehende Gruppe ein neues Kind normalerweise auf?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 18,
+      "titel": "Die Stillen im Blick behalten",
+      "anleitung": "Für Kinder, die sich zurückziehen, ohne aufzufallen.",
+      "fragen": [
+        "Seit wann zieht sich dieses Kind zurück?",
+        "Was würde es brauchen, um sich wieder zu zeigen?"
+      ],
+      "hinweis": "Rückzug ist nicht immer ein Problem – aber er verdient immer einen zweiten Blick.",
+      "bild": "images/ogs/OGS-18.jpg",
+      "systemfrage": "Wie leicht übersiehst du ruhige Kinder im Trubel der Gruppe?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 19,
+      "titel": "Nähe zeigen, professionell bleiben",
+      "anleitung": "Für die Balance zwischen echter Wärme und professioneller Distanz.",
+      "fragen": [
+        "Woran merkst du bei dir selbst, wann Nähe genau richtig ist?",
+        "Wo würdest du dir mehr Klarheit über deine eigene Rolle wünschen?"
+      ],
+      "hinweis": "Bindung in der pädagogischen Arbeit ist real – und trotzdem nicht dasselbe wie eine Elternbindung.",
+      "bild": "images/ogs/OGS-19.jpg",
+      "systemfrage": "Wie unterscheidet sich deine Beziehung zu diesem Kind von der zu seinen Eltern?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 20,
+      "titel": "Jedes Kind einmal am Tag",
+      "anleitung": "Für die bewusste, individuelle Zuwendung im vollen Gruppenalltag.",
+      "fragen": [
+        "Mit welchem Kind hattest du heute noch keinen direkten Moment?",
+        "Was würde ein kurzer, echter Moment für dieses Kind bedeuten?"
+      ],
+      "hinweis": "Ein kurzer, echter Moment wiegt oft mehr als eine lange, abgelenkte Aufmerksamkeit.",
+      "bild": "images/ogs/OGS-20.jpg",
+      "systemfrage": "Wie verteilt sich deine Zuwendung über eine ganze Woche betrachtet?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 21,
+      "titel": "Zutrauen statt Abnehmen",
+      "anleitung": "Für Momente, in denen es leichter wäre, einem Kind etwas abzunehmen.",
+      "fragen": [
+        "Was nimmst du diesem Kind gerade ab, das es eigentlich selbst könnte?",
+        "Was hält dich davon ab, es zuzutrauen?"
+      ],
+      "hinweis": "Zutrauen fühlt sich manchmal langsamer an – ist aber meist der schnellere Weg.",
+      "bild": "images/ogs/OGS-21.jpg",
+      "systemfrage": "Wie würde sich die Gruppe verändern, wenn allen Kindern mehr zugetraut würde?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 22,
+      "titel": "Scheitern erlauben",
+      "anleitung": "Für Situationen, in denen ein Kind an einer Aufgabe zu scheitern droht.",
+      "fragen": [
+        "Was würde passieren, wenn du jetzt nicht eingreifst?",
+        "Wie könntest du begleiten, ohne zu übernehmen?"
+      ],
+      "hinweis": "Kleine, sichere Rückschläge sind oft die besten Lehrmeister.",
+      "bild": "images/ogs/OGS-22.jpg",
+      "systemfrage": "Was lernt dieses Kind aus einem Scheitern, das es aus Erfolg nicht lernen würde?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 23,
+      "titel": "Aufgaben mit echtem Wert",
+      "anleitung": "Für die Vergabe kleiner Verantwortungen an Kinder.",
+      "fragen": [
+        "Welche echte Aufgabe könnte ein Kind heute übernehmen?",
+        "Woran würde das Kind merken, dass die Aufgabe wichtig ist?"
+      ],
+      "hinweis": "Kinder spüren den Unterschied zwischen einer echten Aufgabe und einer Beschäftigung.",
+      "bild": "images/ogs/OGS-23.jpg",
+      "systemfrage": "Welche Aufgaben in eurem Alltag könnten grundsätzlich an Kinder abgegeben werden?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 24,
+      "titel": "Geduld mit dem eigenen Tempo",
+      "anleitung": "Für Momente, in denen ein Kind langsamer ist als der Gruppenrhythmus.",
+      "fragen": [
+        "Wessen Zeitdruck ist das gerade – deiner oder der der Gruppe?",
+        "Was würde sich ändern, wenn dieses Kind seine Zeit bekommt?"
+      ],
+      "hinweis": "Eigenes Tempo ist keine Verzögerung – es ist ein Zeichen von Selbstständigkeit.",
+      "bild": "images/ogs/OGS-24.jpg",
+      "systemfrage": "Wie geht die Gruppe mit einem Kind um, das sichtbar sein eigenes Tempo hat?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 25,
+      "titel": "Von der Klasse in die OGS",
+      "anleitung": "Für den täglichen Übergang aus dem Unterricht in den Ganztag.",
+      "fragen": [
+        "Wie unterschiedlich fühlen sich Unterricht und OGS für die Kinder an?",
+        "Was würde einen sanfteren Wechsel ermöglichen?"
+      ],
+      "hinweis": "Der Übergang selbst ist oft anstrengender für Kinder als beide Bereiche einzeln.",
+      "bild": "images/ogs/OGS-25.jpg",
+      "systemfrage": "Wie viel Absprache gibt es zwischen Lehrkräften und OGS-Team über diesen Übergang?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 26,
+      "titel": "Vom Spiel zur Hausaufgabe",
+      "anleitung": "Für den Wechsel von freier Zeit zu konzentrierter Arbeit.",
+      "fragen": [
+        "Wie kündigst du diesen Wechsel gerade an?",
+        "Was würde den Kindern helfen, leichter umzuschalten?"
+      ],
+      "hinweis": "Ein Vorlauf von wenigen Minuten reicht oft, um einen Wechsel deutlich leichter zu machen.",
+      "bild": "images/ogs/OGS-26.jpg",
+      "systemfrage": "Welche Rolle spielt der Zeitpunkt dieses Übergangs für die ganze Gruppe?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 27,
+      "titel": "Abholsituationen entspannen",
+      "anleitung": "Für den oft hektischen Moment der Abholung.",
+      "fragen": [
+        "Was macht die Abholzeit bei euch gerade stressig?",
+        "Was würde einen ruhigeren Übergang an die Eltern ermöglichen?"
+      ],
+      "hinweis": "Ein kurzer, klarer Satz an die Eltern ist oft wertvoller als viele hastige.",
+      "bild": "images/ogs/OGS-27.jpg",
+      "systemfrage": "Wie viel Information gebt ihr Eltern in diesem kurzen Moment wirklich weiter?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 28,
+      "titel": "Ferien und besondere Tage",
+      "anleitung": "Für Übergänge außerhalb des normalen Alltagsrhythmus.",
+      "fragen": [
+        "Was ist an Ferientagen für die Kinder besonders unsicher?",
+        "Welches Stück Alltagsstruktur könnte auch an diesen Tagen bleiben?"
+      ],
+      "hinweis": "Gerade an Ausnahmetagen hilft ein kleines Stück Vertrautem am meisten.",
+      "bild": "images/ogs/OGS-28.jpg",
+      "systemfrage": "Wie unterschiedlich reagieren einzelne Kinder auf den Bruch der gewohnten Struktur?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 29,
+      "titel": "Wenn ein Kind anders reagiert",
+      "anleitung": "Für Situationen mit einem Kind, dessen Verhalten immer wieder herausfordert – ohne Diagnose oder Ferndiagnose.",
+      "fragen": [
+        "Was passiert unmittelbar bevor sich das Verhalten zeigt?",
+        "Was würde diesem Kind gerade wirklich helfen – nicht nur, was würde dich entlasten?"
+      ],
+      "hinweis": "Verhalten ist Kommunikation. Je ruhiger dein eigener Ton bleibt, desto eher beruhigt sich die Situation.",
+      "bild": "images/ogs/OGS-29.jpg",
+      "systemfrage": "Wie reagiert die Gruppe, wenn dieses Kind sich anders verhält als erwartet?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 30,
+      "titel": "Wer ist wofür zuständig?",
+      "anleitung": "Für Situationen, in denen im Team unklar ist, wer die Verantwortung für ein Kind oder ein Thema trägt.",
+      "fragen": [
+        "Wer hat sich heute eigentlich schon um dieses Thema gekümmert – und wer nicht?",
+        "Was würde sich klären, wenn ihr die Zuständigkeit einmal offen ansprecht?"
+      ],
+      "hinweis": "Unklare Zuständigkeit ist selten Bequemlichkeit – meist fehlt einfach ein kurzes Gespräch darüber.",
+      "bild": "images/ogs/OGS-30.jpg",
+      "systemfrage": "Wie verteilt sich Verantwortung in eurem Team normalerweise – zufällig oder klar vereinbart?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 31,
+      "titel": "Wenn Hausaufgaben zum Kampf werden",
+      "anleitung": "Für wiederkehrende Konflikte rund um die Hausaufgabenzeit im Ganztag.",
+      "fragen": [
+        "Wo genau entsteht der Streit – bei der Aufgabe selbst oder beim Drumherum?",
+        "Was wäre dein kleinster nächster Schritt, um aus dem Kampf auszusteigen?"
+      ],
+      "hinweis": "Nicht jede Hausaufgaben-Verantwortung muss bei dir liegen – manchmal hilft es, das offen auszusprechen.",
+      "bild": "images/ogs/OGS-31.jpg",
+      "systemfrage": "Wessen Erwartung an die Hausaufgabenzeit prägt gerade den Konflikt – deine, die der Eltern oder die der Schule?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    },
+    {
+      "nr": 32,
+      "titel": "Der Raum als stille Fachkraft",
+      "anleitung": "Für den Blick auf Räume und Materialien als Teil der pädagogischen Arbeit, nicht nur als Rahmen dafür.",
+      "fragen": [
+        "Was sagt dieser Raum gerade über das, was hier erlaubt und erwünscht ist?",
+        "Welche kleine Veränderung am Raum würde am meisten bewirken?"
+      ],
+      "hinweis": "Ein Raum erzieht mit, ob gewollt oder nicht. Es lohnt sich, ihn regelmäßig neu zu betrachten.",
+      "bild": "images/ogs/OGS-32.jpg",
+      "systemfrage": "Wie oft sprecht ihr im Team bewusst über die Wirkung eurer Räume – und nicht nur über ihre Nutzung?",
+      "systemfrage_label": "SYSTEMISCH GEDACHT"
+    }
+  ]
+}

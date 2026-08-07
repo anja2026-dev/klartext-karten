@@ -1,0 +1,264 @@
+{
+  "id": "mb",
+  "titel": "Mobbing-Intervention",
+  "untertitel": "Vom ersten Anzeichen bis zur Nachsorge",
+  "farbe": "#D81B60",
+  "farbe_hell": "#FDE8F1",
+  "farbe_rand": "#F0B2CD",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Was tun bei Mobbing?",
+      "icon": "triangle-exclamation",
+      "situation": "Sofortige Handlungssicherheit im akuten Mobbing-Fall — was zuerst zu tun ist.",
+      "schritte": [
+        "Ruhe bewahren – nicht mitgehen, nicht eskalieren, klare ruhige Stimme",
+        "Sicherheit herstellen – betroffene Person aus der Situation holen, Abstand schaffen",
+        "Betroffene Person schützen – „Ich bin da.“ – nicht nach Details drängen",
+        "Lehrkraft informieren – sofort, nicht später, kurze sachliche Info",
+        "TK informieren – zeitnah, Fakten statt Bewertungen",
+        "Dokumentieren – Was? Wer? Wann? Wo? – wörtliche Zitate, keine Vermutungen",
+        "Elternkontakt über TK – SB informiert nicht selbst, TK übernimmt",
+        "§8a prüfen – bei körperlicher Gewalt, Drohungen, digitaler Gewalt, Selbstgefährdung"
+      ],
+      "merksatz": "„Sicherheit zuerst. Fakten danach.“",
+      "badge": "MB-01 · Schulbegleitung & Teamkoordination"
+    },
+    {
+      "nr": 2,
+      "titel": "Mobbing erkennen",
+      "icon": "magnifying-glass",
+      "situation": "Frühzeitig erkennen, nicht erst im Akutfall.",
+      "schritte": [
+        "Wiederholung – Passiert es immer wieder?",
+        "Absicht – Ist es gezielt verletzend?",
+        "Machtungleichgewicht – Mehrere gegen eine Person – körperlich, sozial oder digital überlegen?",
+        "Ausschluss – Systematisches Ignorieren, „Du darfst nicht mitspielen“?",
+        "Demütigung – Lächerlich machen, Nachäffen, Bloßstellen",
+        "Digitale Spuren – Nachrichten, Screenshots, Gruppenchat-Druck",
+        "Reaktion des Opfers – Rückzug, Angst, Bauchschmerzen, Schweigen",
+        "Umfeld – Niemand greift ein, Verteidiger fehlen"
+      ],
+      "merksatz": "„Mobbing ist ein Muster — kein Moment.“",
+      "badge": "MB-02 · Schulbegleitung & Lehrkraft – zur frühzeitigen Einschätzung"
+    },
+    {
+      "nr": 3,
+      "titel": "Digitale Spuren sichern",
+      "icon": "mobile-screen",
+      "situation": "Sofortige Handlungssicherheit bei Cybermobbing.",
+      "schritte": [
+        "Screenshots machen – gesamte Nachricht, Absender, Datum & Uhrzeit sichtbar",
+        "Chatverläufe sichern – nicht nur einzelne Nachrichten, als Bildreihe sichern",
+        "Nichts löschen – keine Nachrichten entfernen, keine Chats verlassen, keine Apps deinstallieren",
+        "Nicht antworten – keine Gegenreaktion, keine Rechtfertigung, nichts weiterleiten",
+        "Gerät sichern – Passwort nicht ändern, Gerät nicht aus der Hand geben, Akku laden",
+        "TK informieren – zeitnah, sachlich, ohne Interpretation",
+        "Eltern informieren – über TK, SB informiert nicht selbst",
+        "Schule informieren – Klassenleitung, ggf. Schulleitung",
+        "§8a prüfen – bei Drohungen, sexualisierten Inhalten, Erpressung",
+        "Weiteres Vorgehen abstimmen – TK + Lehrkraft + Eltern, ggf. Schulsozialarbeit oder Polizei"
+      ],
+      "merksatz": "„Sichern — nicht reagieren.“",
+      "badge": "MB-03 · Schulbegleitung & Teamkoordination bei Cybermobbing"
+    },
+    {
+      "nr": 4,
+      "titel": "Cybermobbing",
+      "icon": "laptop",
+      "situation": "Cybermobbing ist rund um die Uhr da — kein Zuhause, keine Pause vor ihm.",
+      "schritte": [
+        "Rund um die Uhr – keine Rückzugsräume mehr, auch zuhause kein Schutz",
+        "Schnelle Verbreitung – Screenshots und Weiterleitungen erreichen in Minuten alle",
+        "Typische Formen – Beleidigungen, peinliche Fotos, Ausschluss aus Gruppen, Fake-Profile, Gerüchte",
+        "Zuhören – ohne zu bewerten, beruhigen und Sicherheit vermitteln",
+        "Dokumentieren – Vorfälle mit Datum und Beschreibung festhalten",
+        "Weitergeben – an Lehrkraft und Träger, Kind stärken: es ist nicht schuld",
+        "Nicht selbst ermitteln – keine Chatverläufe auf privaten Geräten speichern, nicht bei Plattformen melden"
+      ],
+      "merksatz": "„Digital ist real — und Schweigen macht es schlimmer.“",
+      "badge": "MB-04 · Schulbegleitung – digitale Gewalt einordnen"
+    },
+    {
+      "nr": 5,
+      "titel": "Die Rollen im Mobbing-System",
+      "icon": "user-group",
+      "situation": "Mobbing ist ein Gruppenprozess. Wer nur Täter und Opfer sieht, versteht das System nicht.",
+      "schritte": [
+        "Täter – initiieren und führen das Mobbing an",
+        "Mitläufer – machen mit, ohne selbst zu initiieren",
+        "Unterstützer – lachen, schauen zu, geben Anerkennung",
+        "Außenstehende – beobachten, ohne einzugreifen",
+        "Verteidiger – seltene Kinder, die eingreifen oder das Opfer unterstützen",
+        "Opfer – Ziel der Gruppe",
+        "INGRAs Aufgabe – beobachten und dokumentieren, wer welche Rolle einnimmt"
+      ],
+      "merksatz": "„Mobbing ist ein Gruppenphänomen – nicht nur ein Zweier-Problem.“",
+      "badge": "MB-05 · Schulbegleitung – die Gruppendynamik verstehen"
+    },
+    {
+      "nr": 6,
+      "titel": "Täter-Opfer-Umkehr erkennen",
+      "icon": "arrows-rotate",
+      "situation": "Manchmal wird das Opfer als Täter wahrgenommen — eine der gefährlichsten Mobbing-Fallen.",
+      "schritte": [
+        "Das Opfer reagiert auf Provokation sichtbar und emotional",
+        "Die Reaktion wird beobachtet – nicht die Provokation davor",
+        "Erwachsene sehen nur den Ausbruch, nicht das System dahinter",
+        "Das Opfer wird als „schwierig“ oder „aggressiv“ bezeichnet",
+        "Die eigentlichen Täter wirken harmlos und kooperativ",
+        "INGRA beobachtet längere Zeiträume – nicht nur den Moment",
+        "Muster dokumentieren: Wer provoziert zuerst?"
+      ],
+      "merksatz": "„Das Opfer reagiert – der Täter provoziert. Beobachte, wer anfängt.“",
+      "badge": "MB-06 · Schulbegleitung – Fehleinschätzungen vermeiden"
+    },
+    {
+      "nr": 7,
+      "titel": "Mobbing und Lehrkraft",
+      "icon": "school",
+      "situation": "Lehrkraft und INGRA müssen an einem Strang ziehen. Unterschiedliche Einschätzungen gefährden das Opfer.",
+      "schritte": [
+        "INGRA beobachtet und meldet – systematisch, sachlich, ohne Eigenintervention auf Gruppenebene",
+        "Lehrkraft koordiniert – Klassenintervention, Elterngespräche, Schulsozialarbeit, Konsequenzen",
+        "Bei unterschiedlichen Einschätzungen: nie vor dem Kind diskutieren",
+        "TK einbeziehen als vermittelnde Stelle",
+        "Dokumentation als sachliche Grundlage nutzen",
+        "Gemeinsames Ziel benennen: das Wohl des Kindes"
+      ],
+      "merksatz": "„Koordiniert handeln schützt das Kind. Alleingänge gefährden es.“",
+      "badge": "MB-07 · Schulbegleitung & Teamkoordination"
+    },
+    {
+      "nr": 8,
+      "titel": "Elterngespräch bei Mobbing",
+      "icon": "comments",
+      "situation": "Elterngespräche bei Mobbing sind emotional aufgeladen. Vorbereitung und klare Rolle schützen alle.",
+      "schritte": [
+        "INGRA führt keine eigenständigen Elterngespräche über Mobbing",
+        "Beobachtungen fließen über TK in das Gespräch ein",
+        "Bei Gesprächen dabei sein: zuhören, nicht kommentieren",
+        "Sachliche Dokumentation als Grundlage bereitstellen",
+        "Eltern des Opfers bringen oft mit: Wut, Hilflosigkeit, Schuldgefühle, Misstrauen",
+        "Eltern des Täters bringen oft mit: Verneinung, Gegenanschuldigungen, Verharmlosung",
+        "Nie allein – Elterngespräche über Mobbing immer mit TK oder Lehrkraft zusammen"
+      ],
+      "merksatz": "„Deine Beobachtungen sind Gold wert – führe sie ein, aber nicht das Gespräch.“",
+      "badge": "MB-08 · Schulbegleitung – Rolle im Elterngespräch"
+    },
+    {
+      "nr": 9,
+      "titel": "Wenn INGRA selbst betroffen ist",
+      "icon": "shield-halved",
+      "situation": "Manchmal richten sich Aggression oder Ausgrenzung auch gegen INGRA. Das ist ernst zu nehmen.",
+      "schritte": [
+        "Verbale Angriffe durch Kinder oder Jugendliche",
+        "Ausgrenzung von INGRA durch die Klasse",
+        "Gerüchteverbreitung oder Lügen über INGRA",
+        "Feindselige Haltung durch Mitschüler des begleiteten Kindes",
+        "Grenzüberschreitungen durch Eltern (verbal oder digital)",
+        "Sofort: dokumentieren → TK informieren → nicht allein tragen → Reaktion abstimmen"
+      ],
+      "merksatz": "„Wer sich selbst nicht schützt, kann auf Dauer niemanden anderen schützen.“",
+      "badge": "MB-09 · Schulbegleitung – Selbstschutz"
+    },
+    {
+      "nr": 10,
+      "titel": "Prävention im Klassenzimmer",
+      "icon": "eye",
+      "situation": "Mobbing entsteht nicht über Nacht. Wer die frühen Zeichen kennt, verhindert das meiste bevor es beginnt.",
+      "schritte": [
+        "Beobachten – wer spielt mit wem? Wer ist immer allein? Wer wird nie gewählt?",
+        "Brücken bauen – ausgeschlossene Kinder diskret einbeziehen, ohne es zu thematisieren",
+        "Stärken sichtbar machen – jedes Kind hat etwas, das andere beeindruckt",
+        "Beobachtungen dokumentieren und an TK und Lehrkraft weitergeben",
+        "Frühwarnzeichen ernst nehmen – regelmäßig allein, nie gewählt, aufgewühlt nach der Pause"
+      ],
+      "merksatz": "„Prävention beginnt mit Aufmerksamkeit — bevor ein Name fällt.“",
+      "badge": "MB-10 · Schulbegleitung – tägliche Präventionsarbeit"
+    },
+    {
+      "nr": 11,
+      "titel": "Gruppenintervention Step by Step",
+      "icon": "list-check",
+      "situation": "Sobald Mobbing festgestellt ist, braucht es eine koordinierte Gruppenintervention.",
+      "schritte": [
+        "Stoppen & Sichern – Opfer schützen, sofortige Sicherheit herstellen",
+        "Einzelgespräche – Lehrkraft spricht mit allen Beteiligten, INGRA liefert Beobachtungen",
+        "Gruppenarbeit – strukturierte Klassenarbeit mit professioneller Leitung",
+        "Nachsorge – regelmäßige Beobachtung, ob die Situation stabil bleibt",
+        "Elterninformation – koordiniert durch Lehrkraft und TK, INGRA nicht allein",
+        "INGRAs Rolle: beobachten, dokumentieren, weitergeben, Opfer im Alltag stärken",
+        "INGRA tut nicht: eigenständige Intervention, Täteransprache ohne Abstimmung"
+      ],
+      "merksatz": "„Gruppenintervention gelingt nur koordiniert — nicht im Alleingang.“",
+      "badge": "MB-11 · Schulbegleitung & Teamkoordination"
+    },
+    {
+      "nr": 12,
+      "titel": "No-Blame-Approach",
+      "icon": "handshake",
+      "situation": "Eine evidenzbasierte Methode: nicht bestrafen, sondern Verantwortung aktivieren.",
+      "schritte": [
+        "Gespräch mit dem Opfer – wie fühlt es sich, was wünscht es sich?",
+        "Gruppe zusammenstellen – Täter, Mitläufer, Zuschauer, mögliche Unterstützer",
+        "Situation beschreiben – wie es dem Opfer geht, ohne Anklage",
+        "Verantwortung ansprechen – „Ihr könnt helfen, das zu ändern“",
+        "Ideen sammeln – was wird jeder konkret tun?",
+        "Gruppe in die Pflicht nehmen – jeder berichtet nach einer Woche",
+        "Nachgespräch – hat sich etwas verändert?"
+      ],
+      "merksatz": "„Verantwortung aktivieren ist wirksamer als Strafe verhängen.“",
+      "badge": "MB-12 · Schulbegleitung – Methode kennen, nicht selbst durchführen"
+    },
+    {
+      "nr": 13,
+      "titel": "Verteidiger stärken",
+      "icon": "heart",
+      "situation": "Kinder, die instinktiv eingreifen wollen, aber nicht wissen wie — sie zu stärken ist hochwirksam.",
+      "schritte": [
+        "Wenn Zuschauer eingreifen, stoppt Mobbing in über 57 % der Fälle innerhalb von 10 Sekunden",
+        "Verteidiger erkennen – wer reagiert, wenn jemand ausgelacht wird? Wer spielt mit dem Außenseiter?",
+        "Verhalten konkret und privat loben – zeigen, dass es gesehen wird",
+        "Konkrete Reaktionsmöglichkeiten zeigen, Mut benennen ohne zu exponieren",
+        "Sätze die helfen: „Hör auf, das macht ihr/ihm nicht gut.“ · „Komm, wir gehen zusammen.“ · „Das finde ich nicht okay.“",
+        "Auch ohne Wort wirksam: sich einfach neben die Person stellen"
+      ],
+      "merksatz": "„Ein Kind, das eingreift, verändert alles — auch wenn es nur danebensteht.“",
+      "badge": "MB-13 · Schulbegleitung – Prävention über die Gruppe"
+    },
+    {
+      "nr": 14,
+      "titel": "Eltern informieren & einbeziehen",
+      "icon": "people-roof",
+      "situation": "Elterngespräche bei Mobbing gehören zu den emotionalsten Situationen in der Schulbegleitung.",
+      "schritte": [
+        "Häufige Reaktionen der Eltern des Opfers: Wut, Hilflosigkeit, Erwartung sofortiger Konsequenzen, Misstrauen, Schuldgefühle",
+        "Was hilft: zuhören ohne zu unterbrechen, Gefühle anerkennen",
+        "Konkrete nächste Schritte nennen, Zeitplan und Zuständigkeiten klären",
+        "INGRA: nie allein – immer mit TK oder Lehrkraft zusammen",
+        "Beobachtungen sachlich einbringen, ohne Interpretation",
+        "Schweigen, wenn TK oder Lehrkraft sprechen – kein Widerspruch vor Eltern",
+        "Keine Versprechen machen, die nicht eingehalten werden können"
+      ],
+      "merksatz": "„Eltern wollen gehört werden — bevor sie informiert werden wollen.“",
+      "badge": "MB-14 · Schulbegleitung – Rolle im Elternkontakt"
+    },
+    {
+      "nr": 15,
+      "titel": "Nachsorge — nach dem Mobbing",
+      "icon": "seedling",
+      "situation": "Nach der Intervention ist vor der Wiederholung. Ohne Nachsorge kehrt Mobbing in bis zu 40 % der Fälle zurück.",
+      "schritte": [
+        "Wöchentlicher Barometer-Check mit besonderem Fokus",
+        "Pausensituationen beobachten – wer spielt mit wem?",
+        "Digitales Verhalten im Blick behalten – Hinweise des Kindes ernst nehmen",
+        "Monatliche Kurznotiz an TK: Situation stabil oder Veränderungen?",
+        "Selbstwirksamkeit des Kindes stärken – was ist ihm diese Woche gelungen?",
+        "Soziale Einbindung fördern – Verteidiger aktivieren"
+      ],
+      "merksatz": "„Mobbing endet, wenn das Kind weiß: Ich bin nicht allein. Ich werde gesehen.“",
+      "badge": "MB-15 · Schulbegleitung – langfristige Beobachtung"
+    }
+  ]
+}

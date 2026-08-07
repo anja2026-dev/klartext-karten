@@ -1,0 +1,274 @@
+{
+  "id": "at",
+  "titel": "AT-Deck",
+  "untertitel": "Autismus-Impulskarten",
+  "farbe": "#7C8C7E",
+  "farbe_hell": "#EDF1EC",
+  "farbe_rand": "#C9D3C9",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Was als Nächstes passiert",
+      "anleitung": "Für den Einsatz vor einem Tagesablauf oder vor einem anstehenden Wechsel.",
+      "fragen": [
+        "Was ist der nächste Schritt heute?",
+        "Weißt du schon, was danach kommt, oder soll ich es dir zeigen?"
+      ],
+      "hinweis": "Der nächste Schritt reicht oft aus – nicht den ganzen Tag auf einmal erklären.",
+      "bild": "images/at/AT-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Wenn sich der Plan ändert",
+      "anleitung": "Wenn ein angekündigter Ablauf sich kurzfristig ändert.",
+      "fragen": [
+        "Was ist heute anders als geplant?",
+        "Was bleibt trotzdem gleich?"
+      ],
+      "hinweis": "Zuerst sagen, was sich ändert, danach, was gleich bleibt – das gibt Halt.",
+      "bild": "images/at/AT-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Ein neuer Ort",
+      "anleitung": "Vor dem ersten Besuch an einem neuen Ort (neues Klassenzimmer, neue Praxis).",
+      "fragen": [
+        "Was weißt du schon über den neuen Ort?",
+        "Was möchtest du vorher noch wissen?"
+      ],
+      "hinweis": "Wenn möglich, den Ort vorher zeigen (Foto oder kurzer Besuch), nicht nur beschreiben.",
+      "bild": "images/at/AT-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Der Wechsel zwischen zwei Aktivitäten",
+      "anleitung": "Für den Moment zwischen zwei Tätigkeiten, wenn der Wechsel schwerfällt.",
+      "fragen": [
+        "Was machst du gerade?",
+        "Was kommt als Nächstes, und wie viel Zeit bleibt dafür?"
+      ],
+      "hinweis": "Eine klare Ankündigung („Noch 2 Minuten, dann...\") erleichtert den Wechsel mehr als eine plötzliche Aufforderung.",
+      "bild": "images/at/AT-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Was ist gerade zu laut",
+      "anleitung": "Wenn Geräusche im Raum belastend wirken könnten.",
+      "fragen": [
+        "Welches Geräusch stört dich gerade am meisten?",
+        "Auf einer Skala von 1 bis 5 – wie laut ist es für dich gerade?"
+      ],
+      "hinweis": "Die Zahl ernst nehmen, auch wenn der Raum objektiv leise wirkt.",
+      "bild": "images/at/AT-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Was ist gerade zu hell",
+      "anleitung": "Bei möglicher Lichtempfindlichkeit (grelles Licht, Bildschirme, Sonne).",
+      "fragen": [
+        "Ist das Licht hier gerade angenehm oder zu viel?",
+        "Was würde helfen: weniger Licht, ein anderer Platz, oder etwas anderes?"
+      ],
+      "hinweis": "Auch kleine Änderungen (Jalousie, Sitzplatz) können viel bewirken.",
+      "bild": "images/at/AT-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Zu viele Menschen auf einmal",
+      "anleitung": "In vollen, lauten Räumen (Pausenhof, Kantine, Gruppenraum) einsetzbar.",
+      "fragen": [
+        "Wie viele Menschen sind gerade zu viel für dich?",
+        "Gibt es einen Platz hier, der weniger voll ist?"
+      ],
+      "hinweis": "Die Anzahl an Menschen zu benennen macht das Gefühl greifbarer als „das ist mir zu viel\".",
+      "bild": "images/at/AT-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Ein ruhiger Ort für mich",
+      "anleitung": "Zur Vorbereitung eines Rückzugsorts, bevor er tatsächlich gebraucht wird.",
+      "fragen": [
+        "Welcher Ort hier ist für dich am ruhigsten?",
+        "Was müsste dort sein, damit du dich wohlfühlst?"
+      ],
+      "hinweis": "Diesen Ort im Vorfeld gemeinsam festlegen, nicht erst in der akuten Überforderung suchen.",
+      "bild": "images/at/AT-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Was „Hallo sagen\" konkret bedeutet",
+      "anleitung": "Zur expliziten Erklärung ungeschriebener sozialer Regeln, wörtlich statt vorausgesetzt.",
+      "fragen": [
+        "Was machst du normalerweise, wenn du jemanden triffst?",
+        "Was, denkst du, erwartet die andere Person?"
+      ],
+      "hinweis": "Die Regel konkret benennen („Hallo sagen heißt: den Namen sagen oder winken\"), nicht als selbstverständlich voraussetzen.",
+      "bild": "images/at/AT-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Wenn jemand weiterredet, obwohl ich fertig bin",
+      "anleitung": "Bei Gesprächssituationen, in denen das Gesprächsende schwer zu erkennen ist.",
+      "fragen": [
+        "Woran erkennst du sonst, dass ein Gespräch zu Ende ist?",
+        "Welcher Satz könnte dir helfen, das zu sagen?"
+      ],
+      "hinweis": "Einen konkreten Satz gemeinsam üben (z. B. „Ich muss jetzt los\") statt nur „sei höflich\" zu sagen.",
+      "bild": "images/at/AT-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Was Blickkontakt für mich bedeutet",
+      "anleitung": "Bei Druck, „in die Augen schauen\" zu müssen – ohne das einzufordern.",
+      "fragen": [
+        "Ist Blickkontakt für dich angenehm oder anstrengend?",
+        "Wie zeigst du stattdessen, dass du zuhörst?"
+      ],
+      "hinweis": "Zuhören zeigt sich auch ohne Blickkontakt – das nicht einfordern, sondern anerkennen.",
+      "bild": "images/at/AT-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Eine Regel, die ich nicht verstehe",
+      "anleitung": "Wenn eine soziale Regel unklar oder willkürlich wirkt.",
+      "fragen": [
+        "Welche Regel ergibt für dich gerade keinen Sinn?",
+        "Was würde dir helfen, sie zu verstehen?"
+      ],
+      "hinweis": "Regeln konkret begründen können („Das ist so, weil...\") statt nur „das macht man so\" zu sagen.",
+      "bild": "images/at/AT-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Worüber ich am liebsten spreche",
+      "anleitung": "Positiver Einstieg, macht das Spezialinteresse als Ressource sichtbar.",
+      "fragen": [
+        "Worüber könntest du am längsten erzählen?",
+        "Was macht dieses Thema für dich so gut?"
+      ],
+      "hinweis": "Echtes Interesse zeigen, statt das Thema als Ablenkung zu behandeln.",
+      "bild": "images/at/AT-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Wenn andere mein Thema nicht mögen",
+      "anleitung": "Bei Rückmeldungen anderer Kinder, die das Spezialinteresse als „zu viel\" empfinden.",
+      "fragen": [
+        "Was sagen andere über dein Thema?",
+        "Gibt es Momente, in denen du es lieber für dich behältst?"
+      ],
+      "hinweis": "Nicht das Interesse infrage stellen, nur gemeinsam den passenden Moment dafür finden.",
+      "bild": "images/at/AT-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Was ich durch mein Thema gut kann",
+      "anleitung": "Um Fähigkeiten sichtbar zu machen, die aus dem Spezialinteresse entstehen.",
+      "fragen": [
+        "Was hast du durch dein Thema gelernt, das du sonst nicht könntest?",
+        "Wo könnte dir das noch nützen?"
+      ],
+      "hinweis": "Spezialinteressen bringen oft echtes Fachwissen und Ausdauer mit – das benennen.",
+      "bild": "images/at/AT-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Zeit für mein Thema bekommen",
+      "anleitung": "Zur konkreten Planung von Zeiten für das Spezialinteresse im Alltag.",
+      "fragen": [
+        "Wann im Tag hast du gerade Zeit für dein Thema?",
+        "Wie viel Zeit wäre für dich genug?"
+      ],
+      "hinweis": "Feste, verlässliche Zeiten wirken beruhigender als „irgendwann mal\".",
+      "bild": "images/at/AT-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "Woran ich merke, dass ich wütend bin",
+      "anleitung": "Körperliche, konkrete Anzeichen von Wut erkennen lernen, statt abstrakt über „Wut\" zu sprechen.",
+      "fragen": [
+        "Was macht dein Körper, wenn du wütend wirst? (z. B. Fäuste, heiß, laut)",
+        "Wann hast du das zuletzt gemerkt?"
+      ],
+      "hinweis": "Konkrete Körpersignale sind oft leichter zu erkennen als das Gefühlswort selbst.",
+      "bild": "images/at/AT-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Woran ich merke, dass ich müde oder überfordert bin",
+      "anleitung": "Frühe, konkrete Anzeichen von Überforderung erkennen, bevor sie zu groß wird.",
+      "fragen": [
+        "Was ist bei dir anders, wenn du überfordert bist? (z. B. Reden weniger, Bewegen mehr)",
+        "Wer merkt das noch außer dir?"
+      ],
+      "hinweis": "Diese Anzeichen gemeinsam aufschreiben – dann kann früher reagiert werden.",
+      "bild": "images/at/AT-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Was mir hilft, wenn ich aufgeregt bin",
+      "anleitung": "Konkrete, bereits erprobte Strategien sammeln, statt neue vorzuschlagen.",
+      "fragen": [
+        "Was hat dir letztes Mal geholfen, ruhiger zu werden?",
+        "Was davon könntest du auch hier benutzen?"
+      ],
+      "hinweis": "Auf bekannte, bereits funktionierende Strategien zurückgreifen, nicht in dem Moment etwas Neues ausprobieren.",
+      "bild": "images/at/AT-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Mein Platz auf dem Barometer gerade",
+      "anleitung": "Direkte Verbindung zum Kind-Barometer (Grün/Gelb/Orange/Rot/Grau) – die Karte fragt konkret nach der aktuellen Farbe.",
+      "fragen": [
+        "Welche Farbe passt gerade zu dir?",
+        "Was müsste passieren, damit du eine Farbe weiter Richtung Grün kommst?"
+      ],
+      "hinweis": "Das Barometer bewusst nutzen – es ist bereits ein konkretes, nicht-metaphorisches System.",
+      "bild": "images/at/AT-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie ich sage, dass ich eine Pause brauche",
+      "anleitung": "Ein konkretes Signal/Wort für den Pausenbedarf einüben.",
+      "fragen": [
+        "Welches Wort oder welche Geste könntest du benutzen, um eine Pause zu zeigen?",
+        "Wer sollte dieses Signal kennen?"
+      ],
+      "hinweis": "Ein einziges, immer gleiches Signal vereinbaren – zuverlässiger als wechselnde Formulierungen.",
+      "bild": "images/at/AT-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Was mir in der Pause hilft",
+      "anleitung": "Konkrete Aktivitäten für die Pause sammeln, die tatsächlich beruhigen.",
+      "fragen": [
+        "Was tust du in einer guten Pause?",
+        "Was brauchst du dafür (Ort, Gegenstand, Zeit)?"
+      ],
+      "hinweis": "Die benötigten Gegenstände (Kopfhörer, Kuscheltier, Buch) griffbereit halten.",
+      "bild": "images/at/AT-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Zurückkommen nach der Pause",
+      "anleitung": "Den Übergang zurück in die Gruppe/Aktivität konkret vorbereiten.",
+      "fragen": [
+        "Was hilft dir, wieder zurückzukommen?",
+        "Wie viel Vorwarnung brauchst du, bevor die Pause endet?"
+      ],
+      "hinweis": "Eine klare Ankündigung vor Ende der Pause erleichtert den Rückweg genauso wie den Rückzug.",
+      "bild": "images/at/AT-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Was ich über mich weiß, das mir hilft",
+      "anleitung": "Guter Abschluss-Impuls – eigene Stärken/Strategien zusammenfassen.",
+      "fragen": [
+        "Was weißt du inzwischen über dich, das dir im Alltag hilft?",
+        "Wem könntest du das mal erklären?"
+      ],
+      "hinweis": "Dieses Wissen ist wertvoll – auch für neue Bezugspersonen, die das Kind noch nicht kennen.",
+      "bild": "images/at/AT-24.jpg"
+    }
+  ]
+}

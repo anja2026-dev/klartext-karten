@@ -1,0 +1,274 @@
+{
+  "id": "adhs",
+  "titel": "ADHS-Deck",
+  "untertitel": "ADHS-Impulskarten",
+  "farbe": "#6B7FD7",
+  "farbe_hell": "#E8EAF9",
+  "farbe_rand": "#C4CBF0",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wenn die Gedanken wegwandern",
+      "anleitung": "Für Momente, in denen Konzentration schwerfällt, ohne das als Versagen zu werten.",
+      "fragen": [
+        "Wohin wandern deine Gedanken am häufigsten ab?",
+        "Was holt dich manchmal wieder zurück?"
+      ],
+      "hinweis": "Abschweifende Gedanken sind kein Zeichen von Desinteresse – oft ein Zeichen, dass das Gehirn Reize gerade anders verarbeitet.",
+      "bild": "images/adhs/ADHS-01.jpg"
+    },
+    {
+      "nr": 2,
+      "titel": "Wenn ich etwas dreimal lesen muss",
+      "anleitung": "Bei Frustration über wiederholtes Lesen/Erklären-Müssen.",
+      "fragen": [
+        "Was passiert in deinem Kopf, wenn du etwas mehrmals lesen musst?",
+        "Gibt es eine Art, wie es dir leichter fällt (laut lesen, kürzere Abschnitte)?"
+      ],
+      "hinweis": "Mehrmaliges Lesen ist keine Intelligenzfrage – oft hilft eine andere Aufnahmeform mehr als noch mehr Wiederholung.",
+      "bild": "images/adhs/ADHS-02.jpg"
+    },
+    {
+      "nr": 3,
+      "titel": "Was mir hilft, dranzubleiben",
+      "anleitung": "Ressourcenorientiert, bereits funktionierende Strategien sammeln.",
+      "fragen": [
+        "Wann ist es dir zuletzt gut gelungen, bei einer Sache zu bleiben?",
+        "Was war damals anders?"
+      ],
+      "hinweis": "Auf bereits funktionierende Strategien zurückgreifen, statt ständig neue auszuprobieren.",
+      "bild": "images/adhs/ADHS-03.jpg"
+    },
+    {
+      "nr": 4,
+      "titel": "Wenn ich etwas vergesse, das mir wichtig war",
+      "anleitung": "Entlastend bei Vergessen wichtiger Dinge, nicht vorwurfsvoll.",
+      "fragen": [
+        "Was vergisst du am häufigsten, obwohl es dir wichtig ist?",
+        "Was könnte dir helfen, es trotzdem nicht zu vergessen?"
+      ],
+      "hinweis": "Vergessen ist bei ADHS ein Arbeitsgedächtnis-Thema, kein Charakterzug – äußere Hilfen sind kein Versagen.",
+      "bild": "images/adhs/ADHS-04.jpg"
+    },
+    {
+      "nr": 5,
+      "titel": "Wenn ich handle, bevor ich nachdenke",
+      "anleitung": "Nach einer impulsiven Handlung, entlastend statt vorwurfsvoll einsetzbar.",
+      "fragen": [
+        "Was ist zuletzt passiert, bevor du wirklich darüber nachdenken konntest?",
+        "Was hättest du im Nachhinein gebraucht, um kurz innezuhalten?"
+      ],
+      "hinweis": "Der Impuls kommt oft schneller als der Gedanke – das ist neurologisch, kein böser Wille.",
+      "bild": "images/adhs/ADHS-05.jpg"
+    },
+    {
+      "nr": 6,
+      "titel": "Warten können",
+      "anleitung": "Für Situationen mit Wartezeit (Schlange, Gesprächspause).",
+      "fragen": [
+        "Was ist an Warten für dich am schwersten?",
+        "Was hilft dir, eine Wartezeit auszuhalten?"
+      ],
+      "hinweis": "Eine kleine Beschäftigung während des Wartens hilft oft mehr als „einfach durchhalten\".",
+      "bild": "images/adhs/ADHS-06.jpg"
+    },
+    {
+      "nr": 7,
+      "titel": "Dazwischenreden",
+      "anleitung": "Bei häufigem Unterbrechen im Gespräch, ohne das als Unhöflichkeit zu werten.",
+      "fragen": [
+        "Was passiert kurz bevor du dazwischenredest?",
+        "Welches Zeichen könntest du stattdessen geben?"
+      ],
+      "hinweis": "Ein vereinbartes Handzeichen kann helfen, den Gedanken festzuhalten, ohne ihn sofort auszusprechen.",
+      "bild": "images/adhs/ADHS-07.jpg"
+    },
+    {
+      "nr": 8,
+      "titel": "Der Moment vor einer spontanen Entscheidung",
+      "anleitung": "Rückblickend nach einer spontanen Entscheidung mit unerwünschter Folge einsetzbar.",
+      "fragen": [
+        "Welche spontane Entscheidung fällt dir dazu ein?",
+        "Was war der Gedanke direkt davor?"
+      ],
+      "hinweis": "Rückblick statt Vorwurf – das schafft Bewusstsein für den nächsten ähnlichen Moment.",
+      "bild": "images/adhs/ADHS-08.jpg"
+    },
+    {
+      "nr": 9,
+      "titel": "Wenn mein Körper sich bewegen muss",
+      "anleitung": "Für den Bewegungsdrang, positiv statt als Störung gerahmt.",
+      "fragen": [
+        "Wann merkst du, dass dein Körper sich bewegen muss?",
+        "Welche Bewegung tut dir dabei am meisten gut?"
+      ],
+      "hinweis": "Bewegungspausen sind keine Ablenkung vom Lernen, sondern oft eine Voraussetzung dafür.",
+      "bild": "images/adhs/ADHS-09.jpg"
+    },
+    {
+      "nr": 10,
+      "titel": "Stillsitzen, wenn es erwartet wird",
+      "anleitung": "Bei Situationen, die langes Stillsitzen verlangen.",
+      "fragen": [
+        "Wo fällt dir Stillsitzen am schwersten?",
+        "Was hilft dir, es trotzdem eine Weile zu schaffen?"
+      ],
+      "hinweis": "Kleine erlaubte Bewegungen können großes Stillsitzen erst möglich machen.",
+      "bild": "images/adhs/ADHS-10.jpg"
+    },
+    {
+      "nr": 11,
+      "titel": "Die Unruhe, die man nicht sieht",
+      "anleitung": "Für innere Unruhe ohne sichtbare Hyperaktivität – wichtig, damit sie nicht übersehen wird.",
+      "fragen": [
+        "Fühlst du dich manchmal unruhig, auch wenn du ruhig aussiehst?",
+        "Wie würdest du das jemandem beschreiben, der es nicht sieht?"
+      ],
+      "hinweis": "Innere Unruhe ist genauso echt wie sichtbare – auch wenn sie von außen nicht auffällt.",
+      "bild": "images/adhs/ADHS-11.jpg"
+    },
+    {
+      "nr": 12,
+      "titel": "Was meinem Körper hilft, wenn er zu viel Energie hat",
+      "anleitung": "Konkrete, erprobte Bewegungsstrategien sammeln.",
+      "fragen": [
+        "Was tust du normalerweise, wenn du zu viel Energie hast?",
+        "Wo könntest du das auch in der Schule/zu Hause einbauen?"
+      ],
+      "hinweis": "Regelmäßige, eingeplante Bewegung wirkt oft mehr als das Warten auf den nächsten Ausbruch von Energie.",
+      "bild": "images/adhs/ADHS-12.jpg"
+    },
+    {
+      "nr": 13,
+      "titel": "Den ganzen Tag „normal\" wirken",
+      "anleitung": "Für Kinder/Jugendliche, die ihre Symptome tagsüber stark unterdrücken (Masking).",
+      "fragen": [
+        "Musst du dich manchmal anstrengen, damit niemand merkt, wie du dich fühlst?",
+        "Wie fühlt sich das am Ende des Tages an?"
+      ],
+      "hinweis": "Masking kostet echte Kraft – das darf benannt werden, auch wenn es von außen nicht sichtbar ist.",
+      "bild": "images/adhs/ADHS-13.jpg"
+    },
+    {
+      "nr": 14,
+      "titel": "Der Moment, wenn zu Hause alles rauskommt",
+      "anleitung": "Für den bekannten „Nachmittags-Crash\" nach einem angestrengten Schultag.",
+      "fragen": [
+        "Wie fühlt sich der erste Moment zu Hause nach der Schule an?",
+        "Was würde dir direkt danach helfen?"
+      ],
+      "hinweis": "Der Crash zu Hause ist oft ein Zeichen, dass sich das Kind dort sicher genug fühlt, um loszulassen – kein Erziehungsproblem.",
+      "bild": "images/adhs/ADHS-14.jpg"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie viel Kraft es kostet, mitzuhalten",
+      "anleitung": "Wertschätzend die Anstrengung hinter dem äußeren Funktionieren sichtbar machen.",
+      "fragen": [
+        "Was tust du im Alltag, das andere gar nicht bemerken, weil es so gut klappt?",
+        "Was würdest du dir dafür gern mal sagen hören?"
+      ],
+      "hinweis": "Gut funktionieren heißt nicht, dass es leicht ist – diese Anstrengung verdient Anerkennung.",
+      "bild": "images/adhs/ADHS-15.jpg"
+    },
+    {
+      "nr": 16,
+      "titel": "Wer sieht, wie anstrengend das ist",
+      "anleitung": "Zur Identifikation unterstützender Personen im Umfeld.",
+      "fragen": [
+        "Wer in deinem Umfeld weiß, wie anstrengend manche Tage für dich sind?",
+        "Wem könntest du das noch erzählen?"
+      ],
+      "hinweis": "Mehr Menschen einzuweihen entlastet oft mehr, als man vorher denkt.",
+      "bild": "images/adhs/ADHS-16.jpg"
+    },
+    {
+      "nr": 17,
+      "titel": "„Könntest du dich mehr anstrengen?\"",
+      "anleitung": "Bei Rückmeldungen, die Anstrengung infrage stellen, obwohl das Kind sich bereits anstrengt.",
+      "fragen": [
+        "Wie fühlt sich dieser Satz für dich an?",
+        "Was würdest du der Person stattdessen gern erklären?"
+      ],
+      "hinweis": "Dieser Satz übersieht oft die bereits vorhandene Anstrengung.",
+      "bild": "images/adhs/ADHS-17.jpg"
+    },
+    {
+      "nr": 18,
+      "titel": "Warum Hausaufgaben länger dauern",
+      "anleitung": "Entlastend bei langsamem Arbeitstempo bei Hausaufgaben.",
+      "fragen": [
+        "Was dauert bei den Hausaufgaben am längsten?",
+        "Was würde dir helfen, schneller reinzukommen?"
+      ],
+      "hinweis": "Längere Bearbeitungszeit ist ein bekanntes, erklärbares Muster – kein Zeichen von zu wenig Fleiß.",
+      "bild": "images/adhs/ADHS-18.jpg"
+    },
+    {
+      "nr": 19,
+      "titel": "Was mir hilft, eine Aufgabe zu Ende zu bringen",
+      "anleitung": "Ressourcenorientiert, bereits funktionierende Abschluss-Strategien sammeln.",
+      "fragen": [
+        "Was hat dir zuletzt geholfen, eine Aufgabe wirklich fertig zu machen?",
+        "Was davon könntest du öfter nutzen?"
+      ],
+      "hinweis": "Aufgaben in kleinere, klar abgeschlossene Schritte zu teilen hilft oft mehr als ein langes „Durchziehen\".",
+      "bild": "images/adhs/ADHS-19.jpg"
+    },
+    {
+      "nr": 20,
+      "titel": "Was ich brauche, um zu zeigen, was ich kann",
+      "anleitung": "Zur konkreten Formulierung von Unterstützungsbedarf (z. B. Nachteilsausgleich), ohne Diagnostik-Anspruch der Karte selbst.",
+      "fragen": [
+        "Was würde dir helfen, in einer Prüfung wirklich zu zeigen, was du kannst?",
+        "Wer könnte dir dabei helfen, das einzurichten?"
+      ],
+      "hinweis": "Unterstützung einzufordern ist kein Vorteil gegenüber anderen, sondern gleicht eine reale Hürde aus.",
+      "bild": "images/adhs/ADHS-20.jpg"
+    },
+    {
+      "nr": 21,
+      "titel": "ADHS ist keine Charakterfrage",
+      "anleitung": "Zentraler Reframing-Impuls – neurobiologisch statt moralisch einordnen.",
+      "fragen": [
+        "Was hast du schon über ADHS gehört, das nicht stimmt?",
+        "Was würdest du jemandem erklären, der ADHS nicht versteht?"
+      ],
+      "hinweis": "Das Gehirn arbeitet anders, nicht schlechter – neurologisch, nicht erzieherisch bedingt.",
+      "bild": "images/adhs/ADHS-21.jpg"
+    },
+    {
+      "nr": 22,
+      "titel": "Was ich an mir mag, seit ich mich besser verstehe",
+      "anleitung": "Positiver Impuls nach einer Diagnose oder wachsendem Selbstverständnis.",
+      "fragen": [
+        "Was verstehst du heute besser an dir als früher?",
+        "Was magst du an dir, seit du das weißt?"
+      ],
+      "hinweis": "Eine Diagnose kann entlasten, wenn sie als Erklärung statt als Etikett verstanden wird.",
+      "bild": "images/adhs/ADHS-22.jpg"
+    },
+    {
+      "nr": 23,
+      "titel": "Wenn andere mich mit jemand anderem vergleichen",
+      "anleitung": "Bei belastenden Vergleichen mit Geschwistern/Mitschüler:innen.",
+      "fragen": [
+        "Mit wem wirst du am häufigsten verglichen?",
+        "Was ist an deinem Weg anders, das der Vergleich nicht zeigt?"
+      ],
+      "hinweis": "Vergleiche übersehen fast immer die unterschiedlichen Ausgangsbedingungen.",
+      "bild": "images/adhs/ADHS-23.jpg"
+    },
+    {
+      "nr": 24,
+      "titel": "Worauf ich stolz bin, auch wenn es nicht einfach war",
+      "anleitung": "Guter Abschluss-Impuls, wertschätzender Rückblick.",
+      "fragen": [
+        "Worauf bist du stolz, obwohl es dir schwerer fiel als anderen?",
+        "Was möchtest du dir selbst dafür sagen?"
+      ],
+      "hinweis": "Guter Abschluss – bewusst als Rückblick lesen, nicht als Bewertung.",
+      "bild": "images/adhs/ADHS-24.jpg"
+    }
+  ]
+}
