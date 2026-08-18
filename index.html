@@ -15,21 +15,22 @@
 </head>
 <body>
 
-<div id="lockScreen" class="lockscreen">
-  <div class="lockbox">
-    <div class="lockicon">🔒</div>
-    <h1 class="locktitle">KLARTEXT Kartendecks</h1>
-    <p class="locksub">Diese digitale Kartenansicht ist für Kund:innen mit einem gültigen Zugang. Das Passwort bekommst du nach dem Kauf eines Decks.</p>
-    <form id="lockForm" class="lockform">
-      <input type="password" id="lockPassword" class="lockinput" placeholder="Passwort" autocomplete="off" required>
-      <button type="submit" class="lockbtn">Freischalten</button>
-    </form>
-    <p id="lockError" class="lockerror" hidden>Falsches Passwort — bitte erneut versuchen.</p>
-    <a href="https://klartext-mentoring.de/KLARTEXT_Shop_Uebersicht.html" class="locklink">Noch kein Deck gekauft? Zum Shop →</a>
+<div id="pwOverlay" class="pw-overlay" hidden>
+  <div class="pw-modal">
+    <h2 class="pw-titel" id="pwDeckTitel"></h2>
+    <p class="pw-sub">Dieses Deck gehört zu einem gekauften Kartendeck. Bitte gib den Zugangscode
+      ein, den du nach dem Kauf erhalten hast.</p>
+    <input type="text" id="pwInput" class="pw-input" placeholder="Zugangscode" autocomplete="off"
+      autocapitalize="off" autocorrect="off" spellcheck="false" inputmode="text">
+    <p class="pw-error" id="pwError" hidden>Code stimmt nicht. Bitte nochmal versuchen.</p>
+    <div class="pw-actions">
+      <button type="button" class="pw-cancel" id="pwCancel">Abbrechen</button>
+      <button type="button" class="pw-submit" id="pwSubmit">Freischalten</button>
+    </div>
   </div>
 </div>
 
-<div id="appShell" hidden>
+<div id="appShell">
 
 <header class="topbar">
   <button id="backBtn" class="iconbtn" hidden aria-label="Zurück zur Übersicht">&#8592;</button>

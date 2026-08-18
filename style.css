@@ -34,62 +34,66 @@ body {
   min-height: 100dvh;
 }
 
-/* ---------- Zugangssperre ---------- */
-.lockscreen {
-  min-height: 100vh;
-  min-height: 100dvh;
+/* ---------- Passwort-Overlay (Zugangscode pro Deck) ----------
+   Löst die frühere seitenweite Zugangssperre (.lockscreen/.lockbox, ein Passwort für alle
+   Decks) ab — jetzt pro Deck ein eigener Code, abgefragt beim Öffnen über openDeck(). */
+.pw-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(27,58,75,0.55);
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--kt-primary);
-  padding: 24px 16px;
+  padding: 20px;
+  z-index: 100;
 }
-.lockbox {
+.pw-modal {
   background: #fff;
-  border-radius: 18px;
-  padding: 32px 26px;
-  max-width: 380px;
-  width: 100%;
-  text-align: center;
+  border-radius: 16px;
+  padding: 22px 20px;
+  width: min(92vw, 360px);
   box-shadow: 0 12px 32px rgba(0,0,0,0.25);
 }
-.lockicon { font-size: 36px; margin-bottom: 10px; }
-.locktitle {
+.pw-titel {
   font-family: var(--font-serif);
-  font-size: 21px;
   color: var(--kt-primary);
-  margin: 0 0 10px;
+  font-size: 19px;
+  margin: 0 0 8px;
 }
-.locksub { color: var(--kt-muted); font-size: 13.5px; line-height: 1.6; margin: 0 0 20px; }
-.lockform { display: flex; flex-direction: column; gap: 10px; }
-.lockinput {
-  border: 1.5px solid #E4DCCB;
+.pw-sub { font-size: 13px; color: var(--kt-muted); line-height: 1.5; margin: 0 0 16px; }
+.pw-input {
+  width: 100%;
+  font-size: 16px;
+  padding: 11px 12px;
+  border: 1.5px solid #D8D2C4;
   border-radius: 10px;
-  padding: 11px 14px;
-  font-size: 15px;
   font-family: var(--font-sans);
-  text-align: center;
 }
-.lockinput:focus { outline: 2px solid var(--kt-accent); border-color: var(--kt-accent); }
-.lockbtn {
+.pw-input:focus { outline: none; border-color: var(--kt-primary); }
+.pw-error { color: #B3261E; font-size: 12.5px; margin: 8px 0 0; }
+.pw-actions { display: flex; gap: 10px; margin-top: 16px; }
+.pw-cancel {
+  flex: 1;
+  background: transparent;
+  border: 1.5px solid var(--kt-primary);
+  color: var(--kt-primary);
+  border-radius: 10px;
+  padding: 11px 0;
+  font-size: 14px;
+  cursor: pointer;
+}
+.pw-submit {
+  flex: 1.4;
   background: var(--kt-primary);
   color: #fff;
   border: none;
   border-radius: 10px;
-  padding: 12px 0;
-  font-size: 15px;
+  padding: 11px 0;
+  font-size: 14px;
   font-weight: 600;
   cursor: pointer;
 }
-.lockbtn:active { opacity: 0.88; }
-.lockerror { color: #B3261E; font-size: 12.5px; margin: 10px 0 0; }
-.locklink {
-  display: inline-block;
-  margin-top: 18px;
-  color: var(--kt-muted);
-  font-size: 12.5px;
-  text-decoration: underline;
-}
+.pw-submit:active, .pw-cancel:active { opacity: 0.85; }
 
 /* ---------- Topbar ---------- */
 .topbar {

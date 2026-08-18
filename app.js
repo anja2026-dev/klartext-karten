@@ -52,10 +52,86 @@ const appleTouchIcon = document.getElementById('appleTouchIcon');
 const DEFAULT_TITLE = document.title;
 const DEFAULT_ICON = 'icons/icon-192.png';
 
+const pwOverlay = document.getElementById('pwOverlay');
+const pwDeckTitel = document.getElementById('pwDeckTitel');
+const pwInput = document.getElementById('pwInput');
+const pwError = document.getElementById('pwError');
+const pwCancel = document.getElementById('pwCancel');
+const pwSubmit = document.getElementById('pwSubmit');
+
 let currentDeck = null;
 let currentIndex = 0;
+let allDecks = [];
+let accessMap = {};
 
 function lastIndexKey(deckId) { return `klartext_last_${deckId}`; }
+function unlockedKey(deckId) { return `klartext_unlocked_${deckId}`; }
+function isDeckUnlocked(deckId) { return localStorage.getItem(unlockedKey(deckId)) === '1'; }
+
+async function loadAccess() {
+  try {
+    const res = await fetch('data/access.json');
+    accessMap = await res.json();
+  } catch (e) {
+    accessMap = {};
+  }
+}
+
+async function sha256Hex(text) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+// Passwort pro Deck: Hash-Vergleich, damit der Klartext-Code nicht 1:1 im Code steht.
+// Kein Ersatz für echten Login/Backend (die App bleibt eine rein statische Seite) — reicht
+// aber als Zugriffsschranke gegen zufälliges/beiläufiges Mitlesen fremder, nicht gekaufter Decks.
+// Löst die frühere seitenweite Passwortsperre (ein Passwort für alle 24 Decks) ab.
+async function checkPassword(deckId, pw) {
+  const expected = accessMap[deckId];
+  if (!expected) return false;
+  const hash = await sha256Hex(`${deckId}:${pw.trim().toLowerCase()}`);
+  return hash === expected;
+}
+
+function askForPassword(deckId, deckTitel) {
+  return new Promise((resolve) => {
+    pwDeckTitel.textContent = deckTitel;
+    pwInput.value = '';
+    pwError.hidden = true;
+    pwOverlay.hidden = false;
+    pwInput.focus();
+
+    function cleanup() {
+      pwOverlay.hidden = true;
+      pwSubmit.removeEventListener('click', onSubmit);
+      pwCancel.removeEventListener('click', onCancel);
+      pwInput.removeEventListener('keydown', onKeydown);
+    }
+    async function onSubmit() {
+      const ok = await checkPassword(deckId, pwInput.value);
+      if (ok) {
+        localStorage.setItem(unlockedKey(deckId), '1');
+        cleanup();
+        resolve(true);
+      } else {
+        pwError.hidden = false;
+        pwInput.value = '';
+        pwInput.focus();
+      }
+    }
+    function onCancel() {
+      cleanup();
+      resolve(false);
+    }
+    function onKeydown(e) {
+      if (e.key === 'Enter') { e.preventDefault(); onSubmit(); }
+      if (e.key === 'Escape') { e.preventDefault(); onCancel(); }
+    }
+    pwSubmit.addEventListener('click', onSubmit);
+    pwCancel.addEventListener('click', onCancel);
+    pwInput.addEventListener('keydown', onKeydown);
+  });
+}
 
 // ---------- Suche ----------
 const searchInput = document.getElementById('searchInput');
@@ -155,6 +231,7 @@ function setAppIdentity(deckOrNull) {
 async function loadDecks() {
   const res = await fetch('data/decks.json');
   const decks = await res.json();
+  allDecks = decks;
   deckCategories.innerHTML = '';
 
   KATEGORIE_ORDER.forEach(katId => {
@@ -195,6 +272,18 @@ async function loadDecks() {
 
 async function openDeck(deckId, opts = {}) {
   const { pushState = true, targetNr = null } = opts;
+
+  if (!isDeckUnlocked(deckId)) {
+    const meta = allDecks.find(d => d.id === deckId);
+    const ok = await askForPassword(deckId, meta ? meta.titel : 'dieses Deck');
+    if (!ok) {
+      // Abgebrochen: bei Deep-Link (?deck=...) oder Sprung aus der Suche URL bereinigen,
+      // sonst einfach auf der Übersicht bleiben (Kachel-Klick hat noch keine URL geändert).
+      if (!pushState) closeDeck({ pushState: true });
+      return;
+    }
+  }
+
   let res;
   try {
     res = await fetch(`data/${deckId}.json`);
@@ -406,61 +495,16 @@ window.addEventListener('popstate', () => {
   else closeDeck({ pushState: false });
 });
 
-function initApp() {
-  // Deep-Link beim Start: ?deck=<id> öffnet direkt dieses Deck (z.B. eigenes Home-Bildschirm-Icon pro Deck)
-  loadDecks().then(() => {
-    const deckId = new URLSearchParams(location.search).get('deck');
-    if (deckId) openDeck(deckId, { pushState: false });
-  });
-
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('service-worker.js').catch(() => {});
-    });
-  }
-}
-
-// ---------- Zugangssperre ----------
-// Keine echte Zugriffskontrolle (Passwort liegt im Klartext im Client-Code) - verhindert nur,
-// dass Zufallsbesucher:innen ohne Kauf alle 22 Decks sehen. Passwort an zahlende Kund:innen
-// weitergeben (z.B. per Digistore24-Dankeseite/E-Mail, sobald der Checkout steht).
-const LOCK_PASSWORD = 'brainy-lernt-2026';
-const LOCK_KEY = 'klartext_karten_unlocked';
-
-const lockScreen = document.getElementById('lockScreen');
-const appShell = document.getElementById('appShell');
-const lockForm = document.getElementById('lockForm');
-const lockPasswordInput = document.getElementById('lockPassword');
-const lockError = document.getElementById('lockError');
-
-function isUnlocked() {
-  return localStorage.getItem(LOCK_KEY) === 'true';
-}
-
-function unlock() {
-  localStorage.setItem(LOCK_KEY, 'true');
-  lockScreen.hidden = true;
-  appShell.hidden = false;
-  initApp();
-}
-
-lockForm.addEventListener('submit', (e) => {
-  e.preventDefault();
-  if (lockPasswordInput.value.trim() === LOCK_PASSWORD) {
-    lockError.hidden = true;
-    unlock();
-  } else {
-    lockError.hidden = false;
-    lockPasswordInput.value = '';
-    lockPasswordInput.focus();
-  }
+// Deep-Link beim Start: ?deck=<id> öffnet direkt dieses Deck (z.B. eigenes Home-Bildschirm-Icon
+// pro Deck) — fragt dabei automatisch den Zugangscode ab (über openDeck), falls das Deck auf
+// diesem Gerät noch nicht freigeschaltet ist.
+Promise.all([loadDecks(), loadAccess()]).then(() => {
+  const deckId = new URLSearchParams(location.search).get('deck');
+  if (deckId) openDeck(deckId, { pushState: false });
 });
 
-if (isUnlocked()) {
-  lockScreen.hidden = true;
-  appShell.hidden = false;
-  initApp();
-} else {
-  lockScreen.hidden = false;
-  appShell.hidden = true;
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('service-worker.js').catch(() => {});
+  });
 }
