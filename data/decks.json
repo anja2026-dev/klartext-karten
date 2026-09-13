@@ -214,5 +214,77 @@
     "anzahl": 4,
     "kategorie": "material",
     "code": "ZS"
+  },
+  {
+    "id": "jk-gs",
+    "titel": "Jahreskarten-Set Grundschule",
+    "untertitel": "Brainys Kopfstand & Schlaufuchs-Lösung (190 Tage)",
+    "farbe": "#B4482E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-GS"
+  },
+  {
+    "id": "jk-fs",
+    "titel": "Jahreskarten-Set Förderschule",
+    "untertitel": "Brainys Kopfstand & Schlaufuchs-Lösung (190 Tage)",
+    "farbe": "#B4482E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-FS"
+  },
+  {
+    "id": "jk-sek157",
+    "titel": "Jahreskarten-Set Sek I 5–7",
+    "untertitel": "Cyber-Brainy Edition (190 Tage)",
+    "farbe": "#B4482E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-JD57"
+  },
+  {
+    "id": "jk-sek1810",
+    "titel": "Jahreskarten-Set Sek I 8–10",
+    "untertitel": "Career-Coach Edition (190 Tage)",
+    "farbe": "#B4482E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-JD810"
+  },
+  {
+    "id": "jk-sek2",
+    "titel": "Jahreskarten-Set Sek II",
+    "untertitel": "Executive Coach Edition (190 Tage)",
+    "farbe": "#B4482E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-SEK2"
+  },
+  {
+    "id": "jk-bvb",
+    "titel": "Jahreskarten-Set Berufsvorbereitung",
+    "untertitel": "Sabotage-Konferenz & Praxis-Schlüssel (190 Tage, ohne Maskottchen)",
+    "farbe": "#2F6B6E",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-BVB"
+  },
+  {
+    "id": "jk-hb",
+    "titel": "Jahreskarten-Set Begabungsförderung",
+    "untertitel": "Paradoxer Kopfstand & Logic-Code (190 Tage)",
+    "farbe": "#C47A00",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-HB"
+  },
+  {
+    "id": "jk-el",
+    "titel": "Jahreskarten-Set Elternkompass",
+    "untertitel": "Problem-Muster & Systemischer Alltags-Hack (190 Tage, Sie-Format)",
+    "farbe": "#1D9E75",
+    "anzahl": 190,
+    "kategorie": "jahreskarten",
+    "code": "JK-EL"
   }
 ]

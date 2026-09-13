@@ -1,0 +1,1720 @@
+{
+  "id": "jk-sek1810",
+  "titel": "Jahreskarten-Set Sek I 8–10",
+  "untertitel": "Career-Coach Edition (190 Tage)",
+  "farbe": "#B4482E",
+  "farbe_hell": "#FBEAE3",
+  "farbe_rand": "#E8C3B2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie trödeln wir im September und behaupten 'Die Prüfungen sind doch erst im Sommer'?",
+      "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
+      "fragen": [],
+      "hinweis": "Wir setzen am Tag 1 klare Jahresziele für Notenschnitt und Wunschabschluss.",
+      "icon": "briefcase",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie verpennen wir Fristen für Praktikumsplätze im 1. Halbjahr?",
+      "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
+      "fragen": [],
+      "hinweis": "Wir legen einen BSO-Ordner (Berufsorientierung) an und sichern erste Adressen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie schieben wir schlechte Noten auf 'Abschluss-Panikmacher-Lehrer'?",
+      "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Lehrer-Feedback als Fahrplan für gezielte Notenverbesserung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie verfallen wir in Prokrastination bei den ersten Facharbeiten?",
+      "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
+      "fragen": [],
+      "hinweis": "Wir erstellen sofort einen Meilenstein-Plan mit wöchentlichen Abgaben.",
+      "icon": "briefcase",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie starten wir unorganisiert ins entscheidende Schuljahr?",
+      "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
+      "fragen": [],
+      "hinweis": "Wir reflektieren unsere Lern-Routinen im Logbuch und passen den Wochenplan an.",
+      "icon": "briefcase",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie behaupten wir bei der Berufswahl nur 'Ich kann eigentlich gar nichts'?",
+      "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
+      "fragen": [],
+      "hinweis": "Wir führen den KLARTEXT-Stärken-Check durch und listen 5 persönliche Talente auf.",
+      "icon": "briefcase",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie wählen wir Praktikumsberufe nur danach aus, wo die besten Freunde hingehen?",
+      "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
+      "fragen": [],
+      "hinweis": "Wir wählen BSO-Felder nach unseren eigenen echten Interessen und Neigungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie ignorieren wir Soft Skills wie Pünktlichkeit, Teamgeist und Durchhaltevermögen?",
+      "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
+      "fragen": [],
+      "hinweis": "Wir wissen: Zuverlässigkeit ist der wichtigste Baustein für Ausbildungsbetriebe.",
+      "icon": "briefcase",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie lassen wir uns von Eltern oder Bekannten in Wunschberufe drängen?",
+      "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
+      "fragen": [],
+      "hinweis": "Wir klären ab, welche Tätigkeiten zu unserer eigenen Persönlichkeit passen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie unterschätzen wir praktische und handwerkliche Fähigkeiten?",
+      "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
+      "fragen": [],
+      "hinweis": "Wir würdigen jede Stärke – ob akademisch, sozial, kreativ oder praktisch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie versenden wir fehlerhafte Standard-Anschreiben mit falschem Firmennamen?",
+      "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
+      "fragen": [],
+      "hinweis": "Wir prüfen jedes Anschreiben individuell auf Rechtschreibung, Ansprechpartner & Motivation.",
+      "icon": "briefcase",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie nutzen wir unseriöse E-Mail-Adressen für offizielle Bewerbungen?",
+      "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
+      "fragen": [],
+      "hinweis": "Wir legen eine seriöse Mailadresse (vorname.nachname@...) für Bewerbungen an.",
+      "icon": "briefcase",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie schicken wir unscharfe Handy-Fotos als Bewerbungsbild mit?",
+      "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
+      "fragen": [],
+      "hinweis": "Wir nutzen professionelle Lichtbilder mit angemessener Kleidung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie lassen wir Lücken im Lebenslauf unerklärt stehen?",
+      "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
+      "fragen": [],
+      "hinweis": "Wir dokumentieren Schulzeiten, Praktika, Ehrenämter und Nebenjobs lückenlos.",
+      "icon": "briefcase",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie schicken wir zerknitterte Papier-Bewerbungen per Post ab?",
+      "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
+      "fragen": [],
+      "hinweis": "Wir nutzen saubere Bewerbungsmappen oder korrekte PDF-Anhänge per Mail.",
+      "icon": "briefcase",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie kommen wir am 1. Praktikagstag 10 Minuten zu spät und ohne Notizblock?",
+      "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
+      "fragen": [],
+      "hinweis": "Wir planen die Anfahrt mit Puffer und sind 10 Minuten vor Arbeitsbeginn da.",
+      "icon": "briefcase",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie daddeln wir während der Arbeitszeit heimlich auf dem Smartphone?",
+      "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
+      "fragen": [],
+      "hinweis": "Wir halten die Handy-Spind-Regel ein: Smartphone bleibt in den Arbeitsphasen stumm.",
+      "icon": "briefcase",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie stehen wir passiv in der Ecke und warten, bis jemand uns anspricht?",
+      "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
+      "fragen": [],
+      "hinweis": "Wir zeigen Eigeninitiative: 'Kann ich Ihnen bei dieser Aufgabe helfen?'",
+      "icon": "briefcase",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie reagieren wir pampig auf Korrekturen durch Gesellen/Betreuer?",
+      "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
+      "fragen": [],
+      "hinweis": "Wir nehmen Feedback dankbar an: 'Danke für den Tipp, so mache ich es ab jetzt.'",
+      "icon": "briefcase",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie vergessen wir den Praktikumsbericht bis zum Sonntagabend?",
+      "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
+      "fragen": [],
+      "hinweis": "Wir schreiben täglich 10 Minuten Praktikums-Tagebuch im Betrieb.",
+      "icon": "briefcase",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie stammeln wir bei der Frage 'Warum wollen Sie zu uns?' nur 'Weiß nicht'?",
+      "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
+      "fragen": [],
+      "hinweis": "Wir bereiten die Antwort vor: 3 Fakten über das Unternehmen + eigene Motivation.",
+      "icon": "briefcase",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie hängen wir schlaff im Stuhl und vermeiden Blickkontakt?",
+      "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
+      "fragen": [],
+      "hinweis": "Wir achten auf aufrechte Körperhaltung, freundliches Lächeln und festen Händedruck.",
+      "icon": "briefcase",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie antworten wir auf Fragen nur mit 'Ja' oder 'Nein'?",
+      "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
+      "fragen": [],
+      "hinweis": "Wir antworten in kurzen Geschichten mit konkreten Beispielen aus der Schule/Praktikum.",
+      "icon": "briefcase",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie haben wir auf die Frage 'Haben Sie noch Fragen an uns?' keine einzige Idee?",
+      "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
+      "fragen": [],
+      "hinweis": "Wir stellen 2 kluge Gegenfragen (z. B. zu Ausbildungsverlauf oder Teamstruktur).",
+      "icon": "briefcase",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie kommen wir unpünktlich oder in Jogginghose zum Vorstellungsgespräch?",
+      "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
+      "fragen": [],
+      "hinweis": "Wir wählen angemessenes Business-Outfit und erscheinen überpünktlich.",
+      "icon": "briefcase",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie schieben wir das Verfassen der Facharbeit von Woche zu Woche weiter?",
+      "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den '5-Minuten-Trick': Nur 5 Minuten schreiben – der Start bricht die Hürde.",
+      "icon": "briefcase",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie putzen wir lieber das Zimmer, statt Mathe für die Abschlussprüfung zu üben?",
+      "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
+      "fragen": [],
+      "hinweis": "Wir trennen Arbeits- und Freizeitbereich strikt voneinander.",
+      "icon": "briefcase",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie lassen wir uns von Gaming und Social Media komplett blockieren?",
+      "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Website-Blocker während unserer festen Arbeitsblöcke.",
+      "icon": "briefcase",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie setzen wir uns unerreichbar riesige Tagesziele und geben frustriert auf?",
+      "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
+      "fragen": [],
+      "hinweis": "Wir zerlegen die Monster-Aufgabe in 3 überschaubare Happen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie belohnen wir uns fürs Nichtstun am Wochenende?",
+      "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
+      "fragen": [],
+      "hinweis": "Wir belohnen uns erst NACH Erreichen unseres festen Etappenziels.",
+      "icon": "briefcase",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie verharren wir bei schlechten Noten in Scham und ziehen uns isoliert zurück?",
+      "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
+      "fragen": [],
+      "hinweis": "Wir gründen Lern-Tandems mit Mitschülern für gegenseitiges Abfragen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie erklären wir Lernstoff nie laut, weil wir denken 'Das bringt nix'?",
+      "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
+      "fragen": [],
+      "hinweis": "Wir erklären uns schwierige Themen gegenseitig – Wer es erklären kann, hat es kapiert.",
+      "icon": "briefcase",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie konkurrieren wir neidisch um Notenpunkte im Jahrgang?",
+      "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
+      "fragen": [],
+      "hinweis": "Wir etablieren ein Miteinander: Zusammen heben wir den gesamten Klassenschnitt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie lassen wir leistungsschwächere Mitschüler alleine hängen?",
+      "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung als Lern-Coach im Unterricht.",
+      "icon": "briefcase",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie verpassen wir es, Lehrkräfte vor den Zeugnissen um Rat zu fragen?",
+      "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
+      "fragen": [],
+      "hinweis": "Wir bitten um ein lösungsorientiertes Beratungsgespräch zur Notenverbesserung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie verwechseln wir 'Nenne' mit 'Erkläre' und schreiben 2 Seiten am Ziel vorbei?",
+      "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
+      "fragen": [],
+      "hinweis": "Wir lernen die Prüfungs-Operatoren (AFB I: Nenne/Aufzähle, AFB II: Erkläre/Vergleiche, AFB III: Beurteile).",
+      "icon": "briefcase",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie ignorieren wir die Punkteverteilung am Rand der Aufgabenstellung?",
+      "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
+      "fragen": [],
+      "hinweis": "Wir richten unsere Schreibzeit direkt nach der Punktewertung der Aufgabe aus.",
+      "icon": "briefcase",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie lesen wir die Aufgabenstellung nur einmal flüchtig durch?",
+      "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
+      "fragen": [],
+      "hinweis": "Wir unterstreichen die W-Fragen und Operatoren im Aufgabentext farbig.",
+      "icon": "briefcase",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie strukturelos schreiben wir Fließtext ohne Absätze und Zwischenüberschriften?",
+      "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
+      "fragen": [],
+      "hinweis": "Wir gliedern Antworten klar mit Absätzen und Fachbegriffen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie verzichten wir in Deutsch/Gesellschaftslehre auf Textbelege und Zitate?",
+      "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
+      "fragen": [],
+      "hinweis": "Wir belegen Aussagen immer mit Zeilenangaben und korrekten Zitaten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie geraten wir mit Eltern in heftigen Streit wegen Berufswünschen?",
+      "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
+      "fragen": [],
+      "hinweis": "Wir führen ein ruhiges Orientierungsgespräch mit dem BSO-Berater und den Eltern.",
+      "icon": "briefcase",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie lassen wir uns vom Erwartungsdruck der Eltern lämen?",
+      "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
+      "fragen": [],
+      "hinweis": "Wir zeigen eigene konkrete Schritte und Pläne für den Schulabschluss.",
+      "icon": "briefcase",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie verheimlichen wir schulische Probleme vor den Eltern bis zum Zeugnis?",
+      "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
+      "fragen": [],
+      "hinweis": "Wir informieren Eltern frühzeitig über Herausforderungen und geplante Gegenmaßnahmen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie erwarten wir, dass Eltern alle Anträge und Formulare für uns ausfüllen?",
+      "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
+      "fragen": [],
+      "hinweis": "Wir füllen Formulare eigenständig aus und bitten Eltern nur um Durchsicht.",
+      "icon": "briefcase",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie fühlen wir uns als Versager, wenn elterliche Wünsche nicht zu uns passen?",
+      "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
+      "fragen": [],
+      "hinweis": "Wir definieren unseren eigenen Wert unabhängig von akademischen Hoheitskonzepten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie verpassen wir die Frist zur Anmeldung der zentralen Abschlussprüfungen?",
+      "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen alle Formulare und geben Anmeldungen überpünktlich ab.",
+      "icon": "briefcase",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie lassen wir die Zügel vor den Weihnachtsferien komplett schleifen?",
+      "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
+      "fragen": [],
+      "hinweis": "Wir sichern gute Vornoten durch engagierte Mündlichkeit im Endspurt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie vergessen wir die Nachforderung fehlender Unterschriften auf Anträgen?",
+      "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
+      "fragen": [],
+      "hinweis": "Wir führen eine Kontrollliste für alle offiziellen Dokumente.",
+      "icon": "briefcase",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie stauen wir unerledigte Aufgaben vor den Ferien auf?",
+      "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten Rückstände systematisch ab.",
+      "icon": "briefcase",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie gehen wir völlig erschöpft ohne Ferienplan in die Pause?",
+      "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
+      "fragen": [],
+      "hinweis": "Wir schließen den Block ab und gönnen uns echte Regeneration.",
+      "icon": "briefcase",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie verfluchen wir Mathe-Aufgaben, ohne die Grundformeln zu beherrschen?",
+      "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
+      "fragen": [],
+      "hinweis": "Wir legen eine Formelsammlung an und lernen Grundgleichungen auswendig.",
+      "icon": "briefcase",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie lassen wir Taschenrechner-Bedienfehler in Prüfungen zu Punktefressern werden?",
+      "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
+      "fragen": [],
+      "hinweis": "Wir üben die Bedienung des eigenen Taschenrechners diszipliniert.",
+      "icon": "briefcase",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie zeichnen wir Geometrie-Skizzen ohne Lineal und Freihand?",
+      "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen saubere Zeichnungen mit Bleistift, Geodreieck und Zirkel.",
+      "icon": "briefcase",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie lassen wir den Rechenweg komplett weg und schreiben nur das Ergebnis?",
+      "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Der Rechenweg bringt 80 % der Punkte – jeden Schritt aufschreiben!",
+      "icon": "briefcase",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie geben wir bei schwierigen Mathe-Textaufgaben sofort auf?",
+      "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
+      "fragen": [],
+      "hinweis": "Wir übersetzen Text schrittweise in mathematische Symbole.",
+      "icon": "briefcase",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie schreiben wir eine Erörterung ohne klare Sanduhr-Struktur (Pro/Kontra)?",
+      "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
+      "fragen": [],
+      "hinweis": "Wir gliedern Erörterungen streng: Einleitung, Pro-Argumente, Kontra-Argumente, Fazit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie behaupten wir Thesen, ohne ein einziges konkretes Beispiel zu nennen?",
+      "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 3-B-Regel für Argumente: Behauptung, Begründung, Beispiel.",
+      "icon": "briefcase",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie übersehen wir sprachliche Mittel (Metaphern, Rhetorische Fragen) in Analysen?",
+      "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
+      "fragen": [],
+      "hinweis": "Wir analysieren sprachliche Mittel immer mit ihrer Wirkung auf den Leser.",
+      "icon": "briefcase",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie schlampen wir bei Rechtschreibung, Kommasetzung und Ausdruck?",
+      "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
+      "fragen": [],
+      "hinweis": "Wir planen 15 Minuten reine Korrekturzeit am Ende der Deutschklausur ein.",
+      "icon": "briefcase",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie vergessen wir den Einleitungssatz (TATTE: Titel, Autor, Textsorte, Thema, Epoche)?",
+      "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
+      "fragen": [],
+      "hinweis": "Wir verankern den TATTE-Satz als festen Standard-Auftakt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie verfallen wir beim Speaking Test in lange deutsche Denkpausen?",
+      "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
+      "fragen": [],
+      "hinweis": "Wir nutzen englische Filler-Phrasen: 'Well, let me think...', 'That is an interesting point...'",
+      "icon": "briefcase",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie lernen wir nur Vokabeln, aber üben das freie Sprechen nie laut?",
+      "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
+      "fragen": [],
+      "hinweis": "Wir simulieren den Speaking Test mit einem Lernpartner auf Englisch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie beschreiben wir Bilder in der Prüfung ohne Struktur?",
+      "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Bildbeschreibungssystematik: Foreground, Background, On the left/right, It seems to be...",
+      "icon": "briefcase",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie stottern wir bei Diskussionen und trauen uns nicht zu widersprechen?",
+      "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Höflichkeits-Formeln: 'I see your point, but on the other hand...'",
+      "icon": "briefcase",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie verstummen wir bei Grammatikfehlern völlig?",
+      "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
+      "fragen": [],
+      "hinweis": "Wir sprechen weiter: Flüssigkeit und Mut zählen in der mündlichen Prüfung mehr als perfekte Grammatik.",
+      "icon": "briefcase",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie verballern wir 50 % der Zeit für die 1. Aufgabe und hetzen am Ende?",
+      "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
+      "fragen": [],
+      "hinweis": "Wir teilen die Zeit vorab ein: Pufferzeit für Durchlesen und Endkorrektur einplanen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie fangen wir ohne Durchlesen des gesamten Bogens sofort an zu schreiben?",
+      "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
+      "fragen": [],
+      "hinweis": "Wir lesen zuerst alle Wahlaufgaben komplett durch und wählen strategisch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie trinken und essen wir während langer Klausuren gar nichts?",
+      "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
+      "fragen": [],
+      "hinweis": "Wir haben Stilles Wasser, Nüsse und Traubenzucker am Platz.",
+      "icon": "briefcase",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie geben wir bei Schreibkrämpfen in der Hand auf?",
+      "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen kurze 10-Sekunden-Hand-Lockerungspausen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie geben wir 30 Minuten vor Schluss ab, weil wir 'keine Lust mehr' haben?",
+      "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen jede Minute zur Prüfung und Überarbeitung unserer Ergebnisse.",
+      "icon": "briefcase",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie ignorieren wir Mängel auf dem Zwischenzeugnis?",
+      "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
+      "fragen": [],
+      "hinweis": "Wir analysieren die Vornoten genau: Wo reichen die Punkte für den Wunschabschluss?",
+      "icon": "briefcase",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie schieben wir schlechte Noten auf 'Lehrer-Willkür'?",
+      "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
+      "fragen": [],
+      "hinweis": "Wir fragen Fachlehrer gezielt nach Chancen für Nachprüfungen oder Zusatzleistungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie geben wir den Traum vom Realschulabschluss/FOS vorzeitig auf?",
+      "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
+      "fragen": [],
+      "hinweis": "Wir mobilisieren Förderangebote, Nachhilfe und Intensivgruppen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie verheimlichen wir Warnsignale vor Ausbildungsbetrieben?",
+      "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
+      "fragen": [],
+      "hinweis": "Wir informieren Betriebe offen über Nachprüfungen und zeigen Einsatz.",
+      "icon": "briefcase",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie starten wir ohne klaren Arbeitsplan in die 2. Halbzeit?",
+      "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
+      "fragen": [],
+      "hinweis": "Wir fixieren wöchentliche Lernblöcke bis zu den Hauptprüfungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie gehen wir völlig unvorbereitet in Firmen-Einstellungstests?",
+      "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
+      "fragen": [],
+      "hinweis": "Wir üben typische Einstellungstests (Musterlogik, Kopfrechnen, Rechtschreibung) online.",
+      "icon": "briefcase",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie scheitern wir an Konzentrationstests unter Zeitdruck?",
+      "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
+      "fragen": [],
+      "hinweis": "Wir trainieren gezielt Bearbeitungsgeschwindigkeit bei Logikrätseln.",
+      "icon": "briefcase",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie wissen wir im Allgemeinwissen-Teil nichts über Politik/Wirtschaft?",
+      "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
+      "fragen": [],
+      "hinweis": "Wir verfolgen täglich 5 Minuten Nachrichten (Tagesschau/Logo) für Allgemeinbildung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie geraten wir bei Online-Tests bei technischen Problemen in Panik?",
+      "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
+      "fragen": [],
+      "hinweis": "Wir testen Browser und Internetverbindung vorab und kontaktieren bei Fehlern den Support.",
+      "icon": "briefcase",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie verfehlen wir Testergebnisse aus reiner Müdigkeit?",
+      "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
+      "fragen": [],
+      "hinweis": "Wir schlafen vor Eignungsprüfungen ausreichend und erscheinen fit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie lernen wir für mündliche Prüfungen nur reine Fakten ohne Zusammenhänge?",
+      "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
+      "fragen": [],
+      "hinweis": "Wir erstellen Mindmaps für Ursache-Wirkungs-Ketten und globale Zusammenhänge.",
+      "icon": "briefcase",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie stammeln wir vor der Prüfungskommission leise in den Bart?",
+      "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
+      "fragen": [],
+      "hinweis": "Wir üben freies Sprechen vor Freunden/Eltern mit lauter, deutlicher Stimme.",
+      "icon": "briefcase",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie ignorieren wir Fachbegriffe und nutzen Umgangssprache?",
+      "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
+      "fragen": [],
+      "hinweis": "Wir bauen fachspezifische Begriffe gezielt in unsere Antworten ein.",
+      "icon": "briefcase",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie verfallen wir bei Nachfragen der Prüfer in Schockstarre?",
+      "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Überbrückungssätze: 'Das ist ein interessanter Aspekt, dazu lässt sich sagen...'",
+      "icon": "briefcase",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie lassen wir uns von der strengen Atmosphäre im Prüfungsraum lähmen?",
+      "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
+      "fragen": [],
+      "hinweis": "Wir begegnen der Kommission höflich, selbstbewusst und gut vorbereitet.",
+      "icon": "briefcase",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie geben wir unser gesamtes Nebenjob-Geld am 1. Tag für Klamotten aus?",
+      "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das 50-30-20-Budgetmodell: 50% Sparen, 30% Wünsche, 20% Notgroschen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie unterschreiben wir Verträge für Nebenjobs ohne Arbeitsschutz-Prüfung?",
+      "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
+      "fragen": [],
+      "hinweis": "Wir achten auf Rechte für Jugendliche (Arbeitszeiten, Pausen, Mindestlohn).",
+      "icon": "briefcase",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie vernachlässigen wir die Schule wegen unseres Nebenjobs?",
+      "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
+      "fragen": [],
+      "hinweis": "Wir begrenzen Arbeitszeiten in der Prüfungssaison strikt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie geraten wir durch In-App-Käufe oder Ratenzahlung in Schuldenfalle?",
+      "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
+      "fragen": [],
+      "hinweis": "Wir verzichten auf Ratenkäufe und Verträge mit versteckten Kosten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie führen wir kein Haushaltsbuch und wundern uns über ein leeres Konto?",
+      "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Finanz-Apps zur Ausgaben-Kontrolle.",
+      "icon": "briefcase",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie quälen wir uns in den Ferien mit schlechtem Gewissen wegen Prüfungen?",
+      "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
+      "fragen": [],
+      "hinweis": "Wir planen feste Ferientage für reine Erholung ein.",
+      "icon": "briefcase",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie lernen wir in den Ferien 8 Stunden durch und sind danach reif für die Klinik?",
+      "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 2-Stunden-Formel: Höchstens 2 Stunden gezieltes Wiederholen pro Tag.",
+      "icon": "briefcase",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie kehren wir Schlafrhythmen komplett um?",
+      "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
+      "fragen": [],
+      "hinweis": "Wir halten den Rhythmus stabil, um den Neustart nicht zu verschlafen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie vergessen wir Bewegung an der frischen Luft völlig?",
+      "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
+      "fragen": [],
+      "hinweis": "Wir machen tägliche Spaziergänge oder Sport im Winter.",
+      "icon": "briefcase",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie starten wir unvorbereitet in die heiße Phase nach den Ferien?",
+      "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
+      "fragen": [],
+      "hinweis": "Wir ordnen Materialien für den Endspurt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie verstreichen die letzten 100 Tage ohne konkreten Etappenplan?",
+      "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen Wandkalender mit allen Prüfungsterminen und Meilensteinen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie verfallen wir in Torschluss-Panik und versuchen alles auf einmal zu lernen?",
+      "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten nach dem Prioritäten-Prinzip (A-Themen zuerst, B-Themen danach).",
+      "icon": "briefcase",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie lassen wir uns von Mitschülern mit 'Ich habe noch gar nix gelernt' anstecken?",
+      "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
+      "fragen": [],
+      "hinweis": "Wir fokussieren uns auf unseren eigenen Lernweg und meiden Panikmacher.",
+      "icon": "briefcase",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie schlampen wir bei den Vornoten auf den letzten Metern?",
+      "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
+      "fragen": [],
+      "hinweis": "Wir sichern jeden einzelnen Vornoten-Punkt durch aktive Mündlichkeit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie vergessen wir regelmäßige Wiederholungen früherer Themen?",
+      "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
+      "fragen": [],
+      "hinweis": "Wir nutzen tägliche 15-Minuten-Flashcard-Runden für Altstoff.",
+      "icon": "briefcase",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie plagiieren wir Sätze aus dem Internet ohne Quellenangabe?",
+      "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
+      "fragen": [],
+      "hinweis": "Wir zitieren jede fremde Idee korrekt mit Fußnote und Literaturverzeichnis.",
+      "icon": "briefcase",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie gliedern wir die Facharbeit chaotisch ohne rote Faden?",
+      "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
+      "fragen": [],
+      "hinweis": "Wir bauen eine klare Struktur: Einleitung, Hauptteil (Theorie/Praxis), Schluss/Fazit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie gestalten wir die Präsentationsfolien unleserlich mit zu viel Text?",
+      "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Stichpunkte, anschauliche Grafiken und Modelle.",
+      "icon": "briefcase",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie übertreiten wir die vorgegebene Vortragszeit um 10 Minuten?",
+      "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
+      "fragen": [],
+      "hinweis": "Wir stoppen die Zeit beim Üben exakt ab und kürzen Überflüssiges.",
+      "icon": "briefcase",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie verfallen wir bei Nachfragen der Fachprüfer in Schweigen?",
+      "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
+      "fragen": [],
+      "hinweis": "Wir beantworten Fragen sachlich und nutzen Notizen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie scheitern wir an Parabeln und Scheitelpunktformen aus Unkenntnis der Grundformel?",
+      "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
+      "fragen": [],
+      "hinweis": "Wir trainieren die Quadratische Ergänzung und p-q-Formel systematisch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie verwechseln wir Prozentrechnung mit Zinsrechnung?",
+      "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten mit klaren Dreisatz- und Formel-Schemata.",
+      "icon": "briefcase",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie scheitern wir an Stochastik und Baumdiagrammen?",
+      "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Pfadregeln (Produktregel, Summenregel) konsequent.",
+      "icon": "briefcase",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie verzweifeln wir an der Geometrie (Satz des Pythagoras/Trigonometrie)?",
+      "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
+      "fragen": [],
+      "hinweis": "Wir zeichnen rechtwinklige Dreiecke heraus und beschriften Hypotenuse/Katheten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie machen wir Flüchtigkeitsfehler bei Vorzeichen?",
+      "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Vorzeichen bei jedem Rechenschritt doppelt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie verwechseln wir die Intention des Autors mit unserer eigenen Meinung?",
+      "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
+      "fragen": [],
+      "hinweis": "Wir trennen sachliche Textanalyse streng von der eigenen Stellungnahme.",
+      "icon": "briefcase",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie übersehen wir Ironie, Metaphern und rhetorische Mittel im Text?",
+      "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
+      "fragen": [],
+      "hinweis": "Wir markieren Stilmittel und beschreiben ihre Wirkung auf den Leser.",
+      "icon": "briefcase",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie zitieren wir ungenau ohne Zeilenangaben ('Vgl. Z. 12-14')?",
+      "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
+      "fragen": [],
+      "hinweis": "Wir belegen jede Behauptung mit exakten Textzitaten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie scheitern wir am Rechtschreib-Teil der Prüfung?",
+      "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Duden-Strategie und prüfen Zweifelsfälle im Wörterbuch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie schreiben wir unleserlich unter Zeitdruck?",
+      "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
+      "fragen": [],
+      "hinweis": "Wir achten auf eine saubere, gut lesbare Handschrift.",
+      "icon": "briefcase",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie geraten wir beim Listening-Teil bei der ersten Wortlücke in Panik?",
+      "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir hören weiter zu: Der Gesamtzusammenhang liefert meist die Antwort.",
+      "icon": "briefcase",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie lesen wir bei Reading-Aufgaben nicht zuerst die Fragen durch?",
+      "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir lesen IMMER erst die Fragen, um gezielt nach Antworten im Text zu suchen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie scheitern wir an False Friends (z. B. become vs. bekommen)?",
+      "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir lernen die 20 häufigsten False Friends gezielt auswendig.",
+      "icon": "briefcase",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie schreiben wir im Writing-Teil einfache Grundschul-Sätze?",
+      "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Linking Words (however, furthermore, in addition) für gehobenen Ausdruck.",
+      "icon": "briefcase",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie vergessen wir die Zeiten-Harmonie in indirekter Rede?",
+      "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir wiederholen den Backshift of Tenses systematisch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie verzichten wir in der heißen Lernphase komplett auf Sport und Erholung?",
+      "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
+      "fragen": [],
+      "hinweis": "Wir nutzen tägliche 30-Minuten-Sport-Einheiten zum Stressabbau.",
+      "icon": "briefcase",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie ernähren wir uns vor den Prüfungen nur von Fast Food und Chips?",
+      "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
+      "fragen": [],
+      "hinweis": "Wir versorgen das Gehirn mit Brainfood (Nüsse, Beeren, Vollkorn, Fisch/Hülsenfrüchte).",
+      "icon": "briefcase",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie verfallen wir abends in Grübelzwänge und schlafen nicht ein?",
+      "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Atemtechniken und schreiben Sorgen vor dem Schlafengehen auf.",
+      "icon": "briefcase",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie trinken wir unbewusst zu wenig Wasser bei hoher Denkbelastung?",
+      "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
+      "fragen": [],
+      "hinweis": "Wir trinken 2 Liter Wasser am Tag für optimale Gehirnleistung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie vergleichen wir unseren Lernstress ständig mit anderen?",
+      "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
+      "fragen": [],
+      "hinweis": "Wir achten auf unsere eigenen Grenzen und machen Pausen ohne Reue.",
+      "icon": "briefcase",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie nehmen wir das 2. Praktikum nicht ernst und verpassen Chancen?",
+      "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Praktikum als direkte Tür zum Ausbildungsvertrag.",
+      "icon": "briefcase",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie verhalten wir uns im Betrieb wie reine Schüler statt wie angehende Azubis?",
+      "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
+      "fragen": [],
+      "hinweis": "Wir zeigen berufliche Haltung, Höflichkeit und Arbeitsdisziplin.",
+      "icon": "briefcase",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie trauen wir uns nicht, den Chef nach einer Ausbildungsstelle zu fragen?",
+      "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
+      "fragen": [],
+      "hinweis": "Wir führen am vorletzten Tag ein Abschlussgespräch: 'Wie schätzen Sie meine Chancen ein?'",
+      "icon": "briefcase",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie vergessen wir das Einholen eines schriftlichen Praktikumszeugnisses?",
+      "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
+      "fragen": [],
+      "hinweis": "Wir bitten um ein qualifiziertes Zeugnis für unsere Bewerbungsmappe.",
+      "icon": "briefcase",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie halten wir nach dem Praktikum keinen Kontakt zum Betrieb?",
+      "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
+      "fragen": [],
+      "hinweis": "Wir bedanken uns per Mail und halten den Kontakt für spätere Bewerbungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie setzen wir alles auf eine Karte und haben keinen Plan B?",
+      "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
+      "fragen": [],
+      "hinweis": "Wir bewerben uns parallel an Berufskollegs, FOS und für Ausbildungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie verpassen wir Anmeldefristen an weiterführenden Schulen (BewO/Schulanmeldung)?",
+      "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
+      "fragen": [],
+      "hinweis": "Wir reichen Anmeldeunterlagen überpünktlich vor den Fristen ein.",
+      "icon": "briefcase",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie wählen wir Oberstufen-Schwerpunkte ohne über unsere Neigungen nachzudenken?",
+      "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
+      "fragen": [],
+      "hinweis": "Wir informieren uns über Profile (Technik, Wirtschaft, Gesundheit, Soziales).",
+      "icon": "briefcase",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie unterschätzen wir die Anforderungssprünge in der Sekundarstufe II?",
+      "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
+      "fragen": [],
+      "hinweis": "Wir nutzen Förderkurse zum Schließen von Grundlagenlücken.",
+      "icon": "briefcase",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie lassen wir uns von Absagen entmutigen?",
+      "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
+      "fragen": [],
+      "hinweis": "Wir nutzen Nachrückverfahren und Beratungsangebote der Agentur für Arbeit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie lassen wir ChatGPT unsere Aufsätze schreiben und lernen selbst gar nichts?",
+      "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir nutzen KI als Tutor: 'Erkläre mir die p-q-Formel wie einem 14-Jährigen.'",
+      "icon": "briefcase",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie übernehmen wir KI-Halluzinationen ungeprüft in unsere Arbeiten?",
+      "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir prüfen KI-Antworten immer mit Schulbüchern und seriösen Quellen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie nutzen wir KI bei Prüfungen als Täuschungsversuch und riskieren eine 6?",
+      "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Täuschung führt zum Nichtbestehen – eigene Leistung zählt!",
+      "icon": "briefcase",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie nutzen wir digitale Lern-Apps ohne Struktur?",
+      "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir setzen Lern-Apps gezielt für Abfragen und Kartensysteme ein.",
+      "icon": "briefcase",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie verlieren wir durch Bildschirmzeiten vor Prüfungen wertvolle Lernzeit?",
+      "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Fokus-Timer beim digitalen Lernen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie verplanen wir die Osterferien komplett ohne Lernzeiten?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen ausgewogenen Ferien-Lernplan (2 Std. Lernen am Vormittag).",
+      "icon": "briefcase",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie nehmen wir uns für die Ferien den gesamten Stoff von 3 Jahren vor?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir fokussieren uns auf 3 konkrete Haupt-Schwachstellen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie lernen wir in den Ferien ohne Prüfungsaufgaben unter Realbedingungen?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir rechnen echte Abschlussprüfungen der letzten Jahre auf Zeit durch.",
+      "icon": "briefcase",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie vergessen wir Erholungs-Tage in den Osterferien?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir halten die Feiertage (Karfreitag/Ostersonntag) komplett lernfrei.",
+      "icon": "briefcase",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie starten wir nach Ostern völlig gestresst in die Prüfungs-Wochen?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir gehen gut vorbereitet und mit klarem Kopf in den Mai.",
+      "icon": "briefcase",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie kommen wir am Prüfungstag auf den letzten Drücker gehetzt an?",
+      "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
+      "fragen": [],
+      "hinweis": "Wir sind 20 Minuten vor Beginn an der Schule und haben alles dabei.",
+      "icon": "briefcase",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie lassen wir uns vor der Tür von aufgeregten Mitschülern verunsichern?",
+      "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
+      "fragen": [],
+      "hinweis": "Wir meiden Panik-Gruppen vor dem Prüfungsraum und bleiben bei uns.",
+      "icon": "briefcase",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie verfehlen wir Vorgaben aus reiner Hektik beim Lesen?",
+      "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
+      "fragen": [],
+      "hinweis": "Wir lesen Aufgabenstellungen zweimal durch und unterstreichen Operatoren.",
+      "icon": "briefcase",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie bleiben wir an einer schweren Aufgabe 30 Minuten hängen?",
+      "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
+      "fragen": [],
+      "hinweis": "Wir überspringen schwere Aufgaben vorerst und holen sie am Ende nach.",
+      "icon": "briefcase",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie feilschen wir nach der Prüfung nervös um Ergebnisse?",
+      "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
+      "fragen": [],
+      "hinweis": "Wir haken die geschriebene Prüfung ab und fokussieren das nächste Fach.",
+      "icon": "briefcase",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie gehen wir ohne Vorbereitung in die mündliche Nachprüfung?",
+      "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Vorbereitungszeit intensiver denn je.",
+      "icon": "briefcase",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie schweigen wir in der Vorbereitungszeit vor der mündlichen Prüfung?",
+      "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir gliedern den Vortrag auf dem Vorbereitungsblatt strukturiert.",
+      "icon": "briefcase",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie sprechen wir leise und ohne Blickkontakt zur Prüfungskommission?",
+      "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir sprechen frei, aufrecht und mit klarer Stimme.",
+      "icon": "briefcase",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie verfallen wir bei einer Wissenslücke sofort in Panik?",
+      "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir sagen ehrlich: 'Dazu fällt mir gerade nichts ein, aber zu Thema X weiß ich...'",
+      "icon": "briefcase",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie bedanken wir uns nicht nach dem Prüfungsgespräch?",
+      "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir wahren Haltung und Professionalität bis zum Verlassen des Raums.",
+      "icon": "briefcase",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie unterschreiben wir Ausbildungsverträge ungelesen ohne Eltern?",
+      "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Gehalt, Urlaubsanspruch, Arbeitszeiten und Probezeit mit Eltern.",
+      "icon": "briefcase",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie wissen wir nichts über Rechte und Pflichten in der Probezeit (1-4 Monate)?",
+      "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
+      "fragen": [],
+      "hinweis": "Wir kennen die Regeln: Pünktlichkeit, Nachweise bei Krankheit ab Tag 1, Berichtsheft.",
+      "icon": "briefcase",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie glauben wir, die Probezeit sei eine reine Schonfrist?",
+      "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
+      "fragen": [],
+      "hinweis": "Wir zeigen in der Probezeit vollen Einsatz, Verlässlichkeit und Höflichkeit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie vergessen wir das Einreichen der ärztlichen Erstuntersuchung (Jugendarbeitsschutz)?",
+      "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
+      "fragen": [],
+      "hinweis": "Wir machen rechtzeitig den Termin beim Arzt für die Bescheinigung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie verpassen wir die Anmeldung zur Berufsschule?",
+      "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
+      "fragen": [],
+      "hinweis": "Wir sichern die fristgerechte Anmeldung mit dem Ausbildungsbetrieb.",
+      "icon": "briefcase",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie streiten wir in der Klasse über das Motto des Abschluss-T-Shirts?",
+      "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
+      "fragen": [],
+      "hinweis": "Wir stimmen demokratisch ab und akzeptieren den Mehrheitsentscheid.",
+      "icon": "briefcase",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie schreiben wir beleidigende Texte in der Abschlusszeitung über Lehrer/Schüler?",
+      "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
+      "fragen": [],
+      "hinweis": "Wir achten auf Humor mit Wertschätzung – keine Beleidigungen!",
+      "icon": "briefcase",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie beteiligen wir uns nicht an den Aufräumarbeiten für den Abschlussstreich/Gala?",
+      "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung im Organisationsteam.",
+      "icon": "briefcase",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie beschädigen wir Schulinventar beim Abschlussstreich?",
+      "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
+      "fragen": [],
+      "hinweis": "Wir feiern friedlich, kreativ und ohne Sachbeschädigung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie schließen wir Mitschüler bei den letzten Aktionen aus?",
+      "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
+      "fragen": [],
+      "hinweis": "Wir feiern die Gemeinschaft: Alle gehören dazu.",
+      "icon": "briefcase",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie glauben wir, von 600 € Ausbildungsvergütung könne man alleine eine Wohnung mieten?",
+      "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
+      "fragen": [],
+      "hinweis": "Wir kalkulieren echte Lebenshaltungskosten (Miete, Strom, Essen, BAföG/BAB, Versicherungen).",
+      "icon": "briefcase",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie wissen wir nicht, was eine Kaution oder Warmmiete bedeutet?",
+      "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
+      "fragen": [],
+      "hinweis": "Wir lernen Grundlagen von Mietverträgen und Nebenkosten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie vergessen wir Anträge auf Berufsausbildungsbeihilfe (BAB) oder BAföG?",
+      "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
+      "fragen": [],
+      "hinweis": "Wir informieren uns frühzeitig über finanzielle Aufstockungs-Möglichkeiten.",
+      "icon": "briefcase",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie haben wir kein eigenes Girokonto für das Ausbildungsgehalt?",
+      "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
+      "fragen": [],
+      "hinweis": "Wir eröffnen ein kostenloses Jugend-Girokonto für das Gehalt.",
+      "icon": "briefcase",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie unterschätzen wir Verpflegungskosten im Alltag?",
+      "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
+      "fragen": [],
+      "hinweis": "Wir lernen einfaches, gesundes Kochen statt täglichem Lieferservice.",
+      "icon": "briefcase",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie geben wir beschädigte Bücher ab und müssen den Wiederbeschaffungswert zahlen?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Bücher rechtzeitig, reparieren Schäden und radieren Notizen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie lassen wir den Spind/Schultisch voller Müll zurück?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
+      "fragen": [],
+      "hinweis": "Wir leeren alle Fächer lückenlos aus und reinigen die Flächen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie werfen wir nützliche Mitschriften und Lernzettel einfach weg?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
+      "fragen": [],
+      "hinweis": "Wir ordnen wichtige Unterlagen für spätere Prüfungen/FOS in Ordnern.",
+      "icon": "briefcase",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie vergessen wir die Rückgabe ausgeliehener Schul-Tablets/Laptops?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
+      "fragen": [],
+      "hinweis": "Wir geben digitale Leihgeräte vollständig mit Zubehör ab.",
+      "icon": "briefcase",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie hinterlassen wir den Klassenraum ungepflegt?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
+      "fragen": [],
+      "hinweis": "Wir übergeben den Raum sauber an die Schule.",
+      "icon": "briefcase",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie vergessen wir, wie sehr wir uns in den Klassen 8–10 verändert haben?",
+      "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen alte Logbucheinträge mit unserem heutigen Mindset.",
+      "icon": "briefcase",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie sehen wir nur Noten und übersehen unsere gewachsene Persönlichkeit?",
+      "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
+      "fragen": [],
+      "hinweis": "Wir listen 5 persönliche Stärken auf, die wir in den letzten Jahren entwickelt haben.",
+      "icon": "briefcase",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie vergessen wir die Unterstützung von Lehrern, INGRA und Eltern?",
+      "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
+      "fragen": [],
+      "hinweis": "Wir schreiben persönliche Dankeskarten an wichtige Begleiter.",
+      "icon": "briefcase",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie verharren wir in Ängsten vor dem Neuanfang in Betrieb/Oberstufe?",
+      "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
+      "fragen": [],
+      "hinweis": "Wir vertrauen auf unsere Bewältigungs-Erfahrungen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie schließen wir die Sek-I-Zeit ohne Stolz ab?",
+      "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
+      "fragen": [],
+      "hinweis": "Wir feiern unseren individuellen Weg und unsere Erfolge.",
+      "icon": "briefcase",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie kommen wir unvorbereitet zur Probe der Entlassfeier?",
+      "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
+      "fragen": [],
+      "hinweis": "Wir halten Absprachen ein und gestalten die Feier aktiv mit.",
+      "icon": "briefcase",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie wissen wir nicht, wie wir das Zeugnis auf der Bühne entgegennehmen?",
+      "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
+      "fragen": [],
+      "hinweis": "Wir üben Haltung, Händedruck und Dank gegenüber der Schulleitung.",
+      "icon": "briefcase",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie vergessen wir passende Festkleidung für die Zeugnisvergabe?",
+      "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
+      "fragen": [],
+      "hinweis": "Wir bereiten saubere, festliche Kleidung für die Feier vor.",
+      "icon": "briefcase",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie lassen wir Einladungen an Eltern und Familie vergessen?",
+      "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
+      "fragen": [],
+      "hinweis": "Wir übergeben Einladungskarten rechtzeitig an unsere Angehörigen.",
+      "icon": "briefcase",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie sind wir am Abend vor der Entlassfeier bis 03:00 Uhr unterwegs?",
+      "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
+      "fragen": [],
+      "hinweis": "Wir schlafen ausreichend für einen unvergesslichen Festtag.",
+      "icon": "briefcase",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie gehen wir ohne Würdigung aus der Schule?",
+      "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
+      "fragen": [],
+      "hinweis": "Wir genießen den Festakt, nehmen unser Zeugnis stolz entgegen und feiern mit Familie & Freunden.",
+      "icon": "briefcase",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie vergleichen wir Zeugnisse auf der Feier und erzeugen wieder Notenneid?",
+      "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
+      "fragen": [],
+      "hinweis": "Wir freuen uns für jeden Mitschüler und seinen individuellen Weg.",
+      "icon": "briefcase",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie verabschieden wir uns nicht von langjährigen Weggefährten?",
+      "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
+      "fragen": [],
+      "hinweis": "Wir nehmen uns Zeit für persönliche Abschiede und Erinnerungsfotos.",
+      "icon": "briefcase",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie verfallen wir nach dem Abschluss in ein Motivationsloch?",
+      "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
+      "fragen": [],
+      "hinweis": "Wir blicken voller Vorfreude auf die kommenden Aufgaben in Ausbildung oder FOS.",
+      "icon": "briefcase",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie starten wir in den neuen Lebensabschnitt?",
+      "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
+      "fragen": [],
+      "hinweis": "Wir feiern den erreichten Meilenstein: Du hast deine Sek-I-Zeit erfolgreich gemeistert – Herzlichen Glückwunsch!",
+      "icon": "briefcase",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}

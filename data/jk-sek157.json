@@ -1,0 +1,1720 @@
+{
+  "id": "jk-sek157",
+  "titel": "Jahreskarten-Set Sek I 5–7",
+  "untertitel": "Cyber-Brainy Edition (190 Tage)",
+  "farbe": "#B4482E",
+  "farbe_hell": "#FBEAE3",
+  "farbe_rand": "#E8C3B2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie verlaufen wir uns im Schulhaus und kommen 15 Minuten zu spät zur Physik?",
+      "anleitung": "Woche 1: Schulwechsel & Fachlehrerprinzip — Neues System, neue Chancen – Orientierung im Gymnasium/Realschule.",
+      "fragen": [],
+      "hinweis": "Wir speichern den Raumplan im Smartphone/Planer und machen am Tag 1 einen Orientierungs-Check.",
+      "icon": "comments",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie vergessen wir bei 6 verschiedenen Fachlehrern ständig die passenden Hefte?",
+      "anleitung": "Woche 1: Schulwechsel & Fachlehrerprinzip — Neues System, neue Chancen – Orientierung im Gymnasium/Realschule.",
+      "fragen": [],
+      "hinweis": "Wir packen die Schultasche jeden Abend nach Stundenplan mit der 2-Farben-Heftstruktur.",
+      "icon": "comments",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie stöhnen wir bei jeder Raumbuchung laut auf und nerven den Lehrer?",
+      "anleitung": "Woche 1: Schulwechsel & Fachlehrerprinzip — Neues System, neue Chancen – Orientierung im Gymnasium/Realschule.",
+      "fragen": [],
+      "hinweis": "Wir wechseln zügig und leise im Klassenzug und nutzen den Raumwechsel als Bewegungspause.",
+      "icon": "comments",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie vergleichen wir die neue Schule ständig negativ mit der Grundschule?",
+      "anleitung": "Woche 1: Schulwechsel & Fachlehrerprinzip — Neues System, neue Chancen – Orientierung im Gymnasium/Realschule.",
+      "fragen": [],
+      "hinweis": "Wir benennen drei Dinge, die an der weiterführenden Schule viel cooler sind.",
+      "icon": "comments",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie lassen wir uns vom neuen Lerntempo völlig erschlagen?",
+      "anleitung": "Woche 1: Schulwechsel & Fachlehrerprinzip — Neues System, neue Chancen – Orientierung im Gymnasium/Realschule.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Wochenend-Logbuch, um erste Erfolge zu feiern und Fragen zu notieren.",
+      "icon": "comments",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie spamen wir den Klassenchat um 22:30 Uhr mit 50 nutzlosen Sprachnachrichten zu?",
+      "anleitung": "Woche 2: Klassenchat-Regeln & WhatsApp-Etikette — Digital Respekt zeigen – der Klassenchat ist kein Spielplatz.",
+      "fragen": [],
+      "hinweis": "Wir halten die Handy-Sperrzeit ab 20:00 Uhr ein und posten nur schuelrelevante Infos.",
+      "icon": "comments",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie schließen wir Mitschüler aus der WhatsApp-Gruppe aus, um Macht zu demonstrieren?",
+      "anleitung": "Woche 2: Klassenchat-Regeln & WhatsApp-Etikette — Digital Respekt zeigen – der Klassenchat ist kein Spielplatz.",
+      "fragen": [],
+      "hinweis": "Wir vereinbaren: Der Klassenchat ist für ALLE da – Inklusion und Fairness haben Vorrang.",
+      "icon": "comments",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie leiten wir peinliche Sprachnachrichten weiter, um andere lächerlich zu machen?",
+      "anleitung": "Woche 2: Klassenchat-Regeln & WhatsApp-Etikette — Digital Respekt zeigen – der Klassenchat ist kein Spielplatz.",
+      "fragen": [],
+      "hinweis": "Wir stoppen Kettenbriefe und Screenshots sofort und löschen respektlose Inhalte.",
+      "icon": "comments",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie beleidigen wir uns im Gruppenchat, weil man das Gesicht des anderen nicht sieht?",
+      "anleitung": "Woche 2: Klassenchat-Regeln & WhatsApp-Etikette — Digital Respekt zeigen – der Klassenchat ist kein Spielplatz.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 5-Sekunden-Denkpause: 'Würde ich das der Person auch ins Gesicht sagen?'",
+      "icon": "comments",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie geraten wir wegen Missverständnissen im Chat am Freitagabend in Panik?",
+      "anleitung": "Woche 2: Klassenchat-Regeln & WhatsApp-Etikette — Digital Respekt zeigen – der Klassenchat ist kein Spielplatz.",
+      "fragen": [],
+      "hinweis": "Wir klären Konflikte persönlich von Angesicht zu Angesicht statt in endlosen Chat-Fehden.",
+      "icon": "comments",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie lassen wir das Handy direkt neben den Mathe-Hausaufgaben vibrieren?",
+      "anleitung": "Woche 3: Hausaufgaben-Timer & Zeitfresser — Fokus statt Ablenkung – Handy weg bei den Hausaufgaben.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den Flugmodus oder legen das Handy während der Arbeitszeit in ein anderes Zimmer.",
+      "icon": "comments",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie fangen wir erst um 19:30 Uhr mit den Aufgaben an und geraten in Stress?",
+      "anleitung": "Woche 3: Hausaufgaben-Timer & Zeitfresser — Fokus statt Ablenkung – Handy weg bei den Hausaufgaben.",
+      "fragen": [],
+      "hinweis": "Wir starten feste Fokus-Zeiten (z. B. 15:00 Uhr) mit der 25-Minuten-Pomodoro-Methode.",
+      "icon": "comments",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie träumen wir 45 Minuten vor einem leeren Blatt und sagen 'Ich versteh nix'?",
+      "anleitung": "Woche 3: Hausaufgaben-Timer & Zeitfresser — Fokus statt Ablenkung – Handy weg bei den Hausaufgaben.",
+      "fragen": [],
+      "hinweis": "Wir zerlegen große Aufgaben in winzige Portionen und fangen mit der leichtesten Aufgabe an.",
+      "icon": "comments",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie schreiben wir Hausaufgaben von Mitschülern schnell im Bus ab?",
+      "anleitung": "Woche 3: Hausaufgaben-Timer & Zeitfresser — Fokus statt Ablenkung – Handy weg bei den Hausaufgaben.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen Lösungswege aktiv, statt nur Ergebnisse blind zu kopieren.",
+      "icon": "comments",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie verschieben wir alle Wochenend-Hausaufgaben auf Sonntagabend 21:00 Uhr?",
+      "anleitung": "Woche 3: Hausaufgaben-Timer & Zeitfresser — Fokus statt Ablenkung – Handy weg bei den Hausaufgaben.",
+      "fragen": [],
+      "hinweis": "Wir erledigen schwere Aufgaben am Freitag nach der Schule und genießen das freie Wochenende.",
+      "icon": "comments",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie machen wir bei Blödsinn mit, nur um von den 'coolen Kids' beachtet zu werden?",
+      "anleitung": "Woche 4: Rollenfindung & Cliquenbildung — Echte Freunde stärken dich – Gruppenzwang entlarven.",
+      "fragen": [],
+      "hinweis": "Wir bleiben uns selbst treu und sagen klar Nein, wenn Grenzen überschritten werden.",
+      "icon": "comments",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie grenzen wir neue Mitschüler in der Hofpause aus und lassen sie allein stehen?",
+      "anleitung": "Woche 4: Rollenfindung & Cliquenbildung — Echte Freunde stärken dich – Gruppenzwang entlarven.",
+      "fragen": [],
+      "hinweis": "Wir laden Mitschüler aktiv ein, bei Pausenspielen oder beim Mittagessen mitzumachen.",
+      "icon": "comments",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie verbreiten wir Gerüchte in der Pause, um von eigenen Unsicherheiten abzulenken?",
+      "anleitung": "Woche 4: Rollenfindung & Cliquenbildung — Echte Freunde stärken dich – Gruppenzwang entlarven.",
+      "fragen": [],
+      "hinweis": "Wir stoppen Tratsch sofort: 'Hast du das selbst gesehen oder ist das nur ein Gerücht?'",
+      "icon": "comments",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie lachen wir über Mitschüler, wenn sie an der Tafel einen Fehler machen?",
+      "anleitung": "Woche 4: Rollenfindung & Cliquenbildung — Echte Freunde stärken dich – Gruppenzwang entlarven.",
+      "fragen": [],
+      "hinweis": "Wir unterstützen einander: Fehler sind Lernchancen und kein Grund für Spott.",
+      "icon": "comments",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie verstellen wir unsere Persönlichkeit komplett für soziale Anerkennung?",
+      "anleitung": "Woche 4: Rollenfindung & Cliquenbildung — Echte Freunde stärken dich – Gruppenzwang entlarven.",
+      "fragen": [],
+      "hinweis": "Wir reflektieren unsere echten Stärken im Logbuch: Authentizität schafft echte Freunde.",
+      "icon": "comments",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie stieren wir 10 Minuten vor dem Test stumpf auf die Vokabelliste?",
+      "anleitung": "Woche 5: Vokabeln lernen & Gedächtnis-Hacks — Gehirngerecht lernen – Vokabeln mit System verankern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 5-Fächer-Karteikiste oder digitale Vokabel-Apps mit Spaced Repetition.",
+      "icon": "comments",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie lernen wir 50 Vokabeln auf einmal am Abend vor der Arbeit?",
+      "anleitung": "Woche 5: Vokabeln lernen & Gedächtnis-Hacks — Gehirngerecht lernen – Vokabeln mit System verankern.",
+      "fragen": [],
+      "hinweis": "Wir lernen täglich nur 7–10 Vokabeln in kurzen 10-Minuten-Einheiten.",
+      "icon": "comments",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie sprechen wir fremde Wörter nie laut aus und wundern uns über schlechte Noten?",
+      "anleitung": "Woche 5: Vokabeln lernen & Gedächtnis-Hacks — Gehirngerecht lernen – Vokabeln mit System verankern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Vokabel-Kino: Laut aussprechen, Bewegung und Bilder verknüpfen.",
+      "icon": "comments",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie ignorieren wir Signalwörter und Grammatik-Endungen vollkommen?",
+      "anleitung": "Woche 5: Vokabeln lernen & Gedächtnis-Hacks — Gehirngerecht lernen – Vokabeln mit System verankern.",
+      "fragen": [],
+      "hinweis": "Wir markieren Signalwörter farbig und erstellen eigene Beispiel-Sätze.",
+      "icon": "comments",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie geben wir nach dem ersten Vergessen sofort frustriert auf?",
+      "anleitung": "Woche 5: Vokabeln lernen & Gedächtnis-Hacks — Gehirngerecht lernen – Vokabeln mit System verankern.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Vergessen ist normal – erst die 3-fache Wiederholung baut Dauer-Spuren im Hirn.",
+      "icon": "comments",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie protzen wir mit einer 1 oder heulen wegen einer 4 vor der ganzen Klasse?",
+      "anleitung": "Woche 6: Noten-Vergleiche & Noten-Resilienz — Noten zeigen deinen Lernstand – nicht deinen Wert als Mensch.",
+      "fragen": [],
+      "hinweis": "Wir bewahren Ruhe: Noten sind Feedback für den Lernprozess, keine Verurteilung.",
+      "icon": "comments",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie vergleichen wir uns ständig mit Klassenbesten und werden neidisch?",
+      "anleitung": "Woche 6: Noten-Vergleiche & Noten-Resilienz — Noten zeigen deinen Lernstand – nicht deinen Wert als Mensch.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen uns nur mit unserem eigenen früheren Stand: 'Was kann ich heute besser als vor 4 Wochen?'",
+      "icon": "comments",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie verheimlichen wir eine schlechte Note tagelang vor den Eltern aus Angst?",
+      "anleitung": "Woche 6: Noten-Vergleiche & Noten-Resilienz — Noten zeigen deinen Lernstand – nicht deinen Wert als Mensch.",
+      "fragen": [],
+      "hinweis": "Wir suchen das offene Gespräch: 'Ich hatte da Probleme, aber ich habe einen Plan für die nächste Arbeit.'",
+      "icon": "comments",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie schieben wir eine schlechte Note sofort auf die 'unfair lehrerin'?",
+      "anleitung": "Woche 6: Noten-Vergleiche & Noten-Resilienz — Noten zeigen deinen Lernstand – nicht deinen Wert als Mensch.",
+      "fragen": [],
+      "hinweis": "Wir analysieren die Fehlerursachen sachlich: War es fehlende Übung, Aufgabenverständnis oder Zeitnot?",
+      "icon": "comments",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie lassen wir uns von einer Einzelnote das ganze Wochenende vermiesen?",
+      "anleitung": "Woche 6: Noten-Vergleiche & Noten-Resilienz — Noten zeigen deinen Lernstand – nicht deinen Wert als Mensch.",
+      "fragen": [],
+      "hinweis": "Wir ziehen Lehren aus der Korrektur und belohnen uns für den gezeigten Fleiß.",
+      "icon": "comments",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie lassen wir zerknitterte Elternbriefe ganz unten im Ranzen gammeln?",
+      "anleitung": "Woche 7: Ordnung im Ranzen & Fachraum-TÜV — Klarheit im Rucksack – Ordnung im Kopf.",
+      "fragen": [],
+      "hinweis": "Wir nutzen eine feste Post-Mappe für alle Elternbriefe und Unterschriften.",
+      "icon": "comments",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie bringen wir im Fachraum (Bio/Chemie) das falsche Material mit?",
+      "anleitung": "Woche 7: Ordnung im Ranzen & Fachraum-TÜV — Klarheit im Rucksack – Ordnung im Kopf.",
+      "fragen": [],
+      "hinweis": "Wir prüfen den Raumplan und packen Fachraum-Materialien separat ein.",
+      "icon": "comments",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie werfen wir lose Blätter einfach ungeworfen in die Schultasche?",
+      "anleitung": "Woche 7: Ordnung im Ranzen & Fachraum-TÜV — Klarheit im Rucksack – Ordnung im Kopf.",
+      "fragen": [],
+      "hinweis": "Wir heften Blätter sofort am Stundenende in den passenden Fach-Schnellhefter.",
+      "icon": "comments",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie vergessen war abgenutztes Schreibzeug und haben keinen funktionsfähigen Stift?",
+      "anleitung": "Woche 7: Ordnung im Ranzen & Fachraum-TÜV — Klarheit im Rucksack – Ordnung im Kopf.",
+      "fragen": [],
+      "hinweis": "Wir machen jeden Sonntagabend einen Etui-TÜV: Füller, Bleistifte, Lineal & Radiergummi.",
+      "icon": "comments",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie sammelt sich der Müll von 2 Wochen in den Ranzen-Seitentaschen?",
+      "anleitung": "Woche 7: Ordnung im Ranzen & Fachraum-TÜV — Klarheit im Rucksack – Ordnung im Kopf.",
+      "fragen": [],
+      "hinweis": "Wir leeren den Ranzen freitags komplett aus und starten sauber in die neue Woche.",
+      "icon": "comments",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie kopieren wir den ersten Wikipedia-Absatz 1:1 auf unsere Folien?",
+      "anleitung": "Woche 8: Referate & Präsentationen (Grundlagen) — Souverän auftreten – Präsentieren kann man lernen.",
+      "fragen": [],
+      "hinweis": "Wir recherchieren in mehreren Quellen und formulieren Inhalte in eigenen Worten.",
+      "icon": "comments",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie lesen wir bei der Präsentation den gesamten Text mit dem Rücken zur Klasse ab?",
+      "anleitung": "Woche 8: Referate & Präsentationen (Grundlagen) — Souverän auftreten – Präsentieren kann man lernen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Stichwortkarten (DIN A6) und halten Blickkontakt zum Publikum.",
+      "icon": "comments",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie überladen wir das Plakat/die Folien mit winziger Schrift und 20 Bildern?",
+      "anleitung": "Woche 8: Referate & Präsentationen (Grundlagen) — Souverän auftreten – Präsentieren kann man lernen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 5x5-Regel: Maximal 5 Stichpunkte pro Folie, große Schrift & klare Bilder.",
+      "icon": "comments",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie leiern wir den Vortrag ohne Punkt und Komma in 2 Minuten durch?",
+      "anleitung": "Woche 8: Referate & Präsentationen (Grundlagen) — Souverän auftreten – Präsentieren kann man lernen.",
+      "fragen": [],
+      "hinweis": "Wir üben den Vortrag zu Hause vor dem Spiegel/Eltern mit deutlicher Aussprache & Pausen.",
+      "icon": "comments",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie geraten wir bei Nachfragen von Mitschülern sofort in Panik?",
+      "anleitung": "Woche 8: Referate & Präsentationen (Grundlagen) — Souverän auftreten – Präsentieren kann man lernen.",
+      "fragen": [],
+      "hinweis": "Wir hören ruhig zu, bedanken uns für die Frage und antworten sachlich.",
+      "icon": "comments",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie daddeln wir bis 01:00 Uhr morgens unter der Bettdecke Spiele?",
+      "anleitung": "Woche 9: Digital Detox & Bildschirmzeiten — Smartphone-Kontrolle behalten – Du steuerst das Handy, nicht umgekehrt.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Handy-Garage außerhalb des Schlafzimmers ab 21:00 Uhr.",
+      "icon": "comments",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie lassen wir Push-Benachrichtigungen unseren gesamten Schulnachmittag unterbrechen?",
+      "anleitung": "Woche 9: Digital Detox & Bildschirmzeiten — Smartphone-Kontrolle behalten – Du steuerst das Handy, nicht umgekehrt.",
+      "fragen": [],
+      "hinweis": "Wir schalten Mitteilungen für Social Media und Games während der Lernzeit stumm.",
+      "icon": "comments",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie scrollen wir 2 Stunden ziellos durch TikTok/Reels und vergessen die Zeit?",
+      "anleitung": "Woche 9: Digital Detox & Bildschirmzeiten — Smartphone-Kontrolle behalten – Du steuerst das Handy, nicht umgekehrt.",
+      "fragen": [],
+      "hinweis": "Wir setzen tägliche App-Limits auf dem Smartphone (z. B. 45 Min. für Social Media).",
+      "icon": "comments",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie nutzen wir das Handy in jeder Schulpause und reden nicht mehr miteinander?",
+      "anleitung": "Woche 9: Digital Detox & Bildschirmzeiten — Smartphone-Kontrolle behalten – Du steuerst das Handy, nicht umgekehrt.",
+      "fragen": [],
+      "hinweis": "Wir vereinbaren handyfreie Pausen für echte Gespräche und Bewegung auf dem Hof.",
+      "icon": "comments",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie geraten wir ohne W-LAN sofort in schwere Launen und Unruhe?",
+      "anleitung": "Woche 9: Digital Detox & Bildschirmzeiten — Smartphone-Kontrolle behalten – Du steuerst das Handy, nicht umgekehrt.",
+      "fragen": [],
+      "hinweis": "Wir genießen digitale Auszeiten bei Sport, Musik oder Treffen mit Freunden im Reallife.",
+      "icon": "comments",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie ignorieren wir Rückmeldungen von Lehrkräften auf der ersten Klassenarbeit?",
+      "anleitung": "Woche 10: Feedback-Kultur & Herbstferien-Ausblick — Reflektieren und Kraft tanken für den nächsten Abschnitt.",
+      "fragen": [],
+      "hinweis": "Wir lesen Lehrer-Feedback aufmerksam und tragen Tipps in unser Logbuch ein.",
+      "icon": "comments",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie geben wir Mitschülern nur abwertendes Feedback ohne Lösungsansatz?",
+      "anleitung": "Woche 10: Feedback-Kultur & Herbstferien-Ausblick — Reflektieren und Kraft tanken für den nächsten Abschnitt.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Feedback-Regel: Erst 2 Stärken loben, dann 1 konkreten Wunsch äußern.",
+      "icon": "comments",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie bewerten wir die ersten 10 Wochen als reines Chaos?",
+      "anleitung": "Woche 10: Feedback-Kultur & Herbstferien-Ausblick — Reflektieren und Kraft tanken für den nächsten Abschnitt.",
+      "fragen": [],
+      "hinweis": "Wir listen 5 Dinge auf, die wir in den ersten 10 Wochen an der neuen Schule gelernt haben.",
+      "icon": "comments",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie lassen wir alle Schulsachen in den Ferien unberührt auf dem Fußboden liegen?",
+      "anleitung": "Woche 10: Feedback-Kultur & Herbstferien-Ausblick — Reflektieren und Kraft tanken für den nächsten Abschnitt.",
+      "fragen": [],
+      "hinweis": "Wir räumen den Schreibtisch vor den Ferien auf, um mental entspannt abzuschalten.",
+      "icon": "comments",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie nehmen wir Schulstress mit in die Erholungsphase?",
+      "anleitung": "Woche 10: Feedback-Kultur & Herbstferien-Ausblick — Reflektieren und Kraft tanken für den nächsten Abschnitt.",
+      "fragen": [],
+      "hinweis": "Wir schließen den ersten Schuljahres-Block bewusst ab und genießen die verdienten Ferien.",
+      "icon": "comments",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie verschlafen wir montags, weil es draußen noch stockdunkel ist?",
+      "anleitung": "Woche 11: Neustart & Motivation im dunklen Halbjahr — Licht ins Dunkel bringen – Motivation im Winter aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen ein klares Morgenritual mit Tageslichtlampe und Bewegung zum Wachwerden.",
+      "icon": "comments",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie schleppen wir uns lustlos durch den Schulalltag und jammern über das Wetter?",
+      "anleitung": "Woche 11: Neustart & Motivation im dunklen Halbjahr — Licht ins Dunkel bringen – Motivation im Winter aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Wir setzen uns ein persönliches Wochenziel, das uns echte Vorfreude bringt.",
+      "icon": "comments",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie vernachlässigen wir das Trinken und wundern uns über Winter-Kopfschmerzen?",
+      "anleitung": "Woche 11: Neustart & Motivation im dunklen Halbjahr — Licht ins Dunkel bringen – Motivation im Winter aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Wir trinken auch im Winter mindestens 1,5 Liter Wasser/Tee über den Schultag.",
+      "icon": "comments",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie verkrümeln wir uns in den Pausen nur in stickigen Fluren?",
+      "anleitung": "Woche 11: Neustart & Motivation im dunklen Halbjahr — Licht ins Dunkel bringen – Motivation im Winter aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Wir gehen auch bei Kälte kurz an die frische Luft für Sauerstoff und Gehirn-Kick.",
+      "icon": "comments",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie lassen wir die Lernintensität nach den Herbstferien sofort wieder absacken?",
+      "anleitung": "Woche 11: Neustart & Motivation im dunklen Halbjahr — Licht ins Dunkel bringen – Motivation im Winter aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Wir halten den Lern-Rhythmus mit täglichen kurzen Einheiten stabil.",
+      "icon": "comments",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie erfahren wir erst 2 Tage vor der Mathearbeit vom genauen Thema?",
+      "anleitung": "Woche 12: Klassenarbeitssaison & Vorbereitung — Geplante Vorbereitung besiegt Last-Minute-Panik.",
+      "fragen": [],
+      "hinweis": "Wir führen einen Prüfungskalender im Schülertagebuch und tragen Arbeiten sofort ein.",
+      "icon": "comments",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie lernen wir ohne Ziel und lesen einfach nur das Buch von vorne bis hinten?",
+      "anleitung": "Woche 12: Klassenarbeitssaison & Vorbereitung — Geplante Vorbereitung besiegt Last-Minute-Panik.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen Lernplan: Stoff in 4 Themenblöcke unterteilen und abarbeiten.",
+      "icon": "comments",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie machen wir beim Üben nur die Aufgaben, die wir sowieso schon perfekt können?",
+      "anleitung": "Woche 12: Klassenarbeitssaison & Vorbereitung — Geplante Vorbereitung besiegt Last-Minute-Panik.",
+      "fragen": [],
+      "hinweis": "Wir fokussieren uns gezielt auf die Knackpunkte und Lücken.",
+      "icon": "comments",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie lernen wir bis 24:00 Uhr vor der Klassenarbeit durch?",
+      "anleitung": "Woche 12: Klassenarbeitssaison & Vorbereitung — Geplante Vorbereitung besiegt Last-Minute-Panik.",
+      "fragen": [],
+      "hinweis": "Wir sichern mindestens 8 Stunden Schlaf vor der Arbeit – Schlaf festigt das Gelernte.",
+      "icon": "comments",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie vergessen wir vor Aufregung das Geometriedreieck oder den Füller?",
+      "anleitung": "Woche 12: Klassenarbeitssaison & Vorbereitung — Geplante Vorbereitung besiegt Last-Minute-Panik.",
+      "fragen": [],
+      "hinweis": "Wir packen die Prüfungstasche am Vorabend komplett mit allen Hilfsmitteln.",
+      "icon": "comments",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie schauen wir weg, wenn im Klassenchat ein Mitschüler fertiggemacht wird?",
+      "anleitung": "Woche 13: Cybermobbing & Zivilcourage digital — Hinsehen und Schützen – Kein Platz für digitale Hetze.",
+      "fragen": [],
+      "hinweis": "Wir beziehen klar Stellung: 'Stopp, das geht zu weit!' und unterstützen das Opfer.",
+      "icon": "comments",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie liken oder kommentieren wir beleidigende Memes über Lehrer/Schüler?",
+      "anleitung": "Woche 13: Cybermobbing & Zivilcourage digital — Hinsehen und Schützen – Kein Platz für digitale Hetze.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Liken ist Mitmachen – wir verweigern Unterhaltung auf Kosten anderer.",
+      "icon": "comments",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie löschen wir Chatverläufe bei Mobbing, statt Beweise zu sichern?",
+      "anleitung": "Woche 13: Cybermobbing & Zivilcourage digital — Hinsehen und Schützen – Kein Platz für digitale Hetze.",
+      "fragen": [],
+      "hinweis": "Wir machen sofort Screenshots von Beleidigungen als Nachweis für Vertrauenslehrer/Eltern.",
+      "icon": "comments",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie behalten wir digitale Angriffe aus Angst völlig für uns?",
+      "anleitung": "Woche 13: Cybermobbing & Zivilcourage digital — Hinsehen und Schützen – Kein Platz für digitale Hetze.",
+      "fragen": [],
+      "hinweis": "Wir vertrauen uns sofort Vertrauenslehrern, INGRA oder den Eltern an.",
+      "icon": "comments",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie lassen wir zu, dass der Klassenchat zu einem Angstraum wird?",
+      "anleitung": "Woche 13: Cybermobbing & Zivilcourage digital — Hinsehen und Schützen – Kein Platz für digitale Hetze.",
+      "fragen": [],
+      "hinweis": "Wir erarbeiten gemeinsam mit der Lehrkraft einen verbindlichen Klassenchat-Kodex.",
+      "icon": "comments",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie geraten wir in Panik, wenn wir die 1. Aufgabe auf dem Blatt nicht sofort kapieren?",
+      "anleitung": "Woche 14: Prüfungsangst & Anti-Blackout-Hacks — Ruhig bleiben unter Druck – Dein Gehirn kann das.",
+      "fragen": [],
+      "hinweis": "Wir atmen 3-mal tief durch (4-7-8-Technik) und starten mit der leichtesten Aufgabe.",
+      "icon": "comments",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie verkrampfen wir bei der Arbeit körperlich und bekommen Kopfschmerzen?",
+      "anleitung": "Woche 14: Prüfungsangst & Anti-Blackout-Hacks — Ruhig bleiben unter Druck – Dein Gehirn kann das.",
+      "fragen": [],
+      "hinweis": "Wir lockern Schultern und Hände kurz für 5 Sekunden auf.",
+      "icon": "comments",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie reden wir uns vor der Arbeit ein: 'Ich werde sowieso eine 6 schreiben'?",
+      "anleitung": "Woche 14: Prüfungsangst & Anti-Blackout-Hacks — Ruhig bleiben unter Druck – Dein Gehirn kann das.",
+      "fragen": [],
+      "hinweis": "Wir nutzen positive Selbstinstruktion: 'Ich habe gelernt und gebe mein Bestes.'",
+      "icon": "comments",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie geben wir das Testblatt nach 15 Minuten ab, ohne noch einmal drüberzuschauen?",
+      "anleitung": "Woche 14: Prüfungsangst & Anti-Blackout-Hacks — Ruhig bleiben unter Druck – Dein Gehirn kann das.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die verbleibende Zeit für einen systematischen Korrektur-Durchgang.",
+      "icon": "comments",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie zerfleischen wir uns nach der Arbeit mit 'Was hattest du bei Aufgabe 3?'",
+      "anleitung": "Woche 14: Prüfungsangst & Anti-Blackout-Hacks — Ruhig bleiben unter Druck – Dein Gehirn kann das.",
+      "fragen": [],
+      "hinweis": "Wir haken die Arbeit nach der Abgabe ab und richten den Blick nach vorne.",
+      "icon": "comments",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie lassen wir einen Einzelnen die gesamte Gruppenarbeit alleine machen?",
+      "anleitung": "Woche 15: Gruppenarbeiten & Team-Gerechtigkeit — Gemeinsam stark – Rollen klar verteilen.",
+      "fragen": [],
+      "hinweis": "Wir verteilen Aufgaben gerechtt nach Stärken (Recherche, Schreiber, Präsentator).",
+      "icon": "comments",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie streiten wir 20 Minuten lang darüber, wer die Plakatstifte halten darf?",
+      "anleitung": "Woche 15: Gruppenarbeiten & Team-Gerechtigkeit — Gemeinsam stark – Rollen klar verteilen.",
+      "fragen": [],
+      "hinweis": "Wir bestimmen sofort einen Zeitwächter und einen Moderator in der Gruppe.",
+      "icon": "comments",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie ziehen wir uns in der Gruppe zurück und machen gar nichts?",
+      "anleitung": "Woche 15: Gruppenarbeiten & Team-Gerechtigkeit — Gemeinsam stark – Rollen klar verteilen.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung für unseren Teilbereich und liefern pünktlich ab.",
+      "icon": "comments",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie unterbrechen wir Gruppenmitglieder ständig bei ihren Ideen?",
+      "anleitung": "Woche 15: Gruppenarbeiten & Team-Gerechtigkeit — Gemeinsam stark – Rollen klar verteilen.",
+      "fragen": [],
+      "hinweis": "Wir lassen ausreden und nutzen Brainstorming: Erst Ideen sammeln, dann bewerten.",
+      "icon": "comments",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie präsentieren wir die Gruppenarbeit als zerstrittener Haufen?",
+      "anleitung": "Woche 15: Gruppenarbeiten & Team-Gerechtigkeit — Gemeinsam stark – Rollen klar verteilen.",
+      "fragen": [],
+      "hinweis": "Wir üben den gemeinsamen Vortrag mit flüssigen Übergängen zwischen allen Rednern.",
+      "icon": "comments",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie lassen wir uns von der Hektik vor den Weihnachtsferien anstecken?",
+      "anleitung": "Woche 16: Vorweihnachtsstress & Ruhe-Inseln — In der Ruhe liegt die Kraft – Reizüberflutung stoppen.",
+      "fragen": [],
+      "hinweis": "Wir bauen tägliche 10-Minuten-Stilleinseln ohne Bildschirm ein.",
+      "icon": "comments",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie machen wir im Klassenzimmer so viel Lärm, dass alle Kopfweh bekommen?",
+      "anleitung": "Woche 16: Vorweihnachtsstress & Ruhe-Inseln — In der Ruhe liegt die Kraft – Reizüberflutung stoppen.",
+      "fragen": [],
+      "hinweis": "Wir vereinbaren leise Töne und nutzen Flüstern bei Freiarbeit.",
+      "icon": "comments",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie vergessen wir vor lauter Weihnachtsfeiern die Hausaufgaben?",
+      "anleitung": "Woche 16: Vorweihnachtsstress & Ruhe-Inseln — In der Ruhe liegt die Kraft – Reizüberflutung stoppen.",
+      "fragen": [],
+      "hinweis": "Wir führen den Planer auch im Dezember diszipliniert weiter.",
+      "icon": "comments",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie konsumieren wir nur noch Zucker und Süßigkeiten in den Pausen?",
+      "anleitung": "Woche 16: Vorweihnachtsstress & Ruhe-Inseln — In der Ruhe liegt die Kraft – Reizüberflutung stoppen.",
+      "fragen": [],
+      "hinweis": "Wir achten auf ausgewogene Pausensnacks für konstante Gehirn-Energie.",
+      "icon": "comments",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie gehen wir völlig erschöpft in die letzten Schultage des Jahres?",
+      "anleitung": "Woche 16: Vorweihnachtsstress & Ruhe-Inseln — In der Ruhe liegt die Kraft – Reizüberflutung stoppen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Wochenende für echte Erholung und Schlaf.",
+      "icon": "comments",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie ignorieren wir drohende schwache Noten auf dem Halbjahreszeugnis?",
+      "anleitung": "Woche 17: Halbjahres-Bilanz & Noten-Zwischenstand — Ehrliche Standortbestimmung – Stellschrauben drehen.",
+      "fragen": [],
+      "hinweis": "Wir machen eine ehrliche Noteninventur in allen Fächern.",
+      "icon": "comments",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie schieben wir schlechte mündliche Noten darauf, dass die Lehrer einen 'nicht mögen'?",
+      "anleitung": "Woche 17: Halbjahres-Bilanz & Noten-Zwischenstand — Ehrliche Standortbestimmung – Stellschrauben drehen.",
+      "fragen": [],
+      "hinweis": "Wir fragen die Lehrkraft aktiv: 'Was genau kann ich tun, um mich mündlich zu verbessern?'",
+      "icon": "comments",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie melden wir uns im Unterricht überhaupt nicht mehr aus Angst vor Fehlern?",
+      "anleitung": "Woche 17: Halbjahres-Bilanz & Noten-Zwischenstand — Ehrliche Standortbestimmung – Stellschrauben drehen.",
+      "fragen": [],
+      "hinweis": "Wir setzen das Ziel: Mindestens 2 Qualitäts-Meldungen pro Schulstunde.",
+      "icon": "comments",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie verzweifeln wir an fächerspezifischen Lücken (z. B. Mathe/Englisch)?",
+      "anleitung": "Woche 17: Halbjahres-Bilanz & Noten-Zwischenstand — Ehrliche Standortbestimmung – Stellschrauben drehen.",
+      "fragen": [],
+      "hinweis": "Wir organisieren rechtzeitig Nachhilfe, Lern-Tandems oder Förderunterricht.",
+      "icon": "comments",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie geben wir kurz vor den Zeugnissen komplett auf?",
+      "anleitung": "Woche 17: Halbjahres-Bilanz & Noten-Zwischenstand — Ehrliche Standortbestimmung – Stellschrauben drehen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die verbleibenden Wochen für einen gezielten Endspurt.",
+      "icon": "comments",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie schämen wir uns für Lese-Rechtschreib- oder Rechenschwierigkeiten?",
+      "anleitung": "Woche 18: LRS & Dyskalkulie (Nachteilsausgleich verstehen) — Chancengleichheit nutzen – Stärken trotz Hürden entfalten.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Teilleistungsschwächen haben nichts mit Intelligenz zu tun.",
+      "icon": "comments",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie lehnen wir den Nachteilsausgleich (z. B. mehr Zeit) aus falschem Stolz ab?",
+      "anleitung": "Woche 18: LRS & Dyskalkulie (Nachteilsausgleich verstehen) — Chancengleichheit nutzen – Stärken trotz Hürden entfalten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen zustehende Hilfsmittel (Zeitzuschlag, Wörterbuch, Rechner) selbstbewusst.",
+      "icon": "comments",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie lachen wir über Mitschüler, die länger für das Lesen eines Textes brauchen?",
+      "anleitung": "Woche 18: LRS & Dyskalkulie (Nachteilsausgleich verstehen) — Chancengleichheit nutzen – Stärken trotz Hürden entfalten.",
+      "fragen": [],
+      "hinweis": "Wir respektieren unterschiedliche Lerntempi und unterstützen einander.",
+      "icon": "comments",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie lassen wir zu, dass Rechtschreibfehler unsere Motivation im Fach Deutsch zerstören?",
+      "anleitung": "Woche 18: LRS & Dyskalkulie (Nachteilsausgleich verstehen) — Chancengleichheit nutzen – Stärken trotz Hürden entfalten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen visuelle Wörter-Karten und Lautier-Strategien.",
+      "icon": "comments",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie reduzieren wir Mitschüler auf ihre Lernbesonderheiten?",
+      "anleitung": "Woche 18: LRS & Dyskalkulie (Nachteilsausgleich verstehen) — Chancengleichheit nutzen – Stärken trotz Hürden entfalten.",
+      "fragen": [],
+      "hinweis": "Wir schätzen die individuellen Inselbegabungen jedes Einzelnen.",
+      "icon": "comments",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie zerreißen wir das Halbjahreszeugnis fröhlich oder verfallen in Depressionen?",
+      "anleitung": "Woche 19: Zeugnis-Reflexion & Lernvertrag — Zeugnisse sind Rückspiegel – der Blick geht nach vorne.",
+      "fragen": [],
+      "hinweis": "Wir analysieren das Zeugnis sachlich: Wo stehen wir gut, wo brauchen wir einen Plan?",
+      "icon": "comments",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie versprechen wir den Eltern blaue Wunder ohne konkreten Handlungsschritt?",
+      "anleitung": "Woche 19: Zeugnis-Reflexion & Lernvertrag — Zeugnisse sind Rückspiegel – der Blick geht nach vorne.",
+      "fragen": [],
+      "hinweis": "Wir schließen einen verbindlichen Lernvertrag mit 3 konkreten Maßnahmen.",
+      "icon": "comments",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie ändern wir an unserer Lernstruktur im 2. Halbjahr absolut gar nichts?",
+      "anleitung": "Woche 19: Zeugnis-Reflexion & Lernvertrag — Zeugnisse sind Rückspiegel – der Blick geht nach vorne.",
+      "fragen": [],
+      "hinweis": "Wir passen feste Lernzeiten und Hausaufgaben-Routinen neu an.",
+      "icon": "comments",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie vergessen wir erreichte Erfolge des 1. Halbjahres sofort wieder?",
+      "anleitung": "Woche 19: Zeugnis-Reflexion & Lernvertrag — Zeugnisse sind Rückspiegel – der Blick geht nach vorne.",
+      "fragen": [],
+      "hinweis": "Wir halten gelungene Meilensteine im Logbuch fest.",
+      "icon": "comments",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie starten wir mit Frust in die Zeugnisferien?",
+      "anleitung": "Woche 19: Zeugnis-Reflexion & Lernvertrag — Zeugnisse sind Rückspiegel – der Blick geht nach vorne.",
+      "fragen": [],
+      "hinweis": "Wir haken das 1. Halbjahr ab und starten mit frischer Energie ins 2. Halbjahr.",
+      "icon": "comments",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie lassen wir die guten Vorsätze nach 3 Tagen wieder fallen?",
+      "anleitung": "Woche 20: Neustart im 2. Halbjahr & Neue Vorsätze — Neue Chance, neues Glück – Jetzt richtig durchstarten.",
+      "fragen": [],
+      "hinweis": "Wir verankern neue Gewohnheiten durch tägliche Mini-Schritte.",
+      "icon": "comments",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie verpennen wir den Start ins 2. Halbjahr und verpassen erste Abgaben?",
+      "anleitung": "Woche 20: Neustart im 2. Halbjahr & Neue Vorsätze — Neue Chance, neues Glück – Jetzt richtig durchstarten.",
+      "fragen": [],
+      "hinweis": "Wir tragen alle neuen Termine und Arbeiten sofort in den Kalender ein.",
+      "icon": "comments",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie verfallen wir sofort wieder in alte Schludrigkeiten bei der Heftführung?",
+      "anleitung": "Woche 20: Neustart im 2. Halbjahr & Neue Vorsätze — Neue Chance, neues Glück – Jetzt richtig durchstarten.",
+      "fragen": [],
+      "hinweis": "Wir führen Hefte sauber mit Datum, Überschrift und Lineal.",
+      "icon": "comments",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie lassen wir uns von ersten Fehlversuchen im neuen Halbjahr entmutigen?",
+      "anleitung": "Woche 20: Neustart im 2. Halbjahr & Neue Vorsätze — Neue Chance, neues Glück – Jetzt richtig durchstarten.",
+      "fragen": [],
+      "hinweis": "Wir sehen Fehler als notwendige Schritte im Lernprozess.",
+      "icon": "comments",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie schlampen wir bei den Freitags-Hausaufgaben?",
+      "anleitung": "Woche 20: Neustart im 2. Halbjahr & Neue Vorsätze — Neue Chance, neues Glück – Jetzt richtig durchstarten.",
+      "fragen": [],
+      "hinweis": "Wir schließen die erste Schulwoche des neuen Halbjahres diszipliniert ab.",
+      "icon": "comments",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie sitzen wir 45 Minuten wie eine Statue da und hoffen, nicht aufgerufen zu werden?",
+      "anleitung": "Woche 21: Mündliche Mitarbeit & Melde-Strategien — Mündlich punkten – Deine Stimme zählt im Unterricht.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Melde-Regel: In den ersten 10 Minuten der Stunde direkt 1-mal melden.",
+      "icon": "comments",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie melden wir uns nur, wenn wir uns zu 100 % sicher sind?",
+      "anleitung": "Woche 21: Mündliche Mitarbeit & Melde-Strategien — Mündlich punkten – Deine Stimme zählt im Unterricht.",
+      "fragen": [],
+      "hinweis": "Wir wagen auch Vermutungen: 'Ich bin mir nicht ganz sicher, aber ich glaube...'",
+      "icon": "comments",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie quatschen wir ungefragt rein und bekommen Minusfehleinträge?",
+      "anleitung": "Woche 21: Mündliche Mitarbeit & Melde-Strategien — Mündlich punkten – Deine Stimme zählt im Unterricht.",
+      "fragen": [],
+      "hinweis": "Wir halten die Hand ruhig oben und warten, bis wir aufgerufen werden.",
+      "icon": "comments",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie wiederholen wir bei Antworten nur genau das, was der Mitschüler vor uns gesagt hat?",
+      "anleitung": "Woche 21: Mündliche Mitarbeit & Melde-Strategien — Mündlich punkten – Deine Stimme zählt im Unterricht.",
+      "fragen": [],
+      "hinweis": "Wir ergänzen oder fassen zusammen: 'Ich stimme X zu und möchte noch ergänzen...'",
+      "icon": "comments",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie schätzen wir unsere mündliche Note völlig falsch ein?",
+      "anleitung": "Woche 21: Mündliche Mitarbeit & Melde-Strategien — Mündlich punkten – Deine Stimme zählt im Unterricht.",
+      "fragen": [],
+      "hinweis": "Wir machen am Ende der Woche einen ehrlichen Mündlich-Self-Check.",
+      "icon": "comments",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie klappen wir das Mathebuch bei der ersten Textaufgabe sofort verzweifelt zu?",
+      "anleitung": "Woche 22: MINT-Fächer & Problemloese-Kompetenz — Logik knacken – Keine Angst vor Mathe, Bio und Physik.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das 3-Schritt-Verfahren: Gegeben/Gesucht markieren, Skizze machen, Formel wählen.",
+      "icon": "comments",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie raten wir bei Physik- und Chemiefragen einfach wild drauf los?",
+      "anleitung": "Woche 22: MINT-Fächer & Problemloese-Kompetenz — Logik knacken – Keine Angst vor Mathe, Bio und Physik.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten systematisch mit Ursache-Wirkungs-Ketten.",
+      "icon": "comments",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie lassen wir beim Experimentieren im Fachraum andere die Arbeit machen?",
+      "anleitung": "Woche 22: MINT-Fächer & Problemloese-Kompetenz — Logik knacken – Keine Angst vor Mathe, Bio und Physik.",
+      "fragen": [],
+      "hinweis": "Wir halten uns strikt an Sicherheitsregeln und führen Versuche eigenständig durch.",
+      "icon": "comments",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie vergessen wir mathematische Grundregeln aus früheren Klassen?",
+      "anleitung": "Woche 22: MINT-Fächer & Problemloese-Kompetenz — Logik knacken – Keine Angst vor Mathe, Bio und Physik.",
+      "fragen": [],
+      "hinweis": "Wir führen ein Formel- und Regelheft zum schnellen Nachschlagen.",
+      "icon": "comments",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie reden wir MINT-Fächer als 'völlig unbegreiflich' schlecht?",
+      "anleitung": "Woche 22: MINT-Fächer & Problemloese-Kompetenz — Logik knacken – Keine Angst vor Mathe, Bio und Physik.",
+      "fragen": [],
+      "hinweis": "Wir entdecken Alltagsbeispiele für Physik und Mathe in unserer Umwelt.",
+      "icon": "comments",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie überfliegen wir 3 Seiten Sachtext in 30 Sekunden und verstehen gar nichts?",
+      "anleitung": "Woche 23: Leseverständnis & Sachtexte knacken — Texte durchschauen – Informationen gezielt filtern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die 5-Schritt-Lesemethode (SQ3R): Überfliegen, Fragen stellen, Lesen, Zusammenfassen, Wiederholen.",
+      "icon": "comments",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie markieren wir im Text einfach den gesamten Absatz mit Leuchtstift?",
+      "anleitung": "Woche 23: Leseverständnis & Sachtexte knacken — Texte durchschauen – Informationen gezielt filtern.",
+      "fragen": [],
+      "hinweis": "Wir markieren nur Schlüsselwörter und Kernbegriffe (maximal 3 pro Absatz).",
+      "icon": "comments",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie übergehen wir unverstandene Fachwörter einfach stumm?",
+      "anleitung": "Woche 23: Leseverständnis & Sachtexte knacken — Texte durchschauen – Informationen gezielt filtern.",
+      "fragen": [],
+      "hinweis": "Wir schlagen unbekannte Wörter im Wörterbuch/Glossar nach oder fragen nach.",
+      "icon": "comments",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie schreiben wir Zusammenfassungen durch wörtliches Kopieren langer Sätze?",
+      "anleitung": "Woche 23: Leseverständnis & Sachtexte knacken — Texte durchschauen – Informationen gezielt filtern.",
+      "fragen": [],
+      "hinweis": "Wir formulieren Absätze in eigenen Stichpunkten an den Textrand.",
+      "icon": "comments",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie scheitern wir an Arbeitsanweisungen auf Aufgabenblättern?",
+      "anleitung": "Woche 23: Leseverständnis & Sachtexte knacken — Texte durchschauen – Informationen gezielt filtern.",
+      "fragen": [],
+      "hinweis": "Wir unterstreichen die Operatoren (Nenne, Erkläre, Vergleiche) farbig.",
+      "icon": "comments",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie lassen wir Brodel-Konflikte tagelang schwelen, bis sie explodieren?",
+      "anleitung": "Woche 24: Konfliktklärung im Klassenverband — Konflikte fair lösen – Ohne Sieger und Verlierer.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den Klassenrat oder Streitschlichter für frühzeitige Klärung.",
+      "icon": "comments",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie werfen wir dem anderen im Streit nur Du-Botschaften und Beschimpfungen an den Kopf?",
+      "anleitung": "Woche 24: Konfliktklärung im Klassenverband — Konflikte fair lösen – Ohne Sieger und Verlierer.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Ich-Botschaften: 'Ich ärgere mich, wenn... weil mir wichtig ist, dass...'",
+      "icon": "comments",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie bilden wir Parteien in der Klasse und heizen den Konflikt weiter an?",
+      "anleitung": "Woche 24: Konfliktklärung im Klassenverband — Konflikte fair lösen – Ohne Sieger und Verlierer.",
+      "fragen": [],
+      "hinweis": "Wir nehmen eine neutrale Haltung ein und unterstützen eine faire Lösung.",
+      "icon": "comments",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie verweigern wir eine Entschuldigung aus reinem Trotz?",
+      "anleitung": "Woche 24: Konfliktklärung im Klassenverband — Konflikte fair lösen – Ohne Sieger und Verlierer.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung für den eigenen Anteil am Streit.",
+      "icon": "comments",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie halten wir an alten Streitigkeiten ewig fest?",
+      "anleitung": "Woche 24: Konfliktklärung im Klassenverband — Konflikte fair lösen – Ohne Sieger und Verlierer.",
+      "fragen": [],
+      "hinweis": "Wir schließen Vereinbarungen ab und geben der Klassengemeinschaft eine frische Chance.",
+      "icon": "comments",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie hängen wir montags völlig gerädert in den Schulbänken?",
+      "anleitung": "Woche 25: Frühlingsmüdigkeit & Schlafhygiene — Fit durch den Frühling – Energie durch gesunden Schlaf.",
+      "fragen": [],
+      "hinweis": "Wir achten auf 8–9 Stunden Schlaf und feste Zu-Bett-Geh-Zeiten.",
+      "icon": "comments",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie trinken wir vor dem Schlafen Energy-Drinks oder Cola?",
+      "anleitung": "Woche 25: Frühlingsmüdigkeit & Schlafhygiene — Fit durch den Frühling – Energie durch gesunden Schlaf.",
+      "fragen": [],
+      "hinweis": "Wir verzichten ab 18:00 Uhr auf Koffein und schwere Mahlzeiten.",
+      "icon": "comments",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie schlafen wir bei hellem Licht und laufendem Fernseher/Handy ein?",
+      "anleitung": "Woche 25: Frühlingsmüdigkeit & Schlafhygiene — Fit durch den Frühling – Energie durch gesunden Schlaf.",
+      "fragen": [],
+      "hinweis": "Wir schaffen eine dunkle, ruhige und kühle Schlafumgebung.",
+      "icon": "comments",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie lassen wir Sport und Bewegung im Frühling komplett ausfallen?",
+      "anleitung": "Woche 25: Frühlingsmüdigkeit & Schlafhygiene — Fit durch den Frühling – Energie durch gesunden Schlaf.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Nachmittage für Bewegung an der frischen Luft.",
+      "icon": "comments",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie bringen wir Schlafrhythmus am Wochenende völlig durcheinander?",
+      "anleitung": "Woche 25: Frühlingsmüdigkeit & Schlafhygiene — Fit durch den Frühling – Energie durch gesunden Schlaf.",
+      "fragen": [],
+      "hinweis": "Wir halten Schlafzeiten auch am Wochenende halbwegs konstant.",
+      "icon": "comments",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie verstummen wir im Englisch-/Französischunterricht aus Angst vor falscher Aussprache?",
+      "anleitung": "Woche 26: Fremdsprachen-Sprechen & Sprachhemmungen — Mut zum Sprechen – Fehler gehören beim Sprachenlernen dazu.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Jedes Wort bringt Praxis – Fehler sind völlig normal.",
+      "icon": "comments",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie übersetzen wir deutsche Sätze Wort für Wort 1:1 in die Fremdsprache?",
+      "anleitung": "Woche 26: Fremdsprachen-Sprechen & Sprachhemmungen — Mut zum Sprechen – Fehler gehören beim Sprachenlernen dazu.",
+      "fragen": [],
+      "hinweis": "Wir nutzen gelernte Satzbausteine und Umschreibungen.",
+      "icon": "comments",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie meiden wir Partnergespräche in der Fremdsprache und sprechen Deutsch?",
+      "anleitung": "Woche 26: Fremdsprachen-Sprechen & Sprachhemmungen — Mut zum Sprechen – Fehler gehören beim Sprachenlernen dazu.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Partnerübungen konsequent für echtes Sprachtraining.",
+      "icon": "comments",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie lernen wir Grammatikregeln ohne sie in eigenen Sätzen anzuwenden?",
+      "anleitung": "Woche 26: Fremdsprachen-Sprechen & Sprachhemmungen — Mut zum Sprechen – Fehler gehören beim Sprachenlernen dazu.",
+      "fragen": [],
+      "hinweis": "Wir bilden eigene Beispielsätze aus unserem persönlichen Alltag.",
+      "icon": "comments",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie konsumieren wir Fremdsprachen ausschließlich im Schulbuch?",
+      "anleitung": "Woche 26: Fremdsprachen-Sprechen & Sprachhemmungen — Mut zum Sprechen – Fehler gehören beim Sprachenlernen dazu.",
+      "fragen": [],
+      "hinweis": "Wir hören englische Songs, schauen Videos mit Untertiteln oder lesen einfache Stories.",
+      "icon": "comments",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie zocken wir 4 Stunden am Stück Online-Games und vernachlässigen alles andere?",
+      "anleitung": "Woche 27: Suchtprävention & Medien-Abhängigkeit (Smartphone/Games) — Freiheit bewahren – Kontrolle über das Konsumverhalten.",
+      "fragen": [],
+      "hinweis": "Wir setzen klare Zeitfenster für Gaming (z. B. erst Hausaufgaben, dann 1 Std. Zocken).",
+      "icon": "comments",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie werden wir aggressiv, wenn Eltern oder Lehrer das Handy einfordern?",
+      "anleitung": "Woche 27: Suchtprävention & Medien-Abhängigkeit (Smartphone/Games) — Freiheit bewahren – Kontrolle über das Konsumverhalten.",
+      "fragen": [],
+      "hinweis": "Wir reflektieren unsere Reaktionen: Starke Gefühle zeigen Abhängigkeitsmuster.",
+      "icon": "comments",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie vernachlässigen wir Hobbys, Freunde und Sport für soziale Medien?",
+      "anleitung": "Woche 27: Suchtprävention & Medien-Abhängigkeit (Smartphone/Games) — Freiheit bewahren – Kontrolle über das Konsumverhalten.",
+      "fragen": [],
+      "hinweis": "Wir sichern die Balance: Reallife-Aktivitäten haben immer Vorrang.",
+      "icon": "comments",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie greifen wir alle 2 Minuten unbewusst zum Handy, ohne Grund?",
+      "anleitung": "Woche 27: Suchtprävention & Medien-Abhängigkeit (Smartphone/Games) — Freiheit bewahren – Kontrolle über das Konsumverhalten.",
+      "fragen": [],
+      "hinweis": "Wir machen den Test: Handy 3 Stunden im Schrank lassen und beobachten.",
+      "icon": "comments",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie nutzen wir Medien als reines Betäubungsmittel gegen Langeweile oder Frust?",
+      "anleitung": "Woche 27: Suchtprävention & Medien-Abhängigkeit (Smartphone/Games) — Freiheit bewahren – Kontrolle über das Konsumverhalten.",
+      "fragen": [],
+      "hinweis": "Wir suchen echte Alternativen zur Stressbewältigung: Sport, Musik, Natur.",
+      "icon": "comments",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie machen wir Witze über Herkunft, Aussehen oder Einschränkungen anderer?",
+      "anleitung": "Woche 28: Inklusion, Vielfalt & Anti-Diskriminierung — Vielfalt bereichert – Respekt für jeden Menschen.",
+      "fragen": [],
+      "hinweis": "Wir stoppen Diskriminierung sofort: Jeder Mensch verdient Würde und Respekt.",
+      "icon": "comments",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie bewerten wir Menschen nach Äußerlichkeiten oder Markenkleidung?",
+      "anleitung": "Woche 28: Inklusion, Vielfalt & Anti-Diskriminierung — Vielfalt bereichert – Respekt für jeden Menschen.",
+      "fragen": [],
+      "hinweis": "Wir schauen auf Charakter, Handlungen und innere Werte.",
+      "icon": "comments",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie schließen wir Mitschüler mit Förderbedarf oder Deutsch als Zweitsprache aus?",
+      "anleitung": "Woche 28: Inklusion, Vielfalt & Anti-Diskriminierung — Vielfalt bereichert – Respekt für jeden Menschen.",
+      "fragen": [],
+      "hinweis": "Wir unterstützen Barrierefreiheit und gelebte Gemeinschaft im Schulalltag.",
+      "icon": "comments",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie nutzen wir Schimpfwörter aus der Jugendsprache ohne über die Bedeutung nachzudenken?",
+      "anleitung": "Woche 28: Inklusion, Vielfalt & Anti-Diskriminierung — Vielfalt bereichert – Respekt für jeden Menschen.",
+      "fragen": [],
+      "hinweis": "Wir reflektieren Sprache: Worte können tief verletzen.",
+      "icon": "comments",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie lassen wir zu, dass Vorurteile unser Klassenklima vergiften?",
+      "anleitung": "Woche 28: Inklusion, Vielfalt & Anti-Diskriminierung — Vielfalt bereichert – Respekt für jeden Menschen.",
+      "fragen": [],
+      "hinweis": "Wir fördern den Austausch und lernen voneinander.",
+      "icon": "comments",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie lassen wir vor den Osterferien alle Zügel schleifen?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien & Zwischen-Spurt — Sauber abschließen – Entspannt durchatmen.",
+      "fragen": [],
+      "hinweis": "Wir halten die Konzentration bis zum letzten Schultag hoch.",
+      "icon": "comments",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie häufen wir unerledigte Aufgaben für die Osterferien an?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien & Zwischen-Spurt — Sauber abschließen – Entspannt durchatmen.",
+      "fragen": [],
+      "hinweis": "Wir erledigen anstehende Pflichten vorab.",
+      "icon": "comments",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie verlegen wir wichtiges Unterrichtsmaterial vor den Ferien?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien & Zwischen-Spurt — Sauber abschließen – Entspannt durchatmen.",
+      "fragen": [],
+      "hinweis": "Wir ordnen Hefte und Ordner Vollständig ein.",
+      "icon": "comments",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie vergessen wir Lektüren oder Ferien-Projekte völlig?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien & Zwischen-Spurt — Sauber abschließen – Entspannt durchatmen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen die Abgabe-Termine für die Zeit nach den Ferien.",
+      "icon": "comments",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie starten wir chaotisch in die Osterpause?",
+      "anleitung": "Woche 29: Vorbereitung Osterferien & Zwischen-Spurt — Sauber abschließen – Entspannt durchatmen.",
+      "fragen": [],
+      "hinweis": "Wir schließen den Arbeitsplatz sauber ab und gehen entspannt in die Ferien.",
+      "icon": "comments",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie träumen wir am offenen Fenster nur noch vom Badesee?",
+      "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Fokus — Konzentration halten – Auch wenn die Sonne lockt.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Schulstunden fokussiert, um die Nachmittage komplett frei zu haben.",
+      "icon": "comments",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie lassen wir die Leistung auf den letzten Metern des Schuljahres absacken?",
+      "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Fokus — Konzentration halten – Auch wenn die Sonne lockt.",
+      "fragen": [],
+      "hinweis": "Wir mobilisieren noch einmal alle Reserven für die letzten Arbeiten.",
+      "icon": "comments",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie jammern wir über die Hitze im Klassenzimmer statt lösungsorientiert zu handeln?",
+      "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Fokus — Konzentration halten – Auch wenn die Sonne lockt.",
+      "fragen": [],
+      "hinweis": "Wir lüften morgens durch, trinken ausreichend Wasser und nutzen Schatten.",
+      "icon": "comments",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie schlampen wir bei den letzten Hausaufgaben des Jahres?",
+      "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Fokus — Konzentration halten – Auch wenn die Sonne lockt.",
+      "fragen": [],
+      "hinweis": "Wir halten die Disziplin aufrecht bis zum Schluss.",
+      "icon": "comments",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie vergeuden wir die letzten Unterrichtswochen ungenutzt?",
+      "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Fokus — Konzentration halten – Auch wenn die Sonne lockt.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Wiederholungsphasen zur Festigung des Jahresstoffs.",
+      "icon": "comments",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie gehen wir unvorbereitet in die allerletzten Klassenarbeiten?",
+      "anleitung": "Woche 31: Letzte Klassenarbeiten & Noten-Endspurt — Alles geben – Die letzten Notenchancen nutzen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die gleichen verlässlichen Lernstrategien wie im Winter.",
+      "icon": "comments",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie riskieren wir durch Leichtsinnsfehler knappere Noten?",
+      "anleitung": "Woche 31: Letzte Klassenarbeiten & Noten-Endspurt — Alles geben – Die letzten Notenchancen nutzen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Arbeiten bis zur letzten Minute sorgfältig durch.",
+      "icon": "comments",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie verpassen wir die Möglichkeit, durch freiwillige Referate Noten zu verbessern?",
+      "anleitung": "Woche 31: Letzte Klassenarbeiten & Noten-Endspurt — Alles geben – Die letzten Notenchancen nutzen.",
+      "fragen": [],
+      "hinweis": "Wir fragen Lehrkräfte aktiv nach Möglichkeiten zur Notenoptimierung.",
+      "icon": "comments",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie verfallen wir bei drohenden Wackelnoten in Schockstarre?",
+      "anleitung": "Woche 31: Letzte Klassenarbeiten & Noten-Endspurt — Alles geben – Die letzten Notenchancen nutzen.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen Rettungsplan und suchen das Gespräch.",
+      "icon": "comments",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie feiern wir zu früh, bevor alle Noten feststehen?",
+      "anleitung": "Woche 31: Letzte Klassenarbeiten & Noten-Endspurt — Alles geben – Die letzten Notenchancen nutzen.",
+      "fragen": [],
+      "hinweis": "Wir bleiben fokussiert bis zur offiziellen Notenvergabe.",
+      "icon": "comments",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie trinken wir bei 30 Grad im Schatten nur zuckerhaltige Limonaden?",
+      "anleitung": "Woche 32: Hitzefrei, Sommertage & Selbstregulation — Kühler Kopf an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir trinken frisches Wasser, gekühlten Tee oder Fruchtschorlen.",
+      "icon": "comments",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie tragen wir schwarze, dicke Kleidung und schwitzen unnötig?",
+      "anleitung": "Woche 32: Hitzefrei, Sommertage & Selbstregulation — Kühler Kopf an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir wählen helle, luftige Baumwollkleidung für warme Tage.",
+      "icon": "comments",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie rennen wir in der prallen Mittagssonne ohne Sonnenschutz herum?",
+      "anleitung": "Woche 32: Hitzefrei, Sommertage & Selbstregulation — Kühler Kopf an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Schattenplätze auf dem Schulhof und Sonnenschutz.",
+      "icon": "comments",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie werden wir bei Hitze extrem gereizt und streiten wegen Kleinigkeiten?",
+      "anleitung": "Woche 32: Hitzefrei, Sommertage & Selbstregulation — Kühler Kopf an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir fahren das Tempo bewusst herunter und bleiben geduldig.",
+      "icon": "comments",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie nutzen wir verkürzte Hitzefrei-Tage nur zum Zocken?",
+      "anleitung": "Woche 32: Hitzefrei, Sommertage & Selbstregulation — Kühler Kopf an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die freie Zeit für Bewegung im kühlen Wasser oder Erholung.",
+      "icon": "comments",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie kommen wir ohne Verpflegung oder falsches Schuhwerk zum Ausflug?",
+      "anleitung": "Woche 33: Wandertage, Ausflüge & Außerschulisches Lernen — Gemeinsam unterwegs – Sicher und wertschätzend.",
+      "fragen": [],
+      "hinweis": "Wir packen den Rucksack am Vorabend: Wasser, Snack, wetterfeste Kleidung & feste Schuhe.",
+      "icon": "comments",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie halten wir uns bei Ausflügen nicht an Treffpunkte und Zeiten?",
+      "anleitung": "Woche 33: Wandertage, Ausflüge & Außerschulisches Lernen — Gemeinsam unterwegs – Sicher und wertschätzend.",
+      "fragen": [],
+      "hinweis": "Wir sind pünktlich, hören auf Anweisungen und bleiben in der Gruppe.",
+      "icon": "comments",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie benehmen wir uns im Bus oder Museum daneben und beschämen die Schule?",
+      "anleitung": "Woche 33: Wandertage, Ausflüge & Außerschulisches Lernen — Gemeinsam unterwegs – Sicher und wertschätzend.",
+      "fragen": [],
+      "hinweis": "Wir zeigen Höflichkeit, leise Töne und Respekt gegenüber Führungen/Fahrern.",
+      "icon": "comments",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie lassen wir Müll an Rastplätzen oder im Bus einfach liegen?",
+      "anleitung": "Woche 33: Wandertage, Ausflüge & Außerschulisches Lernen — Gemeinsam unterwegs – Sicher und wertschätzend.",
+      "fragen": [],
+      "hinweis": "Wir hinterlassen jeden Ort saubere, als wir ihn vorgefunden haben.",
+      "icon": "comments",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie schließen wir Mitschüler bei Gruppen-Ausflügen aus?",
+      "anleitung": "Woche 33: Wandertage, Ausflüge & Außerschulisches Lernen — Gemeinsam unterwegs – Sicher und wertschätzend.",
+      "fragen": [],
+      "hinweis": "Wir achten darauf, dass niemand alleine gehen muss.",
+      "icon": "comments",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie kommen wir unvorbereitet zur Projektgruppe und warten auf Befehle?",
+      "anleitung": "Woche 34: Projektwoche & Praktisches Arbeiten — Eigenverantwortlich gestalten – Kreativität entfalten.",
+      "fragen": [],
+      "hinweis": "Wir bringen eigene Ideen ein und übernehmen aktiv eine Teilaufgabe.",
+      "icon": "comments",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie verbummeln wir die freie Arbeitszeit in der Projektwoche?",
+      "anleitung": "Woche 34: Projektwoche & Praktisches Arbeiten — Eigenverantwortlich gestalten – Kreativität entfalten.",
+      "fragen": [],
+      "hinweis": "Wir setzen uns tägliche Zwischenziele für das Projektergebnis.",
+      "icon": "comments",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie streiten wir in der Projektgruppe über die Gestaltung?",
+      "anleitung": "Woche 34: Projektwoche & Praktisches Arbeiten — Eigenverantwortlich gestalten – Kreativität entfalten.",
+      "fragen": [],
+      "hinweis": "Wir stimmen demokratisch ab und akzeptieren Mehrheitsentscheidungen.",
+      "icon": "comments",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie stellen wir am Tag vor der Präsentation fest, dass die Hälfte fehlt?",
+      "anleitung": "Woche 34: Projektwoche & Praktisches Arbeiten — Eigenverantwortlich gestalten – Kreativität entfalten.",
+      "fragen": [],
+      "hinweis": "Wir machen am Vortag einen Vollständigkeits-TÜV.",
+      "icon": "comments",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie präsentieren wir das Projektunmotiviert vor der Schule?",
+      "anleitung": "Woche 34: Projektwoche & Praktisches Arbeiten — Eigenverantwortlich gestalten – Kreativität entfalten.",
+      "fragen": [],
+      "hinweis": "Wir zeigen stolz, was wir gemeinsam erarbeitet haben.",
+      "icon": "comments",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie stellen wir fest, dass wir 3 Schulbücher unauffindbar verlegt haben?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Material-Aufräumen — Klar Schiff machen – Verlässlichkeit beweisen.",
+      "fragen": [],
+      "hinweis": "Wir suchen rechtzeitig zu Hause alle Bücher zusammen und prüfen Zustand.",
+      "icon": "comments",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie geben wir beschädigte oder unbeschriftete Bücher ab und zahlen Strafe?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Material-Aufräumen — Klar Schiff machen – Verlässlichkeit beweisen.",
+      "fragen": [],
+      "hinweis": "Wir radieren Bleistiftnotizen aus und reparieren kleine Schäden.",
+      "icon": "comments",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie lassen wir den Schultisch-Innenraum voller altem Papier zurück?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Material-Aufräumen — Klar Schiff machen – Verlässlichkeit beweisen.",
+      "fragen": [],
+      "hinweis": "Wir leeren Tische und Eigentumsfächer komplett aus.",
+      "icon": "comments",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie werfen wir noch benutzbare Stifte und Hefte einfach in den Müll?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Material-Aufräumen — Klar Schiff machen – Verlässlichkeit beweisen.",
+      "fragen": [],
+      "hinweis": "Wir sortieren nachhaltig: Was kann im nächsten Jahr weiterverwendet werden?",
+      "icon": "comments",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie hinterlassen wir das Klassenzimmer im Chaos?",
+      "anleitung": "Woche 35: Schulbuch-Rückgabe & Material-Aufräumen — Klar Schiff machen – Verlässlichkeit beweisen.",
+      "fragen": [],
+      "hinweis": "Wir packen gemeinsam an für einen sauberen Raumabschluss.",
+      "icon": "comments",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie erinnern wir uns nur an die schlechten Tage des vergangenen Schuljahres?",
+      "anleitung": "Woche 36: Mein persönlicher Jahresschatz & Jahres-Reflexion — Blick zurück mit Stolz – Sehen, wie viel du gewachsen bist.",
+      "fragen": [],
+      "hinweis": "Wir blättern das Logbuch durch und feiern alle Erfolge und Fortschritte.",
+      "icon": "comments",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie übersehen wir, wie viel schwerer Schulstoff heute ganz leicht fällt?",
+      "anleitung": "Woche 36: Mein persönlicher Jahresschatz & Jahres-Reflexion — Blick zurück mit Stolz – Sehen, wie viel du gewachsen bist.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen unser Wissen von September mit dem Wissen von heute.",
+      "icon": "comments",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie vergessen wir Danke zu sagen bei Lehrern, INGRA oder Freunden?",
+      "anleitung": "Woche 36: Mein persönlicher Jahresschatz & Jahres-Reflexion — Blick zurück mit Stolz – Sehen, wie viel du gewachsen bist.",
+      "fragen": [],
+      "hinweis": "Wir schreiben kleine Dankes-Karten an Menschen, die uns geholfen haben.",
+      "icon": "comments",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie reflektieren wir eigene veränderte Verhaltensmuster?",
+      "anleitung": "Woche 36: Mein persönlicher Jahresschatz & Jahres-Reflexion — Blick zurück mit Stolz – Sehen, wie viel du gewachsen bist.",
+      "fragen": [],
+      "hinweis": "Wir halten fest: 'Welche Sabotage-Falle tappe ich heute nicht mehr?'",
+      "icon": "comments",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie gehen wir ohne Zielstellung ins kommende Schuljahr?",
+      "anleitung": "Woche 36: Mein persönlicher Jahresschatz & Jahres-Reflexion — Blick zurück mit Stolz – Sehen, wie viel du gewachsen bist.",
+      "fragen": [],
+      "hinweis": "Wir formulieren einen persönlichen Wunsch für das nächste Schuljahr.",
+      "icon": "comments",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie machen wir in den letzten Schulstunden nur noch Quatsch und stören?",
+      "anleitung": "Woche 37: Versetzung, Notenkonferenz & Letzte Schulstunden — Geschafft! – Das Schuljahr sicher ins Ziel bringen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die letzten Stunden für Spiele, Reflexion und Gemeinschaft.",
+      "icon": "comments",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie verfallen wir wegen Gerüchten über Notenkonferenzen in Panik?",
+      "anleitung": "Woche 37: Versetzung, Notenkonferenz & Letzte Schulstunden — Geschafft! – Das Schuljahr sicher ins Ziel bringen.",
+      "fragen": [],
+      "hinweis": "Wir vertrauen auf erbrachte Leistungen und die Absprachen.",
+      "icon": "comments",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie räumen wir den Spind/Garderobe erst am allerletzten Tag auf?",
+      "anleitung": "Woche 37: Versetzung, Notenkonferenz & Letzte Schulstunden — Geschafft! – Das Schuljahr sicher ins Ziel bringen.",
+      "fragen": [],
+      "hinweis": "Wir nehmen persönliche Sachen nach und nach mit nach Hause.",
+      "icon": "comments",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie verabschieden wir uns nicht von Mitschülern, die die Schule verlassen?",
+      "anleitung": "Woche 37: Versetzung, Notenkonferenz & Letzte Schulstunden — Geschafft! – Das Schuljahr sicher ins Ziel bringen.",
+      "fragen": [],
+      "hinweis": "Wir gestalten einen wertschätzenden Abschied im Klassenverband.",
+      "icon": "comments",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie lassen wir die Vorfreude auf die Ferien durch Stress verderben?",
+      "anleitung": "Woche 37: Versetzung, Notenkonferenz & Letzte Schulstunden — Geschafft! – Das Schuljahr sicher ins Ziel bringen.",
+      "fragen": [],
+      "hinweis": "Wir freuen uns auf die wohlverdiente Sommerpause.",
+      "icon": "comments",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie vergleichen wir am Zeugnistag nur wieder Noten und machen Frust?",
+      "anleitung": "Woche 38: Zeugnisausgabe, Sommerferien & Cyber-Brainy-Diplom — Urkunde entgegennehmen – Ab in die wohlverdienten Sommerferien!",
+      "fragen": [],
+      "hinweis": "Wir würdigen den Einsatz des gesamten Jahres – jedes Zeugnis zeigt einen Weg.",
+      "icon": "comments",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie rennen wir ohne Verabschiedung aus dem Schulgebäude?",
+      "anleitung": "Woche 38: Zeugnisausgabe, Sommerferien & Cyber-Brainy-Diplom — Urkunde entgegennehmen – Ab in die wohlverdienten Sommerferien!",
+      "fragen": [],
+      "hinweis": "Wir verabschieden uns herzlich von Lehrern, Schulbegleitern und Freunden.",
+      "icon": "comments",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie lassen wir das Cyber-Brainy-Diplom unbeachtet im Ranzen liegen?",
+      "anleitung": "Woche 38: Zeugnisausgabe, Sommerferien & Cyber-Brainy-Diplom — Urkunde entgegennehmen – Ab in die wohlverdienten Sommerferien!",
+      "fragen": [],
+      "hinweis": "Wir hängen das Diplom stolz zu Hause auf als Zeichen unserer Entwicklung.",
+      "icon": "comments",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie nehmen wir Schulsorgen mit in die Sommerferien?",
+      "anleitung": "Woche 38: Zeugnisausgabe, Sommerferien & Cyber-Brainy-Diplom — Urkunde entgegennehmen – Ab in die wohlverdienten Sommerferien!",
+      "fragen": [],
+      "hinweis": "Wir lassen die Schule komplett hinter uns und schalten mental ab.",
+      "icon": "comments",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie starten wir in die Sommerferien?",
+      "anleitung": "Woche 38: Zeugnisausgabe, Sommerferien & Cyber-Brainy-Diplom — Urkunde entgegennehmen – Ab in die wohlverdienten Sommerferien!",
+      "fragen": [],
+      "hinweis": "Wir genießen 6 Wochen Freiheit, Sonne, Freunde und Abenteuer!",
+      "icon": "comments",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}

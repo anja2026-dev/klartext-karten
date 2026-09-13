@@ -1,0 +1,1720 @@
+{
+  "id": "jk-sek2",
+  "titel": "Jahreskarten-Set Sek II",
+  "untertitel": "Executive Coach Edition (190 Tage)",
+  "farbe": "#B4482E",
+  "farbe_hell": "#FBEAE3",
+  "farbe_rand": "#E8C3B2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie unterschätzen wir den Schritt ins 15-Punkte-System und lassen 04 Punkte schleifen?",
+      "anleitung": "Woche 1: Einstieg in das 15-Punkte-System der Oberstufe — Executive Mindset – Jeder Notenpunkt zählt direkt fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir sichern ab Tag 1 zweistellige Punktzahlen (10–15 Punkte) für die Abiturqualifikation.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie schwänzen wir die Einführungsphase (EF) und wundern uns über Fehlstunden auf dem Zeugnis?",
+      "anleitung": "Woche 1: Einstieg in das 15-Punkte-System der Oberstufe — Executive Mindset – Jeder Notenpunkt zählt direkt fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir führen lückenlose Anwesenheit – unentschuldigte Fehlstunden werden mit 00 Punkten gewertet.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie ignorieren wir die Gewichtung von Sonstiger Mitarbeit (SoMi 50 %) zu Klausuren (50 %)?",
+      "anleitung": "Woche 1: Einstieg in das 15-Punkte-System der Oberstufe — Executive Mindset – Jeder Notenpunkt zählt direkt fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir setzen auf aktive mündliche Beteiligung in jeder einzelnen Oberstufenstunde.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie verpennen wir die Wahl unserer Leistungskurse (LK) und Abiturprüfungsfächer?",
+      "anleitung": "Woche 1: Einstieg in das 15-Punkte-System der Oberstufe — Executive Mindset – Jeder Notenpunkt zählt direkt fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir wählen LKs nach echten Stärken und prüfen die Abiturbedingungen im Oberstufenleitfaden.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie versinken wir im ersten Freistunden-Chaos im Aufenthaltsraum?",
+      "anleitung": "Woche 1: Einstieg in das 15-Punkte-System der Oberstufe — Executive Mindset – Jeder Notenpunkt zählt direkt fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Freistunden gezielt als Deep-Work-Phasen für Vor- und Nachbereitung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie wählen wir ein riesiges Thema wie 'Klimawandel' für eine 12-seitige Facharbeit?",
+      "anleitung": "Woche 2: Wissenschaftliches Arbeiten & Themenfindung Facharbeit — Forschungsorientiert arbeiten – Deine Facharbeit souverän aufbauen.",
+      "fragen": [],
+      "hinweis": "Wir grenzen das Thema präzise ein: 'Auswirkungen von X auf Y im Zeitraum Z'.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie zitieren wir Internetquellen ohne Angabe von Autor, Datum und URL?",
+      "anleitung": "Woche 2: Wissenschaftliches Arbeiten & Themenfindung Facharbeit — Forschungsorientiert arbeiten – Deine Facharbeit souverän aufbauen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen wissenschaftliche Zitierregeln (APA/IEEE) und erstellen ein Literaturverzeichnis.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie kopieren wir Textpassagen ohne Anführungszeichen und riskieren ein Plagiat (00 Punkte)?",
+      "anleitung": "Woche 2: Wissenschaftliches Arbeiten & Themenfindung Facharbeit — Forschungsorientiert arbeiten – Deine Facharbeit souverän aufbauen.",
+      "fragen": [],
+      "hinweis": "Wir kennzeichnen direkte und indirekte Zitate (Vgl. Autor, Jahr, S. X) lückenlos.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie beginnen wir die Literaturrecherche erst eine Woche vor der Abgabe?",
+      "anleitung": "Woche 2: Wissenschaftliches Arbeiten & Themenfindung Facharbeit — Forschungsorientiert arbeiten – Deine Facharbeit souverän aufbauen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Universitätsbibliotheken, Fachdatenbanken und Google Scholar frühzeitig.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie formulieren wir keine klare wissenschaftliche Fragestellung?",
+      "anleitung": "Woche 2: Wissenschaftliches Arbeiten & Themenfindung Facharbeit — Forschungsorientiert arbeiten – Deine Facharbeit souverän aufbauen.",
+      "fragen": [],
+      "hinweis": "Wir verankern eine präzise Hypothese, die im Hauptteil systematisch geprüft wird.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie verwechseln wir 'Darstellen' (AFB I) mit 'Erörtern' (AFB III)?",
+      "anleitung": "Woche 3: Operatoren-Training (AFB I, II, III) — Prüfungslogik dekonstruieren – Exakt die geforderte Tiefe liefern.",
+      "fragen": [],
+      "hinweis": "Wir lernen die Operatorenliste der KMK auswendig und kennen die geforderte Tiefe.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie schreiben wir in Geschichte/SOWI reine Zusammenfassungen statt tiefgehender Analysen?",
+      "anleitung": "Woche 3: Operatoren-Training (AFB I, II, III) — Prüfungslogik dekonstruieren – Exakt die geforderte Tiefe liefern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen AFB II (Analysieren, Einordnen) und AFB III (Beurteilen, Stellung nehmen) gezielt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie vergessen wir in Deutsch/Sprachen die synoptische Textbelegpflicht?",
+      "anleitung": "Woche 3: Operatoren-Training (AFB I, II, III) — Prüfungslogik dekonstruieren – Exakt die geforderte Tiefe liefern.",
+      "fragen": [],
+      "hinweis": "Wir stützen jede These durch wörtliche Zitate oder Textbelege mit Zeilenangabe.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie beurteilen wir in mathematisch-naturwissenschaftlichen Aufgaben ohne Herleitung?",
+      "anleitung": "Woche 3: Operatoren-Training (AFB I, II, III) — Prüfungslogik dekonstruieren – Exakt die geforderte Tiefe liefern.",
+      "fragen": [],
+      "hinweis": "Wir dokumentieren Lösungswege mathematisch exakt inklusive Einheiten und Begründungen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie ignorieren wir die Gewichtung der Anforderungsbereiche in Oberstufenklausuren?",
+      "anleitung": "Woche 3: Operatoren-Training (AFB I, II, III) — Prüfungslogik dekonstruieren – Exakt die geforderte Tiefe liefern.",
+      "fragen": [],
+      "hinweis": "Wir verteilen unsere Bearbeitungszeit prozentual exakt nach den AFB-Punkten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie lassen wir Multitasking mit Musik, Insta und Hausaufgaben unsere Konzentration zerstören?",
+      "anleitung": "Woche 4: Deep Work & Die Pomodoro-Technik für Oberstufenschüler — Höchste kognitive Leistung durch radikalen Fokus.",
+      "fragen": [],
+      "hinweis": "Wir etablieren 90-Minuten-Deep-Work-Blöcke ohne jegliche Ablenkung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie arbeiten wir 4 Stunden am Stück ohne Pause und erleiden geistige Erschöpfung?",
+      "anleitung": "Woche 4: Deep Work & Die Pomodoro-Technik für Oberstufenschüler — Höchste kognitive Leistung durch radikalen Fokus.",
+      "fragen": [],
+      "hinweis": "Wir nutzen strukturierte Intervalle: 25 Minuten Fokus, 5 Minuten Pause (Pomodoro).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie lassen wir Benachrichtigungen auf der Apple Watch/Smartphone die Denkschärfe brechen?",
+      "anleitung": "Woche 4: Deep Work & Die Pomodoro-Technik für Oberstufenschüler — Höchste kognitive Leistung durch radikalen Fokus.",
+      "fragen": [],
+      "hinweis": "Wir schalten alle Geräte bei komplexen Analysen in den 'Do Not Disturb'-Modus.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie verwechseln wir 'beschäftigt sein' mit 'produktiver kognitiver Arbeit'?",
+      "anleitung": "Woche 4: Deep Work & Die Pomodoro-Technik für Oberstufenschüler — Höchste kognitive Leistung durch radikalen Fokus.",
+      "fragen": [],
+      "hinweis": "Wir messen Arbeitsergebnisse am Output (z. B. geklärte Seiten, gelöste Aufgaben).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie lernen wir abends um 23:00 Uhr und wundern uns über fehlenden Speichereffekt?",
+      "anleitung": "Woche 4: Deep Work & Die Pomodoro-Technik für Oberstufenschüler — Höchste kognitive Leistung durch radikalen Fokus.",
+      "fragen": [],
+      "hinweis": "Wir verlegen kognitiv anspruchsvolle Aufgaben in unsere biologischen Hochphasen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie fangen wir in der 4-Stunden-Klausur nach 2 Minuten unüberlegt an zu schreiben?",
+      "anleitung": "Woche 5: Die 4-stündige Oberstufenklausur (Ausdauer-Strategie) — Klausurenhacks für Langstrecken-Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die ersten 20 Minuten für das Einlesen, Auswählen und Gliedern der Stichpunkte.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie erleiden wir nach 2 Stunden einen Hungerast/Kopfschmerz in der Klausur?",
+      "anleitung": "Woche 5: Die 4-stündige Oberstufenklausur (Ausdauer-Strategie) — Klausurenhacks für Langstrecken-Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir bringen ausreichend Wasser, Nüsse, Bananen und traubenzuckerhaltige Snacks mit.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie schreiben wir Fließtext ohne jegliche Absätze oder strukturelle Zwischenräume?",
+      "anleitung": "Woche 5: Die 4-stündige Oberstufenklausur (Ausdauer-Strategie) — Klausurenhacks für Langstrecken-Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir gliedern Antworten optisch sauber mit Absätzen, Aufzählungen und Rechnungen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie geben wir 45 Minuten vor dem Ende der Klausur ab aus reiner Trägheit?",
+      "anleitung": "Woche 5: Die 4-stündige Oberstufenklausur (Ausdauer-Strategie) — Klausurenhacks für Langstrecken-Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen verbleibende Zeit für einen zweifachen Korrektur-Durchgang (Inhalt & Sprache).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie geraten wir bei der Aufgabenwahl in der Klausur in Entscheidungspanik?",
+      "anleitung": "Woche 5: Die 4-stündige Oberstufenklausur (Ausdauer-Strategie) — Klausurenhacks für Langstrecken-Prüfungen.",
+      "fragen": [],
+      "hinweis": "Wir wählen Aufgaben kriteriengeleitet nach eigener Stärke und gestellten Operatoren.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie verlassen wir uns blauäugig darauf, dass ein 3,0-Abitur für Medizin oder Psychologie reicht?",
+      "anleitung": "Woche 6: Studien- & Berufswahl (Hochschulstart, NC & Alternativen) — Zukunft planen – NC, Fachhochschulen & Duale Studiengänge durchblicken.",
+      "fragen": [],
+      "hinweis": "Wir recherchieren NC-Grenzwerte, Wartesemester, Eignungstests (TMS/BaNT) und Quoten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie kennen wir den Unterschied zwischen Universität, FH und Dualem Studium nicht?",
+      "anleitung": "Woche 6: Studien- & Berufswahl (Hochschulstart, NC & Alternativen) — Zukunft planen – NC, Fachhochschulen & Duale Studiengänge durchblicken.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen akademische Theorie (Uni) mit Praxisorientierung (FH/Duales Studium).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie verpassen wir Anmeldefristen bei Hochschulstart (15. Juli) oder Partnerunternehmen?",
+      "anleitung": "Woche 6: Studien- & Berufswahl (Hochschulstart, NC & Alternativen) — Zukunft planen – NC, Fachhochschulen & Duale Studiengänge durchblicken.",
+      "fragen": [],
+      "hinweis": "Wir führen eine Bewerbungs-Tabelle mit Fristen für Wunschstudiengänge.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie orientieren wir uns bei der Studienwahl nur nach dem Gehalt statt nach Interesse?",
+      "anleitung": "Woche 6: Studien- & Berufswahl (Hochschulstart, NC & Alternativen) — Zukunft planen – NC, Fachhochschulen & Duale Studiengänge durchblicken.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den KLARTEXT-Interessen-Check zur Ermittlung unserer Kernwerte.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie ignorieren wir Messen für Ausbildung und Studium (Vocatium/e-fellows)?",
+      "anleitung": "Woche 6: Studien- & Berufswahl (Hochschulstart, NC & Alternativen) — Zukunft planen – NC, Fachhochschulen & Duale Studiengänge durchblicken.",
+      "fragen": [],
+      "hinweis": "Wir besuchen Karrieremessen gut vorbereitet mit gezielten Fragen an Dozenten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie melden wir uns nur mit Ein-Wort-Antworten auf Grundschulniveau?",
+      "anleitung": "Woche 7: Mündliche SoMi-Performance (13–15 Notenpunkte sichern) — SoMi-Exzellenz – Mündliche Mitarbeit auf akademisches Niveau heben.",
+      "fragen": [],
+      "hinweis": "Wir formulieren komplexe, fachlich fundierte Beiträge in vollständigen Sätzen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie schweigen wir 4 Wochen lang stumm und beschweren uns über 05 Punkte SoMi?",
+      "anleitung": "Woche 7: Mündliche SoMi-Performance (13–15 Notenpunkte sichern) — SoMi-Exzellenz – Mündliche Mitarbeit auf akademisches Niveau heben.",
+      "fragen": [],
+      "hinweis": "Wir bitten Lehrkräfte um eine Zwischenbewertung und Feedback zur mündlichen Leistung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie stören wir Diskussionen durch unbelegte Meinungs-Äußerungen?",
+      "anleitung": "Woche 7: Mündliche SoMi-Performance (13–15 Notenpunkte sichern) — SoMi-Exzellenz – Mündliche Mitarbeit auf akademisches Niveau heben.",
+      "fragen": [],
+      "hinweis": "Wir untermauern Argumente mit Fachliteratur, Theorien und Daten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie verpassen wir es, Diskussionen durch Synthesen oder Leitfragen voranzubringen?",
+      "anleitung": "Woche 7: Mündliche SoMi-Performance (13–15 Notenpunkte sichern) — SoMi-Exzellenz – Mündliche Mitarbeit auf akademisches Niveau heben.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung: Zusammenfassen, Gegenpositionen abwägen, weiterdenken.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie verpassen wir Protokolle oder freiwillige Impulsreferate?",
+      "anleitung": "Woche 7: Mündliche SoMi-Performance (13–15 Notenpunkte sichern) — SoMi-Exzellenz – Mündliche Mitarbeit auf akademisches Niveau heben.",
+      "fragen": [],
+      "hinweis": "Wir sichern Extrapunkte durch herausragende Referate und Protokollführung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie opfern wir unseren gesunden Schlaf komplett für nächtelange Lerneinheiten?",
+      "anleitung": "Woche 8: Mental Health & Stress-Regulation vor der Klausurenphase — Mentale Stärke bewahren – Anti-Burnout in der Oberstufe.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Schlaf festigt Synapsen – 8 Stunden Schlaf sind unverzichtbar für Spitzenleistung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie greifen wir bei Stress zu Unmengen Energy-Drinks oder Beruhigungsmitteln?",
+      "anleitung": "Woche 8: Mental Health & Stress-Regulation vor der Klausurenphase — Mentale Stärke bewahren – Anti-Burnout in der Oberstufe.",
+      "fragen": [],
+      "hinweis": "Wir regulieren unser Nervensystem durch Ausdauersport, Kalt-Duschen und Atemtechniken.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie verfallen wir in Katastrophendenken ('Wenn ich das Abi nicht schaffe, ist mein Leben vorbei')?",
+      "anleitung": "Woche 8: Mental Health & Stress-Regulation vor der Klausurenphase — Mentale Stärke bewahren – Anti-Burnout in der Oberstufe.",
+      "fragen": [],
+      "hinweis": "Wir betreiben Relativierung: Es gibt unzählige Wege, Wege zum Wunscherfolg zu gestalten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie vernachlässigen wir soziale Kontakte und Isolation im Lernzimmer?",
+      "anleitung": "Woche 8: Mental Health & Stress-Regulation vor der Klausurenphase — Mentale Stärke bewahren – Anti-Burnout in der Oberstufe.",
+      "fragen": [],
+      "hinweis": "Wir pflegen feste Auszeiten mit Freunden und Familie zur mentalen Entlastung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie ignorieren wir anhaltende Erschöpfungssignale unseres Körpers?",
+      "anleitung": "Woche 8: Mental Health & Stress-Regulation vor der Klausurenphase — Mentale Stärke bewahren – Anti-Burnout in der Oberstufe.",
+      "fragen": [],
+      "hinweis": "Wir konsultieren Vertrauenslehrer oder Beratungsstellen bei dauerhaftem Stress.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie nutzen wir unseriöse Blogbeiträge oder Social-Media-Posts als Quellen für Facharbeiten?",
+      "anleitung": "Woche 9: Quellenkritik, Medienkompetenz & Fake-News-Analyse — Wissenschaftliche Skepsis – Information von Propaganda trennen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Quellen nach dem CRAAP-Test (Currency, Relevance, Authority, Accuracy, Purpose).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie fallen wir auf wissenschaftlich verkleidete Studien von Lobbys herein?",
+      "anleitung": "Woche 9: Quellenkritik, Medienkompetenz & Fake-News-Analyse — Wissenschaftliche Skepsis – Information von Propaganda trennen.",
+      "fragen": [],
+      "hinweis": "Wir analysieren Interessenkonflikte und Finanzierung von Studien.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie verwechseln wir Korrelation mit Kausalität in sozialwissenschaftlichen Analysen?",
+      "anleitung": "Woche 9: Quellenkritik, Medienkompetenz & Fake-News-Analyse — Wissenschaftliche Skepsis – Information von Propaganda trennen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen statistische Zusammenhänge kritisch auf tatsächliche Ursachen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie nutzen wir KI-Suchmaschinen ohne die primären Fachquellen zu lesen?",
+      "anleitung": "Woche 9: Quellenkritik, Medienkompetenz & Fake-News-Analyse — Wissenschaftliche Skepsis – Information von Propaganda trennen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Primärquellen im Original statt ungeprüfte Zusammenfassungen zu nutzen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie ignorieren wir unterschiedliche Forschungsparadigmen in den Fachdisziplinen?",
+      "anleitung": "Woche 9: Quellenkritik, Medienkompetenz & Fake-News-Analyse — Wissenschaftliche Skepsis – Information von Propaganda trennen.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen kontroverse Fachpositionen und wiegen Gegenargumente ab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie lassen wir Notenpunkte in den letzten Wochen vor den Ferien fahrlässig liegen?",
+      "anleitung": "Woche 10: Vorweihnachtliche Klausuren-Ernte & Punktestand — Erste Notenpunkte sichern – Das 1. Halbjahr erfolgreich abschließen.",
+      "fragen": [],
+      "hinweis": "Wir sichern in den letzten Stunden des Jahres noch einmal volle Präsenz und SoMi.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie ignorieren wir den aktuellen Punktestand für die Abiturqualifikation?",
+      "anleitung": "Woche 10: Vorweihnachtliche Klausuren-Ernte & Punktestand — Erste Notenpunkte sichern – Das 1. Halbjahr erfolgreich abschließen.",
+      "fragen": [],
+      "hinweis": "Wir berechnen unsere Gesamtpunkte in den Blöcken I & II laut Ausbildungsordnung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie verpassen wir Nachholtermine für krankheitsbedingt versäumte Klausuren?",
+      "anleitung": "Woche 10: Vorweihnachtliche Klausuren-Ernte & Punktestand — Erste Notenpunkte sichern – Das 1. Halbjahr erfolgreich abschließen.",
+      "fragen": [],
+      "hinweis": "Wir reichen Atteste fristgerecht ein und stimmen Nachschreibtermine ab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie gehen wir mit Unstimmigkeiten bei Punkte-Korrekturen unprofessionell um?",
+      "anleitung": "Woche 10: Vorweihnachtliche Klausuren-Ernte & Punktestand — Erste Notenpunkte sichern – Das 1. Halbjahr erfolgreich abschließen.",
+      "fragen": [],
+      "hinweis": "Wir suchen das sachliche, fachlich begründete Gespräch mit der Lehrkraft.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie nehmen wir ungelöste Lernprobleme mit in die Weihnachtsferien?",
+      "anleitung": "Woche 10: Vorweihnachtliche Klausuren-Ernte & Punktestand — Erste Notenpunkte sichern – Das 1. Halbjahr erfolgreich abschließen.",
+      "fragen": [],
+      "hinweis": "Wir klären Unklarheiten vorab und gehen entspannt in die Pause.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie starten wir ohne Notenanalyse ins neue Kurshalbjahr?",
+      "anleitung": "Woche 11: Neustart im Winterhalbjahr & Notenpunkte-Optimierung — Strategische Nachjustierung – Defizite abwenden.",
+      "fragen": [],
+      "hinweis": "Wir analysieren alle Rückgaben des 1. Halbjahres und setzen konkrete Notenziele.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie lassen wir ungewollte Defizite (unter 05 Punkte) anhäufen?",
+      "anleitung": "Woche 11: Neustart im Winterhalbjahr & Notenpunkte-Optimierung — Strategische Nachjustierung – Defizite abwenden.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Zu viele Defizite gefährden die Zulassung zum Abitur – sofort gegensteuern!",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie vernachlässigen wir die Klausurkorrekturen und wiederholen alte Fehler?",
+      "anleitung": "Woche 11: Neustart im Winterhalbjahr & Notenpunkte-Optimierung — Strategische Nachjustierung – Defizite abwenden.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten jede Klausur gründlich nach und führen ein Fehler-Logbuch.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie verpassen wir den Einstieg in neue Oberstufen-Themen durch Unkonzentriertheit?",
+      "anleitung": "Woche 11: Neustart im Winterhalbjahr & Notenpunkte-Optimierung — Strategische Nachjustierung – Defizite abwenden.",
+      "fragen": [],
+      "hinweis": "Wir schreiben in der ersten Woche nach den Ferien lückenlos mit.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie lassen wir Lücken aus dem Vorjahr in Mathe/Sprachen offen liegen?",
+      "anleitung": "Woche 11: Neustart im Winterhalbjahr & Notenpunkte-Optimierung — Strategische Nachjustierung – Defizite abwenden.",
+      "fragen": [],
+      "hinweis": "Wir schließen Lücken gezielt durch Fachliteratur oder Nachhilfe-Tandems.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie schreiben wir die Facharbeit in einer einzigen durchgemachten Nacht?",
+      "anleitung": "Woche 12: Die Abitur-Facharbeit (Schreibphase & Korrektur) — Der Endspurt der Facharbeit – Von der Rohfassung zum Meisterwerk.",
+      "fragen": [],
+      "hinweis": "Wir gliedern den Schreibprozess in Rohfassung, Überarbeitung und Korrektorat.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie formatieren wir das Dokument nicht nach den wissenschaftlichen Layout-Vorgaben?",
+      "anleitung": "Woche 12: Die Abitur-Facharbeit (Schreibphase & Korrektur) — Der Endspurt der Facharbeit – Von der Rohfassung zum Meisterwerk.",
+      "fragen": [],
+      "hinweis": "Wir beachten Schriftgröße, Ränder, Zeilenabstand und Seitenzahlen strengstens.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie vergessen wir die Eidesstattliche Erklärung am Ende der Arbeit?",
+      "anleitung": "Woche 12: Die Abitur-Facharbeit (Schreibphase & Korrektur) — Der Endspurt der Facharbeit – Von der Rohfassung zum Meisterwerk.",
+      "fragen": [],
+      "hinweis": "Wir fügen die unterschriebene Erklärung über die selbstständige Anfertigung bei.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie lassen wir Facharbeiten ohne fremdes Lektorat drucken?",
+      "anleitung": "Woche 12: Die Abitur-Facharbeit (Schreibphase & Korrektur) — Der Endspurt der Facharbeit – Von der Rohfassung zum Meisterwerk.",
+      "fragen": [],
+      "hinweis": "Wir lassen die Arbeit von zwei unabhängigen Personen auf Grammatik und Stil prüfen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie verpassen wir den Abgabe-Termin um 10 Minuten und kassieren 00 Punkte?",
+      "anleitung": "Woche 12: Die Abitur-Facharbeit (Schreibphase & Korrektur) — Der Endspurt der Facharbeit – Von der Rohfassung zum Meisterwerk.",
+      "fragen": [],
+      "hinweis": "Wir geben die Facharbeit mindestens einen Tag vor der Frist gedruckt/digital ab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie unterschätzen wir die zeitliche und mentale Härte von Vor-Abiturklausuren?",
+      "anleitung": "Woche 13: Vor-Abitur (Probeklausuren unter Originalbedingungen) — Generalprobe für das Abitur – Belastungstest bestehen.",
+      "fragen": [],
+      "hinweis": "Wir simulieren die volle Bearbeitungszeit (bis zu 300 Minuten) diszipliniert.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie geraten wir nach 3 Stunden Schreibzeit in Konzentrationslöcher?",
+      "anleitung": "Woche 13: Vor-Abitur (Probeklausuren unter Originalbedingungen) — Generalprobe für das Abitur – Belastungstest bestehen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen geplante Kurzpausen, Stretching und Nährstoffzufuhr im Raum.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie lesen wir bei Wahlaufgaben die Texte nur oberflächlich durch?",
+      "anleitung": "Woche 13: Vor-Abitur (Probeklausuren unter Originalbedingungen) — Generalprobe für das Abitur – Belastungstest bestehen.",
+      "fragen": [],
+      "hinweis": "Wir investieren ausreichend Zeit in die Textauswahl zur Vermeidung von Fehlentscheidungen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie schreiben wir unstrukturiert ohne gliedernde Absätze auf die Blätter?",
+      "anleitung": "Woche 13: Vor-Abitur (Probeklausuren unter Originalbedingungen) — Generalprobe für das Abitur – Belastungstest bestehen.",
+      "fragen": [],
+      "hinweis": "Wir nummerieren alle Bögen sauber und nutzen breite Ränder für Korrekturen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie verfallen wir nach dem Vor-Abitur in ein tiefes Loch?",
+      "anleitung": "Woche 13: Vor-Abitur (Probeklausuren unter Originalbedingungen) — Generalprobe für das Abitur – Belastungstest bestehen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Ergebnisse als ehrliche Standortbestimmung für die Abitur-Vorbereitung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie scheitern wir in Analysis/Vektorrechnung an fehlendem Grundverständnis?",
+      "anleitung": "Woche 14: Das 15-Punkte-Coaching in Mathematik / Naturwissenschaften — Abstrakte Konzepte durchdringen – Höchstpunkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir leiten mathematische Sätze und geometrische Zusammenhänge visuell ab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie verpassen wir Notenpunkte durch unvollständige mathematische Dokumentation?",
+      "anleitung": "Woche 14: Das 15-Punkte-Coaching in Mathematik / Naturwissenschaften — Abstrakte Konzepte durchdringen – Höchstpunkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir schreiben Ansatz, Zwischenschritte, Einheiten und Antwortsatz lückenlos auf.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie geraten wir bei physikalischen/chemischen Herleitungen in Verwirrung?",
+      "anleitung": "Woche 14: Das 15-Punkte-Coaching in Mathematik / Naturwissenschaften — Abstrakte Konzepte durchdringen – Höchstpunkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Formeln dimensionstheoretisch auf Korrektheit der Einheiten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie nutzen wir den Operatsions-Taschenrechner (GTR/CAS) ohne ihn zu beherrschen?",
+      "anleitung": "Woche 14: Das 15-Punkte-Coaching in Mathematik / Naturwissenschaften — Abstrakte Konzepte durchdringen – Höchstpunkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir trainieren Sonderfunktionen und Grafik-Optionen des CAS-Rechners perfekt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie geben wir bei mathematischen Beweisaufgaben sofort auf?",
+      "anleitung": "Woche 14: Das 15-Punkte-Coaching in Mathematik / Naturwissenschaften — Abstrakte Konzepte durchdringen – Höchstpunkte sichern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen logische Beweisstrukturen und Induktions-Methoden.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie bleiben wir in SOWI/Geschichte in reinen Sachurteilen hängen?",
+      "anleitung": "Woche 15: Das 15-Punkte-Coaching in Gesellschaftswissenschaften (Geschichte/SOWI/Geo) — Multiperspektivität & Urteilskompetenz auf universitärem Niveau.",
+      "fragen": [],
+      "hinweis": "Wir trennen Sachurteil (Effizienz) streng vom Werturteil (Legitimität/Ethik).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie ignorieren wir historische/politische Standortgebundenheit von Quellen?",
+      "anleitung": "Woche 15: Das 15-Punkte-Coaching in Gesellschaftswissenschaften (Geschichte/SOWI/Geo) — Multiperspektivität & Urteilskompetenz auf universitärem Niveau.",
+      "fragen": [],
+      "hinweis": "Wir dekonstruieren Ideologien, Autoreninteressen und Adressaten im historischen Kontext.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie formulieren wir oberflächliche Stellungnahmen ohne Fachbegriffe?",
+      "anleitung": "Woche 15: Das 15-Punkte-Coaching in Gesellschaftswissenschaften (Geschichte/SOWI/Geo) — Multiperspektivität & Urteilskompetenz auf universitärem Niveau.",
+      "fragen": [],
+      "hinweis": "Wir nutzen politikwissenschaftliche/historische Modelle und Kategorien.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie verfehlen wir die Note 1 (13–15 Punkte) durch fehlende Synthese?",
+      "anleitung": "Woche 15: Das 15-Punkte-Coaching in Gesellschaftswissenschaften (Geschichte/SOWI/Geo) — Multiperspektivität & Urteilskompetenz auf universitärem Niveau.",
+      "fragen": [],
+      "hinweis": "Wir wiegen unterschiedliche Positionen gegeneinander ab und kommen zu einem abgewogenen Urteil.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie vernachlässigen wir aktuelle Weltgeschehnisse in Klausuren?",
+      "anleitung": "Woche 15: Das 15-Punkte-Coaching in Gesellschaftswissenschaften (Geschichte/SOWI/Geo) — Multiperspektivität & Urteilskompetenz auf universitärem Niveau.",
+      "fragen": [],
+      "hinweis": "Wir verknüpfen Theorien mit aktuellen Beispielen aus Politik und Wirtschaft.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie nutzen wir in Englisch/Deutsch umgangssprachliche Floskeln?",
+      "anleitung": "Woche 16: Das 15-Punkte-Coaching in Sprachen (Deutsch/Englisch/Fremdsprachen) — Stilistische Eleganz, Textimmanenz & Diskursfähigkeit.",
+      "fragen": [],
+      "hinweis": "Wir verwenden gehobenen akademischen Wortschatz und präzise Fachterminologie.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie analysieren wir literarische Texte ohne Berücksichtigung der Epoche?",
+      "anleitung": "Woche 16: Das 15-Punkte-Coaching in Sprachen (Deutsch/Englisch/Fremdsprachen) — Stilistische Eleganz, Textimmanenz & Diskursfähigkeit.",
+      "fragen": [],
+      "hinweis": "Wir betrachten Werke im Kontext ihrer Geistes- und Literaturgeschichte.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie schreiben wir in Sprachklausuren unvollständige Einleitungen?",
+      "anleitung": "Woche 16: Das 15-Punkte-Coaching in Sprachen (Deutsch/Englisch/Fremdsprachen) — Stilistische Eleganz, Textimmanenz & Diskursfähigkeit.",
+      "fragen": [],
+      "hinweis": "Wir formulieren präzise Deutungshypothesen im Einleitungsteil.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie ignorieren wir narrative oder dramaturgische Mittel in Analysen?",
+      "anleitung": "Woche 16: Das 15-Punkte-Coaching in Sprachen (Deutsch/Englisch/Fremdsprachen) — Stilistische Eleganz, Textimmanenz & Diskursfähigkeit.",
+      "fragen": [],
+      "hinweis": "Wir untersuchen Erzählperspektiven, Regieanweisungen und Stilmittel eingehend.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie machen wir Sprachfehler aus reiner Hektik beim Schreiben?",
+      "anleitung": "Woche 16: Das 15-Punkte-Coaching in Sprachen (Deutsch/Englisch/Fremdsprachen) — Stilistische Eleganz, Textimmanenz & Diskursfähigkeit.",
+      "fragen": [],
+      "hinweis": "Wir korrigieren Rechtschreibung, Zeichensetzung und Satzbau systematisch.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie kennen wir unseren aktuellen Notendurchschnitt im Abitur nicht?",
+      "anleitung": "Woche 17: Halbjahrsauswertung & NC-Kalkulation — Punkte-Check – Wo stehst du im Abitur-Gesamtklassement?",
+      "fragen": [],
+      "hinweis": "Wir berechnen die Punkte im Block I (Qualifikationsphase) lückenlos.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie lassen wir Kurse mit niedrigen Punktzahlen ungünstig einbringen?",
+      "anleitung": "Woche 17: Halbjahrsauswertung & NC-Kalkulation — Punkte-Check – Wo stehst du im Abitur-Gesamtklassement?",
+      "fragen": [],
+      "hinweis": "Wir nutzen Einbringungs-Rechner zur optimalen Notenpunkte-Kombination.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie riskieren wir durch Versäumnisse die Abiturzulassung?",
+      "anleitung": "Woche 17: Halbjahrsauswertung & NC-Kalkulation — Punkte-Check – Wo stehst du im Abitur-Gesamtklassement?",
+      "fragen": [],
+      "hinweis": "Wir prüfen Belegungsbedingungen und Pflichtkurse laut Schulordnung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie verfallen wir wegen eines verpatzten Kurses in Verzweiflung?",
+      "anleitung": "Woche 17: Halbjahrsauswertung & NC-Kalkulation — Punkte-Check – Wo stehst du im Abitur-Gesamtklassement?",
+      "fragen": [],
+      "hinweis": "Wir kompensieren schwache Kurse durch stärkere Leistungen in anderen Fächern.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie verpassen wir Beratungsgespräche mit der Oberstufenkoordination?",
+      "anleitung": "Woche 17: Halbjahrsauswertung & NC-Kalkulation — Punkte-Check – Wo stehst du im Abitur-Gesamtklassement?",
+      "fragen": [],
+      "hinweis": "Wir klären offene Fragen zur Einbringung direkt mit dem Oberstufenberater.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie behaupten wir unwissend 'Stipendien sind nur für 1,0-Abiturienten'?",
+      "anleitung": "Woche 18: Finanzen fürs Studium (BAföG, Stipendien & Nebenjobs) — Finanzielle Unabhängigkeit – BAföG, Kredite & Stipendien verstehen.",
+      "fragen": [],
+      "hinweis": "Wir recherchieren über 2.000 Stipendienwerke (auch für soziales Engagement/Talente).",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie stellen wir den BAföG-Antrag erst im Oktober nach Studienbeginn?",
+      "anleitung": "Woche 18: Finanzen fürs Studium (BAföG, Stipendien & Nebenjobs) — Finanzielle Unabhängigkeit – BAföG, Kredite & Stipendien verstehen.",
+      "fragen": [],
+      "hinweis": "Wir stellen den BAföG-Antrag direkt nach Erhalt des Abiturzeugnisses für pünktliche Zahlung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie unterschätzen wir Semesterbeiträge, Lebenshaltungskosten und Mieten am Studienort?",
+      "anleitung": "Woche 18: Finanzen fürs Studium (BAföG, Stipendien & Nebenjobs) — Finanzielle Unabhängigkeit – BAföG, Kredite & Stipendien verstehen.",
+      "fragen": [],
+      "hinweis": "Wir kalkulieren Monatsbudgets für Zielstädte im Voraus.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie unterschreiben wir Studienkredite mit hohen Zinsen ungeprüft?",
+      "anleitung": "Woche 18: Finanzen fürs Studium (BAföG, Stipendien & Nebenjobs) — Finanzielle Unabhängigkeit – BAföG, Kredite & Stipendien verstehen.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen staatliche BAföG-Förderung mit zinsgünstigen KfW-Angeboten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie haben wir keine Ahnung von Werkstudenten-Privilegien?",
+      "anleitung": "Woche 18: Finanzen fürs Studium (BAföG, Stipendien & Nebenjobs) — Finanzielle Unabhängigkeit – BAföG, Kredite & Stipendien verstehen.",
+      "fragen": [],
+      "hinweis": "Wir informieren uns über steuerfreie Werkstudenten-Jobs während des Studiums.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie lernen wir durch die gesamten Winterferien durch ohne Pause?",
+      "anleitung": "Woche 19: Winterpause & Mentale Regeneration — Durchatmen – Kraft tanken für das finale Abitur-Halbjahr.",
+      "fragen": [],
+      "hinweis": "Wir sichern echte Erholungstage zum mentalen Durchatmen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie lassen wir den Arbeitsplatz vor der heißen Phase im Chaos liegen?",
+      "anleitung": "Woche 19: Winterpause & Mentale Regeneration — Durchatmen – Kraft tanken für das finale Abitur-Halbjahr.",
+      "fragen": [],
+      "hinweis": "Wir ordnen alle Kursmaterialien in übersichtliche Abitur-Ordner.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie bringen wir unseren Schlafrhythmus komplett durcheinander?",
+      "anleitung": "Woche 19: Winterpause & Mentale Regeneration — Durchatmen – Kraft tanken für das finale Abitur-Halbjahr.",
+      "fragen": [],
+      "hinweis": "Wir halten den Schlafrhythmus stabil für die letzte Etappe.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie verdrängen wir den bevorstehenden Abitur-Endspurt völlig?",
+      "anleitung": "Woche 19: Winterpause & Mentale Regeneration — Durchatmen – Kraft tanken für das finale Abitur-Halbjahr.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen Lern-Planer für die verbleibenden Wochen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie starten wir unvorbereitet in das finale Abitur-Halbjahr?",
+      "anleitung": "Woche 19: Winterpause & Mentale Regeneration — Durchatmen – Kraft tanken für das finale Abitur-Halbjahr.",
+      "fragen": [],
+      "hinweis": "Wir starten mit frischer Energie und fokussiertem Mindset.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie fangen wir 2 Wochen vor den Abiturprüfungen ungeplant an zu lernen?",
+      "anleitung": "Woche 20: Der Abitur-Lernplan (100 Tage bis zum Abitur) — Strategische Vorbereitung – Der Master-Lernplan fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen 100-Tage-Master-Lernplan mit festen Fächer-Tagen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie lernen wir nur Zusammenfassungen von Mitschülern ohne die Originaltexte zu kennen?",
+      "anleitung": "Woche 20: Der Abitur-Lernplan (100 Tage bis zum Abitur) — Strategische Vorbereitung – Der Master-Lernplan fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir erarbeiten eigene Mindmaps und Karteikarten aus den Unterrichtsunterlagen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie lernen wir Stoff aus 2 Jahren rein passiv durch Lesen?",
+      "anleitung": "Woche 20: Der Abitur-Lernplan (100 Tage bis zum Abitur) — Strategische Vorbereitung – Der Master-Lernplan fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir nutzen aktives Abfragen, Karteikarten und das Lösen von Abituraufgaben.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie vergessen wir Pausenzeiten im Lernplan und erleiden Erschöpfung?",
+      "anleitung": "Woche 20: Der Abitur-Lernplan (100 Tage bis zum Abitur) — Strategische Vorbereitung – Der Master-Lernplan fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir planen feste Erholungstage und Sportstunden verbindlich ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie geraten wir beim Blick auf den riesigen Stoffberg in Panik?",
+      "anleitung": "Woche 20: Der Abitur-Lernplan (100 Tage bis zum Abitur) — Strategische Vorbereitung – Der Master-Lernplan fürs Abitur.",
+      "fragen": [],
+      "hinweis": "Wir zerlegen den Abiturstoff in tägliche kleine Portionen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie rechnen wir Abituraufgaben nur mit Lösungsschlüssel daneben durch?",
+      "anleitung": "Woche 21: Altabitur-Klausuren durcharbeiten (Real-Test) — Original-Prüfungen lösen – Punkte unter Echtzeitbedingungen sichern.",
+      "fragen": [],
+      "hinweis": "Wir lösen Original-Abiturklausuren ohne Hilfsmittel unter echter Zeitnahme.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie ignorieren wir Erwartungshorizonte der Abiturkorrektoren?",
+      "anleitung": "Woche 21: Altabitur-Klausuren durcharbeiten (Real-Test) — Original-Prüfungen lösen – Punkte unter Echtzeitbedingungen sichern.",
+      "fragen": [],
+      "hinweis": "Wir studieren offizielle Erwartungshorizonte zur Korrektur-Logik.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie geben wir bei kniffligen Transferaufgaben im Abitur sofort auf?",
+      "anleitung": "Woche 21: Altabitur-Klausuren durcharbeiten (Real-Test) — Original-Prüfungen lösen – Punkte unter Echtzeitbedingungen sichern.",
+      "fragen": [],
+      "hinweis": "Wir trainieren Lösungsstrategien für unvertraute Materialtypen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie verpassen wir Punkte durch unleserliche Handschrift oder Schlampigkeit?",
+      "anleitung": "Woche 21: Altabitur-Klausuren durcharbeiten (Real-Test) — Original-Prüfungen lösen – Punkte unter Echtzeitbedingungen sichern.",
+      "fragen": [],
+      "hinweis": "Wir achten auf ein sauberes Schriftbild und übersichtliche Gliederung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie vergleichen wir unsere Probepunkte nicht mit den Zielpunkten?",
+      "anleitung": "Woche 21: Altabitur-Klausuren durcharbeiten (Real-Test) — Original-Prüfungen lösen – Punkte unter Echtzeitbedingungen sichern.",
+      "fragen": [],
+      "hinweis": "Wir analysieren Schwachstellen und arbeiten gezielt nach.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie unterschätzen wir die mündliche Abiturprüfung im Vergleich zu schriftlichen Tests?",
+      "anleitung": "Woche 22: Mündliches Abitur (4./5. Prüfungsfach – Das Kolloquium) — Präsentieren vor der Prüfungskommission – Souverän auftreten.",
+      "fragen": [],
+      "hinweis": "Wir trainieren den 30-minütigen Ablauf: Vorbereitung, Vortrag & Prüfungsgespräch.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie leiern wir die Präsentation bei der mündlichen Prüfung monoton herunter?",
+      "anleitung": "Woche 22: Mündliches Abitur (4./5. Prüfungsfach – Das Kolloquium) — Präsentieren vor der Prüfungskommission – Souverän auftreten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen lebendige Rhetorik, Blickkontakt und klare Strukturierung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie geraten wir bei spontanen Vertiefungsfragen der Prüfer in Panik?",
+      "anleitung": "Woche 22: Mündliches Abitur (4./5. Prüfungsfach – Das Kolloquium) — Präsentieren vor der Prüfungskommission – Souverän auftreten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Bedenkzeit: 'Das ist ein wichtiger Aspekt. Aus Perspektive X...'",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie überschreiten wir die Vorbereitungszeit im Vorbereitungsraum?",
+      "anleitung": "Woche 22: Mündliches Abitur (4./5. Prüfungsfach – Das Kolloquium) — Präsentieren vor der Prüfungskommission – Souverän auftreten.",
+      "fragen": [],
+      "hinweis": "Wir strukturieren unsere Notizen auf dem Vorbereitungsblatt in den 30 Minuten exakt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie erscheinen wir in Alltagskleidung zur mündlichen Abiturprüfung?",
+      "anleitung": "Woche 22: Mündliches Abitur (4./5. Prüfungsfach – Das Kolloquium) — Präsentieren vor der Prüfungskommission – Souverän auftreten.",
+      "fragen": [],
+      "hinweis": "Wir wählen angemessene Kleidung für einen professionellen Auftritt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie lesen wir bei der Facharbeits-Präsentation nur von den Folien ab?",
+      "anleitung": "Woche 23: Facharbeit-Präsentation & Disputation — Forschungsergebnisse verteidigen – Wissenschaftlicher Diskurs.",
+      "fragen": [],
+      "hinweis": "Wir halten den Vortrag frei mit Stichwortkarten.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie überladen wir Folien mit unleserlichen Textmengen?",
+      "anleitung": "Woche 23: Facharbeit-Präsentation & Disputation — Forschungsergebnisse verteidigen – Wissenschaftlicher Diskurs.",
+      "fragen": [],
+      "hinweis": "Wir nutzen visualisierende Grafiken, Diagramme und Zitate.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie können wir eigene Forschungsergebnisse in der Disputation nicht begründen?",
+      "anleitung": "Woche 23: Facharbeit-Präsentation & Disputation — Forschungsergebnisse verteidigen – Wissenschaftlicher Diskurs.",
+      "fragen": [],
+      "hinweis": "Wir kennen die Methodik und Grenzen unserer eigenen Arbeit genau.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie reagieren wir defensiv auf fachliche Kritik der Prüfer?",
+      "anleitung": "Woche 23: Facharbeit-Präsentation & Disputation — Forschungsergebnisse verteidigen – Wissenschaftlicher Diskurs.",
+      "fragen": [],
+      "hinweis": "Wir nehmen Kritik konstruktiv auf und diskutieren sachlich.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie überziehen wir die vorgegebene Präsentationszeit?",
+      "anleitung": "Woche 23: Facharbeit-Präsentation & Disputation — Forschungsergebnisse verteidigen – Wissenschaftlicher Diskurs.",
+      "fragen": [],
+      "hinweis": "Wir stoppen die Zeit beim Üben exakt ab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie suchen wir erst im Oktober 2 Wochen vor Semesterbeginn eine Wohnung?",
+      "anleitung": "Woche 24: Wohnungssuche, WG-Knigge & Leben am Studienort — Erste eigene Bude – WG-Suche & Selbstorganisation.",
+      "fragen": [],
+      "hinweis": "Wir starten die WG- und Wohnungssuche im Frühjahr vor dem Ansturm.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie gehen wir völlig unvorbereitet in WG-Castings?",
+      "anleitung": "Woche 24: Wohnungssuche, WG-Knigge & Leben am Studienort — Erste eigene Bude – WG-Suche & Selbstorganisation.",
+      "fragen": [],
+      "hinweis": "Wir präsentieren uns authentisch, zuverlässig und sympathisch.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie unterschätzen wir Kautionen, Maklergebühren und Möbelanschaffung?",
+      "anleitung": "Woche 24: Wohnungssuche, WG-Knigge & Leben am Studienort — Erste eigene Bude – WG-Suche & Selbstorganisation.",
+      "fragen": [],
+      "hinweis": "Wir bilden einen Notgroschen für den Erstbezug.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie haben wir keine Ahnung von Haushaltsführung, Waschen und Kochen?",
+      "anleitung": "Woche 24: Wohnungssuche, WG-Knigge & Leben am Studienort — Erste eigene Bude – WG-Suche & Selbstorganisation.",
+      "fragen": [],
+      "hinweis": "Wir lernen Grundlagen des Haushalts vor dem Auszug.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie unterschreiben wir Mietverträge ohne Überprüfung durch Eltern/Anwalt?",
+      "anleitung": "Woche 24: Wohnungssuche, WG-Knigge & Leben am Studienort — Erste eigene Bude – WG-Suche & Selbstorganisation.",
+      "fragen": [],
+      "hinweis": "Wir lassen Mietverträge auf unzulässige Klauseln prüfen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie ernähren wir uns vor den Abiturklausuren nur von Fast Food?",
+      "anleitung": "Woche 25: Ernährungs- & Schlaf-Optimierung für die Abiturphase — Peak Performance – Körperliche Voraussetzungen für Bestnoten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen ausgewogene Ernährung für konstante Blutzuckerspiegel.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie trinken wir vor Klausuren zu wenig und leiden unter Konzentrationsabfall?",
+      "anleitung": "Woche 25: Ernährungs- & Schlaf-Optimierung für die Abiturphase — Peak Performance – Körperliche Voraussetzungen für Bestnoten.",
+      "fragen": [],
+      "hinweis": "Wir trinken ausreichend Wasser für optimale Hirndurchblutung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie zerstören wir unseren Schlaf durch Blaulicht vor dem Zubettgehen?",
+      "anleitung": "Woche 25: Ernährungs- & Schlaf-Optimierung für die Abiturphase — Peak Performance – Körperliche Voraussetzungen für Bestnoten.",
+      "fragen": [],
+      "hinweis": "Wir schalten Bildschirme 1 Stunde vor dem Schlafen aus.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie nutzen wir Beruhigungsmittel oder Aufputschmittel vor Prüfungen?",
+      "anleitung": "Woche 25: Ernährungs- & Schlaf-Optimierung für die Abiturphase — Peak Performance – Körperliche Voraussetzungen für Bestnoten.",
+      "fragen": [],
+      "hinweis": "Wir vertrauen auf natürliche Regulation durch Bewegung und Entspannung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie vernachlässigen wir Frischluft und Tageslicht beim Lernen?",
+      "anleitung": "Woche 25: Ernährungs- & Schlaf-Optimierung für die Abiturphase — Peak Performance – Körperliche Voraussetzungen für Bestnoten.",
+      "fragen": [],
+      "hinweis": "Wir bauen tägliche Spaziergänge an der frischen Luft ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie unterschätzen wir den Vorbereitungsaufwand für die Besondere Lernleistung?",
+      "anleitung": "Woche 26: Das 5. Abiturfach (Besondere Lernleistung / Präsentationsprüfung) — Spezialdisziplin meistern – Höchstpunkte durch Eigenleistung.",
+      "fragen": [],
+      "hinweis": "Wir planen die Ausarbeitung wie eine kleine Bachelorarbeit.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie vernachlässigen wir die Abstimmung mit dem betreuenden Fachlehrer?",
+      "anleitung": "Woche 26: Das 5. Abiturfach (Besondere Lernleistung / Präsentationsprüfung) — Spezialdisziplin meistern – Höchstpunkte durch Eigenleistung.",
+      "fragen": [],
+      "hinweis": "Wir führen regelmäßige Konsultationen zur Absicherung des Fortgangs.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie scheitern wir am Kolloquium durch mangelnde Theoriefundierung?",
+      "anleitung": "Woche 26: Das 5. Abiturfach (Besondere Lernleistung / Präsentationsprüfung) — Spezialdisziplin meistern – Höchstpunkte durch Eigenleistung.",
+      "fragen": [],
+      "hinweis": "Wir beherrschen die theoretischen Grundlagen unseres Thema perfekt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie nutzen wir ungesicherte Medien oder Software bei der Präsentation?",
+      "anleitung": "Woche 26: Das 5. Abiturfach (Besondere Lernleistung / Präsentationsprüfung) — Spezialdisziplin meistern – Höchstpunkte durch Eigenleistung.",
+      "fragen": [],
+      "hinweis": "Wir testen Technik und Medien auf den Schulgeräten vorab.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie geben wir schriftliche Ausarbeitungen unvollständig ab?",
+      "anleitung": "Woche 26: Das 5. Abiturfach (Besondere Lernleistung / Präsentationsprüfung) — Spezialdisziplin meistern – Höchstpunkte durch Eigenleistung.",
+      "fragen": [],
+      "hinweis": "Wir prüfen alle Anlagen, Verzeichnisse und Erklärungen gründlich.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie scheitern wir am Online-Portal von Hochschulstart durch Bedienfehler?",
+      "anleitung": "Woche 27: Hochschulstart & NC-Bewerbungsverfahren (Masterclass) — Bewerbungsportal beherrschen – Deinen Studienplatz sichern.",
+      "fragen": [],
+      "hinweis": "Wir legen einen Account an und studieren das Priorisierungsverfahren.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie verpassen wir Fristen für zulassungsbeschränkte Studiengänge?",
+      "anleitung": "Woche 27: Hochschulstart & NC-Bewerbungsverfahren (Masterclass) — Bewerbungsportal beherrschen – Deinen Studienplatz sichern.",
+      "fragen": [],
+      "hinweis": "Wir halten die Ausschlussfrist 15. Juli strikt ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie nutzen wir nicht das Koordinierungsverfahren zur Wunschsitz-Optimierung?",
+      "anleitung": "Woche 27: Hochschulstart & NC-Bewerbungsverfahren (Masterclass) — Bewerbungsportal beherrschen – Deinen Studienplatz sichern.",
+      "fragen": [],
+      "hinweis": "Wir pflegen Prioritätenlisten im Portal aktiv.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie vergessen wir Sonderanträge (Härtefall, Nachteilsausgleich)?",
+      "anleitung": "Woche 27: Hochschulstart & NC-Bewerbungsverfahren (Masterclass) — Bewerbungsportal beherrschen – Deinen Studienplatz sichern.",
+      "fragen": [],
+      "hinweis": "Wir reichen erforderliche Gutachten fristgerecht ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie haben wir keinen Plan B bei eventuellen Ablehnungen?",
+      "anleitung": "Woche 27: Hochschulstart & NC-Bewerbungsverfahren (Masterclass) — Bewerbungsportal beherrschen – Deinen Studienplatz sichern.",
+      "fragen": [],
+      "hinweis": "Wir sichern Alternativen an anderen Hochschulen oder Fachbereichen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie gelerntes Wissen nur auswendig lernen ohne ethische Reflexion?",
+      "anleitung": "Woche 28: Ethik, Philosophie & Universelle Werte im Abitur — Reflektiertes Weltbild – Über den Tellerrand des Lehrplans schauen.",
+      "fragen": [],
+      "hinweis": "Wir hinterfragen wissenschaftliche Erkenntnisse auf gesellschaftliche Folgen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie ignorieren wir philosophische Grundpositionen in Debatten?",
+      "anleitung": "Woche 28: Ethik, Philosophie & Universelle Werte im Abitur — Reflektiertes Weltbild – Über den Tellerrand des Lehrplans schauen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen klassische und moderne Ethikmodelle zur Argumentation.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie verharren wir in einseitigen Denkweisen?",
+      "anleitung": "Woche 28: Ethik, Philosophie & Universelle Werte im Abitur — Reflektiertes Weltbild – Über den Tellerrand des Lehrplans schauen.",
+      "fragen": [],
+      "hinweis": "Wir betrachten Themen aus verschiedenen Perspektiven.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie fehlen uns Argumente in gesellschaftspolitischen Fragen?",
+      "anleitung": "Woche 28: Ethik, Philosophie & Universelle Werte im Abitur — Reflektiertes Weltbild – Über den Tellerrand des Lehrplans schauen.",
+      "fragen": [],
+      "hinweis": "Wir begründen Standpunkte fundiert und differenziert.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie verwechseln wir Wissen mit Haltung?",
+      "anleitung": "Woche 28: Ethik, Philosophie & Universelle Werte im Abitur — Reflektiertes Weltbild – Über den Tellerrand des Lehrplans schauen.",
+      "fragen": [],
+      "hinweis": "Wir entwickeln ein eigenes, begründetes Weltbild.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie verzetteln wir uns in Jahrgangs-Streitigkeiten über das Abimotto?",
+      "anleitung": "Woche 29: Vorbereitung Abitur-Motto, Abizeitung & Abiball — Unvergesslicher Abschluss – Organisation im Abiturjahrgang.",
+      "fragen": [],
+      "hinweis": "Wir stimmen demokratisch ab und ziehen an einem Strang.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie riskieren wir Finanzlücken beim Abiball durch schlechte Kalkulation?",
+      "anleitung": "Woche 29: Vorbereitung Abitur-Motto, Abizeitung & Abiball — Unvergesslicher Abschluss – Organisation im Abiturjahrgang.",
+      "fragen": [],
+      "hinweis": "Wir führen Buch über Einnahmen, Kartenverkäufe und Ausgaben.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie schreiben wir verletzende Beiträge in der Abizeitung?",
+      "anleitung": "Woche 29: Vorbereitung Abitur-Motto, Abizeitung & Abiball — Unvergesslicher Abschluss – Organisation im Abiturjahrgang.",
+      "fragen": [],
+      "hinweis": "Wir achten auf Humor mit Würde und Respekt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie vernachlässigen wir das Lernen wegen Abiball-Organisation?",
+      "anleitung": "Woche 29: Vorbereitung Abitur-Motto, Abizeitung & Abiball — Unvergesslicher Abschluss – Organisation im Abiturjahrgang.",
+      "fragen": [],
+      "hinweis": "Wir verteilen Aufgaben auf Komitees.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie sichern wir die Verträge für die Abiball-Location ab?",
+      "anleitung": "Woche 29: Vorbereitung Abitur-Motto, Abizeitung & Abiball — Unvergesslicher Abschluss – Organisation im Abiturjahrgang.",
+      "fragen": [],
+      "hinweis": "Wir lassen Verträge von Eltern/Lehrern vor der Unterschrift prüfen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie kommen wir am Prüfungstag gehetzt an?",
+      "anleitung": "Woche 30: Die schriftlichen Abiturprüfungen (Abitur-Showdown) — Der Tag der Entscheidung – Ruhe, Fokus & Höchstleistung.",
+      "fragen": [],
+      "hinweis": "Wir sind 30 Minuten vor Beginn vor Ort, ruhig und fokussiert.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie verfallen wir bei der Aufgabenwahl in Hektik?",
+      "anleitung": "Woche 30: Die schriftlichen Abiturprüfungen (Abitur-Showdown) — Der Tag der Entscheidung – Ruhe, Fokus & Höchstleistung.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Einlesezeit gründlich zur Auswahl.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie verheddern wir uns in Nebenfragen und verlieren Zeit?",
+      "anleitung": "Woche 30: Die schriftlichen Abiturprüfungen (Abitur-Showdown) — Der Tag der Entscheidung – Ruhe, Fokus & Höchstleistung.",
+      "fragen": [],
+      "hinweis": "Wir behalten Operatoren und Punktzahlen stets im Blick.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie vergessen wir das Durchlesen unserer Arbeit?",
+      "anleitung": "Woche 30: Die schriftlichen Abiturprüfungen (Abitur-Showdown) — Der Tag der Entscheidung – Ruhe, Fokus & Höchstleistung.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die letzten 20 Minuten für systematische Korrektur.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie diskutieren wir nach der Klausur nervös Ergebnisse?",
+      "anleitung": "Woche 30: Die schriftlichen Abiturprüfungen (Abitur-Showdown) — Der Tag der Entscheidung – Ruhe, Fokus & Höchstleistung.",
+      "fragen": [],
+      "hinweis": "Wir haken die Klausur ab und blicken nach vorne.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie nutzen wir die Vorbereitungszeit im Vorbereitungsraum unstrukturiert?",
+      "anleitung": "Woche 31: Die mündlichen Abiturprüfungen & Kolloquien — Souverän vor der Kommission – Mündliches Abitur meistern.",
+      "fragen": [],
+      "hinweis": "Wir gliedern Notizen klar für den Vortrag.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie sprechen wir leise und ohne Blickkontakt im Prüfungsraum?",
+      "anleitung": "Woche 31: Die mündlichen Abiturprüfungen & Kolloquien — Souverän vor der Kommission – Mündliches Abitur meistern.",
+      "fragen": [],
+      "hinweis": "Wir tragen frei, aufrecht und mit deutlicher Stimme vor.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie geraten wir bei Vertiefungsfragen in Schockstarre?",
+      "anleitung": "Woche 31: Die mündlichen Abiturprüfungen & Kolloquien — Souverän vor der Kommission – Mündliches Abitur meistern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Bedenkzeit und antworten strukturiert.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie zeigen wir bei Wissenslücken Arroganz oder Aufgabe?",
+      "anleitung": "Woche 31: Die mündlichen Abiturprüfungen & Kolloquien — Souverän vor der Kommission – Mündliches Abitur meistern.",
+      "fragen": [],
+      "hinweis": "Wir bleiben höflich und steuern auf verwandte Themen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie bedanken wir uns nicht nach dem Prüfungsgespräch?",
+      "anleitung": "Woche 31: Die mündlichen Abiturprüfungen & Kolloquien — Souverän vor der Kommission – Mündliches Abitur meistern.",
+      "fragen": [],
+      "hinweis": "Wir wahren Professionalität bis zum Verlassen des Raums.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie geraten wir bei der Notenbekanntgabe in Panik vor Abweichungsprüfungen?",
+      "anleitung": "Woche 32: Notenbekanntgabe & Abitur-Ergebnis — Das Ergebnis entgegennehmen – Eure Gesamtleistung steht fest.",
+      "fragen": [],
+      "hinweis": "Wir informieren uns sachlich über die Regeln für freiwillige/verpflichtende mündliche Nachprüfungen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie verzichten wir auf eine Nachprüfung, obwohl uns nur 1 Notenpunkt zur besseren Note fehlt?",
+      "anleitung": "Woche 32: Notenbekanntgabe & Abitur-Ergebnis — Das Ergebnis entgegennehmen – Eure Gesamtleistung steht fest.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Nachprüfungen strategisch zur Notenverbesserung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie vergleichen wir unsere Abiturnote neidisch mit anderen?",
+      "anleitung": "Woche 32: Notenbekanntgabe & Abitur-Ergebnis — Das Ergebnis entgegennehmen – Eure Gesamtleistung steht fest.",
+      "fragen": [],
+      "hinweis": "Wir würdigen unseren eigenen Erfolg und Weg.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie verpassen wir Einsichtsfristen in die Abiturklausuren?",
+      "anleitung": "Woche 32: Notenbekanntgabe & Abitur-Ergebnis — Das Ergebnis entgegennehmen – Eure Gesamtleistung steht fest.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Einsichtnahme zur Überprüfung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie feiern wir das bestandene Abitur unbedacht?",
+      "anleitung": "Woche 32: Notenbekanntgabe & Abitur-Ergebnis — Das Ergebnis entgegennehmen – Eure Gesamtleistung steht fest.",
+      "fragen": [],
+      "hinweis": "Wir feiern verantwortungsvoll und genießen den Moment.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie kommen wir unvorbereitet zur Abiball-Generalprobe?",
+      "anleitung": "Woche 33: Der Abiball & Die Entlassfeier — Ein Meilenstein wird gefeiert – Der feierliche Rahmen.",
+      "fragen": [],
+      "hinweis": "Wir halten Absprachen ein und gestalten das Programm mit.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie benehmen wir uns beim festlichen Abiball daneben?",
+      "anleitung": "Woche 33: Der Abiball & Die Entlassfeier — Ein Meilenstein wird gefeiert – Der feierliche Rahmen.",
+      "fragen": [],
+      "hinweis": "Wir genießen den Abend stilvoll mit Familie und Lehrern.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie nehmen wir das Abiturzeugnis auf der Bühne unehrerbietig entgegen?",
+      "anleitung": "Woche 33: Der Abiball & Die Entlassfeier — Ein Meilenstein wird gefeiert – Der feierliche Rahmen.",
+      "fragen": [],
+      "hinweis": "Wir nehmen das Zeugnis stolz und dankbar entgegen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie vergessen wir Fotos mit wichtigen Begleitern?",
+      "anleitung": "Woche 33: Der Abiball & Die Entlassfeier — Ein Meilenstein wird gefeiert – Der feierliche Rahmen.",
+      "fragen": [],
+      "hinweis": "Wir halten den Tag in Erinnerung fest.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie verabschieden wir uns nicht von Jahrgangskameraden?",
+      "anleitung": "Woche 33: Der Abiball & Die Entlassfeier — Ein Meilenstein wird gefeiert – Der feierliche Rahmen.",
+      "fragen": [],
+      "hinweis": "Wir nehmen uns Zeit für persönliche Abschiede.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie verpassen wir Fristen für BAföG-, Kindergeld- oder Krankenkassenanträge?",
+      "anleitung": "Woche 34: BAföG, Visum & Formulare für Auslandsjahr / Studium — Bürokratie meistern – Alle Anträge pünktlich einreichen.",
+      "fragen": [],
+      "hinweis": "Wir reichen alle Unterlagen direkt nach dem Abitur ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie buchen wir Auslandsflüge (Work & Travel/Gap Year) ohne Visum/Versicherung?",
+      "anleitung": "Woche 34: BAföG, Visum & Formulare für Auslandsjahr / Studium — Bürokratie meistern – Alle Anträge pünktlich einreichen.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Einreisebestimmungen und Auslandskrankenversicherungen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie vergessen wir die Beglaubigung von Abiturzeugnis-Kopien?",
+      "anleitung": "Woche 34: BAföG, Visum & Formulare für Auslandsjahr / Studium — Bürokratie meistern – Alle Anträge pünktlich einreichen.",
+      "fragen": [],
+      "hinweis": "Wir lassen mehrere Beglaubigungen beim Bürgeramt/Schule anfertigen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie haben wir keinen Überblick über Sozialversicherungen nach der Schule?",
+      "anleitung": "Woche 34: BAföG, Visum & Formulare für Auslandsjahr / Studium — Bürokratie meistern – Alle Anträge pünktlich einreichen.",
+      "fragen": [],
+      "hinweis": "Wir klären den Familienversicherungs-Status mit den Eltern.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie schieben wir bürokratische Erfordernisse vor uns her?",
+      "anleitung": "Woche 34: BAföG, Visum & Formulare für Auslandsjahr / Studium — Bürokratie meistern – Alle Anträge pünktlich einreichen.",
+      "fragen": [],
+      "hinweis": "Wir erledigen Papierkram direkt und sichern entspannte Sommertage.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie planen wir den Umzug in die neue Studienstadt erst 2 Tage vorher?",
+      "anleitung": "Woche 35: Umzug, Zimmer-Übergabe & Das erste eigene Leben — Auszug aus dem Elternhaus – Erste eigene Schritte.",
+      "fragen": [],
+      "hinweis": "Wir organisieren Transport, Helfer und Kartons frühzeitig.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie vergessen wir die Ummeldung beim Einwohnermeldeamt (Meldefrist 14 Tage)?",
+      "anleitung": "Woche 35: Umzug, Zimmer-Übergabe & Das erste eigene Leben — Auszug aus dem Elternhaus – Erste eigene Schritte.",
+      "fragen": [],
+      "hinweis": "Wir melden den neuen Wohnsitz fristgerecht an.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie hinterlassen wir das Jugendzimmer im Elternhaus im Chaos?",
+      "anleitung": "Woche 35: Umzug, Zimmer-Übergabe & Das erste eigene Leben — Auszug aus dem Elternhaus – Erste eigene Schritte.",
+      "fragen": [],
+      "hinweis": "Wir übergeben das Zimmer aufgeräumt.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie unterschätzen wir Heimweh in den ersten Wochen am neuen Ort?",
+      "anleitung": "Woche 35: Umzug, Zimmer-Übergabe & Das erste eigene Leben — Auszug aus dem Elternhaus – Erste eigene Schritte.",
+      "fragen": [],
+      "hinweis": "Wir halten Kontakt nach Hause und bauen neue Netzwerke auf.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie vernachlässigen wir die Kontaktaufnahme mit neuen Kommilitonen/Kollegen?",
+      "anleitung": "Woche 35: Umzug, Zimmer-Übergabe & Das erste eigene Leben — Auszug aus dem Elternhaus – Erste eigene Schritte.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Orientierungswochen (Ersti-Wochen) zum Kennenlernen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie erwarten wir an der Uni, dass Professoren uns an Fristen erinnern?",
+      "anleitung": "Woche 36: Das Mindset für die Universität / Den Berufseinstieg — Vom Schüler zum Akademiker/Professional – Neues Rollenverständnis.",
+      "fragen": [],
+      "hinweis": "Wir verinnerlichen vollkommene akademische Selbstverantwortung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie erstellen wir keinen Stundenplan in den ersten Semesterwochen?",
+      "anleitung": "Woche 36: Das Mindset für die Universität / Den Berufseinstieg — Vom Schüler zum Akademiker/Professional – Neues Rollenverständnis.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Modulhandbücher und Prüfungsordnungen zur Stundenplanerstellung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie verpassen wir die Orientierungswoche (O-Woche) der Fachschaft?",
+      "anleitung": "Woche 36: Das Mindset für die Universität / Den Berufseinstieg — Vom Schüler zum Akademiker/Professional – Neues Rollenverständnis.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die O-Woche für Vernetzung und Insider-Tipps.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie lassen wir uns von der Anonymität im Hörsaal verunsichern?",
+      "anleitung": "Woche 36: Das Mindset für die Universität / Den Berufseinstieg — Vom Schüler zum Akademiker/Professional – Neues Rollenverständnis.",
+      "fragen": [],
+      "hinweis": "Wir gründen Lerngruppen von Anfang an.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie unterschätzen wir das Selbststudium im Vergleich zur Vorlesung?",
+      "anleitung": "Woche 36: Das Mindset für die Universität / Den Berufseinstieg — Vom Schüler zum Akademiker/Professional – Neues Rollenverständnis.",
+      "fragen": [],
+      "hinweis": "Wir planen für jede Vorlesungsstunde Zeit für Vor- und Nachbereitung ein.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie blicken wir nur mit Groll auf schulische Herausforderungen zurück?",
+      "anleitung": "Woche 37: Der Abschied von der Schulzeit (Retro-Reflexion) — Danke sagen & Kapitel schließen – 12/13 Jahre Schule liegen hinter dir.",
+      "fragen": [],
+      "hinweis": "Wir erkennen, wie sehr uns die Schulzeit geformt und gestärkt hat.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie vergessen wir Danke zu sagen bei Lehrern, Eltern und Freunden?",
+      "anleitung": "Woche 37: Der Abschied von der Schulzeit (Retro-Reflexion) — Danke sagen & Kapitel schließen – 12/13 Jahre Schule liegen hinter dir.",
+      "fragen": [],
+      "hinweis": "Wir drücken unsere Dankbarkeit persönlich aus.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie verfehlen wir es, Freundschaften für die Zukunft zu sichern?",
+      "anleitung": "Woche 37: Der Abschied von der Schulzeit (Retro-Reflexion) — Danke sagen & Kapitel schließen – 12/13 Jahre Schule liegen hinter dir.",
+      "fragen": [],
+      "hinweis": "Wir vereinbaren Treffen und halten Kontakt über die Schulzeit hinaus.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie verharren wir in Wehmut statt Vorfreude zu spüren?",
+      "anleitung": "Woche 37: Der Abschied von der Schulzeit (Retro-Reflexion) — Danke sagen & Kapitel schließen – 12/13 Jahre Schule liegen hinter dir.",
+      "fragen": [],
+      "hinweis": "Wir blicken voller Stolz zurück und voller Vorfreude nach vorne.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie schließen wir die Akte Schule ab?",
+      "anleitung": "Woche 37: Der Abschied von der Schulzeit (Retro-Reflexion) — Danke sagen & Kapitel schließen – 12/13 Jahre Schule liegen hinter dir.",
+      "fragen": [],
+      "hinweis": "Wir lassen das alte Kapitel los und öffnen die Tür für Neues.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie zweifeln wir an unseren Fähigkeiten für die Zukunft?",
+      "anleitung": "Woche 38: Der Start in die Freiheit & Das große Abitur-Diplom — Gelebte Agency – Du bist der Gestalter deiner Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir wissen: Du hast das Abitur gemeistert – Du besitzt alle Werkzeuge zum Erfolg.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie lassen wir zu, dass fremde Erwartungen unser Leben bestimmen?",
+      "anleitung": "Woche 38: Der Start in die Freiheit & Das große Abitur-Diplom — Gelebte Agency – Du bist der Gestalter deiner Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir treffen eigene, selbstbestimmte Entscheidungen für unseren Lebensweg.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie vergessen wir die systemischen Werkzeuge (Reframing, Kopfstand, Skalierung)?",
+      "anleitung": "Woche 38: Der Start in die Freiheit & Das große Abitur-Diplom — Gelebte Agency – Du bist der Gestalter deiner Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir nutzen gelerntes Mindset für alle zukünftigen Lebenskrisen.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie hängen wir das Abiturzeugnis in die Ecke?",
+      "anleitung": "Woche 38: Der Start in die Freiheit & Das große Abitur-Diplom — Gelebte Agency – Du bist der Gestalter deiner Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir bewahren unser Zeugnis stolz auf als Fundament unserer Bildung.",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie starten wir in unser neues Leben?",
+      "anleitung": "Woche 38: Der Start in die Freiheit & Das große Abitur-Diplom — Gelebte Agency – Du bist der Gestalter deiner Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir feiern die Freiheit, das Wissen und die Zukunft – Herzlichen Glückwunsch zum bestandenen Abitur!",
+      "icon": "graduation-cap",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}

@@ -1,0 +1,1720 @@
+{
+  "id": "jk-el",
+  "titel": "Jahreskarten-Set Elternkompass",
+  "untertitel": "Problem-Muster & Systemischer Alltags-Hack (190 Tage, Sie-Format)",
+  "farbe": "#1D9E75",
+  "farbe_hell": "#E5F5EE",
+  "farbe_rand": "#B7E1CD",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie erzeugen Sie am ersten Schultag so viel Hektik, dass alle gestresst starten?",
+      "anleitung": "Woche 1: ANKOMMEN IM NEUEN SCHULJAHR — Wie Sie Ihrem Kind und sich selbst Gelassenheit schenken.",
+      "fragen": [],
+      "hinweis": "Gönnen Sie sich morgens 10 Minuten Zeitpuffer für ein ruhiges gemeinsamen Frühstück.",
+      "icon": "house",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie setzen Sie Ihr Kind mit Notenerwartungen unter Druck?",
+      "anleitung": "Woche 1: ANKOMMEN IM NEUEN SCHULJAHR — Wie Sie Ihrem Kind und sich selbst Gelassenheit schenken.",
+      "fragen": [],
+      "hinweis": "Fokussieren Sie sich auf die Freude am Entdecken statt auf perfekte Leistung.",
+      "icon": "house",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie kritisieren Sie die Vorbereitungen der Schule lautstark vor Ihrem Kind?",
+      "anleitung": "Woche 1: ANKOMMEN IM NEUEN SCHULJAHR — Wie Sie Ihrem Kind und sich selbst Gelassenheit schenken.",
+      "fragen": [],
+      "hinweis": "Begegnen Sie der Schule partnerschaftlich und stärken Sie das Vertrauen Ihres Kindes.",
+      "icon": "house",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie überladen Sie den Nachmittag mit zu vielen Freizeitaktivitäten?",
+      "anleitung": "Woche 1: ANKOMMEN IM NEUEN SCHULJAHR — Wie Sie Ihrem Kind und sich selbst Gelassenheit schenken.",
+      "fragen": [],
+      "hinweis": "Sichern Sie Ihrem Kind nach der Schule unverplante Ruhe- und Spielzeit.",
+      "icon": "house",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie blicken Sie gesorgt auf die kommenden Schulwochen?",
+      "anleitung": "Woche 1: ANKOMMEN IM NEUEN SCHULJAHR — Wie Sie Ihrem Kind und sich selbst Gelassenheit schenken.",
+      "fragen": [],
+      "hinweis": "Würdigen Sie im Familienkreis 3 Dinge, die in dieser Woche gut gelungen sind.",
+      "icon": "house",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie kämpfen Sie täglich 2 Stunden um den Start der Hausaufgaben?",
+      "anleitung": "Woche 2: ORIENTIERUNG & HAUSAUFGABEN OHNE STREIT — Muster durchbrechen und Struktur schaffen.",
+      "fragen": [],
+      "hinweis": "Vereinbaren Sie eine feste, verlässliche Hausaufgaben-Zeit nach einer Erholungspause.",
+      "icon": "house",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie korrigieren Sie jeden Bleistiftstrich Ihres Kindes akribisch?",
+      "anleitung": "Woche 2: ORIENTIERUNG & HAUSAUFGABEN OHNE STREIT — Muster durchbrechen und Struktur schaffen.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Fehler zu – sie zeigen der Lehrkraft, wo Ihr Kind Hilfe braucht.",
+      "icon": "house",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie sitzen Sie kontrollierend direkt neben dem Arbeitsplatz Ihres Kindes?",
+      "anleitung": "Woche 2: ORIENTIERUNG & HAUSAUFGABEN OHNE STREIT — Muster durchbrechen und Struktur schaffen.",
+      "fragen": [],
+      "hinweis": "Bieten Sie Erreichbarkeit an, ermutigen Sie Ihr Kind jedoch zum selbstständigen Arbeiten.",
+      "icon": "house",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie vergleichen Sie Ihr Kind mit den Leistungen der Geschwister?",
+      "anleitung": "Woche 2: ORIENTIERUNG & HAUSAUFGABEN OHNE STREIT — Muster durchbrechen und Struktur schaffen.",
+      "fragen": [],
+      "hinweis": "Jedes Kind lernt im eigenen Tempo – würdigen Sie den individuellen Fortschritt.",
+      "icon": "house",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie lassen Sie den Hausaufgaben-Frust mit ins Wochenende einziehen?",
+      "anleitung": "Woche 2: ORIENTIERUNG & HAUSAUFGABEN OHNE STREIT — Muster durchbrechen und Struktur schaffen.",
+      "fragen": [],
+      "hinweis": "Schließen Sie Schulfragen am Freitagnachmittag bewusst ab und genießen Sie die Zeit.",
+      "icon": "house",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie suchen Sie montags 5 Minuten vor Abfahrt nach Schulsachen?",
+      "anleitung": "Woche 3: MORGEN-ROUTINE & PÜNKTLICHKEIT — Entspannt und gestärkt in den Tag starten.",
+      "fragen": [],
+      "hinweis": "Packen Sie den Ranzen und die Kleidung gemeinsam entspannt am Vorabend.",
+      "icon": "house",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie wecken Sie Ihr Kind durch mehrfaches, genervtes Rufen?",
+      "anleitung": "Woche 3: MORGEN-ROUTINE & PÜNKTLICHKEIT — Entspannt und gestärkt in den Tag starten.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie sanfte Aufwach-Rituale wie Musik oder ein Licht-Signal.",
+      "icon": "house",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie lassen Sie das Frühstück ausfallen, weil die Zeit drängt?",
+      "anleitung": "Woche 3: MORGEN-ROUTINE & PÜNKTLICHKEIT — Entspannt und gestärkt in den Tag starten.",
+      "fragen": [],
+      "hinweis": "Sichern Sie einen kurzen, nährstoffreichen Energieschub vor dem Weg.",
+      "icon": "house",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie schimpfen Sie im Auto über den morgendlichen Berufsverkehr?",
+      "anleitung": "Woche 3: MORGEN-ROUTINE & PÜNKTLICHKEIT — Entspannt und gestärkt in den Tag starten.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie die Fahrt für ruhige Gespräche oder Lieblings-Hörspiele.",
+      "icon": "house",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie belohnen Sie gelungene Pünktlichkeit unter der Woche nicht?",
+      "anleitung": "Woche 3: MORGEN-ROUTINE & PÜNKTLICHKEIT — Entspannt und gestärkt in den Tag starten.",
+      "fragen": [],
+      "hinweis": "Feiern Sie am Freitag eine entspannte Morgen-Woche mit Pfannkuchen.",
+      "icon": "house",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie reagieren Sie auf kindliche Wut nach der Schule mit Gegenwut?",
+      "anleitung": "Woche 4: GEFÜHLE BEGLEITEN & WUTAUSBRÜCHE ENTSCHÄRFEN — Annahme vor Umdeutung und Co-Regulation.",
+      "fragen": [],
+      "hinweis": "Atmen Sie durch und bieten Sie erst Ruhe und Präsenz an, bevor Sie sprechen.",
+      "icon": "house",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie verharmlosen Sie Sorgen Ihres Kindes mit 'Das ist doch nicht schlimm'?",
+      "anleitung": "Woche 4: GEFÜHLE BEGLEITEN & WUTAUSBRÜCHE ENTSCHÄRFEN — Annahme vor Umdeutung und Co-Regulation.",
+      "fragen": [],
+      "hinweis": "Validieren Sie Gefühle: 'Ich sehe, dass dich das gerade sehr traurig macht.'",
+      "icon": "house",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie verlangen Sie logische Argumente mitten im emotionalen Anfall?",
+      "anleitung": "Woche 4: GEFÜHLE BEGLEITEN & WUTAUSBRÜCHE ENTSCHÄRFEN — Annahme vor Umdeutung und Co-Regulation.",
+      "fragen": [],
+      "hinweis": "Warten Sie mit Klärungen, bis das Nervensystem wieder im grünen Bereich ist.",
+      "icon": "house",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie werten Sie kindliches Schmollen als persönlichen Angriff gegen Sie?",
+      "anleitung": "Woche 4: GEFÜHLE BEGLEITEN & WUTAUSBRÜCHE ENTSCHÄRFEN — Annahme vor Umdeutung und Co-Regulation.",
+      "fragen": [],
+      "hinweis": "Erkennen Sie Schmollen als Signal für Überforderung oder Ruhebedürfnis.",
+      "icon": "house",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie vergessen Sie, Ihrem Kind Ihre bedingungslose Liebe zu zeigen?",
+      "anleitung": "Woche 4: GEFÜHLE BEGLEITEN & WUTAUSBRÜCHE ENTSCHÄRFEN — Annahme vor Umdeutung und Co-Regulation.",
+      "fragen": [],
+      "hinweis": "Schenken Sie Ihrem Kind eine lange Umarmung ganz ohne Anlass.",
+      "icon": "house",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie schreiben Sie Lehrkräften verärgerte Mails um 22 Uhr abends?",
+      "anleitung": "Woche 5: KOMMUNIKATION MIT DER SCHULE AUF AUGENHÖHE — Erziehungspartnerschaft stärken.",
+      "fragen": [],
+      "hinweis": "Formulieren Sie Anliegen sachlich und bitten Sie um einen persönlichen Termin.",
+      "icon": "house",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie nehmen Sie Rückmeldungen der Schule als eigenes Erziehungsversagen wahr?",
+      "anleitung": "Woche 5: KOMMUNIKATION MIT DER SCHULE AUF AUGENHÖHE — Erziehungspartnerschaft stärken.",
+      "fragen": [],
+      "hinweis": "Betrachten Sie Rückmeldungen als wertvolle Beobachtungen aus der Schul-Perspektive.",
+      "icon": "house",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie sprechen Sie vor Ihrem Kind abwertend über Lehrerinnen?",
+      "anleitung": "Woche 5: KOMMUNIKATION MIT DER SCHULE AUF AUGENHÖHE — Erziehungspartnerschaft stärken.",
+      "fragen": [],
+      "hinweis": "Bewahren Sie die Autorität der Pädagogen – Kinder brauchen diese Sicherheit.",
+      "icon": "house",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie verschweigen Sie familiäre Krisen (z. B. Trennung, Trauer) vor der Schule?",
+      "anleitung": "Woche 5: KOMMUNIKATION MIT DER SCHULE AUF AUGENHÖHE — Erziehungspartnerschaft stärken.",
+      "fragen": [],
+      "hinweis": "Informieren Sie die Schule vertraulich, damit Ihr Kind Halt erhält.",
+      "icon": "house",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie vergessen Sie, sich für die Arbeit des Schulteams zu bedanken?",
+      "anleitung": "Woche 5: KOMMUNIKATION MIT DER SCHULE AUF AUGENHÖHE — Erziehungspartnerschaft stärken.",
+      "fragen": [],
+      "hinweis": "Senden Sie der Lehrkraft ein kurzes 'Danke für die Begleitung diese Woche'.",
+      "icon": "house",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie lassen Sie Tablets und Smartphones im Kinderzimmer übernachten?",
+      "anleitung": "Woche 6: SCHLAF & MEDIENKONSUM IM GLEICHGEWICHT — Schutzräume für das Gehirn schaffen.",
+      "fragen": [],
+      "hinweis": "Etablieren Sie eine zentrale Ladestation außerhalb des Schlafraums.",
+      "icon": "house",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie erlauben Sie Bildschirmzeiten direkt vor dem Einschlafen?",
+      "anleitung": "Woche 6: SCHLAF & MEDIENKONSUM IM GLEICHGEWICHT — Schutzräume für das Gehirn schaffen.",
+      "fragen": [],
+      "hinweis": "Sichern Sie eine 60-minütige bildschirmfreie Zone vor der Bettruhe.",
+      "icon": "house",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie streiten Sie täglich neu über vereinbarte Medienzeiten?",
+      "anleitung": "Woche 6: SCHLAF & MEDIENKONSUM IM GLEICHGEWICHT — Schutzräume für das Gehirn schaffen.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie klare Medien-Gutscheine oder Timer zur klaren Abgrenzung.",
+      "icon": "house",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie lassen Sie Ihr Kind unkontrolliert Altersfreigaben überschreiten?",
+      "anleitung": "Woche 6: SCHLAF & MEDIENKONSUM IM GLEICHGEWICHT — Schutzräume für das Gehirn schaffen.",
+      "fragen": [],
+      "hinweis": "Achten Sie konsequent auf geeignete Inhalte für die Entwicklungsstufe.",
+      "icon": "house",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie bieten Sie am Wochenende keine analogen Alternativen an?",
+      "anleitung": "Woche 6: SCHLAF & MEDIENKONSUM IM GLEICHGEWICHT — Schutzräume für das Gehirn schaffen.",
+      "fragen": [],
+      "hinweis": "Planen Sie gemeinsame Ausflüge in die Natur oder Spieleabende.",
+      "icon": "house",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie stempeln Sie das Verhalten Ihres Kindes als 'stur' und 'trotzig' ab?",
+      "anleitung": "Woche 7: RESSOURCENFOKUS & REFRAMING — Versteckte Stärken im Alltag entdecken.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie Reframing: Ihr Kind zeigt 'Beharrlichkeit & Eigenständigkeit'.",
+      "icon": "house",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie sehen Sie bei Vertretungsstunden nur den Unterrichtsausfall?",
+      "anleitung": "Woche 7: RESSOURCENFOKUS & REFRAMING — Versteckte Stärken im Alltag entdecken.",
+      "fragen": [],
+      "hinweis": "Erkennen Sie die Chance für Ihr Kind, Anpassungsfähigkeit zu üben.",
+      "icon": "house",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie fokussieren Sie sich im Zeugnis nur auf die schlechteste Note?",
+      "anleitung": "Woche 7: RESSOURCENFOKUS & REFRAMING — Versteckte Stärken im Alltag entdecken.",
+      "fragen": [],
+      "hinweis": "Loben Sie zuerst den Einsatz und die Stärken in anderen Bereichen.",
+      "icon": "house",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie zweifeln Sie an den Fähigkeiten Ihres Kindes bei Schwerem?",
+      "anleitung": "Woche 7: RESSOURCENFOKUS & REFRAMING — Versteckte Stärken im Alltag entdecken.",
+      "fragen": [],
+      "hinweis": "Fragen Sie: 'Wann hat eine ähnliche Herausforderung schon mal geklappt?'",
+      "icon": "house",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie vergessen Sie die eigene Erholungszeit als Eltern?",
+      "anleitung": "Woche 7: RESSOURCENFOKUS & REFRAMING — Versteckte Stärken im Alltag entdecken.",
+      "fragen": [],
+      "hinweis": "Sorgen Sie für eigene Kraftquellen – gelassene Eltern stärken Kinder.",
+      "icon": "house",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie vergleichen Sie Geschwister ständig miteinander?",
+      "anleitung": "Woche 8: GESCHWISTERDYNAMIKEN & GERECHTIGKEIT — Jedes Kind in seiner Einzigartigkeit sehen.",
+      "fragen": [],
+      "hinweis": "Betonen Sie, dass jedes Kind seine eigenen Begabungen und Wege hat.",
+      "icon": "house",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie mischen Sie sich bei jedem kleinen Geschwisterstreit als Richter ein?",
+      "anleitung": "Woche 8: GESCHWISTERDYNAMIKEN & GERECHTIGKEIT — Jedes Kind in seiner Einzigartigkeit sehen.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Kinder kleine Konflikte selbst klären oder begleiten Sie allparteilich.",
+      "icon": "house",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie verlangen Sie vom älteren Kind ständige Nachgiebigkeit?",
+      "anleitung": "Woche 8: GESCHWISTERDYNAMIKEN & GERECHTIGKEIT — Jedes Kind in seiner Einzigartigkeit sehen.",
+      "fragen": [],
+      "hinweis": "Gewähren Sie jedem Kind altersgerechte Rechte und Freiräume.",
+      "icon": "house",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie schenken Sie einem Kind exklusive Aufmerksamkeit nur bei Problemen?",
+      "anleitung": "Woche 8: GESCHWISTERDYNAMIKEN & GERECHTIGKEIT — Jedes Kind in seiner Einzigartigkeit sehen.",
+      "fragen": [],
+      "hinweis": "Planen Sie exklusive 'Einzel-Zeiten' mit jedem Kind im Alltag ein.",
+      "icon": "house",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie belohnen Sie das friedliche Miteinander der Geschwister nicht?",
+      "anleitung": "Woche 8: GESCHWISTERDYNAMIKEN & GERECHTIGKEIT — Jedes Kind in seiner Einzigartigkeit sehen.",
+      "fragen": [],
+      "hinweis": "Sprechen Sie Lob aus, wenn Geschwister einander geholfen haben.",
+      "icon": "house",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie verbringen Sie verregnete Nachmittage nur vor dem Fernseher?",
+      "anleitung": "Woche 9: FREIZEIT & BEWEGUNG IM FREIEN — Körperliche Aktivität als Stressventil.",
+      "fragen": [],
+      "hinweis": "Ziehen Sie Regensachen an und machen Sie einen Pfützen-Spaziergang.",
+      "icon": "house",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie drängen Sie Ihr Kind zu Sportarten, die ihm keinen Spaß machen?",
+      "anleitung": "Woche 9: FREIZEIT & BEWEGUNG IM FREIEN — Körperliche Aktivität als Stressventil.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Ihr Kind Neigungen ausprobieren – Freude steht an erster Stelle.",
+      "icon": "house",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie vergessen Sie die Wichtigkeit des freien, unbeaufsichtigten Spiels?",
+      "anleitung": "Woche 9: FREIZEIT & BEWEGUNG IM FREIEN — Körperliche Aktivität als Stressventil.",
+      "fragen": [],
+      "hinweis": "Geben Sie Raum für freies Bauen, Klettern und Erfinden im Garten/Park.",
+      "icon": "house",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie kritisiert Ihr Kind den eigenen Körper beim Sport?",
+      "anleitung": "Woche 9: FREIZEIT & BEWEGUNG IM FREIEN — Körperliche Aktivität als Stressventil.",
+      "fragen": [],
+      "hinweis": "Stärken Sie das Körpergefühl durch Freude an Bewegung statt Leistung.",
+      "icon": "house",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie planen Sie das Wochenende komplett ohne Erholungsfenster?",
+      "anleitung": "Woche 9: FREIZEIT & BEWEGUNG IM FREIEN — Körperliche Aktivität als Stressventil.",
+      "fragen": [],
+      "hinweis": "Lassen Sie am Wochenende bewusst Zeitfenster ohne jeden Termin.",
+      "icon": "house",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie nehmen Sie Schulstress und Lernkarten mit in den Urlaub?",
+      "anleitung": "Woche 10: HERBSTFERIEN & FAMILIEN-OASE — Auftanken und Kraft für den nächsten Abschnitt sammeln.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Schulsachen in den Ferien bewusst im Ranzen ruhen.",
+      "icon": "house",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie planen Sie jeden Ferientag mit straffem Kulturprogramm voll?",
+      "anleitung": "Woche 10: HERBSTFERIEN & FAMILIEN-OASE — Auftanken und Kraft für den nächsten Abschnitt sammeln.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Raum für Spontaneität, Ausschlafen und Entschleunigung.",
+      "icon": "house",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie ärgern Sie sich über schlechtes Ferienwetter?",
+      "anleitung": "Woche 10: HERBSTFERIEN & FAMILIEN-OASE — Auftanken und Kraft für den nächsten Abschnitt sammeln.",
+      "fragen": [],
+      "hinweis": "Machen Sie es sich drinnen gemütlich mit Büchern und Gesellschaftsspielen.",
+      "icon": "house",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie sprechen Sie im Urlaub nur über Schulthemen?",
+      "anleitung": "Woche 10: HERBSTFERIEN & FAMILIEN-OASE — Auftanken und Kraft für den nächsten Abschnitt sammeln.",
+      "fragen": [],
+      "hinweis": "Richten Sie den Blick auf gemeinsame Erlebnisse und Interessen.",
+      "icon": "house",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie gestalten Sie den Rückreise-Tag ohne Puffer?",
+      "anleitung": "Woche 10: HERBSTFERIEN & FAMILIEN-OASE — Auftanken und Kraft für den nächsten Abschnitt sammeln.",
+      "fragen": [],
+      "hinweis": "Kehren Sie entspannt zurück und genießen Sie den Ferienabschluss.",
+      "icon": "house",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie beklagen Sie montags lautstark das Ende der Ferien?",
+      "anleitung": "Woche 11: NEUSTART NACH DEN HERBSTFERIEN — Wieder gut in den Schulrhythmus finden.",
+      "fragen": [],
+      "hinweis": "Strahlen Sie Zuversicht aus: 'Wir starten gemeinsam gut in die neue Woche!'",
+      "icon": "house",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie lassen Sie die Abend-Routinen schleifen?",
+      "anleitung": "Woche 11: NEUSTART NACH DEN HERBSTFERIEN — Wieder gut in den Schulrhythmus finden.",
+      "fragen": [],
+      "hinweis": "Kehren Sie zu verlässlichen Schlafenszeiten vor Schultagen zurück.",
+      "icon": "house",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie vergessen Sie die Vollständigkeit der Schulmaterialien?",
+      "anleitung": "Woche 11: NEUSTART NACH DEN HERBSTFERIEN — Wieder gut in den Schulrhythmus finden.",
+      "fragen": [],
+      "hinweis": "Prüfen Sie gemeinsam, ob Stifte und Hefte nachgefüllt werden müssen.",
+      "icon": "house",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie setzen Sie Ihr Kind beim ersten Notentief unter Druck?",
+      "anleitung": "Woche 11: NEUSTART NACH DEN HERBSTFERIEN — Wieder gut in den Schulrhythmus finden.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie Skalierungsfragen: 'Was bräuchte es für einen kleinen Schritt nach vorn?'",
+      "icon": "house",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie blicken Sie gesorgt auf die dunkle Jahreszeit?",
+      "anleitung": "Woche 11: NEUSTART NACH DEN HERBSTFERIEN — Wieder gut in den Schulrhythmus finden.",
+      "fragen": [],
+      "hinweis": "Schaffen Sie gemütliche Licht- und Vorlese-Momente am Nachmittag.",
+      "icon": "house",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie reagieren Sie enttäuscht, wenn eine Note schlechter ausfällt?",
+      "anleitung": "Woche 12: UMGANG MIT LEISTUNGSDRUCK & NOTEN — Der Wert eines Kindes misst sich nicht in Noten.",
+      "fragen": [],
+      "hinweis": "Sagen Sie: 'Eine Note zeigt nur einen Ausschnitt – du bleibst wunderbar!'",
+      "icon": "house",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie vergleichen Sie Noten mit den Kindern der Nachbarn?",
+      "anleitung": "Woche 12: UMGANG MIT LEISTUNGSDRUCK & NOTEN — Der Wert eines Kindes misst sich nicht in Noten.",
+      "fragen": [],
+      "hinweis": "Fokussieren Sie sich ausschließlich auf den Lernweg Ihres eigenen Kindes.",
+      "icon": "house",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie belohnen Sie Noten nur mit Geld oder materiellen Geschenken?",
+      "anleitung": "Woche 12: UMGANG MIT LEISTUNGSDRUCK & NOTEN — Der Wert eines Kindes misst sich nicht in Noten.",
+      "fragen": [],
+      "hinweis": "Schenken Sie gemeinsame Erlebnisse und Anerkennung für den Fleiß.",
+      "icon": "house",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie schüren Sie Zukunftsängste wegen einer schlechten Arbeit?",
+      "anleitung": "Woche 12: UMGANG MIT LEISTUNGSDRUCK & NOTEN — Der Wert eines Kindes misst sich nicht in Noten.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie Halt: 'Fehler zeigen uns, was wir noch üben können.'",
+      "icon": "house",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie vergessen Sie das Feiern kleiner Lernfortschritte?",
+      "anleitung": "Woche 12: UMGANG MIT LEISTUNGSDRUCK & NOTEN — Der Wert eines Kindes misst sich nicht in Noten.",
+      "fragen": [],
+      "hinweis": "Feiern Sie jede verbesserte Teilaufgabe mit dem Stärken-Stern.",
+      "icon": "house",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie opfern Sie sich völlig auf, bis der eigene Akku auf Rot steht?",
+      "anleitung": "Woche 13: SELBSTFÜRSORGE FÜR MÜTTER & VÄTER — Nur wer selbst Kraft hat, kann Halt geben.",
+      "fragen": [],
+      "hinweis": "Planen Sie tägliche 15-Minuten-Me-Time-Inseln für sich fest ein.",
+      "icon": "house",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie fressen Sie elterliche Überforderung stumm in sich hinein?",
+      "anleitung": "Woche 13: SELBSTFÜRSORGE FÜR MÜTTER & VÄTER — Nur wer selbst Kraft hat, kann Halt geben.",
+      "fragen": [],
+      "hinweis": "Suchen Sie den Austausch mit anderen Eltern oder einer Beratungsstelle.",
+      "icon": "house",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie verzichten Sie auf Ihre eigenen Hobbys und Interessen?",
+      "anleitung": "Woche 13: SELBSTFÜRSORGE FÜR MÜTTER & VÄTER — Nur wer selbst Kraft hat, kann Halt geben.",
+      "fragen": [],
+      "hinweis": "Pflegen Sie eigene Kraftquellen – Sie sind ein Vorbild für Ihr Kind.",
+      "icon": "house",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie machen Sie sich Vorwürfe, keine 'perfekten Eltern' zu sein?",
+      "anleitung": "Woche 13: SELBSTFÜRSORGE FÜR MÜTTER & VÄTER — Nur wer selbst Kraft hat, kann Halt geben.",
+      "fragen": [],
+      "hinweis": "Wissen Sie: Kinder brauchen keine Perfektion, sondern echte Menschen.",
+      "icon": "house",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie gehen Sie ohne Erholung ins Wochenende?",
+      "anleitung": "Woche 13: SELBSTFÜRSORGE FÜR MÜTTER & VÄTER — Nur wer selbst Kraft hat, kann Halt geben.",
+      "fragen": [],
+      "hinweis": "Teilen Sie Erziehungsaufgaben partnerschaftlich auf.",
+      "icon": "house",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie hetzen Sie von einem Weihnachtsmarkt zum nächsten Termindruck?",
+      "anleitung": "Woche 14: VORWEIHNACHTSZEIT OHNE HEKTIK — Besinnlichkeit statt Termindruck.",
+      "fragen": [],
+      "hinweis": "Streichen Sie unwichtige Termine und schaffen Sie Ruhe drinnen.",
+      "icon": "house",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie lassen Sie sich vom Konsum-Rausch im Advent anstecken?",
+      "anleitung": "Woche 14: VORWEIHNACHTSZEIT OHNE HEKTIK — Besinnlichkeit statt Termindruck.",
+      "fragen": [],
+      "hinweis": "Fokussieren Sie auf Zeitgeschenke, Kerzenlicht und Geschichten.",
+      "icon": "house",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie erwarten Sie perfektes Benehmen bei Verwandtenbesuchen?",
+      "anleitung": "Woche 14: VORWEIHNACHTSZEIT OHNE HEKTIK — Besinnlichkeit statt Termindruck.",
+      "fragen": [],
+      "hinweis": "Entlasten Sie Ihr Kind von überhöhten Erwartungs-Anforderungen.",
+      "icon": "house",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie verplanen Sie die Nachmittage mit geballtem Plätzchenbacken?",
+      "anleitung": "Woche 14: VORWEIHNACHTSZEIT OHNE HEKTIK — Besinnlichkeit statt Termindruck.",
+      "fragen": [],
+      "hinweis": "Backen Sie ohne Perfektionsdruck – Spaß am Kleckern gehört dazu.",
+      "icon": "house",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie gehen Sie gestresst in die Weihnachtsfeiertage?",
+      "anleitung": "Woche 14: VORWEIHNACHTSZEIT OHNE HEKTIK — Besinnlichkeit statt Termindruck.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Fünfe gerade sein und genießen Sie das Miteinander.",
+      "icon": "house",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie fokussieren Sie sich zum Jahresende nur auf familiäre Konflikte?",
+      "anleitung": "Woche 15: JAHRESWECHSEL & RÜCKBLICK — Dankbarkeit für das Erreichte pflegen.",
+      "fragen": [],
+      "hinweis": "Erstellen Sie eine 'Schatztruhe des Jahres' mit gelungenen Momenten.",
+      "icon": "house",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie setzen Sie starre Vorsätze für das neue Schuljahr?",
+      "anleitung": "Woche 15: JAHRESWECHSEL & RÜCKBLICK — Dankbarkeit für das Erreichte pflegen.",
+      "fragen": [],
+      "hinweis": "Formulieren Sie Wünsche in positiver Erlaubnis-Sprache.",
+      "icon": "house",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie sprechen Sie vor Kindern über finanzielle Sorgen zum Fest?",
+      "anleitung": "Woche 15: JAHRESWECHSEL & RÜCKBLICK — Dankbarkeit für das Erreichte pflegen.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie Geborgenheit und Sicherheit unabhängig von Geschenken.",
+      "icon": "house",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie vergessen Sie familiäre Traditionen zu pflegen?",
+      "anleitung": "Woche 15: JAHRESWECHSEL & RÜCKBLICK — Dankbarkeit für das Erreichte pflegen.",
+      "fragen": [],
+      "hinweis": "Pflegen Sie vertraute Rituale, die Ihrem Kind Sicherheit geben.",
+      "icon": "house",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie verabschieden Sie das alte Jahr ohne Zuversicht?",
+      "anleitung": "Woche 15: JAHRESWECHSEL & RÜCKBLICK — Dankbarkeit für das Erreichte pflegen.",
+      "fragen": [],
+      "hinweis": "Stoßen Sie mit Kinderpunsch auf künftige gemeinsame Abenteuer an.",
+      "icon": "house",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie lassen Sie Ihr Kind bei Schmuddelwetter nur drinnen hocken?",
+      "anleitung": "Woche 16: WINTER-BLUES & BEWEGUNG DRINNEN — Energie im Alltag aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie kurze Winter-Spaziergänge oder Tobestunden im Flur.",
+      "icon": "house",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie meckern Sie dauerhaft über die Kälte und Dunkelheit?",
+      "anleitung": "Woche 16: WINTER-BLUES & BEWEGUNG DRINNEN — Energie im Alltag aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Schaffen Sie drinnen warme Lichtquellen und gemütliche Inseln.",
+      "icon": "house",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie lassen Sie die Bewegung beim Lernen völlig weg?",
+      "anleitung": "Woche 16: WINTER-BLUES & BEWEGUNG DRINNEN — Energie im Alltag aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Integrieren Sie kurze Hüpf- oder Klatschpausen bei Hausaufgaben.",
+      "icon": "house",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie vergessen Sie ausreichendes Trinken in der Heizperiode?",
+      "anleitung": "Woche 16: WINTER-BLUES & BEWEGUNG DRINNEN — Energie im Alltag aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Stellen Sie frischen Tee oder Wasser griffbereit auf den Tisch.",
+      "icon": "house",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie verbringen Sie das Winter-Wochenende in Passivität?",
+      "anleitung": "Woche 16: WINTER-BLUES & BEWEGUNG DRINNEN — Energie im Alltag aufrechterhalten.",
+      "fragen": [],
+      "hinweis": "Bauen Sie eine Höhle im Wohnzimmer oder spielen Sie Brettspiele.",
+      "icon": "house",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie steigen Sie auf Provokationen Ihres Kindes sofort ein?",
+      "anleitung": "Woche 17: KONFLIKTE IN DER FAMILIE DEESKALIEREN — Systemische Werkzeuge für Notfälle.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie die STOPP-Taste: Durchatmen und Raum verlassen.",
+      "icon": "house",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie drohen Sie Konsequenzen an, die Sie nicht einhalten können?",
+      "anleitung": "Woche 17: KONFLIKTE IN DER FAMILIE DEESKALIEREN — Systemische Werkzeuge für Notfälle.",
+      "fragen": [],
+      "hinweis": "Vereinbaren Sie ruhige, logische Absprachen statt Emotionstrafen.",
+      "icon": "house",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie verlangen Sie sofortige Entschuldigungen unter Zwang?",
+      "anleitung": "Woche 17: KONFLIKTE IN DER FAMILIE DEESKALIEREN — Systemische Werkzeuge für Notfälle.",
+      "fragen": [],
+      "hinweis": "Geben Sie Ihrem Kind Zeit zur Abkühlung, bevor Sie reflektieren.",
+      "icon": "house",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie tragen Sie Paarkonflikte auf dem Rücken des Kindes aus?",
+      "anleitung": "Woche 17: KONFLIKTE IN DER FAMILIE DEESKALIEREN — Systemische Werkzeuge für Notfälle.",
+      "fragen": [],
+      "hinweis": "Halten Sie Eltern- und Paarebene strikt voneinander getrennt.",
+      "icon": "house",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie gehen Sie zerstritten ins Bett?",
+      "anleitung": "Woche 17: KONFLIKTE IN DER FAMILIE DEESKALIEREN — Systemische Werkzeuge für Notfälle.",
+      "fragen": [],
+      "hinweis": "Bieten Sie vor dem Schlafen immer eine Versöhnungs-Brücke an.",
+      "icon": "house",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie machen Sie Ihrem Kind Tage vor dem Zeugnis Angst?",
+      "anleitung": "Woche 18: HALBJAHRESZEUGNISSE & ENTWICKLUNGSGESPRÄCHE — Rückhalt geben – egal welche Note steht.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie: 'Wir stehen immer hinter dir – völlig egal was drinsteht.'",
+      "icon": "house",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie schämen Sie sich vor anderen Eltern für Noten Ihres Kindes?",
+      "anleitung": "Woche 18: HALBJAHRESZEUGNISSE & ENTWICKLUNGSGESPRÄCHE — Rückhalt geben – egal welche Note steht.",
+      "fragen": [],
+      "hinweis": "Stehen Sie stolz zu Ihrem Kind und seinen individuellen Stärken.",
+      "icon": "house",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie bestrafen Sie schlechte Halbjahresnoten mit Ausflugsverbot?",
+      "anleitung": "Woche 18: HALBJAHRESZEUGNISSE & ENTWICKLUNGSGESPRÄCHE — Rückhalt geben – egal welche Note steht.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie das Zeugnis als Orientierung für künftige Hilfe.",
+      "icon": "house",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie übergehen Sie das Entwicklungsgespräch mit der Schule?",
+      "anleitung": "Woche 18: HALBJAHRESZEUGNISSE & ENTWICKLUNGSGESPRÄCHE — Rückhalt geben – egal welche Note steht.",
+      "fragen": [],
+      "hinweis": "Gehen Sie vorbereitet ins Gespräch und sichern Sie Kooperation.",
+      "icon": "house",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie belohnen Sie das Durchhalten im 1. Halbjahr nicht?",
+      "anleitung": "Woche 18: HALBJAHRESZEUGNISSE & ENTWICKLUNGSGESPRÄCHE — Rückhalt geben – egal welche Note steht.",
+      "fragen": [],
+      "hinweis": "Feiern Sie den Abschluss des 1. Halbjahres mit dem Lieblingsessen.",
+      "icon": "house",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie nutzen Sie die Zeugnisferien zum Nachpauken?",
+      "anleitung": "Woche 19: ZEUGNISFERIEN & AKKU AUFLADEN — Innehalten vor dem Start ins 2. Halbjahr.",
+      "fragen": [],
+      "hinweis": "Gönnen Sie Ihrem Kind echte Erholung ohne Schulbücher.",
+      "icon": "house",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie sprechen Sie dauerhaft über künftige Schulwechsel?",
+      "anleitung": "Woche 19: ZEUGNISFERIEN & AKKU AUFLADEN — Innehalten vor dem Start ins 2. Halbjahr.",
+      "fragen": [],
+      "hinweis": "Nehmen Sie den Druck heraus und genießen Sie den Moment.",
+      "icon": "house",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie vergessen Sie gemeinsame Natur-Erlebnisse?",
+      "anleitung": "Woche 19: ZEUGNISFERIEN & AKKU AUFLADEN — Innehalten vor dem Start ins 2. Halbjahr.",
+      "fragen": [],
+      "hinweis": "Planen Sie einen Familienausflug in den Wald oder Zoo.",
+      "icon": "house",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie lassen Sie Ihr Kind unstrukturiert durch die Tage treiben?",
+      "anleitung": "Woche 19: ZEUGNISFERIEN & AKKU AUFLADEN — Innehalten vor dem Start ins 2. Halbjahr.",
+      "fragen": [],
+      "hinweis": "Bieten Sie eine sanfte Struktur aus Erholung und gemeinsamen Zeiten.",
+      "icon": "house",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie starten Sie mit Sorgen ins 2. Halbjahr?",
+      "anleitung": "Woche 19: ZEUGNISFERIEN & AKKU AUFLADEN — Innehalten vor dem Start ins 2. Halbjahr.",
+      "fragen": [],
+      "hinweis": "Starten Sie mit frischer Energie und Vertrauen ins neue Halbjahr.",
+      "icon": "house",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie erinnern Sie Ihr Kind ständig an vergangene Fehltritte?",
+      "anleitung": "Woche 20: FRISCHER WIND IM 2. HALBJAHR — Neues Lernen mit Leichtigkeit verbinden.",
+      "fragen": [],
+      "hinweis": "Schenken Sie Ihrem Kind einen echten Neuanfang ohne Altlasten.",
+      "icon": "house",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie lassen Sie den Arbeitsplatz Ihres Kindes im Chaos versinken?",
+      "anleitung": "Woche 20: FRISCHER WIND IM 2. HALBJAHR — Neues Lernen mit Leichtigkeit verbinden.",
+      "fragen": [],
+      "hinweis": "Räumen Sie den Schreibplatz gemeinsam auf und bringen Sie frische Stifte.",
+      "icon": "house",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie hegen Sie Misstrauen gegenüber neuen Fachlehrkräften?",
+      "anleitung": "Woche 20: FRISCHER WIND IM 2. HALBJAHR — Neues Lernen mit Leichtigkeit verbinden.",
+      "fragen": [],
+      "hinweis": "Geben Sie neuen Lehrkräften eine faire Chance für die Zusammenarbeit.",
+      "icon": "house",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie vergessen Sie das tägliche Lob für Anstrengung?",
+      "anleitung": "Woche 20: FRISCHER WIND IM 2. HALBJAHR — Neues Lernen mit Leichtigkeit verbinden.",
+      "fragen": [],
+      "hinweis": "Loben Sie gezielt den Fleiß – nicht nur das Ergebnis.",
+      "icon": "house",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie planen Sie den Frühling ohne Sport im Freien?",
+      "anleitung": "Woche 20: FRISCHER WIND IM 2. HALBJAHR — Neues Lernen mit Leichtigkeit verbinden.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie die ersten Sonnenstrahlen für Fahrradtouren.",
+      "icon": "house",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie nehmen Sie Ihrem Kind Aufgaben ab, die es selbst kann?",
+      "anleitung": "Woche 21: SELBSTSTÄNDIGKEIT FÖRDERN — Zutrauen schenken heilt Zögerlichkeit.",
+      "fragen": [],
+      "hinweis": "Trauen Sie Ihrem Kind Schritte zu (z. B. Ranzen packen, Anziehen).",
+      "icon": "house",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie kritisieren Sie unperfekte Ergebnisse Ihres Kindes?",
+      "anleitung": "Woche 21: SELBSTSTÄNDIGKEIT FÖRDERN — Zutrauen schenken heilt Zögerlichkeit.",
+      "fragen": [],
+      "hinweis": "Freuen Sie sich über den Versuch – Übung macht den Meister.",
+      "icon": "house",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie begleiten Sie Ihr Kind bis vor die Klassenzimmertür?",
+      "anleitung": "Woche 21: SELBSTSTÄNDIGKEIT FÖRDERN — Zutrauen schenken heilt Zögerlichkeit.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Ihr Kind die letzten Meter zum Schulhaus alleine gehen.",
+      "icon": "house",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie entscheiden Sie über Freizeitaktivitäten ohne Ihr Kind?",
+      "anleitung": "Woche 21: SELBSTSTÄNDIGKEIT FÖRDERN — Zutrauen schenken heilt Zögerlichkeit.",
+      "fragen": [],
+      "hinweis": "Binden Sie Ihr Kind aktiv in Entscheidungen ein.",
+      "icon": "house",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie belohnen Sie Eigeninitiative nicht?",
+      "anleitung": "Woche 21: SELBSTSTÄNDIGKEIT FÖRDERN — Zutrauen schenken heilt Zögerlichkeit.",
+      "fragen": [],
+      "hinweis": "Sagen Sie stolz: 'Das hast du ganz alleine geschafft!'",
+      "icon": "house",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie geben Sie Ihrem Kind nur süße Riegel als Pausenbrot mit?",
+      "anleitung": "Woche 22: ERNÄHRUNG & KRAFT IM SCHULALLTAG — Gesunde Energie für Gehirn und Körper.",
+      "fragen": [],
+      "hinweis": "Packen Sie ein buntes Pausenbrot mit Obst, Gemüsesticks und Nüssen.",
+      "icon": "house",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie lassen Sie Ihr Kind ohne Flüssigkeit in die Schule starten?",
+      "anleitung": "Woche 22: ERNÄHRUNG & KRAFT IM SCHULALLTAG — Gesunde Energie für Gehirn und Körper.",
+      "fragen": [],
+      "hinweis": "Geben Sie eine gefüllte Wasserflasche für den Tag mit.",
+      "icon": "house",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie zwingen Sie Ihr Kind morgens zum Essen ohne Hunger?",
+      "anleitung": "Woche 22: ERNÄHRUNG & KRAFT IM SCHULALLTAG — Gesunde Energie für Gehirn und Körper.",
+      "fragen": [],
+      "hinweis": "Bieten Sie morgens eine Kleinigkeit an und packen Sie mehr Jause ein.",
+      "icon": "house",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie essen Sie als Familie nur hastig zwischen Tür und Angel?",
+      "anleitung": "Woche 22: ERNÄHRUNG & KRAFT IM SCHULALLTAG — Gesunde Energie für Gehirn und Körper.",
+      "fragen": [],
+      "hinweis": "Pflegen Sie mindestens eine gemeinsame, ruhige Familienmahlzeit.",
+      "icon": "house",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie belohnen Sie Ihr Kind ausschließlich mit Süßigkeiten?",
+      "anleitung": "Woche 22: ERNÄHRUNG & KRAFT IM SCHULALLTAG — Gesunde Energie für Gehirn und Körper.",
+      "fragen": [],
+      "hinweis": "Suchen Sie Belohnungen in Form von Zeit, Spielen oder Aufmerksamkeit.",
+      "icon": "house",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie ignorieren Sie Wesensveränderungen Ihres Kindes nach der Schule?",
+      "anleitung": "Woche 23: UMGANG MIT MOBBING & AUSGRENZUNG — Halt und Sicherheit im System geben.",
+      "fragen": [],
+      "hinweis": "Achten Sie auf Warnzeichen wie Rückzug, Bauchweh oder Schulangst.",
+      "icon": "house",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie raten Sie Ihrem Kind bei Mobbing zu 'Schlag einfach zurück!'?",
+      "anleitung": "Woche 23: UMGANG MIT MOBBING & AUSGRENZUNG — Halt und Sicherheit im System geben.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie deeskalierende Strategien und suchen Sie die Schule.",
+      "icon": "house",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie handeln Sie bei Mobbing-Verdacht über den Kopf des Kindes hinweg?",
+      "anleitung": "Woche 23: UMGANG MIT MOBBING & AUSGRENZUNG — Halt und Sicherheit im System geben.",
+      "fragen": [],
+      "hinweis": "Beziehen Sie Ihr Kind ein und sichern Sie ihm Schutz zu.",
+      "icon": "house",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie beschuldigen Sie gegnerische Eltern unvorbereitet?",
+      "anleitung": "Woche 23: UMGANG MIT MOBBING & AUSGRENZUNG — Halt und Sicherheit im System geben.",
+      "fragen": [],
+      "hinweis": "Bitten Sie die Schule um ein moderiertes Klärungsgespräch.",
+      "icon": "house",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie lassen Sie Ihr Kind mit Ängsten ins Wochenende gehen?",
+      "anleitung": "Woche 23: UMGANG MIT MOBBING & AUSGRENZUNG — Halt und Sicherheit im System geben.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie absolute Geborgenheit: 'Wir lösen das gemeinsam!'",
+      "icon": "house",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie verbringen Sie Nachmittage nur in geschlossenen Räumen?",
+      "anleitung": "Woche 24: NATUR ERLEBEN & FRÜHLINGS-ENERGIE — Die Welt mit offenen Augen entdecken.",
+      "fragen": [],
+      "hinweis": "Gehen Sie ins Grüne und entdecken Sie Knospen und Tiere.",
+      "icon": "house",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie genervt reagieren Sie auf kindliche Fragen zur Natur?",
+      "anleitung": "Woche 24: NATUR ERLEBEN & FRÜHLINGS-ENERGIE — Die Welt mit offenen Augen entdecken.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie die Neugier Ihres Kindes für gemeinsame Recherchen.",
+      "icon": "house",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie verbieten Sie Ihrem Kind, beim Spielen schmutzig zu werden?",
+      "anleitung": "Woche 24: NATUR ERLEBEN & FRÜHLINGS-ENERGIE — Die Welt mit offenen Augen entdecken.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Ihr Kind mit Erde, Wasser und Matsch experimentieren.",
+      "icon": "house",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie vergessen Sie das Bepflanzen von Balkon/Garten?",
+      "anleitung": "Woche 24: NATUR ERLEBEN & FRÜHLINGS-ENERGIE — Die Welt mit offenen Augen entdecken.",
+      "fragen": [],
+      "hinweis": "Pflanzen Sie gemeinsam Blumen oder Kresse im Topf an.",
+      "icon": "house",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie nutzen Sie das Frühlings-Wochenende nicht für Ausflüge?",
+      "anleitung": "Woche 24: NATUR ERLEBEN & FRÜHLINGS-ENERGIE — Die Welt mit offenen Augen entdecken.",
+      "fragen": [],
+      "hinweis": "Planen Sie ein Familien-Picknick im Park.",
+      "icon": "house",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie reagieren Sie auf Stimmungsschwankungen mit Herabwürdigung?",
+      "anleitung": "Woche 25: PUBERTÄTS-SIGNALE & LOSLASSEN — Sicherheit geben und Leine länger lassen.",
+      "fragen": [],
+      "hinweis": "Bleiben Sie ruhig und wissen Sie: Das Gehirn baut sich um.",
+      "icon": "house",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie schnüffeln Sie in den persönlichen Sachen Ihres Kindes?",
+      "anleitung": "Woche 25: PUBERTÄTS-SIGNALE & LOSLASSEN — Sicherheit geben und Leine länger lassen.",
+      "fragen": [],
+      "hinweis": "Respektieren Sie die Privatsphäre und das Tagebuch Ihres Kindes.",
+      "icon": "house",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie verlangen Sie kindliche Anhänglichkeit ein?",
+      "anleitung": "Woche 25: PUBERTÄTS-SIGNALE & LOSLASSEN — Sicherheit geben und Leine länger lassen.",
+      "fragen": [],
+      "hinweis": "Gestehen Sie Ihrem Kind Schritt für Schritt mehr Autonomie zu.",
+      "icon": "house",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie entziehen Sie Ihre Gesprächsbereitschaft bei Patzigkeit?",
+      "anleitung": "Woche 25: PUBERTÄTS-SIGNALE & LOSLASSEN — Sicherheit geben und Leine länger lassen.",
+      "fragen": [],
+      "hinweis": "Signalisieren Sie: 'Ich bin da, wenn du mich brauchst.'",
+      "icon": "house",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie bewerten Sie den Kleidungsstil Ihres Kindes abwertend?",
+      "anleitung": "Woche 25: PUBERTÄTS-SIGNALE & LOSLASSEN — Sicherheit geben und Leine länger lassen.",
+      "fragen": [],
+      "hinweis": "Geben Sie Freiraum für eigenen Stil und Ausprobieren.",
+      "icon": "house",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie zwingen Sie Ihr Kind zum lauten Vorlesen als Strafe?",
+      "anleitung": "Woche 26: LESEFÖRDERUNG ZU HAUSE — Freude an Büchern vorleben.",
+      "fragen": [],
+      "hinweis": "Schaffen Sie gemütliche Vorlese-Momente ohne Leistungsdruck.",
+      "icon": "house",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie kritisieren Sie die Buchauswahl Ihres Kindes (z. B. Comics)?",
+      "anleitung": "Woche 26: LESEFÖRDERUNG ZU HAUSE — Freude an Büchern vorleben.",
+      "fragen": [],
+      "hinweis": "Jeder gedruckte Satz zählt – unterstützen Sie auch Comics/Mangas.",
+      "icon": "house",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie besitzen Sie zu Hause keine eigenen Bücher?",
+      "anleitung": "Woche 26: LESEFÖRDERUNG ZU HAUSE — Freude an Büchern vorleben.",
+      "fragen": [],
+      "hinweis": "Seien Sie ein Lesevorbild und nutzen Sie die Stadtbücherei.",
+      "icon": "house",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie brechen Sie das Vorlesen ab, sobald das Kind lesen kann?",
+      "anleitung": "Woche 26: LESEFÖRDERUNG ZU HAUSE — Freude an Büchern vorleben.",
+      "fragen": [],
+      "hinweis": "Lesen Sie weiterhin komplexere Geschichten gemeinsam vor.",
+      "icon": "house",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie verbinden Sie Lesen nur mit Schulaufgaben?",
+      "anleitung": "Woche 26: LESEFÖRDERUNG ZU HAUSE — Freude an Büchern vorleben.",
+      "fragen": [],
+      "hinweis": "Machen Sie Lesestunden zu Festzeiten im Familienalltag.",
+      "icon": "house",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie erklären Sie Aufgaben komplizierter als die Lehrkraft?",
+      "anleitung": "Woche 27: LERNBEGLEITUNG OHNE KONFLIKTE — Das Richtige richtig unterstützen.",
+      "fragen": [],
+      "hinweis": "Fragen Sie Ihr Kind: 'Wie hat es die Lehrerin erklärt?'",
+      "icon": "house",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie werden Sie ungeduldig, wenn Wiederholungen nötig sind?",
+      "anleitung": "Woche 27: LERNBEGLEITUNG OHNE KONFLIKTE — Das Richtige richtig unterstützen.",
+      "fragen": [],
+      "hinweis": "Machen Sie eine kurze Pause und nutzen Sie Anschauliches.",
+      "icon": "house",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie lernen Sie stundenlang am Stück ohne Pause?",
+      "anleitung": "Woche 27: LERNBEGLEITUNG OHNE KONFLIKTE — Das Richtige richtig unterstützen.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie die Pomodoro-Technik: 20 Min. Lernen, 5 Min. Bewegung.",
+      "icon": "house",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie verzichten Sie auf Karteikarten für Vokabeln/Formeln?",
+      "anleitung": "Woche 27: LERNBEGLEITUNG OHNE KONFLIKTE — Das Richtige richtig unterstützen.",
+      "fragen": [],
+      "hinweis": "Bauen Sie ein Karteikasten-System für nachhaltiges Lernen auf.",
+      "icon": "house",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie beenden Sie Lernphasen mit Frust?",
+      "anleitung": "Woche 27: LERNBEGLEITUNG OHNE KONFLIKTE — Das Richtige richtig unterstützen.",
+      "fragen": [],
+      "hinweis": "Schließen Sie jedes Lernen mit einem Erfolgserlebnis ab.",
+      "icon": "house",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie nutzen Sie selbst Ihr Smartphone ständig beim Essen?",
+      "anleitung": "Woche 28: DIGITALISIERUNG & BILDSCHIRM-REGELN — Medienkompetenz vorleben und begleiten.",
+      "fragen": [],
+      "hinweis": "Seien Sie Vorbild und legen Sie Ihr Handy zu Familienzeiten weg.",
+      "icon": "house",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie lassen Sie Ihr Kind unbegrenzt Videos schauen?",
+      "anleitung": "Woche 28: DIGITALISIERUNG & BILDSCHIRM-REGELN — Medienkompetenz vorleben und begleiten.",
+      "fragen": [],
+      "hinweis": "Vereinbaren Sie feste Kontingente und nutzen Sie Kindersicherungen.",
+      "icon": "house",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie verteufeln Sie digitale Medien pauschal?",
+      "anleitung": "Woche 28: DIGITALISIERUNG & BILDSCHIRM-REGELN — Medienkompetenz vorleben und begleiten.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie sinnvolle Lern-Apps gemeinsam mit Ihrem Kind.",
+      "icon": "house",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie ignorieren Sie Chats in Klassengruppen?",
+      "anleitung": "Woche 28: DIGITALISIERUNG & BILDSCHIRM-REGELN — Medienkompetenz vorleben und begleiten.",
+      "fragen": [],
+      "hinweis": "Sprechen Sie mit Ihrem Kind über Regeln im Gruppenchat.",
+      "icon": "house",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie schalten Sie am Wochenende keine medienfreien Zeiten ein?",
+      "anleitung": "Woche 28: DIGITALISIERUNG & BILDSCHIRM-REGELN — Medienkompetenz vorleben und begleiten.",
+      "fragen": [],
+      "hinweis": "Führen Sie den 'Analogen Sonntag' für die ganze Familie ein.",
+      "icon": "house",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie füllen Sie die Osterferien mit Nachhilfe-Unterricht?",
+      "anleitung": "Woche 29: OSTERFERIEN & FRÜHLINGS-AUSZEIT — Kraft tanken für den Schulendspurt.",
+      "fragen": [],
+      "hinweis": "Gönnen Sie Ihrem Kind echte Ferien-Erholung.",
+      "icon": "house",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie vergessen Sie gemeinsame Frühlings-Rituale?",
+      "anleitung": "Woche 29: OSTERFERIEN & FRÜHLINGS-AUSZEIT — Kraft tanken für den Schulendspurt.",
+      "fragen": [],
+      "hinweis": "Basteln oder färben Sie gemeinsam Eier für das Osterfest.",
+      "icon": "house",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie ärgern Sie sich über verpasste Ferientermine?",
+      "anleitung": "Woche 29: OSTERFERIEN & FRÜHLINGS-AUSZEIT — Kraft tanken für den Schulendspurt.",
+      "fragen": [],
+      "hinweis": "Genießen Sie spontane, ungeplante Tage ohne Uhrzeit.",
+      "icon": "house",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie sprechen Sie nur über kommende Proben nach den Ferien?",
+      "anleitung": "Woche 29: OSTERFERIEN & FRÜHLINGS-AUSZEIT — Kraft tanken für den Schulendspurt.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Schulfragen bis zum Ferienende ruhen.",
+      "icon": "house",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie verabschieden Sie die Osterzeit ohne Dankbarkeit?",
+      "anleitung": "Woche 29: OSTERFERIEN & FRÜHLINGS-AUSZEIT — Kraft tanken für den Schulendspurt.",
+      "fragen": [],
+      "hinweis": "Blicken Sie gestärkt auf den anstehenden Schulendspurt.",
+      "icon": "house",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie jammern Sie mit Ihrem Kind über die Hitze und die Schule?",
+      "anleitung": "Woche 30: SOMMER-ENDSPURT & DURCHHALTEVERMÖGEN — Gemeinsam die letzten Wochen meistern.",
+      "fragen": [],
+      "hinweis": "Strahlen Sie Zuversicht aus: 'Die letzten Wochen schaffen wir gut!'",
+      "icon": "house",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie lassen Sie die Hausaufgaben-Disziplin völlig schleifen?",
+      "anleitung": "Woche 30: SOMMER-ENDSPURT & DURCHHALTEVERMÖGEN — Gemeinsam die letzten Wochen meistern.",
+      "fragen": [],
+      "hinweis": "Halten Sie kurze, verlässliche Lernfenster aufrecht.",
+      "icon": "house",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie vergessen Sie ausreichendes Trinken an heißen Tagen?",
+      "anleitung": "Woche 30: SOMMER-ENDSPURT & DURCHHALTEVERMÖGEN — Gemeinsam die letzten Wochen meistern.",
+      "fragen": [],
+      "hinweis": "Geben Sie kühlendes Wasser und wasserreiches Obst mit.",
+      "icon": "house",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie setzen Sie Ihr Kind vor den letzten Arbeiten unter Druck?",
+      "anleitung": "Woche 30: SOMMER-ENDSPURT & DURCHHALTEVERMÖGEN — Gemeinsam die letzten Wochen meistern.",
+      "fragen": [],
+      "hinweis": "Fokussieren Sie auf Ruhe und gute Schlafzeiten.",
+      "icon": "house",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie belohnen Sie das Durchhalten im Sommer nicht?",
+      "anleitung": "Woche 30: SOMMER-ENDSPURT & DURCHHALTEVERMÖGEN — Gemeinsam die letzten Wochen meistern.",
+      "fragen": [],
+      "hinweis": "Gönnen Sie sich ein gemeinsames Eis nach der Schulwoche.",
+      "icon": "house",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie schüren Sie Ängste vor der neuen Schule oder Lehrkraft?",
+      "anleitung": "Woche 31: UMGANG MIT ÄNGSTEN VOR ÜBERGÄNGEN — Halt geben bei Schulwechsel oder Klassenneubildung.",
+      "fragen": [],
+      "hinweis": "Betonen Sie Chancen und neue Freunde: 'Du wirst das schaffen!'",
+      "icon": "house",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie vermeiden Sie Gespräche über die Sorgen Ihres Kindes?",
+      "anleitung": "Woche 31: UMGANG MIT ÄNGSTEN VOR ÜBERGÄNGEN — Halt geben bei Schulwechsel oder Klassenneubildung.",
+      "fragen": [],
+      "hinweis": "Bieten Sie ein offenes Ohr für Ängste und Unsicherheiten.",
+      "icon": "house",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie vergleichen Sie die weiterführende Schule mit 'Ernst des Lebens'?",
+      "anleitung": "Woche 31: UMGANG MIT ÄNGSTEN VOR ÜBERGÄNGEN — Halt geben bei Schulwechsel oder Klassenneubildung.",
+      "fragen": [],
+      "hinweis": "Vermitteln Sie Vorfreude auf neue Fächer und Möglichkeiten.",
+      "icon": "house",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie vergessen Sie den Schulweg zur neuen Schule zu üben?",
+      "anleitung": "Woche 31: UMGANG MIT ÄNGSTEN VOR ÜBERGÄNGEN — Halt geben bei Schulwechsel oder Klassenneubildung.",
+      "fragen": [],
+      "hinweis": "Üben Sie den neuen Schulweg entspannt in den Wochen vorab.",
+      "icon": "house",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie verabschieden Sie alte Weggefährten ohne Würdigung?",
+      "anleitung": "Woche 31: UMGANG MIT ÄNGSTEN VOR ÜBERGÄNGEN — Halt geben bei Schulwechsel oder Klassenneubildung.",
+      "fragen": [],
+      "hinweis": "Gestalten Sie ein kleines Abschieds-Ritual für alte Freunde.",
+      "icon": "house",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie lassen Sie Ihr Kind ohne Sonnenschutz in die Hitze?",
+      "anleitung": "Woche 32: SICHERHEIT IM SOMMER & SCHWIMMEN — Gesundheit und Schutz im Freien.",
+      "fragen": [],
+      "hinweis": "Cremen Sie Ihr Kind ein und geben Sie eine Kopfbedeckung mit.",
+      "icon": "house",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie unterschätzen Sie die Wichtigkeit des Schwimmenlernens?",
+      "anleitung": "Woche 32: SICHERHEIT IM SOMMER & SCHWIMMEN — Gesundheit und Schutz im Freien.",
+      "fragen": [],
+      "hinweis": "Sichern Sie Schwimmkurse – Schwimmen können rettet Leben.",
+      "icon": "house",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie lassen Sie Ihr Kind unbeaufsichtigt an Gewässern?",
+      "anleitung": "Woche 32: SICHERHEIT IM SOMMER & SCHWIMMEN — Gesundheit und Schutz im Freien.",
+      "fragen": [],
+      "hinweis": "Achten Sie an Seen und Bädern wachsam auf Ihr Kind.",
+      "icon": "house",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie vergessen Sie ausreichenden Insektenschutz?",
+      "anleitung": "Woche 32: SICHERHEIT IM SOMMER & SCHWIMMEN — Gesundheit und Schutz im Freien.",
+      "fragen": [],
+      "hinweis": "Prüfen Sie Ihr Kind nach Wiesenaufenthalten auf Zecken.",
+      "icon": "house",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie überfordern Sie den Körper Ihres Kindes bei Sommerhitze?",
+      "anleitung": "Woche 32: SICHERHEIT IM SOMMER & SCHWIMMEN — Gesundheit und Schutz im Freien.",
+      "fragen": [],
+      "hinweis": "Planen Sie ruhige Schatten-Aktivitäten am Nachmittag.",
+      "icon": "house",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie fokussieren Sie sich nur auf die schwierigen Schultage?",
+      "anleitung": "Woche 33: DANKBARKEIT FÜR DAS SCHULJAHR — Den Blick auf das Gelungene richten.",
+      "fragen": [],
+      "hinweis": "Schreiben Sie 5 Dinge auf, die dieses Schuljahr toll waren.",
+      "icon": "house",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie vergessen Sie die Arbeit der Schulbegleiter/INGRA zu würdigen?",
+      "anleitung": "Woche 33: DANKBARKEIT FÜR DAS SCHULJAHR — Den Blick auf das Gelungene richten.",
+      "fragen": [],
+      "hinweis": "Senden Sie eine kleine Dankeskarte an das Unterstützungsteam.",
+      "icon": "house",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie sprechen Sie negativ über das Klassenteam?",
+      "anleitung": "Woche 33: DANKBARKEIT FÜR DAS SCHULJAHR — Den Blick auf das Gelungene richten.",
+      "fragen": [],
+      "hinweis": "Danken Sie den Lehrkräften für ihren täglichen Einsatz.",
+      "icon": "house",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie loben Sie Ihr Kind nicht für seine persönliche Reifung?",
+      "anleitung": "Woche 33: DANKBARKEIT FÜR DAS SCHULJAHR — Den Blick auf das Gelungene richten.",
+      "fragen": [],
+      "hinweis": "Sagen Sie Ihrem Kind, wie stolz Sie auf seine Entwicklung sind.",
+      "icon": "house",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie gehen Sie ohne positives Gefühl in den Jahresabschluss?",
+      "anleitung": "Woche 33: DANKBARKEIT FÜR DAS SCHULJAHR — Den Blick auf das Gelungene richten.",
+      "fragen": [],
+      "hinweis": "Feiern Sie die gewachsene Gemeinschaft der Familie.",
+      "icon": "house",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie buchen Sie teure Sommerkurse statt freie Zeit zu lassen?",
+      "anleitung": "Woche 34: FREIZEITGESTALTUNG & NATUR-SOMMER — Abenteuer vor der Haustür erleben.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Raum für Langeweile – sie weckt Kreativität.",
+      "icon": "house",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie verbieten Sie schmutzige Kleidung beim Natur-Spielen?",
+      "anleitung": "Woche 34: FREIZEITGESTALTUNG & NATUR-SOMMER — Abenteuer vor der Haustür erleben.",
+      "fragen": [],
+      "hinweis": "Erlauben Sie Matsch-, Wasser- und Waldabenteuer.",
+      "icon": "house",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie vergessen Sie Nacht-Wanderungen oder Sterneschauen?",
+      "anleitung": "Woche 34: FREIZEITGESTALTUNG & NATUR-SOMMER — Abenteuer vor der Haustür erleben.",
+      "fragen": [],
+      "hinweis": "Nutzen Sie milde Sommerabende für kleine Überraschungen.",
+      "icon": "house",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie lassen Sie Ihr Kind nur drinnen vor Bildschirmen?",
+      "anleitung": "Woche 34: FREIZEITGESTALTUNG & NATUR-SOMMER — Abenteuer vor der Haustür erleben.",
+      "fragen": [],
+      "hinweis": "Schaffen Sie Anreize für Draußen-Spiele mit Freunden.",
+      "icon": "house",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie verplanen Sie das Sommer-Wochenende vollkommen?",
+      "anleitung": "Woche 34: FREIZEITGESTALTUNG & NATUR-SOMMER — Abenteuer vor der Haustür erleben.",
+      "fragen": [],
+      "hinweis": "Genießen Sie spontane Ferientage ohne festen Ablauf.",
+      "icon": "house",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie werfen Sie alte Schulhefte ungelesen in den Müll?",
+      "anleitung": "Woche 35: ABSCHLUSSARBEITEN & JAHRES-PORTFOLIO — Sammeln was gewachsen ist.",
+      "fragen": [],
+      "hinweis": "Schauen Sie sich die ersten Seiten aus dem Herbst gemeinsam an.",
+      "icon": "house",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie übersehen Sie den Fortschritt in der Handschrift/Mathe?",
+      "anleitung": "Woche 35: ABSCHLUSSARBEITEN & JAHRES-PORTFOLIO — Sammeln was gewachsen ist.",
+      "fragen": [],
+      "hinweis": "Staunen Sie gemeinsam, wie viel flüssiger die Dinge klappen.",
+      "icon": "house",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie lassen Sie Bastelarbeiten zerfleddern?",
+      "anleitung": "Woche 35: ABSCHLUSSARBEITEN & JAHRES-PORTFOLIO — Sammeln was gewachsen ist.",
+      "fragen": [],
+      "hinweis": "Bewahren Sie Lieblings-Werke in einer Erinnerungskiste auf.",
+      "icon": "house",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie verpassen Sie das Sortieren der Schulsachen?",
+      "anleitung": "Woche 35: ABSCHLUSSARBEITEN & JAHRES-PORTFOLIO — Sammeln was gewachsen ist.",
+      "fragen": [],
+      "hinweis": "Reinigen Sie den Ranzen für das kommende Schuljahr.",
+      "icon": "house",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie blicken Sie ungeduldig auf die Zeugnisvergabe?",
+      "anleitung": "Woche 35: ABSCHLUSSARBEITEN & JAHRES-PORTFOLIO — Sammeln was gewachsen ist.",
+      "fragen": [],
+      "hinweis": "Freuen Sie sich auf den feierlichen Schuljahres-Abschluss.",
+      "icon": "house",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie drohen Sie wegen möglicher schlechter Noten mit Strafe?",
+      "anleitung": "Woche 36: ZEUGNIS-VORBEREITUNG & BEDINGUNGSLOSE LIEBE — Halt geben vor der Zeugnisübergabe.",
+      "fragen": [],
+      "hinweis": "Versichern Sie Ihrem Kind: 'Unsere Liebe hängt an keiner Note!'",
+      "icon": "house",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie vergleichen Sie das Zeugnis mit Geschwistern?",
+      "anleitung": "Woche 36: ZEUGNIS-VORBEREITUNG & BEDINGUNGSLOSE LIEBE — Halt geben vor der Zeugnisübergabe.",
+      "fragen": [],
+      "hinweis": "Würdigen Sie die individuelle Anstrengung Ihres Kindes.",
+      "icon": "house",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie machen Sie das Zeugnis zum Hauptthema beim Abendessen?",
+      "anleitung": "Woche 36: ZEUGNIS-VORBEREITUNG & BEDINGUNGSLOSE LIEBE — Halt geben vor der Zeugnisübergabe.",
+      "fragen": [],
+      "hinweis": "Sprechen Sie über Sommerpläne und Schönes abseits der Schule.",
+      "icon": "house",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie nehmen Sie Ihrem Kind die Vorfreude auf die Ferien?",
+      "anleitung": "Woche 36: ZEUGNIS-VORBEREITUNG & BEDINGUNGSLOSE LIEBE — Halt geben vor der Zeugnisübergabe.",
+      "fragen": [],
+      "hinweis": "Strahlen Sie Sommer-Freude und Urlaubsstimmung aus.",
+      "icon": "house",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie gehen Sie angespannt in den vorletzten Schultag?",
+      "anleitung": "Woche 36: ZEUGNIS-VORBEREITUNG & BEDINGUNGSLOSE LIEBE — Halt geben vor der Zeugnisübergabe.",
+      "fragen": [],
+      "hinweis": "Schenken Sie Ihrem Kind Vertrauen und Gelassenheit.",
+      "icon": "house",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie reagieren Sie wütend auf eine schlechte Note im Zeugnis?",
+      "anleitung": "Woche 37: DER LETZTE SCHULTAG & ZEUGNIS-FEIER — Ein Schuljahr voller Wachstum würdigen.",
+      "fragen": [],
+      "hinweis": "Nehmen Sie Ihr Kind in den Arm: 'Wir schaffen das im neuen Jahr!'",
+      "icon": "house",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie belohnen Sie gute Noten mit Geld statt mit Nähe?",
+      "anleitung": "Woche 37: DER LETZTE SCHULTAG & ZEUGNIS-FEIER — Ein Schuljahr voller Wachstum würdigen.",
+      "fragen": [],
+      "hinweis": "Feiern Sie den Schulschluss mit einem Familien-Traditions-Essen.",
+      "icon": "house",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie vergessen Sie die Lehrkräfte zu verabschieden?",
+      "anleitung": "Woche 37: DER LETZTE SCHULTAG & ZEUGNIS-FEIER — Ein Schuljahr voller Wachstum würdigen.",
+      "fragen": [],
+      "hinweis": "Überreichen Sie eine kleine Aufmerksamkeit als Dank.",
+      "icon": "house",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie packen Sie den Ranzen nicht komplett weg?",
+      "anleitung": "Woche 37: DER LETZTE SCHULTAG & ZEUGNIS-FEIER — Ein Schuljahr voller Wachstum würdigen.",
+      "fragen": [],
+      "hinweis": "Räumen Sie Schulsachen am ersten Ferientag aus dem Blickfeld.",
+      "icon": "house",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie starten Sie mit Schul-Gedanken in die Sommerferien?",
+      "anleitung": "Woche 37: DER LETZTE SCHULTAG & ZEUGNIS-FEIER — Ein Schuljahr voller Wachstum würdigen.",
+      "fragen": [],
+      "hinweis": "Begrüßen Sie die Ferien mit Musik, Lachen und Freiheit!",
+      "icon": "house",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie kaufen Sie am 1. Ferientag Hefte für die nächste Klasse?",
+      "anleitung": "Woche 38: WILLKOMMEN IN DEN SOMMERFERIEN! — 6 Wochen Freiheit, Erholung und Familien-Zeit.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Schulthemen mindestens 4 Wochen komplett ruhen.",
+      "icon": "house",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie strukturieren Sie jeden Ferientag durch?",
+      "anleitung": "Woche 38: WILLKOMMEN IN DEN SOMMERFERIEN! — 6 Wochen Freiheit, Erholung und Familien-Zeit.",
+      "fragen": [],
+      "hinweis": "Lassen Sie Ihr Kind ausschlafen und den Tag selbst gestalten.",
+      "icon": "house",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie meckern Sie über das Kofferpacken?",
+      "anleitung": "Woche 38: WILLKOMMEN IN DEN SOMMERFERIEN! — 6 Wochen Freiheit, Erholung und Familien-Zeit.",
+      "fragen": [],
+      "hinweis": "Starten Sie entspannt und ohne Hektik in den Urlaub.",
+      "icon": "house",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie vergessen Sie das gemeinsame Lachen im Alltag?",
+      "anleitung": "Woche 38: WILLKOMMEN IN DEN SOMMERFERIEN! — 6 Wochen Freiheit, Erholung und Familien-Zeit.",
+      "fragen": [],
+      "hinweis": "Genießen Sie alberne, fröhliche Momente als Familie.",
+      "icon": "house",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie blicken Sie gesorgt in die Zukunft?",
+      "anleitung": "Woche 38: WILLKOMMEN IN DEN SOMMERFERIEN! — 6 Wochen Freiheit, Erholung und Familien-Zeit.",
+      "fragen": [],
+      "hinweis": "Genießen Sie den Sommer im Hier und Jetzt – Sie machen das wunderbar!",
+      "icon": "house",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}

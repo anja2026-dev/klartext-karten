@@ -1,0 +1,1720 @@
+{
+  "id": "jk-bvb",
+  "titel": "Jahreskarten-Set Berufsvorbereitung",
+  "untertitel": "Sabotage-Konferenz & Praxis-Schlüssel (190 Tage, ohne Maskottchen)",
+  "farbe": "#2F6B6E",
+  "farbe_hell": "#E6F0EF",
+  "farbe_rand": "#B9D6D3",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie kommen wir am ersten Arbeitstag 20 Minuten zu spät und ohne Entschuldigung?",
+      "anleitung": "Woche 1: ANKOMMEN IM BETRIEB & WERKSTATT-START — Pünktlichkeit und Arbeitskleidung bilden das Fundament.",
+      "fragen": [],
+      "hinweis": "Wir planen die Busverbindung mit 15 Minuten Puffer und erscheinen pünktlich.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie erscheinen wir in Sandalen und Trainingshose in der Metallwerkstatt?",
+      "anleitung": "Woche 1: ANKOMMEN IM BETRIEB & WERKSTATT-START — Pünktlichkeit und Arbeitskleidung bilden das Fundament.",
+      "fragen": [],
+      "hinweis": "Wir tragen am ersten Tag die vorgeschriebene PSA (Sicherheitsschuhe & Arbeitskleidung).",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie daddeln wir während der Sicherheitsunterweisung am Smartphone?",
+      "anleitung": "Woche 1: ANKOMMEN IM BETRIEB & WERKSTATT-START — Pünktlichkeit und Arbeitskleidung bilden das Fundament.",
+      "fragen": [],
+      "hinweis": "Das Smartphone bleibt während der Arbeits- und Einweisungszeit im Spind.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie ignorieren wir den Werkstattmeister, wenn er uns den Arbeitsauftrag erklärt?",
+      "anleitung": "Woche 1: ANKOMMEN IM BETRIEB & WERKSTATT-START — Pünktlichkeit und Arbeitskleidung bilden das Fundament.",
+      "fragen": [],
+      "hinweis": "Wir hören aufmerksam zu, machen Notizen und fragen bei Unklarheiten sofort nach.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie haut man am Freitagnachmittag ab, ohne den Arbeitsplatz aufzuräumen?",
+      "anleitung": "Woche 1: ANKOMMEN IM BETRIEB & WERKSTATT-START — Pünktlichkeit und Arbeitskleidung bilden das Fundament.",
+      "fragen": [],
+      "hinweis": "Wir säubern unseren Werkstattbereich gründlich und melden uns beim Anleiter ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie benutzen wir beschädigtes Werkzeug, bis eine Verletzung passiert?",
+      "anleitung": "Woche 2: WERKZEUGKUNDE & ARBEITSSCHUTZ (PSA) — Sicherheit hat vor jedem Arbeitsschritt Vorrang.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Werkzeuge vor Arbeitsbeginn auf Schäden und melden Mängel sofort.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie legen wir die Schutzbrille beim Schleifen ab, weil sie beschlägt?",
+      "anleitung": "Woche 2: WERKZEUGKUNDE & ARBEITSSCHUTZ (PSA) — Sicherheit hat vor jedem Arbeitsschritt Vorrang.",
+      "fragen": [],
+      "hinweis": "Wir tragen die Schutzbrille konsequent bei allen spanenden Arbeiten.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie lassen wir Öl- und Fettflecken auf dem Werkstattboden liegen?",
+      "anleitung": "Woche 2: WERKZEUGKUNDE & ARBEITSSCHUTZ (PSA) — Sicherheit hat vor jedem Arbeitsschritt Vorrang.",
+      "fragen": [],
+      "hinweis": "Wir beseitigen Rutschgefahren sofort mit Bindemittel.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie greifen wir in laufende Maschinen, um Zeit zu sparen?",
+      "anleitung": "Woche 2: WERKZEUGKUNDE & ARBEITSSCHUTZ (PSA) — Sicherheit hat vor jedem Arbeitsschritt Vorrang.",
+      "fragen": [],
+      "hinweis": "Wir schalten Maschinen vor jeder Reinigung oder Justierung stromlos.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie werfen wir Spezialwerkzeug ungeordnet in eine Werkzeugkiste?",
+      "anleitung": "Woche 2: WERKZEUGKUNDE & ARBEITSSCHUTZ (PSA) — Sicherheit hat vor jedem Arbeitsschritt Vorrang.",
+      "fragen": [],
+      "hinweis": "Wir sortieren Werkzeuge lückenlos in die vorgesehenen Einlagen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie beleidigen wir Kollegen, wenn sie einen Fehler bei der Montage machen?",
+      "anleitung": "Woche 3: TEAMARBEIT & WERKSTATT-KNIGGE — Respekt und Kooperation sichern den Arbeitserfolg.",
+      "fragen": [],
+      "hinweis": "Wir geben sachliches Feedback und bieten Unterstützung bei der Korrektur an.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie verweigern wir die Zusammenarbeit mit Mitschülern, die wir nicht mögen?",
+      "anleitung": "Woche 3: TEAMARBEIT & WERKSTATT-KNIGGE — Respekt und Kooperation sichern den Arbeitserfolg.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten professionell im Team – im Betrieb sucht man sich Kollegen nicht aus.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie nehmen wir Werkzeug vom Nachbartisch, ohne zu fragen?",
+      "anleitung": "Woche 3: TEAMARBEIT & WERKSTATT-KNIGGE — Respekt und Kooperation sichern den Arbeitserfolg.",
+      "fragen": [],
+      "hinweis": "Wir fragen höflich, bevor wir Materialien oder Werkzeuge anderer ausleihen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie verbreiten wir Gerüchte in der Mittagspause über Vorgesetzte?",
+      "anleitung": "Woche 3: TEAMARBEIT & WERKSTATT-KNIGGE — Respekt und Kooperation sichern den Arbeitserfolg.",
+      "fragen": [],
+      "hinweis": "Wir verhalten uns loyal und besprechen Konflikte direkt unter vier Augen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie lassen wir den jüngsten Azubi die ganze Aufräumarbeit alleine machen?",
+      "anleitung": "Woche 3: TEAMARBEIT & WERKSTATT-KNIGGE — Respekt und Kooperation sichern den Arbeitserfolg.",
+      "fragen": [],
+      "hinweis": "Wir teilen die Aufräumarbeiten am Schichtende gerecht unter allen auf.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie verschlafen wir montags und melden uns erst nachmittags krank?",
+      "anleitung": "Woche 4: PÜNKTLICHKEIT & FEHLZEITEN-MANAGEMENT — Zuverlässigkeit entscheidet über die Probezeit.",
+      "fragen": [],
+      "hinweis": "Bei Krankheit rufen wir Vorgesetzte VOR Arbeitsbeginn telefonisch an.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie fälschen wir Entschuldigungen für verpasste Berufsschultage?",
+      "anleitung": "Woche 4: PÜNKTLICHKEIT & FEHLZEITEN-MANAGEMENT — Zuverlässigkeit entscheidet über die Probezeit.",
+      "fragen": [],
+      "hinweis": "Wir reichen ärztliche Atteste stets fristgerecht im Original ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie verlängern wir die 30-minütige Mittagspause eigenmächtig auf 50 Minuten?",
+      "anleitung": "Woche 4: PÜNKTLICHKEIT & FEHLZEITEN-MANAGEMENT — Zuverlässigkeit entscheidet über die Probezeit.",
+      "fragen": [],
+      "hinweis": "Wir halten Pausenzeiten auf die Minute genau ein und stempeln korrekt.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie täuschen wir Bauchschmerzen vor, wenn eine schwere Aufgabe ansteht?",
+      "anleitung": "Woche 4: PÜNKTLICHKEIT & FEHLZEITEN-MANAGEMENT — Zuverlässigkeit entscheidet über die Probezeit.",
+      "fragen": [],
+      "hinweis": "Wir stellen uns Herausforderungen und bitten den Anleiter um Zwischenschritte.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie planen wir Arzttermine mitten in die Hauptarbeitszeit?",
+      "anleitung": "Woche 4: PÜNKTLICHKEIT & FEHLZEITEN-MANAGEMENT — Zuverlässigkeit entscheidet über die Probezeit.",
+      "fragen": [],
+      "hinweis": "Wir legen private Termine nach Möglichkeit auf die Zeit nach Schichtende.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie reagieren wir patzig und beleidigt, wenn der Meister ein Werkstück bemängelt?",
+      "anleitung": "Woche 5: UMGANG MIT KRITIK & FEEDBACK — Kritik ist ein kostenloses Coaching zur Verbesserung.",
+      "fragen": [],
+      "hinweis": "Wir hören ruhig zu, nehmen Hinweise an und korrigieren das Werkstück.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie schieben wir eigene Fehler im Berichtsheft auf den Sitznachbarn?",
+      "anleitung": "Woche 5: UMGANG MIT KRITIK & FEEDBACK — Kritik ist ein kostenloses Coaching zur Verbesserung.",
+      "fragen": [],
+      "hinweis": "Wir übernehmen Verantwortung für eigenes Handeln und stehen zu Fehlern.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie verdrehen wir die Augen, wenn Sicherheitsregeln korrigiert werden?",
+      "anleitung": "Woche 5: UMGANG MIT KRITIK & FEEDBACK — Kritik ist ein kostenloses Coaching zur Verbesserung.",
+      "fragen": [],
+      "hinweis": "Wir bedanken uns für den Hinweis – Sicherheit schützt unser eigenes Leben.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie sagen wir 'Das hat mir keiner gesagt!', obwohl es an der Tafel stand?",
+      "anleitung": "Woche 5: UMGANG MIT KRITIK & FEEDBACK — Kritik ist ein kostenloses Coaching zur Verbesserung.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Eigennotizen und übernehmen Hohl-Schuld bei Informationen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie ignorieren wir Verbesserungsvorschläge für die kommende Woche?",
+      "anleitung": "Woche 5: UMGANG MIT KRITIK & FEEDBACK — Kritik ist ein kostenloses Coaching zur Verbesserung.",
+      "fragen": [],
+      "hinweis": "Wir notieren 2 konkrete Punkte, die wir nächste Woche besser machen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie messen wir mit dem Messschieber schief ab und produzieren Ausschuss?",
+      "anleitung": "Woche 6: MESSGENAUIGKEIT & QUALITÄTSKONTROLLE — Präzision unterscheidet den Profi vom Laien.",
+      "fragen": [],
+      "hinweis": "Wir setzen Messzeuge rechtwinklig an und kontrollieren doppelt.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie ignorieren wir Toleranzangaben in der technischen Zeichnung?",
+      "anleitung": "Woche 6: MESSGENAUIGKEIT & QUALITÄTSKONTROLLE — Präzision unterscheidet den Profi vom Laien.",
+      "fragen": [],
+      "hinweis": "Wir halten Maße auf den Zehntelmillimeter genau ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie entsorgen wir fehlerhafte Bauteile heimlich im Mülleimer?",
+      "anleitung": "Woche 6: MESSGENAUIGKEIT & QUALITÄTSKONTROLLE — Präzision unterscheidet den Profi vom Laien.",
+      "fragen": [],
+      "hinweis": "Wir melden Ausschuss ehrlich beim Ausbilder zur Ursachenanalyse.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie arbeiten wir ohne Bauzeichnung nach Gefühl?",
+      "anleitung": "Woche 6: MESSGENAUIGKEIT & QUALITÄTSKONTROLLE — Präzision unterscheidet den Profi vom Laien.",
+      "fragen": [],
+      "hinweis": "Wir lesen erst die Zeichnung vollständig, bevor wir Rohmaterial zuschneiden.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie liefern wir ein unentsgratetes Werkstück mit scharfen Kanten ab?",
+      "anleitung": "Woche 6: MESSGENAUIGKEIT & QUALITÄTSKONTROLLE — Präzision unterscheidet den Profi vom Laien.",
+      "fragen": [],
+      "hinweis": "Wir entgraten alle Kanten sauber mit der Feile vor der Übergabe.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie schieben wir das Berichtsheft 8 Wochen vor uns her?",
+      "anleitung": "Woche 7: BERICHTSHEFT & DOKUMENTATION — Lückenlose Nachweise schützen den Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir dokumentieren täglich 5 Minuten lang die durchgeführten Arbeiten.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie schreiben wir nur 'Werkstatt gearbeitet' als Wochentext?",
+      "anleitung": "Woche 7: BERICHTSHEFT & DOKUMENTATION — Lückenlose Nachweise schützen den Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir beschreiben Tätigkeiten, Werkzeuge und Fachbegriffe präzise.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie reichen wir das Berichtsheft voll Kaffeeflecken ein?",
+      "anleitung": "Woche 7: BERICHTSHEFT & DOKUMENTATION — Lückenlose Nachweise schützen den Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir führen Berichtsunterlagen sauber, ordentlich und fleckenfrei.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie ignorieren wir die Unterschrift des Ausbilders?",
+      "anleitung": "Woche 7: BERICHTSHEFT & DOKUMENTATION — Lückenlose Nachweise schützen den Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir legen das Berichtsheft wöchentlich unaufgefordert zur Signatur vor.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie verlieren wir die Zeichnungen und Skizzen der Arbeitswoche?",
+      "anleitung": "Woche 7: BERICHTSHEFT & DOKUMENTATION — Lückenlose Nachweise schützen den Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir heften Skizzen und Zeichnungen direkt im Ordner ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie grüßen wir Kunden im Betrieb nicht und schauen weg?",
+      "anleitung": "Woche 8: KUNDENKONTAKT & DIENSTLEISTUNG — Der Kunde zahlt am Ende unsere Gehälter.",
+      "fragen": [],
+      "hinweis": "Wir grüßen Kunden freundlich mit Blickkontakt und bieten Hilfe an.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie nutzen wir Jugendsprache und Slang im Kundengespräch?",
+      "anleitung": "Woche 8: KUNDENKONTAKT & DIENSTLEISTUNG — Der Kunde zahlt am Ende unsere Gehälter.",
+      "fragen": [],
+      "hinweis": "Wir sprechen gewählte, höfliche und professionelle Schriftsprache.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie hinterlassen wir den Kundenbereich nach der Reparatur dreckig?",
+      "anleitung": "Woche 8: KUNDENKONTAKT & DIENSTLEISTUNG — Der Kunde zahlt am Ende unsere Gehälter.",
+      "fragen": [],
+      "hinweis": "Wir hinterlassen den Einsatzort sauberer, als wir ihn vorgefunden haben.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie versprechen wir Kunden Lieferzeiten, die unmöglich sind?",
+      "anleitung": "Woche 8: KUNDENKONTAKT & DIENSTLEISTUNG — Der Kunde zahlt am Ende unsere Gehälter.",
+      "fragen": [],
+      "hinweis": "Wir stimmen Terminangaben vorher verbindlich mit dem Meister ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie beschweren wir uns vor Kunden über den eigenen Chef?",
+      "anleitung": "Woche 8: KUNDENKONTAKT & DIENSTLEISTUNG — Der Kunde zahlt am Ende unsere Gehälter.",
+      "fragen": [],
+      "hinweis": "Wir treten gegenüber Dritten stets loyal und professionell auf.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie werfen wir den Hammer durch die Werkstatt, wenn was schiefgeht?",
+      "anleitung": "Woche 9: STRESSREGULATION & FRUSTRATIONSABBAU — Kühler Kopf schützt vor Abmahnungen.",
+      "fragen": [],
+      "hinweis": "Wir legen Werkzeug ab, atmen tief durch und machen 2 Minuten Pause.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie fluchen wir lautstark vor Kunden und Ausbildern?",
+      "anleitung": "Woche 9: STRESSREGULATION & FRUSTRATIONSABBAU — Kühler Kopf schützt vor Abmahnungen.",
+      "fragen": [],
+      "hinweis": "Wir achten auf professionelle Selbstbeherrschung in Frustmomenten.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie fressen wir Frust über unklare Aufgaben stumm in uns hinein?",
+      "anleitung": "Woche 9: STRESSREGULATION & FRUSTRATIONSABBAU — Kühler Kopf schützt vor Abmahnungen.",
+      "fragen": [],
+      "hinweis": "Wir suchen das klärende Gespräch mit dem Vertrauenslehrer oder INGRA.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie brechen wir unter Zeitdruck in Panik aus?",
+      "anleitung": "Woche 9: STRESSREGULATION & FRUSTRATIONSABBAU — Kühler Kopf schützt vor Abmahnungen.",
+      "fragen": [],
+      "hinweis": "Wir strukturieren Teilschritte nach Priorität und arbeiten ruhig ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie nehmen wir Ärger aus dem Betrieb mit ins Wochenende?",
+      "anleitung": "Woche 9: STRESSREGULATION & FRUSTRATIONSABBAU — Kühler Kopf schützt vor Abmahnungen.",
+      "fragen": [],
+      "hinweis": "Wir reflektieren die Woche am Freitag und schließen gedanklich ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie warten wir passiv darauf, dass die Schule uns ein Praktikum besorgt?",
+      "anleitung": "Woche 10: PRAKTIKUMSSUCHE & BEWERBUNGS-TÜV — Eigeninitiative öffnet Türen zu Praktikumsplätzen.",
+      "fragen": [],
+      "hinweis": "Wir recherchieren eigenständig 3 Wunschbetriebe in der Region.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie rufen wir bei Betrieben an und fragen 'Habt ihr Job?'",
+      "anleitung": "Woche 10: PRAKTIKUMSSUCHE & BEWERBUNGS-TÜV — Eigeninitiative öffnet Türen zu Praktikumsplätzen.",
+      "fragen": [],
+      "hinweis": "Wir bereiten einen professionellen Telefonleitfaden mit Namen vor.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie verschicken wir Anschreiben mit Rechtschreibfehlern?",
+      "anleitung": "Woche 10: PRAKTIKUMSSUCHE & BEWERBUNGS-TÜV — Eigeninitiative öffnet Türen zu Praktikumsplätzen.",
+      "fragen": [],
+      "hinweis": "Wir lassen Bewerbungsunterlagen vor dem Versand Gegenlesen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie knicken wir die Bewerbungsmappe beim Transport in der Tasche?",
+      "anleitung": "Woche 10: PRAKTIKUMSSUCHE & BEWERBUNGS-TÜV — Eigeninitiative öffnet Türen zu Praktikumsplätzen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen stabile Versandtaschen und saubere Mappen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie vergessen wir nach dem Anruf nachzufragen?",
+      "anleitung": "Woche 10: PRAKTIKUMSSUCHE & BEWERBUNGS-TÜV — Eigeninitiative öffnet Türen zu Praktikumsplätzen.",
+      "fragen": [],
+      "hinweis": "Wir notieren Ansprechpartner und fassen nach 5 Tagen telefonisch nach.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie zeigen wir im Betrieb Desinteresse und stehen nur rum?",
+      "anleitung": "Woche 11: PROBEZEIT-SICHERUNG & AUSBILDUNGSREIFE — Die ersten 4 Monate entscheiden über den Vertrag.",
+      "fragen": [],
+      "hinweis": "Wir fragen aktiv nach Arbeit: 'Was kann ich als Nächstes tun?'",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie verweigern wir Unkrautjäten oder Fegen als 'Niedere Arbeit'?",
+      "anleitung": "Woche 11: PROBEZEIT-SICHERUNG & AUSBILDUNGSREIFE — Die ersten 4 Monate entscheiden über den Vertrag.",
+      "fragen": [],
+      "hinweis": "Wir erledigen Grundlagenarbeiten sorgfältig – Ordnung gehört dazu.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie diskutiere ich jede Anweisung des Gesellen kaputt?",
+      "anleitung": "Woche 11: PROBEZEIT-SICHERUNG & AUSBILDUNGSREIFE — Die ersten 4 Monate entscheiden über den Vertrag.",
+      "fragen": [],
+      "hinweis": "Wir führen Anweisungen aus und stellen Fachfragen zur Logik.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie melden wir uns am Brückentag 'spontan' krank?",
+      "anleitung": "Woche 11: PROBEZEIT-SICHERUNG & AUSBILDUNGSREIFE — Die ersten 4 Monate entscheiden über den Vertrag.",
+      "fragen": [],
+      "hinweis": "Wir zeigen gerade vor/nach Feiertagen maximale Zuverlässigkeit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie gehen wir mit Abmahnungs-Gefahr um?",
+      "anleitung": "Woche 11: PROBEZEIT-SICHERUNG & AUSBILDUNGSREIFE — Die ersten 4 Monate entscheiden über den Vertrag.",
+      "fragen": [],
+      "hinweis": "Wir analysieren Kritikpunkte und stellen sie sofort ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie schneiden wir Material so falsch zu, dass die Hälfte Restmüll wird?",
+      "anleitung": "Woche 12: MATERIALKUNDE & RESSOURCEN-SCHONUNG — Nachhaltigkeit spart Betriebskosten.",
+      "fragen": [],
+      "hinweis": "Wir planen Zuschnitte verschnittarm auf dem Bogen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie lassen wir Leim- und Klebstoffdosen offen austrocknen?",
+      "anleitung": "Woche 12: MATERIALKUNDE & RESSOURCEN-SCHONUNG — Nachhaltigkeit spart Betriebskosten.",
+      "fragen": [],
+      "hinweis": "Wir verschließen Chemikalien und Klebstoffe sofort luftdicht.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie werfen wir wiederverwertbare Metallreste im Schrott zusammen?",
+      "anleitung": "Woche 12: MATERIALKUNDE & RESSOURCEN-SCHONUNG — Nachhaltigkeit spart Betriebskosten.",
+      "fragen": [],
+      "hinweis": "Wir trennen Buntmetalle, Stahl und Abfall sortenrein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie lassen wir Druckluftschläuche zischend lecken?",
+      "anleitung": "Woche 12: MATERIALKUNDE & RESSOURCEN-SCHONUNG — Nachhaltigkeit spart Betriebskosten.",
+      "fragen": [],
+      "hinweis": "Wir melden Leckagen und beschädigte Anschlüsse sofort.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie verschwenden wir Reinigungsmittel ohne Dosierung?",
+      "anleitung": "Woche 12: MATERIALKUNDE & RESSOURCEN-SCHONUNG — Nachhaltigkeit spart Betriebskosten.",
+      "fragen": [],
+      "hinweis": "Wir dosieren Putzmittel exakt nach Herstellervorgabe.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie kommen wir unvorbereitet ins Bewerbungsgespräch?",
+      "anleitung": "Woche 13: VORSTELLUNGSGESPRÄCH IM BETRIEB — Der erste Eindruck kennt keine zweite Chance.",
+      "fragen": [],
+      "hinweis": "Wir informieren uns vorab über Produkte und Zahlen des Betriebs.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie kauen wir Kaugummi und vermeiden Blickkontakt?",
+      "anleitung": "Woche 13: VORSTELLUNGSGESPRÄCH IM BETRIEB — Der erste Eindruck kennt keine zweite Chance.",
+      "fragen": [],
+      "hinweis": "Wir sitzen aufrecht, halten Blickkontakt und geben festen Händedruck.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie antworten wir auf Fragen nur mit 'Ja' oder 'Nein'?",
+      "anleitung": "Woche 13: VORSTELLUNGSGESPRÄCH IM BETRIEB — Der erste Eindruck kennt keine zweite Chance.",
+      "fragen": [],
+      "hinweis": "Wir antworten in vollständigen Sätzen und nennen Praxisbeispiele.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie kennen wir unsere eigenen Stärken und Lücken im Lebenslauf nicht?",
+      "anleitung": "Woche 13: VORSTELLUNGSGESPRÄCH IM BETRIEB — Der erste Eindruck kennt keine zweite Chance.",
+      "fragen": [],
+      "hinweis": "Wir erklären unseren Werdegang ehrlich und lösungsorientiert.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie stellen wir am Ende des Gesprächs keine eigenen Fragen?",
+      "anleitung": "Woche 13: VORSTELLUNGSGESPRÄCH IM BETRIEB — Der erste Eindruck kennt keine zweite Chance.",
+      "fragen": [],
+      "hinweis": "Wir stellen vorbereitete Fragen zu Ausbildungsinhalten und Team.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie nutzen wir Kabel mit beschädigter Isolierung weiter?",
+      "anleitung": "Woche 14: ELEKTRO- & MASCHINENSICHERHEIT — Strom und Mechanik verzeihen keine Leichtfertigkeit.",
+      "fragen": [],
+      "hinweis": "Wir nehmen defekte Elektrogeräte sofort aus dem Verkehr.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie überbrücken wir Sicherungen oder Schutzschalter?",
+      "anleitung": "Woche 14: ELEKTRO- & MASCHINENSICHERHEIT — Strom und Mechanik verzeihen keine Leichtfertigkeit.",
+      "fragen": [],
+      "hinweis": "Wir lassen Schutzschaltungen NIEMALS außer Kraft.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie tragen wir lange Haare oder Ketten an der Bohrmaschine?",
+      "anleitung": "Woche 14: ELEKTRO- & MASCHINENSICHERHEIT — Strom und Mechanik verzeihen keine Leichtfertigkeit.",
+      "fragen": [],
+      "hinweis": "Wir binden Haare zurück und legen Schmuck/Ketten komplett ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie lassen wir Werkstücke beim Bohren ungeklemmt?",
+      "anleitung": "Woche 14: ELEKTRO- & MASCHINENSICHERHEIT — Strom und Mechanik verzeihen keine Leichtfertigkeit.",
+      "fragen": [],
+      "hinweis": "Wir spannen Bauteile immer fest im Maschinenschraubstock ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie verlassen wir die Maschine, während sie ausläuft?",
+      "anleitung": "Woche 14: ELEKTRO- & MASCHINENSICHERHEIT — Strom und Mechanik verzeihen keine Leichtfertigkeit.",
+      "fragen": [],
+      "hinweis": "Wir warten den Stillstand ab und sichern die Maschine.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie trödeln wir bei einfachen Arbeitsschritten zielgerichtet?",
+      "anleitung": "Woche 15: AUFTRAGSZEIT & ZEITKALKULATION — Effizienz ohne Pfusch sichert Erträge.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten zügig und halten Vorgabezeiten ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie hetzen wir so sehr, dass Nacharbeit nötig wird?",
+      "anleitung": "Woche 15: AUFTRAGSZEIT & ZEITKALKULATION — Effizienz ohne Pfusch sichert Erträge.",
+      "fragen": [],
+      "hinweis": "Wir finden die Balance aus Geschwindigkeit und Qualität.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie machen wir Pausen außerhalb der vereinbarten Zeiten?",
+      "anleitung": "Woche 15: AUFTRAGSZEIT & ZEITKALKULATION — Effizienz ohne Pfusch sichert Erträge.",
+      "fragen": [],
+      "hinweis": "Wir takten Arbeitsphasen nach Betriebsplan.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie vergessen wir die Zeiterfassung auf dem Laufzettel?",
+      "anleitung": "Woche 15: AUFTRAGSZEIT & ZEITKALKULATION — Effizienz ohne Pfusch sichert Erträge.",
+      "fragen": [],
+      "hinweis": "Wir tragen Arbeitszeiten exakt auf dem Auftragsbogen ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie schätzen wir die Dauer für Folgeaufträge völlig falsch ein?",
+      "anleitung": "Woche 15: AUFTRAGSZEIT & ZEITKALKULATION — Effizienz ohne Pfusch sichert Erträge.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen Ist- und Soll-Zeiten zur Kalibrierung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie duzen wir den Geschäftsführer am ersten Tag ungefragt?",
+      "anleitung": "Woche 16: BETRIEBLICHE HIERARCHIEN & ROLLEN — Jeder Platz im Betrieb hat seine Funktion.",
+      "fragen": [],
+      "hinweis": "Wir siezen Vorgesetzte, bis das 'Du' explizit angeboten wird.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie übergehen wir den direkten Ausbilder bei Problemen?",
+      "anleitung": "Woche 16: BETRIEBLICHE HIERARCHIEN & ROLLEN — Jeder Platz im Betrieb hat seine Funktion.",
+      "fragen": [],
+      "hinweis": "Wir halten den Dienstweg ein: Erst Anleiter, dann Chef.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie verhalten wir uns Besserwisserisch gegenüber Altgesellen?",
+      "anleitung": "Woche 16: BETRIEBLICHE HIERARCHIEN & ROLLEN — Jeder Platz im Betrieb hat seine Funktion.",
+      "fragen": [],
+      "hinweis": "Wir respektieren die Berufserfahrung langjähriger Mitarbeiter.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie verweigern wir die Teilnahme an der Teambesprechung?",
+      "anleitung": "Woche 16: BETRIEBLICHE HIERARCHIEN & ROLLEN — Jeder Platz im Betrieb hat seine Funktion.",
+      "fragen": [],
+      "hinweis": "Wir bringen uns konstruktiv in Schichtübergaben ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie stellen wir eigene Interessen über den Betriebserfolg?",
+      "anleitung": "Woche 16: BETRIEBLICHE HIERARCHIEN & ROLLEN — Jeder Platz im Betrieb hat seine Funktion.",
+      "fragen": [],
+      "hinweis": "Wir verstehen uns als Teil des Gesamtsystems Firma.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie geben wir das erste Praktikumsgehalt am 1. Tag komplett aus?",
+      "anleitung": "Woche 17: FINANZBILDUNG & AUSBILDUNGSVERGÜTUNG — Geldverstand schützt vor der Schuldenfalle.",
+      "fragen": [],
+      "hinweis": "Wir erstellen einen Haushaltsplan für feste Ausgaben.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie schließen wir teure Ratenverträge für Smartphones ab?",
+      "anleitung": "Woche 17: FINANZBILDUNG & AUSBILDUNGSVERGÜTUNG — Geldverstand schützt vor der Schuldenfalle.",
+      "fragen": [],
+      "hinweis": "Wir vermeiden Konsumschulden und Ratenkäufe.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie verstehen■ wir den Unterschied zwischen Brutto und Netto nicht?",
+      "anleitung": "Woche 17: FINANZBILDUNG & AUSBILDUNGSVERGÜTUNG — Geldverstand schützt vor der Schuldenfalle.",
+      "fragen": [],
+      "hinweis": "Wir prüfen die Lohnabrechnung auf Abzüge und Sozialabgaben.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie vergessen wir Anträge auf BAföG oder BAB zu stellen?",
+      "anleitung": "Woche 17: FINANZBILDUNG & AUSBILDUNGSVERGÜTUNG — Geldverstand schützt vor der Schuldenfalle.",
+      "fragen": [],
+      "hinweis": "Wir beantragen Förderleistungen frühzeitig mit allen Nachweisen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie bilden wir keinerlei Rücklagen für Notfälle?",
+      "anleitung": "Woche 17: FINANZBILDUNG & AUSBILDUNGSVERGÜTUNG — Geldverstand schützt vor der Schuldenfalle.",
+      "fragen": [],
+      "hinweis": "Wir sparen monatlich einen festen Betrag auf dem Sparkonto.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie zocken wir bis 3 Uhr nachts vor der Frühschicht?",
+      "anleitung": "Woche 18: SCHICHTARBEIT & SCHLAFHYGIENE — Fit in der Frühschicht durch gutes Timing.",
+      "fragen": [],
+      "hinweis": "Wir sichern 7–8 Stunden Schlaf vor Arbeitstagen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie ernähren wir uns nur von Energy-Drinks und Junkfood?",
+      "anleitung": "Woche 18: SCHICHTARBEIT & SCHLAFHYGIENE — Fit in der Frühschicht durch gutes Timing.",
+      "fragen": [],
+      "hinweis": "Wir versorgen den Körper mit ausgewogener Nahrung und Wasser.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie kommen wir übermüdet an gefährliche Maschinen?",
+      "anleitung": "Woche 18: SCHICHTARBEIT & SCHLAFHYGIENE — Fit in der Frühschicht durch gutes Timing.",
+      "fragen": [],
+      "hinweis": "Wir melden Fahr- und Bedienuntauglichkeit vor Unfällen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie verpennen wir die Spätschicht durch fehlenden Wecker?",
+      "anleitung": "Woche 18: SCHICHTARBEIT & SCHLAFHYGIENE — Fit in der Frühschicht durch gutes Timing.",
+      "fragen": [],
+      "hinweis": "Wir stellen zwei voneinander unabhängige Wecker.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie nutzen wir das Wochenende nur zum Durchmachen?",
+      "anleitung": "Woche 18: SCHICHTARBEIT & SCHLAFHYGIENE — Fit in der Frühschicht durch gutes Timing.",
+      "fragen": [],
+      "hinweis": "Wir halten den Schlafrhythmus auch am Wochenende stabil.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie ignorieren wir Lücken im Kompetenz-Portfolio?",
+      "anleitung": "Woche 19: HALBJAHRES-CHECK & ZERTIFIKATS-VORBEREITUNG — Standortbestimmung für den Einstieg.",
+      "fragen": [],
+      "hinweis": "Wir prüfen erreichte Modul-Bausteine mit dem Anleiter.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie streiten wir über die Beurteilung im Praxiszeugnis?",
+      "anleitung": "Woche 19: HALBJAHRES-CHECK & ZERTIFIKATS-VORBEREITUNG — Standortbestimmung für den Einstieg.",
+      "fragen": [],
+      "hinweis": "Wir erfragen konkrete Beispiele für Entwicklungsfelder.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie stellen wir keine Anträge auf Nachteilsausgleich?",
+      "anleitung": "Woche 19: HALBJAHRES-CHECK & ZERTIFIKATS-VORBEREITUNG — Standortbestimmung für den Einstieg.",
+      "fragen": [],
+      "hinweis": "Wir reichen Atteste für Prüfungsanpassungen rechtzeitig ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie geben wir kurz vor dem Ziel entmutigt auf?",
+      "anleitung": "Woche 19: HALBJAHRES-CHECK & ZERTIFIKATS-VORBEREITUNG — Standortbestimmung für den Einstieg.",
+      "fragen": [],
+      "hinweis": "Wir aktivieren persönliche Ressourcen und Durchhaltevermögen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie feiern wir erreichte Teilqualifikationen nicht?",
+      "anleitung": "Woche 19: HALBJAHRES-CHECK & ZERTIFIKATS-VORBEREITUNG — Standortbestimmung für den Einstieg.",
+      "fragen": [],
+      "hinweis": "Wir nehmen das Halbjahres-Zertifikat als Ansporn mit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie stehen wir am Praktikumsbetrieb vor verschlossener Tür?",
+      "anleitung": "Woche 20: PRAKTIKUMSSTART IM WUNSCHBETRIEB — Die Chance auf Übernahme ergreifen.",
+      "fragen": [],
+      "hinweis": "Wir klären Adresse, Ansprechpartner und Uhrzeit 3 Tage vorab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie vergessen wir den Namen unseres Praxis-Anleiters?",
+      "anleitung": "Woche 20: PRAKTIKUMSSTART IM WUNSCHBETRIEB — Die Chance auf Übernahme ergreifen.",
+      "fragen": [],
+      "hinweis": "Wir notieren Namen und Funktionen wichtiger Mitarbeiter.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie warten wir im Aufenthaltsraum, bis man uns abholt?",
+      "anleitung": "Woche 20: PRAKTIKUMSSTART IM WUNSCHBETRIEB — Die Chance auf Übernahme ergreifen.",
+      "fragen": [],
+      "hinweis": "Wir melden uns pünktlich an der Rezeption / Meisterbude.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie fotografieren wir interne Betriebsabläufe fürs Smartphone?",
+      "anleitung": "Woche 20: PRAKTIKUMSSTART IM WUNSCHBETRIEB — Die Chance auf Übernahme ergreifen.",
+      "fragen": [],
+      "hinweis": "Wir achten strikt auf Geheimhaltung und Datenschutz im Betrieb.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie gehen wir freitags ohne Wochenrückmeldung nach Hause?",
+      "anleitung": "Woche 20: PRAKTIKUMSSTART IM WUNSCHBETRIEB — Die Chance auf Übernahme ergreifen.",
+      "fragen": [],
+      "hinweis": "Wir bitten den Anleiter um 5 Minuten Feedback zur 1. Woche.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie wählen wir das falsche Sägeblatt für Edelstahl aus?",
+      "anleitung": "Woche 21: AUFTRAGSABWICKLUNG & WERKSTOFFBEARBEITUNG — Vom Rohmaterial zum fertigen Produkt.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Materialeigenschaften und Werkzeugeignung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie kühlen wir beim Bohren nicht und ruinieren den Bohrer?",
+      "anleitung": "Woche 21: AUFTRAGSABWICKLUNG & WERKSTOFFBEARBEITUNG — Vom Rohmaterial zum fertigen Produkt.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Kühlschmierstoffe zur Standzeitverlängerung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie verwechseln wir Holzleimarten für innen und außen?",
+      "anleitung": "Woche 21: AUFTRAGSABWICKLUNG & WERKSTOFFBEARBEITUNG — Vom Rohmaterial zum fertigen Produkt.",
+      "fragen": [],
+      "hinweis": "Wir lesen Verarbeitungshinweise auf den Gebinden.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie schleifen wir Werkstücke ohne Staubabsaugung?",
+      "anleitung": "Woche 21: AUFTRAGSABWICKLUNG & WERKSTOFFBEARBEITUNG — Vom Rohmaterial zum fertigen Produkt.",
+      "fragen": [],
+      "hinweis": "Wir schalten Absauganlagen vor Arbeitsbeginn ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie verpacken wir fertige Ware ohne Schutz vor Kratzern?",
+      "anleitung": "Woche 21: AUFTRAGSABWICKLUNG & WERKSTOFFBEARBEITUNG — Vom Rohmaterial zum fertigen Produkt.",
+      "fragen": [],
+      "hinweis": "Wir sichern Produkte transportsicher mit Folie/Karton.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie schreien wir Gesellen an, wenn eine Anweisung nervt?",
+      "anleitung": "Woche 22: KONFLIKTE IM BETRIEB LÖSEN — Klärung statt Eskalation am Arbeitsplatz.",
+      "fragen": [],
+      "hinweis": "Wir antworten sachlich und besprechen Einwände nach dem Arbeitsgang.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie bilden wir Cliquen im Betrieb gegen einzelne Azubis?",
+      "anleitung": "Woche 22: KONFLIKTE IM BETRIEB LÖSEN — Klärung statt Eskalation am Arbeitsplatz.",
+      "fragen": [],
+      "hinweis": "Wir fördern den Zusammenhalt unter allen Auszubildenden.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie rennen wir wegen Kleinigkeiten sofort zum Betriebsrat?",
+      "anleitung": "Woche 22: KONFLIKTE IM BETRIEB LÖSEN — Klärung statt Eskalation am Arbeitsplatz.",
+      "fragen": [],
+      "hinweis": "Wir suchen erst das direkte Gespräch mit der Vertrauensperson.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie verbreiten wir Unwahrheiten über Firmenentscheidungen?",
+      "anleitung": "Woche 22: KONFLIKTE IM BETRIEB LÖSEN — Klärung statt Eskalation am Arbeitsplatz.",
+      "fragen": [],
+      "hinweis": "Wir fragen bei Unklarheiten direkt bei der Betriebsleitung nach.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie verweigern wir die Versöhnung nach einem Streit?",
+      "anleitung": "Woche 22: KONFLIKTE IM BETRIEB LÖSEN — Klärung statt Eskalation am Arbeitsplatz.",
+      "fragen": [],
+      "hinweis": "Wir klären Missverständnisse vor dem Schichtende komplett.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie lernen wir erst am Abend vor der Zwischenprüfung?",
+      "anleitung": "Woche 23: LERN- & PRÜFUNGSSTRATEGIEN FÜR DIE THEORIE — Theoriewissen sichert den Berufsabschluss.",
+      "fragen": [],
+      "hinweis": "Wir verteilen Lerninhalte auf tägliche 20-Minuten-Happen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie lesen wir Texte nur passiv durch, ohne zu verstehen?",
+      "anleitung": "Woche 23: LERN- & PRÜFUNGSSTRATEGIEN FÜR DIE THEORIE — Theoriewissen sichert den Berufsabschluss.",
+      "fragen": [],
+      "hinweis": "Wir erstellen eigene Lernkarten und Skizzen zur Anwendung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie ignorieren wir mathematische Formeln zur Flächenberechnung?",
+      "anleitung": "Woche 23: LERN- & PRÜFUNGSSTRATEGIEN FÜR DIE THEORIE — Theoriewissen sichert den Berufsabschluss.",
+      "fragen": [],
+      "hinweis": "Wir üben Grundrechenarten anhand realer Werkstücke.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie verzweifeln wir an Fachbegriffen im Lehrbuch?",
+      "anleitung": "Woche 23: LERN- & PRÜFUNGSSTRATEGIEN FÜR DIE THEORIE — Theoriewissen sichert den Berufsabschluss.",
+      "fragen": [],
+      "hinweis": "Wir führen ein eigenes Fachwörterbuch mit Erklärungen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie gehen wir ohne Zwischenprüfungstests in die Klausur?",
+      "anleitung": "Woche 23: LERN- & PRÜFUNGSSTRATEGIEN FÜR DIE THEORIE — Theoriewissen sichert den Berufsabschluss.",
+      "fragen": [],
+      "hinweis": "Wir simulieren Prüfungsfragen unter Echtzeit-Bedingungen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie gießen wir Altöl oder Lösungsmittel in den Abfluss?",
+      "anleitung": "Woche 24: UMWELTSCHUTZ & GEFAHRSTOFF-HANDLING — Verantwortung für Umwelt und Gesundheit.",
+      "fragen": [],
+      "hinweis": "Wir entsorgen Gefahrstoffe in den vorgesehenen Spezialbehältern.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie lagern wir brennbare Stoffe neben der Schweißkabine?",
+      "anleitung": "Woche 24: UMWELTSCHUTZ & GEFAHRSTOFF-HANDLING — Verantwortung für Umwelt und Gesundheit.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Gefahrstoffschränke mit Belüftung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie arbeiten wir mit Säuren ohne Chemikalienschutzhandschuhe?",
+      "anleitung": "Woche 24: UMWELTSCHUTZ & GEFAHRSTOFF-HANDLING — Verantwortung für Umwelt und Gesundheit.",
+      "fragen": [],
+      "hinweis": "Wir tragen die vorgeschriebene Sicherheitsausrüstung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie ignorieren wir Sicherheitsdatenblätter (SDB)?",
+      "anleitung": "Woche 24: UMWELTSCHUTZ & GEFAHRSTOFF-HANDLING — Verantwortung für Umwelt und Gesundheit.",
+      "fragen": [],
+      "hinweis": "Wir lesen Kennzeichnungssymbole und Schutzmaßnahmen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie lassen wir leere Spraydosen in der Sonne liegen?",
+      "anleitung": "Woche 24: UMWELTSCHUTZ & GEFAHRSTOFF-HANDLING — Verantwortung für Umwelt und Gesundheit.",
+      "fragen": [],
+      "hinweis": "Wir entsorgen Druckgaspackungen fachgerecht.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie haken wir Bewerbungen ab, von denen wir nichts hören?",
+      "anleitung": "Woche 25: BEWERBUNGS-NACHFASSUNG & REAKTIVIERUNG — Am Ball bleiben führt zum Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir rufen nach 10 Tagen höflich in der Personalabteilung nach.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie lassen wir Absagen als persönliche Niederlage an uns ran?",
+      "anleitung": "Woche 25: BEWERBUNGS-NACHFASSUNG & REAKTIVIERUNG — Am Ball bleiben führt zum Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Absagen zur Optimierung der Bewerbungsmappe.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie vergessen wir Rückrufe von Betrieben zu tätigen?",
+      "anleitung": "Woche 25: BEWERBUNGS-NACHFASSUNG & REAKTIVIERUNG — Am Ball bleiben führt zum Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir prüfen täglich Mailbox und E-Mail-Postfach.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie lehnen wir Praktikumsangebote in unbekannten Branchen ab?",
+      "anleitung": "Woche 25: BEWERBUNGS-NACHFASSUNG & REAKTIVIERUNG — Am Ball bleiben führt zum Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Probepraktika zur Erweiterung des Horizonts.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie sichern wir mündliche Zusagen nicht schriftlich ab?",
+      "anleitung": "Woche 25: BEWERBUNGS-NACHFASSUNG & REAKTIVIERUNG — Am Ball bleiben führt zum Ausbildungsvertrag.",
+      "fragen": [],
+      "hinweis": "Wir bitten um eine schriftliche Bestätigung des Praktikums.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie machen wir Tik-Tok-Videos am Arbeitsplatz während der Schicht?",
+      "anleitung": "Woche 26: DIGITALE MEDIEN IM BETRIEB — Smartphones professionell einsetzen.",
+      "fragen": [],
+      "hinweis": "Smartphones bleiben am Arbeitsplatz stumm in der Tasche.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie fotografieren wir vertrauliche Kundenpläne fürs Netz?",
+      "anleitung": "Woche 26: DIGITALE MEDIEN IM BETRIEB — Smartphones professionell einsetzen.",
+      "fragen": [],
+      "hinweis": "Wir beachten das strikte Fotoverbot in Firmenräumen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie nutzen wir Firmen-Tablets für private Spiele?",
+      "anleitung": "Woche 26: DIGITALE MEDIEN IM BETRIEB — Smartphones professionell einsetzen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Dienstgeräte ausschließlich für betriebliche Aufgaben.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie antworten wir auf Kunden-E-Mails ohne Anrede?",
+      "anleitung": "Woche 26: DIGITALE MEDIEN IM BETRIEB — Smartphones professionell einsetzen.",
+      "fragen": [],
+      "hinweis": "Wir schreiben geschäftliche Mails nach DIN-Norm und Anrede.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie posten wir negativen Frust über den Chef auf Instagram?",
+      "anleitung": "Woche 26: DIGITALE MEDIEN IM BETRIEB — Smartphones professionell einsetzen.",
+      "fragen": [],
+      "hinweis": "Wir halten soziale Medien frei von internen Firmeninterna.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie sagen wir 'Das haben wir schon immer so gemacht!'?",
+      "anleitung": "Woche 27: QUALITÄTSMANAGEMENT & KVP — Ständige Verbesserung sichert den Standort.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Arbeitsabläufe auf Einsparpotenziale.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie ignorieren wir Fehler in der Serienfertigung?",
+      "anleitung": "Woche 27: QUALITÄTSMANAGEMENT & KVP — Ständige Verbesserung sichert den Standort.",
+      "fragen": [],
+      "hinweis": "Wir stoppen die Produktion bei systematischen Abweichungen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie bringen wir eigene Verbesserungsvorschläge nicht ein?",
+      "anleitung": "Woche 27: QUALITÄTSMANAGEMENT & KVP — Ständige Verbesserung sichert den Standort.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das betriebliche Vorschlagswesen (KVP).",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie lassen wir Prüfmittel unkalibriert im Einsatz?",
+      "anleitung": "Woche 27: QUALITÄTSMANAGEMENT & KVP — Ständige Verbesserung sichert den Standort.",
+      "fragen": [],
+      "hinweis": "Wir achten auf gültige Prüfplaketten an Messgeräten.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie dokumentieren wir Qualitätsabweichungen unvollständig?",
+      "anleitung": "Woche 27: QUALITÄTSMANAGEMENT & KVP — Ständige Verbesserung sichert den Standort.",
+      "fragen": [],
+      "hinweis": "Wir füllen Prüfprotokolle lückenlos und ehrlich aus.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie heben wir schwere Kisten aus dem krummen Rücken?",
+      "anleitung": "Woche 28: GESUNDHEITSFÖRDERUNG & ERGONOMIE — Der Körper ist das wichtigste Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir heben schwere Lasten aus den Beinen mit geradem Rücken.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie arbeiten wir an zu niedrigen Tischen stundenlang gebückt?",
+      "anleitung": "Woche 28: GESUNDHEITSFÖRDERUNG & ERGONOMIE — Der Körper ist das wichtigste Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir stellen Arbeitstische ergonomisch auf Ellbogenhöhe ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie verzichten wir auf Gehörschutz bei dauerhaftem Lärm?",
+      "anleitung": "Woche 28: GESUNDHEITSFÖRDERUNG & ERGONOMIE — Der Körper ist das wichtigste Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir tragen Kapselgehörschutz ab 85 dB Lärmpegel.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie arbeiten wir ohne Pausen durch, bis der Rücken schmerzt?",
+      "anleitung": "Woche 28: GESUNDHEITSFÖRDERUNG & ERGONOMIE — Der Körper ist das wichtigste Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Ausgleichsübungen in den kurzen Pausen.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie ignorieren wir chronische Warnsignale des Körpers?",
+      "anleitung": "Woche 28: GESUNDHEITSFÖRDERUNG & ERGONOMIE — Der Körper ist das wichtigste Werkzeug.",
+      "fragen": [],
+      "hinweis": "Wir konsultieren den Betriebsarzt bei Dauerbeschwerden.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie lassen wir die Auswertungsbögen des Betriebs unvollständig?",
+      "anleitung": "Woche 29: OSTER-CHECK & PRAKTIKUMS-AUSWERTUNG — Bilanz ziehen für die Endphase.",
+      "fragen": [],
+      "hinweis": "Wir bitten den Praktikumsbetrieb um die Beurteilung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie vergessen wir das Dankesschreiben an den Betrieb?",
+      "anleitung": "Woche 29: OSTER-CHECK & PRAKTIKUMS-AUSWERTUNG — Bilanz ziehen für die Endphase.",
+      "fragen": [],
+      "hinweis": "Wir überreichen ein persönliches Dankeschön an das Team.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie reflektieren wir die eigenen Stärken im Praktikum nicht?",
+      "anleitung": "Woche 29: OSTER-CHECK & PRAKTIKUMS-AUSWERTUNG — Bilanz ziehen für die Endphase.",
+      "fragen": [],
+      "hinweis": "Wir übertragen gelungene Tätigkeiten ins Portfolio.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie verpassen wir die Frist für Folgebewerbungen?",
+      "anleitung": "Woche 29: OSTER-CHECK & PRAKTIKUMS-AUSWERTUNG — Bilanz ziehen für die Endphase.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den Schwung für direkte Ausbildungsplatz-Anträge.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie gehen wir ungeklärte Fragen vor den Feiertagen nicht an?",
+      "anleitung": "Woche 29: OSTER-CHECK & PRAKTIKUMS-AUSWERTUNG — Bilanz ziehen für die Endphase.",
+      "fragen": [],
+      "hinweis": "Wir klären verbleibende Aufgaben vor dem Oster-Wochenende.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie verpassen wir die Rückmeldefrist für Ausbildungsverträge?",
+      "anleitung": "Woche 30: AUSBILDUNGSVERTRAG-SHOWDOWN — Den Übergang in die feste Ausbildung sichern.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Ausbildungsverträge zügig und senden sie unterzeichnet zurück.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie unterschreiben wir Verträge, ohne Rechte und Pflichten zu lesen?",
+      "anleitung": "Woche 30: AUSBILDUNGSVERTRAG-SHOWDOWN — Den Übergang in die feste Ausbildung sichern.",
+      "fragen": [],
+      "hinweis": "Wir lesen Ausbildungsordnung, Ausbildungsvergütung und Arbeitszeiten durch.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie vergessen wir die ärztliche Erstuntersuchung vor Ausbildungsbeginn?",
+      "anleitung": "Woche 30: AUSBILDUNGSVERTRAG-SHOWDOWN — Den Übergang in die feste Ausbildung sichern.",
+      "fragen": [],
+      "hinweis": "Wir vereinbaren rechtzeitig den Termin beim Jugendarzt.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie reichen wir die Sozialversicherungsnummer nicht beim Betrieb ein?",
+      "anleitung": "Woche 30: AUSBILDUNGSVERTRAG-SHOWDOWN — Den Übergang in die feste Ausbildung sichern.",
+      "fragen": [],
+      "hinweis": "Wir beantragen Sozialversicherungsausweis und Krankenkassenbescheinigung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie sagen wir zweite Ausbildungsangebote nicht ab?",
+      "anleitung": "Woche 30: AUSBILDUNGSVERTRAG-SHOWDOWN — Den Übergang in die feste Ausbildung sichern.",
+      "fragen": [],
+      "hinweis": "Wir sagen Ersatzbetrieben höflich und zügig ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie beginnen wir die Projektarbeit ohne Materialliste?",
+      "anleitung": "Woche 31: PROJEKTARBEIT & ABSCHLUSS-WERKSTÜCK — Beweis der praktischen Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir erstellen Arbeitsablaufplan, Stückliste und Werkzeugplan.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie verpassen wir den Abgabetermin der Dokumentation?",
+      "anleitung": "Woche 31: PROJEKTARBEIT & ABSCHLUSS-WERKSTÜCK — Beweis der praktischen Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir planen Meilensteine mit 2 Tagen Sicherheitspuffer.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie fertigen wir das Werkstück maßabweichend an?",
+      "anleitung": "Woche 31: PROJEKTARBEIT & ABSCHLUSS-WERKSTÜCK — Beweis der praktischen Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir kontrollieren Maße nach jedem einzelnen Fertigungsschritt.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie präsentieren wir das Werkstück ohne Fachbegriffe?",
+      "anleitung": "Woche 31: PROJEKTARBEIT & ABSCHLUSS-WERKSTÜCK — Beweis der praktischen Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir nutzen präzise Fachsprache bei der Fachbearbeiter-Präsentation.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie lassen wir das Projekt unvollständig zur Bewertung stehen?",
+      "anleitung": "Woche 31: PROJEKTARBEIT & ABSCHLUSS-WERKSTÜCK — Beweis der praktischen Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir liefern ein makelloses, funktionstüchtiges Projektstück ab.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie ignorieren wir Post von der Agentur für Arbeit?",
+      "anleitung": "Woche 32: KOMMUNIKATION MIT BEHÖRDEN & ÄMTERN — Eigenständiges Handeln im Erwachsenenleben.",
+      "fragen": [],
+      "hinweis": "Wir öffnen behördliche Post sofort und halten Meldefristen ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie füllen wir Formulare unvollständig aus?",
+      "anleitung": "Woche 32: KOMMUNIKATION MIT BEHÖRDEN & ÄMTERN — Eigenständiges Handeln im Erwachsenenleben.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Ausfüllhilfen und prüfen alle Angaben auf Richtigkeit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie verpassen wir Termine beim Berufsberater?",
+      "anleitung": "Woche 32: KOMMUNIKATION MIT BEHÖRDEN & ÄMTERN — Eigenständiges Handeln im Erwachsenenleben.",
+      "fragen": [],
+      "hinweis": "Wir tragen Amtstermine im Kalender ein und erscheinen pünktlich.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie vergessen wir die Kontoverbindung für Förderungen anzugeben?",
+      "anleitung": "Woche 32: KOMMUNIKATION MIT BEHÖRDEN & ÄMTERN — Eigenständiges Handeln im Erwachsenenleben.",
+      "fragen": [],
+      "hinweis": "Wir halten IBAN und Steuer-ID griffbereit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie entsorgen wir wichtige Nachweise ohne Abheften?",
+      "anleitung": "Woche 32: KOMMUNIKATION MIT BEHÖRDEN & ÄMTERN — Eigenständiges Handeln im Erwachsenenleben.",
+      "fragen": [],
+      "hinweis": "Wir führen einen Ordner für Verträge, Amtsschreiben und Zeugnisse.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie glauben wir, Überstunden seien ohne Ausgleich unbegrenzt Pflicht?",
+      "anleitung": "Woche 33: RECHTE & PFLICHTEN IN DER AUSBILDUNG — Rechtssicherheit für Auszubildende.",
+      "fragen": [],
+      "hinweis": "Wir kennen die Regeln des Jugendarbeitsschutzgesetzes (JArbSchG).",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie verweigern wir die Berufsschulpflicht als 'Fehltag'?",
+      "anleitung": "Woche 33: RECHTE & PFLICHTEN IN DER AUSBILDUNG — Rechtssicherheit für Auszubildende.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Der Berufsschulbesuch ist gesetzliche Ausbildungspflicht.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie kennen wir die Kündigungsregeln in der Probezeit nicht?",
+      "anleitung": "Woche 33: RECHTE & PFLICHTEN IN DER AUSBILDUNG — Rechtssicherheit für Auszubildende.",
+      "fragen": [],
+      "hinweis": "Wir kennen die Rechte und Fristen während und nach der Probezeit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie nutzen wir Werkzeuge privat ohne Erlaubnis?",
+      "anleitung": "Woche 33: RECHTE & PFLICHTEN IN DER AUSBILDUNG — Rechtssicherheit für Auszubildende.",
+      "fragen": [],
+      "hinweis": "Wir erfragen für private Nutzung stets die Genehmigung des Meisters.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie ignorieren wir den Ausbildungsrahmenplan?",
+      "anleitung": "Woche 33: RECHTE & PFLICHTEN IN DER AUSBILDUNG — Rechtssicherheit für Auszubildende.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen Vermittelte Inhalte mit dem Ausbildungsplan.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie trinken wir bei 30 Grad Werkstatthitze nur süße Limonade?",
+      "anleitung": "Woche 34: ARBEITSSICHERHEIT IM SOMMER & HITZE — Leistungsfähigkeit bei hohen Temperaturen wahren.",
+      "fragen": [],
+      "hinweis": "Wir versorgen den Körper mit reichlich frischem Wasser.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie ziehen wir im Betrieb ohne Erlaubnis die Sicherheitsschuhe aus?",
+      "anleitung": "Woche 34: ARBEITSSICHERHEIT IM SOMMER & HITZE — Leistungsfähigkeit bei hohen Temperaturen wahren.",
+      "fragen": [],
+      "hinweis": "Sicherheitsschuhe bleiben auch bei Sommerhitze Pflicht.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie arbeiten wir bei drückender Hitze ohne Lüftungspausen?",
+      "anleitung": "Woche 34: ARBEITSSICHERHEIT IM SOMMER & HITZE — Leistungsfähigkeit bei hohen Temperaturen wahren.",
+      "fragen": [],
+      "hinweis": "Wir nutzen kurze Durchlüftungsphasen und Beschattung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie lagern wir Spraydosen in der prallen Prallsonne auf dem Hof?",
+      "anleitung": "Woche 34: ARBEITSSICHERHEIT IM SOMMER & HITZE — Leistungsfähigkeit bei hohen Temperaturen wahren.",
+      "fragen": [],
+      "hinweis": "Wir schützen Druckgasbehälter vor Sonneneinstrahlung.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie überhitzen wir Maschinen durch fehlende Wartung?",
+      "anleitung": "Woche 34: ARBEITSSICHERHEIT IM SOMMER & HITZE — Leistungsfähigkeit bei hohen Temperaturen wahren.",
+      "fragen": [],
+      "hinweis": "Wir prüfen Kühlmittelstände an Maschinen vor dem Sommer-Betrieb.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie verlangen wir im Übernahmegespräch unrealistische Gehälter?",
+      "anleitung": "Woche 35: DAS VORSTELLUNGSGESPRÄCH FÜR DIE FESTANSTELLUNG — Vom Azubi zum Junggesellen / Facharbeiter.",
+      "fragen": [],
+      "hinweis": "Wir informieren uns über tarifliche Einstiegsgehälter der Branche.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie treten wir vor der Geschäftsführung ohne Vorbereitung auf?",
+      "anleitung": "Woche 35: DAS VORSTELLUNGSGESPRÄCH FÜR DIE FESTANSTELLUNG — Vom Azubi zum Junggesellen / Facharbeiter.",
+      "fragen": [],
+      "hinweis": "Wir formulieren eigene Beiträge zum künftigen Einsatzbereich.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie verschweigen wir Weiterbildungswünsche?",
+      "anleitung": "Woche 35: DAS VORSTELLUNGSGESPRÄCH FÜR DIE FESTANSTELLUNG — Vom Azubi zum Junggesellen / Facharbeiter.",
+      "fragen": [],
+      "hinweis": "Wir äußern Interesse an Spezialisierungen (z. B. Scheine, Kurse).",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie verhalten wir uns nach Übernahmezusage unzuverlässig?",
+      "anleitung": "Woche 35: DAS VORSTELLUNGSGESPRÄCH FÜR DIE FESTANSTELLUNG — Vom Azubi zum Junggesellen / Facharbeiter.",
+      "fragen": [],
+      "hinweis": "Wir sichern Leistung bis zum letzten Tag der Maßnahme.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie reagieren wir bei Nichtübernahme ohne Plan B?",
+      "anleitung": "Woche 35: DAS VORSTELLUNGSGESPRÄCH FÜR DIE FESTANSTELLUNG — Vom Azubi zum Junggesellen / Facharbeiter.",
+      "fragen": [],
+      "hinweis": "Wir aktivieren Zweitoptionen und Kontaktnetzwerke.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie lassen wir Maschinen ungewartet in die Sommerpause gehen?",
+      "anleitung": "Woche 36: WERKSTATT-ÜBERGABE & SOMMER-INSTANDHALTUNG — Ordnung vor der Sommerpause.",
+      "fragen": [],
+      "hinweis": "Wir führen den großen Wartungs- und Abschmierplan durch.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie lassen wir Rohmaterial ungeordnet auf dem Lagerhof liegen?",
+      "anleitung": "Woche 36: WERKSTATT-ÜBERGABE & SOMMER-INSTANDHALTUNG — Ordnung vor der Sommerpause.",
+      "fragen": [],
+      "hinweis": "Wir stapeln Werkstoffe sicher und witterungsgeschützt.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie vergessen wir, defektes Handwerkzeug nachzubestellen?",
+      "anleitung": "Woche 36: WERKSTATT-ÜBERGABE & SOMMER-INSTANDHALTUNG — Ordnung vor der Sommerpause.",
+      "fragen": [],
+      "hinweis": "Wir inventarisieren Werkzeugsätze und melden Fehlbestände.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie lassen wir Müll- und Schrottbehälter überfüllt stehen?",
+      "anleitung": "Woche 36: WERKSTATT-ÜBERGABE & SOMMER-INSTANDHALTUNG — Ordnung vor der Sommerpause.",
+      "fragen": [],
+      "hinweis": "Wir veranlassen die Leerung aller Entsorgungsbehälter.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie schließen wir die Werkstattfenster vor den Ferien nicht?",
+      "anleitung": "Woche 36: WERKSTATT-ÜBERGABE & SOMMER-INSTANDHALTUNG — Ordnung vor der Sommerpause.",
+      "fragen": [],
+      "hinweis": "Wir verriegeln alle Zugänge und schalten Hauptschalter aus.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie glauben wir, BVB hätte uns beruflich nicht weitergebracht?",
+      "anleitung": "Woche 37: MEIN PERSÖNLICHES PRAXIS-PORTFOLIO — Der gesammelte Nachweis der Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir prüfen unser Portfolio von Woche 1 bis Woche 37.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie vergessen wir erworbene Scheine (z. B. Stapler, Erste Hilfe)?",
+      "anleitung": "Woche 37: MEIN PERSÖNLICHES PRAXIS-PORTFOLIO — Der gesammelte Nachweis der Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir heften alle Zertifikate und Nachweise geordnet ein.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie formulieren wir unseren Lebenslauf ohne die BVB-Praxistage?",
+      "anleitung": "Woche 37: MEIN PERSÖNLICHES PRAXIS-PORTFOLIO — Der gesammelte Nachweis der Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir integrieren erlernte Fertigkeiten präzise in den Lebenslauf.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie danken wir Praxis-Anleitern und Lehrkräften nicht?",
+      "anleitung": "Woche 37: MEIN PERSÖNLICHES PRAXIS-PORTFOLIO — Der gesammelte Nachweis der Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir überreichen persönliche Rückmeldungen an das Anleiter-Team.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie verpacken wir das BVB-Zertifikat unsorgfältig?",
+      "anleitung": "Woche 37: MEIN PERSÖNLICHES PRAXIS-PORTFOLIO — Der gesammelte Nachweis der Handlungskompetenz.",
+      "fragen": [],
+      "hinweis": "Wir sichern unser Abschluss-Zertifikat in der Bewerbungsmappe.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie erscheinen wir unpünktlich zur Zertifikatsübergabe?",
+      "anleitung": "Woche 38: ZERTIFIKATSÜBERGABE & START IN DIE BERUFSWELT — Der geschaffte Schritt in die Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir erscheinen in angemessener Kleidung und pünktlich zur Feier.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie verpassen wir den Anmeldetag der Berufsschule für die Ausbildung?",
+      "anleitung": "Woche 38: ZERTIFIKATSÜBERGABE & START IN DIE BERUFSWELT — Der geschaffte Schritt in die Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir halten alle Unterlagen für den Berufsschulstart bereit.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie lassen wir offene Fragen zum Ausbildungsstart ungeklärt?",
+      "anleitung": "Woche 38: ZERTIFIKATSÜBERGABE & START IN DIE BERUFSWELT — Der geschaffte Schritt in die Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir klären letzte Details zu Arbeitskleidung und Schichtzeiten.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie vergessen wir den Kontakt zu Mitschülern aufrechtzuerhalten?",
+      "anleitung": "Woche 38: ZERTIFIKATSÜBERGABE & START IN DIE BERUFSWELT — Der geschaffte Schritt in die Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir vernetzen uns als berufliches Netzwerk für die Zukunft.",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie starten wir ohne Stolz und Motivation in den Beruf?",
+      "anleitung": "Woche 38: ZERTIFIKATSÜBERGABE & START IN DIE BERUFSWELT — Der geschaffte Schritt in die Zukunft!",
+      "fragen": [],
+      "hinweis": "Wir nehmen unser BVB-Zertifikat stolz entgegen und starten erfolgreich in die Ausbildung!",
+      "icon": "helmet-safety",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}

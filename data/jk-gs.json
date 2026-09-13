@@ -1,0 +1,1720 @@
+{
+  "id": "jk-gs",
+  "titel": "Jahreskarten-Set Grundschule",
+  "untertitel": "Brainys Kopfstand & Schlaufuchs-Lösung (190 Tage)",
+  "farbe": "#B4482E",
+  "farbe_hell": "#FBEAE3",
+  "farbe_rand": "#E8C3B2",
+  "karten": [
+    {
+      "nr": 1,
+      "titel": "Wie rennen wir alle wild durch die Klasse, damit niemand auf seinen Platz findet?",
+      "anleitung": "Woche 1: Wir lernen uns kennen und schaffen Ruhe im Raum.",
+      "fragen": [],
+      "hinweis": "Wir treffen uns leise im Stuhlkreis und begrüßen Brainy mit einem Lächeln.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 1 · MONTAG"
+    },
+    {
+      "nr": 2,
+      "titel": "Wie rufen wir alle gleichzeitig durcheinander, damit man kein Wort versteht?",
+      "anleitung": "Woche 1: Wir lernen uns kennen und schaffen Ruhe im Raum.",
+      "fragen": [],
+      "hinweis": "Wer den Brainy-Redestein hält, spricht – alle anderen hören aufmerksam zu.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 1 · DIENSTAG"
+    },
+    {
+      "nr": 3,
+      "titel": "Wie schubsen wir beim Anstellen an der Tür, damit jemand hinfällt?",
+      "anleitung": "Woche 1: Wir lernen uns kennen und schaffen Ruhe im Raum.",
+      "fragen": [],
+      "hinweis": "Wir stellen uns rückschrittig und friedlich in einer Einerreihe an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 1 · MITTWOCH"
+    },
+    {
+      "nr": 4,
+      "titel": "Wie lassen wir unsere Jacken auf dem Boden liegen, damit alle drüber stolpern?",
+      "anleitung": "Woche 1: Wir lernen uns kennen und schaffen Ruhe im Raum.",
+      "fragen": [],
+      "hinweis": "Wir hängen unsere Jacke sofort an den eigenen Garderoben-Haken.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 1 · DONNERSTAG"
+    },
+    {
+      "nr": 5,
+      "titel": "Wie meckern wir über das Wochenende, statt uns zu freuen?",
+      "anleitung": "Woche 1: Wir lernen uns kennen und schaffen Ruhe im Raum.",
+      "fragen": [],
+      "hinweis": "Wir nennen im Abschlusskreis eine Sache, die diese Woche toll geklappt hat.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 1 · FREITAG"
+    },
+    {
+      "nr": 6,
+      "titel": "Wie suchen wir 20 Minuten nach unserem Bleistift, um nicht anfangen zu müssen?",
+      "anleitung": "Woche 2: Gemeinsam schaffen wir Sicherheit und Ordnung.",
+      "fragen": [],
+      "hinweis": "Wir legen vor dem Gong alle Arbeitsmaterialien griffbereit auf den Tisch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 2 · MONTAG"
+    },
+    {
+      "nr": 7,
+      "titel": "Wie laufen wir während der Arbeitsphase ständig herum und stören andere?",
+      "anleitung": "Woche 2: Gemeinsam schaffen wir Sicherheit und Ordnung.",
+      "fragen": [],
+      "hinweis": "Wir bleiben auf unserem Platz und nutzen die Meldekarte, wenn wir Hilfe brauchen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 2 · DIENSTAG"
+    },
+    {
+      "nr": 8,
+      "titel": "Wie machen wir beim Radieren Löcher ins Papier, um uns zu ärgern?",
+      "anleitung": "Woche 2: Gemeinsam schaffen wir Sicherheit und Ordnung.",
+      "fragen": [],
+      "hinweis": "Wir radieren vorsichtig und bitten die Sitznachbarin um Sanftheit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 2 · MITTWOCH"
+    },
+    {
+      "nr": 9,
+      "titel": "Wie vergessen wir unser Trinken, damit wir im Unterricht Durst haben?",
+      "anleitung": "Woche 2: Gemeinsam schaffen wir Sicherheit und Ordnung.",
+      "fragen": [],
+      "hinweis": "Wir stellen unsere Wasserflasche auf den zugewiesenen Parkplatz.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 2 · DONNERSTAG"
+    },
+    {
+      "nr": 10,
+      "titel": "Wie lassen wir die Schnipsel unter dem Tisch liegen für die Putzkraft?",
+      "anleitung": "Woche 2: Gemeinsam schaffen wir Sicherheit und Ordnung.",
+      "fragen": [],
+      "hinweis": "Wir machen am Freitag den 2-Minuten-Besen-Check unter unserem Tisch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 2 · FREITAG"
+    },
+    {
+      "nr": 11,
+      "titel": "Wie knüllen wir Arbeitsblätter so im Ranzen zusammen, dass sie zerknittern?",
+      "anleitung": "Woche 3: Jedes Ding hat seinen festen Platz.",
+      "fragen": [],
+      "hinweis": "Wir heften jedes Blatt sofort in die richtige Postmappe ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 3 · MONTAG"
+    },
+    {
+      "nr": 12,
+      "titel": "Wie lassen wir unser Etui offen, damit alle Stifte auf den Boden rollen?",
+      "anleitung": "Woche 3: Jedes Ding hat seinen festen Platz.",
+      "fragen": [],
+      "hinweis": "Wir schließen das Etui nach Gebrauch sofort wieder zu.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 3 · DIENSTAG"
+    },
+    {
+      "nr": 13,
+      "titel": "Wie malen wir auf den Schultisch, damit er schmutzig aussieht?",
+      "anleitung": "Woche 3: Jedes Ding hat seinen festen Platz.",
+      "fragen": [],
+      "hinweis": "Wir behandeln unsere Schultische sauber und nutzen Unterlagen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 3 · MITTWOCH"
+    },
+    {
+      "nr": 14,
+      "titel": "Wie tauschen wir Heimlichkeiten aus, statt der Lehrkraft zuzuhören?",
+      "anleitung": "Woche 3: Jedes Ding hat seinen festen Platz.",
+      "fragen": [],
+      "hinweis": "Wir packen Spielsachen in den Ranzen und konzentrieren uns auf das Thema.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 3 · DONNERSTAG"
+    },
+    {
+      "nr": 15,
+      "titel": "Wie lassen wir alte Pausenbrote über das Wochenende im Ranzen schimmeln?",
+      "anleitung": "Woche 3: Jedes Ding hat seinen festen Platz.",
+      "fragen": [],
+      "hinweis": "Wir leeren freitags den Ranzen komplett aus und wischen ihn aus.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 3 · FREITAG"
+    },
+    {
+      "nr": 16,
+      "titel": "Wie ignorieren wir den Leise-Fuchs der Lehrerin völlig?",
+      "anleitung": "Woche 4: Stopp heißt Stopp – für alle!",
+      "fragen": [],
+      "hinweis": "Wenn der Leise-Fuchs kommt, werden wir sofort stumm und schauen nach vorne.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 4 · MONTAG"
+    },
+    {
+      "nr": 17,
+      "titel": "Wie ärgern wir andere so lange weiter, bis sie weinen?",
+      "anleitung": "Woche 4: Stopp heißt Stopp – für alle!",
+      "fragen": [],
+      "hinweis": "Wenn jemand 'Stopp!' sagt, hören wir augenblicklich auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 4 · DIENSTAG"
+    },
+    {
+      "nr": 18,
+      "titel": "Wie verkippen wir das Wasser im Kunstunterricht mit Absicht?",
+      "anleitung": "Woche 4: Stopp heißt Stopp – für alle!",
+      "fragen": [],
+      "hinweis": "Wir stellen den Wasserbecher sicher in die Mitte des Tisches.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 4 · MITTWOCH"
+    },
+    {
+      "nr": 19,
+      "titel": "Wie rennen wir im Treppenhaus, damit es gefährlich wird?",
+      "anleitung": "Woche 4: Stopp heißt Stopp – für alle!",
+      "fragen": [],
+      "hinweis": "Auf Treppen gehen wir langsam und halten uns am Geländer fest.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 4 · DONNERSTAG"
+    },
+    {
+      "nr": 20,
+      "titel": "Wie schubsen wir beim Spielkreis, um Erster zu sein?",
+      "anleitung": "Woche 4: Stopp heißt Stopp – für alle!",
+      "fragen": [],
+      "hinweis": "Wir warten geduldig, bis wir an der Reihe sind.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 4 · FREITAG"
+    },
+    {
+      "nr": 21,
+      "titel": "Wie nehmen wir anderen die Spielsachen weg, ohne zu fragen?",
+      "anleitung": "Woche 5: Zusammen spielen macht mehr Spaß als Streit.",
+      "fragen": [],
+      "hinweis": "Wir fragen höflich: 'Darf ich mitspielen?' oder leihen uns Sachen aus.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 5 · MONTAG"
+    },
+    {
+      "nr": 22,
+      "titel": "Wie schließen wir einzelne Kinder beim Fangen-Spiel aus?",
+      "anleitung": "Woche 5: Zusammen spielen macht mehr Spaß als Streit.",
+      "fragen": [],
+      "hinweis": "Wir laden Kinder, die alleine stehen, aktiv in unser Spiel ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 5 · DIENSTAG"
+    },
+    {
+      "nr": 23,
+      "titel": "Wie rennen wir bei Regen durch die tiefsten Matschpfützen?",
+      "anleitung": "Woche 5: Zusammen spielen macht mehr Spaß als Streit.",
+      "fragen": [],
+      "hinweis": "Wir nutzen bei Regen die überdachten Bereiche und schonen unsere Schuhe.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 5 · MITTWOCH"
+    },
+    {
+      "nr": 24,
+      "titel": "Wie werfen wir Steine und Stöcke nach anderen Kindern?",
+      "anleitung": "Woche 5: Zusammen spielen macht mehr Spaß als Streit.",
+      "fragen": [],
+      "hinweis": "Stöcke und Steine bleiben am Boden – wir werfen nur Bälle.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 5 · DONNERSTAG"
+    },
+    {
+      "nr": 25,
+      "titel": "Wie ignorieren wir die Pausenglocke und kommen 10 Minuten zu spät?",
+      "anleitung": "Woche 5: Zusammen spielen macht mehr Spaß als Streit.",
+      "fragen": [],
+      "hinweis": "Beim ersten Gong gehen wir sofort ruhig zum Aufstellplatz.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 5 · FREITAG"
+    },
+    {
+      "nr": 26,
+      "titel": "Wie träumen wir 15 Minuten aus dem Fenster, statt die Aufgabe zu lesen?",
+      "anleitung": "Woche 6: Schritt für Schritt ans Ziel kommen.",
+      "fragen": [],
+      "hinweis": "Wir lesen die Aufgabenstellung leise durch und starten sofort.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 6 · MONTAG"
+    },
+    {
+      "nr": 27,
+      "titel": "Wie kippeln wir mit dem Stuhl, bis wir nach hinten umfallen?",
+      "anleitung": "Woche 6: Schritt für Schritt ans Ziel kommen.",
+      "fragen": [],
+      "hinweis": "Wir sitzen mit beiden Stuhlbeinen fest und sicher auf dem Boden.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 6 · DIENSTAG"
+    },
+    {
+      "nr": 28,
+      "titel": "Wie stöhnen wir laut bei jeder neuen Aufgabe?",
+      "anleitung": "Woche 6: Schritt für Schritt ans Ziel kommen.",
+      "fragen": [],
+      "hinweis": "Wir atmen dreimal tief durch und sagen uns: 'Ich schaffe das!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 6 · MITTWOCH"
+    },
+    {
+      "nr": 29,
+      "titel": "Wie radieren wir das Richtige aus, weil wir nicht aufpassen?",
+      "anleitung": "Woche 6: Schritt für Schritt ans Ziel kommen.",
+      "fragen": [],
+      "hinweis": "Wir kontrollieren unser Ergebnis erst mit den Augen, bevor wir radieren.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 6 · DONNERSTAG"
+    },
+    {
+      "nr": 30,
+      "titel": "Wie geben wir sofort auf, wenn ein Wort schwer zu lesen ist?",
+      "anleitung": "Woche 6: Schritt für Schritt ans Ziel kommen.",
+      "fragen": [],
+      "hinweis": "Wir klatschen die Silben des Wortes schrittweise ab.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 6 · FREITAG"
+    },
+    {
+      "nr": 31,
+      "titel": "Wie verstecken wir unsere Wut, bis wir explodieren?",
+      "anleitung": "Woche 7: Jedes Gefühl ist erlaubt – wir lernen es zu steuern.",
+      "fragen": [],
+      "hinweis": "Wir stellen unser Gefühl auf das Klassen-Barometer und nutzen die Pause-Insel.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 7 · MONTAG"
+    },
+    {
+      "nr": 32,
+      "titel": "Wie lachen wir ein Kind aus, das an der Tafel einen Fehler macht?",
+      "anleitung": "Woche 7: Jedes Gefühl ist erlaubt – wir lernen es zu steuern.",
+      "fragen": [],
+      "hinweis": "Wir ermutigen Mitschüler und wissen: 'Fehler helfen uns beim Lernen!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 7 · DIENSTAG"
+    },
+    {
+      "nr": 33,
+      "titel": "Wie stampfen wir mit den Füßen, wenn uns etwas nicht passt?",
+      "anleitung": "Woche 7: Jedes Gefühl ist erlaubt – wir lernen es zu steuern.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Tiefenatmung mit dem Ruhe-Ballon.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 7 · MITTWOCH"
+    },
+    {
+      "nr": 34,
+      "titel": "Wie sagen wir 'Das kann ich eh nicht!', um nicht üben zu müssen?",
+      "anleitung": "Woche 7: Jedes Gefühl ist erlaubt – wir lernen es zu steuern.",
+      "fragen": [],
+      "hinweis": "Wir sagen: 'Ich kann es JETZT noch nicht, aber ich lerne es!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 7 · DONNERSTAG"
+    },
+    {
+      "nr": 35,
+      "titel": "Wie gehen wir traurig ins Wochenende, ohne mit jemandem zu sprechen?",
+      "anleitung": "Woche 7: Jedes Gefühl ist erlaubt – wir lernen es zu steuern.",
+      "fragen": [],
+      "hinweis": "Wir vertrauen uns der Lehrkraft oder der INGRA an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 7 · FREITAG"
+    },
+    {
+      "nr": 36,
+      "titel": "Wie sitzen wir 20 Minuten stumm da und tun gar nichts?",
+      "anleitung": "Woche 8: Nach Hilfe fragen ist mutig und schlau.",
+      "fragen": [],
+      "hinweis": "Wir heben die Helfereule oder fragen leise unser Experten-Miter-Kind.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 8 · MONTAG"
+    },
+    {
+      "nr": 37,
+      "titel": "Wie verraten wir dem Partner sofort alle Lösungen, statt zu erklären?",
+      "anleitung": "Woche 8: Nach Hilfe fragen ist mutig und schlau.",
+      "fragen": [],
+      "hinweis": "Wir erklären den Weg zur Lösung, ohne das Ergebnis zu diktieren.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 8 · DIENSTAG"
+    },
+    {
+      "nr": 38,
+      "titel": "Wie lachen wir, wenn jemand die Hilfekarte nutzen muss?",
+      "anleitung": "Woche 8: Nach Hilfe fragen ist mutig und schlau.",
+      "fragen": [],
+      "hinweis": "Wir freuen uns, dass alle Kinder passende Hilfsmittel nutzen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 8 · MITTWOCH"
+    },
+    {
+      "nr": 39,
+      "titel": "Wie streiten wir uns in der Partnerarbeit, wer anfangen darf?",
+      "anleitung": "Woche 8: Nach Hilfe fragen ist mutig und schlau.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Schnick-Schnack-Schnuck-Verfahren für den Start.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 8 · DONNERSTAG"
+    },
+    {
+      "nr": 40,
+      "titel": "Wie bedanken wir uns nie, wenn uns geholfen wurde?",
+      "anleitung": "Woche 8: Nach Hilfe fragen ist mutig und schlau.",
+      "fragen": [],
+      "hinweis": "Wir sagen freundlich 'Danke für deine Hilfe!' am Ende der Arbeitsphase.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 8 · FREITAG"
+    },
+    {
+      "nr": 41,
+      "titel": "Wie klappern wir laut mit dem Lineal auf dem Tisch?",
+      "anleitung": "Woche 9: Ein ruhiger Raum hilft unserem Kopf.",
+      "fragen": [],
+      "hinweis": "Wir legen unsere Stifte leise ab und schonen unsere Ohren.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 9 · MONTAG"
+    },
+    {
+      "nr": 42,
+      "titel": "Wie quatschen wir während der Stillarbeitsphase flüsternd weiter?",
+      "anleitung": "Woche 9: Ein ruhiger Raum hilft unserem Kopf.",
+      "fragen": [],
+      "hinweis": "In der Stillarbeit herrscht absolute Stille – wie in einer Bibliothek.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 9 · DIENSTAG"
+    },
+    {
+      "nr": 43,
+      "titel": "Wie werfen wir die Kopfhörer grob auf die Fenstersimse?",
+      "anleitung": "Woche 9: Ein ruhiger Raum hilft unserem Kopf.",
+      "fragen": [],
+      "hinweis": "Wir hängen die Lärmschutz-Kopfhörer ordentlich an den Haken.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 9 · MITTWOCH"
+    },
+    {
+      "nr": 44,
+      "titel": "Wie rennen wir zur Ruhe-Insel und streiten um das Kissen?",
+      "anleitung": "Woche 9: Ein ruhiger Raum hilft unserem Kopf.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Ruhe-Insel nacheinander mit der Sanduhr.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 9 · DONNERSTAG"
+    },
+    {
+      "nr": 45,
+      "titel": "Wie rufen wir laut durch die Klasse, wenn wir fertig sind?",
+      "anleitung": "Woche 9: Ein ruhiger Raum hilft unserem Kopf.",
+      "fragen": [],
+      "hinweis": "Wir legen das fertige Blatt umgekehrt ab und nehmen das Zusatz-Buch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 9 · FREITAG"
+    },
+    {
+      "nr": 46,
+      "titel": "Wie vergessen wir alle Regeln der ersten Wochen wieder?",
+      "anleitung": "Woche 10: Wir schauen stolz auf unsere Erfolge.",
+      "fragen": [],
+      "hinweis": "Wir wiederholen unsere wichtigsten Klassenregeln im Stuhlkreis.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 10 · MONTAG"
+    },
+    {
+      "nr": 47,
+      "titel": "Wie machen wir das Portfolio schmutzig und zerfleddert?",
+      "anleitung": "Woche 10: Wir schauen stolz auf unsere Erfolge.",
+      "fragen": [],
+      "hinweis": "Wir heften unsere Arbeitsergebnisse stolz im Sammelordner ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 10 · DIENSTAG"
+    },
+    {
+      "nr": 48,
+      "titel": "Wie vergleichen wir uns nur mit anderen, statt mit uns selbst?",
+      "anleitung": "Woche 10: Wir schauen stolz auf unsere Erfolge.",
+      "fragen": [],
+      "hinweis": "Wir schauen, was WIR seit Wochenstart dazu gelernt haben.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 10 · MITTWOCH"
+    },
+    {
+      "nr": 49,
+      "titel": "Wie räumen wir das Klassenzimmer unvollständig auf?",
+      "anleitung": "Woche 10: Wir schauen stolz auf unsere Erfolge.",
+      "fragen": [],
+      "hinweis": "Gemeinsam bringen wir alle Regale und Kisten auf Hochglanz.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 10 · DONNERSTAG"
+    },
+    {
+      "nr": 50,
+      "titel": "Wie rennen wir ohne Abschied aus der Schule?",
+      "anleitung": "Woche 10: Wir schauen stolz auf unsere Erfolge.",
+      "fragen": [],
+      "hinweis": "Wir verabschieden uns freundlich im Kreis und starten in die Ferien.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 10 · FREITAG"
+    },
+    {
+      "nr": 51,
+      "titel": "Wie erzählen alle gleichzeitig von ihren Ferien-Erlebnissen?",
+      "anleitung": "Woche 11: Wir kommen wieder gut im Schulalltag an.",
+      "fragen": [],
+      "hinweis": "Wir nutzen den Erzählteppich und hören einander nacheinander zu.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 11 · MONTAG"
+    },
+    {
+      "nr": 52,
+      "titel": "Wie trödeln wir morgens so lange, bis wir den Start verpassen?",
+      "anleitung": "Woche 11: Wir kommen wieder gut im Schulalltag an.",
+      "fragen": [],
+      "hinweis": "Wir hängen die Jacke zügig auf und sitzen pünktlich im Kreis.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 11 · DIENSTAG"
+    },
+    {
+      "nr": 53,
+      "titel": "Wie schlampen wir bei der ersten Schreibaufgabe nach den Ferien?",
+      "anleitung": "Woche 11: Wir kommen wieder gut im Schulalltag an.",
+      "fragen": [],
+      "hinweis": "Wir schreiben sauber in die Linien und achten auf die Abstände.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 11 · MITTWOCH"
+    },
+    {
+      "nr": 54,
+      "titel": "Wie vergessen wir unsere Hausschuhe im Flur?",
+      "anleitung": "Woche 11: Wir kommen wieder gut im Schulalltag an.",
+      "fragen": [],
+      "hinweis": "Wir ziehen die Hausschuhe ordentlich an ihren Platz.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 11 · DONNERSTAG"
+    },
+    {
+      "nr": 55,
+      "titel": "Wie meckern wir über das nasskalte Winterwetter?",
+      "anleitung": "Woche 11: Wir kommen wieder gut im Schulalltag an.",
+      "fragen": [],
+      "hinweis": "Wir freuen uns auf die gemütliche Lesezeit drinnen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 11 · FREITAG"
+    },
+    {
+      "nr": 56,
+      "titel": "Wie schreien wir am Gruppentisch so laut, dass es dröhnt?",
+      "anleitung": "Woche 12: Leise Töne schonen unsere Ohren.",
+      "fragen": [],
+      "hinweis": "Wir sprechen mit unserer 'Flüster-Stimme' am Tisch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 12 · MONTAG"
+    },
+    {
+      "nr": 57,
+      "titel": "Wie rücken wir die Stühle laut über den Boden?",
+      "anleitung": "Woche 12: Leise Töne schonen unsere Ohren.",
+      "fragen": [],
+      "hinweis": "Wir heben die Stühle beim Aufstehen leise an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 12 · DIENSTAG"
+    },
+    {
+      "nr": 58,
+      "titel": "Wie werfen wir die Scheren laut in die Metallkiste?",
+      "anleitung": "Woche 12: Leise Töne schonen unsere Ohren.",
+      "fragen": [],
+      "hinweis": "Wir legen Werkzeuge achtsam und leise zurück.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 12 · MITTWOCH"
+    },
+    {
+      "nr": 59,
+      "titel": "Wie lassen wir Türen ins Schloss knallen?",
+      "anleitung": "Woche 12: Leise Töne schonen unsere Ohren.",
+      "fragen": [],
+      "hinweis": "Wir klinken die Türen leise und achtsam zu.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 12 · DONNERSTAG"
+    },
+    {
+      "nr": 60,
+      "titel": "Wie belohnen wir uns nicht für eine ruhige Arbeitswoche?",
+      "anleitung": "Woche 12: Leise Töne schonen unsere Ohren.",
+      "fragen": [],
+      "hinweis": "Wir feiern unseren Lärm-Spar-Erfolg mit einer Wunschentspannung.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 12 · FREITAG"
+    },
+    {
+      "nr": 61,
+      "titel": "Wie verhalten wir uns stur und wollen nur eigene Ideen durchsetzen?",
+      "anleitung": "Woche 13: Zusammen schaffen wir mehr als allein.",
+      "fragen": [],
+      "hinweis": "Wir hören der Idee unseres Partners zu und finden einen Kompromiss.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 13 · MONTAG"
+    },
+    {
+      "nr": 62,
+      "titel": "Wie verstecken wir Buntstifte, damit der Nachbar sie nicht nutzen kann?",
+      "anleitung": "Woche 13: Zusammen schaffen wir mehr als allein.",
+      "fragen": [],
+      "hinweis": "Wir teilen Stifte und Materialien großzügig am Tisch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 13 · DIENSTAG"
+    },
+    {
+      "nr": 63,
+      "titel": "Wie meckern wir laut, wenn uns ein Partner zugewiesen wird?",
+      "anleitung": "Woche 13: Zusammen schaffen wir mehr als allein.",
+      "fragen": [],
+      "hinweis": "Wir sagen: 'Super, wir probieren das jetzt gemeinsam aus!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 13 · MITTWOCH"
+    },
+    {
+      "nr": 64,
+      "titel": "Wie lassen wir den Partner die ganze Arbeit alleine machen?",
+      "anleitung": "Woche 13: Zusammen schaffen wir mehr als allein.",
+      "fragen": [],
+      "hinweis": "Wir teilen die Aufgaben gerecht in zwei Hälften auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 13 · DONNERSTAG"
+    },
+    {
+      "nr": 65,
+      "titel": "Wie machen wir das Partner-Ergebnis schlecht?",
+      "anleitung": "Woche 13: Zusammen schaffen wir mehr als allein.",
+      "fragen": [],
+      "hinweis": "Wir loben uns gegenseitig für die gute Zusammenarbeit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 13 · FREITAG"
+    },
+    {
+      "nr": 66,
+      "titel": "Wie zerreißen wir das Blatt, wenn uns ein Strich misslingt?",
+      "anleitung": "Woche 14: Fehler sind Helfer beim Lernen.",
+      "fragen": [],
+      "hinweis": "Wir streichen den Fehler sauber einmal durch und schreiben neu.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 14 · MONTAG"
+    },
+    {
+      "nr": 67,
+      "titel": "Wie weinen wir sofort, wenn eine Rechenaufgabe falsch ist?",
+      "anleitung": "Woche 14: Fehler sind Helfer beim Lernen.",
+      "fragen": [],
+      "hinweis": "Wir wissen: Jedes falsche Ergebnis zeigt uns, wie es nicht geht.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 14 · DIENSTAG"
+    },
+    {
+      "nr": 68,
+      "titel": "Wie schimpfen wir über das schwere Buch?",
+      "anleitung": "Woche 14: Fehler sind Helfer beim Lernen.",
+      "fragen": [],
+      "hinweis": "Wir bitten um einen Tipp und versuchen es noch einmal.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 14 · MITTWOCH"
+    },
+    {
+      "nr": 69,
+      "titel": "Wie verstecken wir Fehler vor der Lehrerin aus Angst?",
+      "anleitung": "Woche 14: Fehler sind Helfer beim Lernen.",
+      "fragen": [],
+      "hinweis": "Wir zeigen Fehler offen und fragen: 'Wie geht es richtig?'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 14 · DONNERSTAG"
+    },
+    {
+      "nr": 70,
+      "titel": "Wie geben wir auf, wenn das Diktat schwer wird?",
+      "anleitung": "Woche 14: Fehler sind Helfer beim Lernen.",
+      "fragen": [],
+      "hinweis": "Wir freuen uns über jedes richtig geschriebene Wort.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 14 · FREITAG"
+    },
+    {
+      "nr": 71,
+      "titel": "Wie drängeln wir um die Sofakissen in der Lese-Ecke?",
+      "anleitung": "Woche 15: Lesen öffnet Tore zu neuen Welten.",
+      "fragen": [],
+      "hinweis": "Wir verteilen uns ruhig und friedlich auf die Lese-Plätze.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 15 · MONTAG"
+    },
+    {
+      "nr": 72,
+      "titel": "Wie knicken wir die Seiten im Schulbuch um?",
+      "anleitung": "Woche 15: Lesen öffnet Tore zu neuen Welten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen ein Lesezeichen zum Markieren der Seite.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 15 · DIENSTAG"
+    },
+    {
+      "nr": 73,
+      "titel": "Wie lesen wir so leise flüsternd, dass niemand was versteht?",
+      "anleitung": "Woche 15: Lesen öffnet Tore zu neuen Welten.",
+      "fragen": [],
+      "hinweis": "Wir sprechen deutlich und verständlich vor der Gruppe.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 15 · MITTWOCH"
+    },
+    {
+      "nr": 74,
+      "titel": "Wie klappen wir das Buch sofort zu, wenn ein schweres Wort kommt?",
+      "anleitung": "Woche 15: Lesen öffnet Tore zu neuen Welten.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Silbenhilfe und lesen langsam weiter.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 15 · DONNERSTAG"
+    },
+    {
+      "nr": 75,
+      "titel": "Wie machen wir Flecken auf die Lese-Kisten?",
+      "anleitung": "Woche 15: Lesen öffnet Tore zu neuen Welten.",
+      "fragen": [],
+      "hinweis": "Wir gehen sorgfältig mit unseren Klassenbüchern um.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 15 · FREITAG"
+    },
+    {
+      "nr": 76,
+      "titel": "Wie zappeln wir vor Aufregung ständig auf dem Stuhl?",
+      "anleitung": "Woche 16: In der Ruhe liegt die Kraft.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Wackel-Kissen oder machen eine kurze Atemübung.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 16 · MONTAG"
+    },
+    {
+      "nr": 77,
+      "titel": "Wie naschen wir heimlich im Unterricht?",
+      "anleitung": "Woche 16: In der Ruhe liegt die Kraft.",
+      "fragen": [],
+      "hinweis": "Wir essen unsere gesunde Jause in der vorgesehenen Pausenzeit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 16 · DIENSTAG"
+    },
+    {
+      "nr": 78,
+      "titel": "Wie drängeln wir am Adventskalender?",
+      "anleitung": "Woche 16: In der Ruhe liegt die Kraft.",
+      "fragen": [],
+      "hinweis": "Wir warten geduldig, bis unsere Namenskarte gezogen wird.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 16 · MITTWOCH"
+    },
+    {
+      "nr": 79,
+      "titel": "Wie stören wir die Vorlesezeit durch lautes Dazwischenrufen?",
+      "anleitung": "Woche 16: In der Ruhe liegt die Kraft.",
+      "fragen": [],
+      "hinweis": "Wir lauschen aufmerksam der Adventsgeschichte.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 16 · DONNERSTAG"
+    },
+    {
+      "nr": 80,
+      "titel": "Wie lassen wir Bastelabfälle überall im Raum liegen?",
+      "anleitung": "Woche 16: In der Ruhe liegt die Kraft.",
+      "fragen": [],
+      "hinweis": "Wir räumen den Basteltisch gemeinsam blitzblank auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 16 · FREITAG"
+    },
+    {
+      "nr": 81,
+      "titel": "Wie vergessen wir, was wir im alten Jahr schon alles gelernt haben?",
+      "anleitung": "Woche 17: Jeder Schritt zählt – wir wachsen täglich.",
+      "fragen": [],
+      "hinweis": "Wir schauen in unser Logbuch und staunen über unsere Fortschritte.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 17 · MONTAG"
+    },
+    {
+      "nr": 82,
+      "titel": "Wie setzen wir uns unerreichbare Ziele für das neue Jahr?",
+      "anleitung": "Woche 17: Jeder Schritt zählt – wir wachsen täglich.",
+      "fragen": [],
+      "hinweis": "Wir wählen einen kleinen, erreichbaren Schritt für diese Woche.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 17 · DIENSTAG"
+    },
+    {
+      "nr": 83,
+      "titel": "Wie vergleichen wir unsere Leistung mit dem Klassenbesten?",
+      "anleitung": "Woche 17: Jeder Schritt zählt – wir wachsen täglich.",
+      "fragen": [],
+      "hinweis": "Wir vergleichen uns nur mit unserem eigenen Stand vor 3 Monaten.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 17 · MITTWOCH"
+    },
+    {
+      "nr": 84,
+      "titel": "Wie schämen wir uns für Dinge, die noch nicht klappen?",
+      "anleitung": "Woche 17: Jeder Schritt zählt – wir wachsen täglich.",
+      "fragen": [],
+      "hinweis": "Wir feiern, dass wir Mut haben, Neues auszuprobieren.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 17 · DONNERSTAG"
+    },
+    {
+      "nr": 85,
+      "titel": "Wie vergessen wir den Stärken-Stern der Woche?",
+      "anleitung": "Woche 17: Jeder Schritt zählt – wir wachsen täglich.",
+      "fragen": [],
+      "hinweis": "Wir kleben stolz unseren Wochensieger-Sticker ins Buch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 17 · FREITAG"
+    },
+    {
+      "nr": 86,
+      "titel": "Wie frieren wir auf dem Schulhof, weil wir die Jacke nicht zumachen?",
+      "anleitung": "Woche 18: Bewegung macht den Kopf wieder munter.",
+      "fragen": [],
+      "hinweis": "Wir ziehen uns warm an und schließen den Reißverschluss.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 18 · MONTAG"
+    },
+    {
+      "nr": 87,
+      "titel": "Wie rennen wir bei Drinnen-Pause durch die Flure?",
+      "anleitung": "Woche 18: Bewegung macht den Kopf wieder munter.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Bewegungs-Spiele leise im Klassenzimmer.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 18 · DIENSTAG"
+    },
+    {
+      "nr": 88,
+      "titel": "Wie drängeln wir bei den Sportgeräten im Turnraum?",
+      "anleitung": "Woche 18: Bewegung macht den Kopf wieder munter.",
+      "fragen": [],
+      "hinweis": "Wir halten uns an die Reihenfolge bei der Gerätebahn.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 18 · MITTWOCH"
+    },
+    {
+      "nr": 89,
+      "titel": "Wie werfen wir Schneebälle nach anderen Kindern?",
+      "anleitung": "Woche 18: Bewegung macht den Kopf wieder munter.",
+      "fragen": [],
+      "hinweis": "Schneebälle werfen wir nur auf Zielscheiben, nicht auf Menschen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 18 · DONNERSTAG"
+    },
+    {
+      "nr": 90,
+      "titel": "Wie kommen wir nass und verschwitzt in den Unterricht?",
+      "anleitung": "Woche 18: Bewegung macht den Kopf wieder munter.",
+      "fragen": [],
+      "hinweis": "Wir ziehen uns zügig um und trinken einen Schluck Wasser.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 18 · FREITAG"
+    },
+    {
+      "nr": 91,
+      "titel": "Wie haben wir Angst vor dem Entwicklungsgespräch?",
+      "anleitung": "Woche 19: Wir feiern, was wir alles geschafft haben!",
+      "fragen": [],
+      "hinweis": "Wir freuen uns darauf, der Lehrerin unsere Lieblingsarbeiten zu zeigen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 19 · MONTAG"
+    },
+    {
+      "nr": 92,
+      "titel": "Wie sehen wir nur rote Noten oder Kritikpunkte?",
+      "anleitung": "Woche 19: Wir feiern, was wir alles geschafft haben!",
+      "fragen": [],
+      "hinweis": "Wir suchen bewusst nach 3 Dingen, die wir richtig gut können.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 19 · DIENSTAG"
+    },
+    {
+      "nr": 93,
+      "titel": "Wie streiten wir mit den Eltern über Schulnoten?",
+      "anleitung": "Woche 19: Wir feiern, was wir alles geschafft haben!",
+      "fragen": [],
+      "hinweis": "Wir erklären ruhig, wo wir Unterstützung brauchen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 19 · MITTWOCH"
+    },
+    {
+      "nr": 94,
+      "titel": "Wie heften wir Arbeitsblätter ungeordnet ins Halbjahr?",
+      "anleitung": "Woche 19: Wir feiern, was wir alles geschafft haben!",
+      "fragen": [],
+      "hinweis": "Wir sortieren unseren Ordner blitzsauber fürs 2. Halbjahr.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 19 · DONNERSTAG"
+    },
+    {
+      "nr": 95,
+      "titel": "Wie starten wir ohne Zuversicht in die Zeugniszeit?",
+      "anleitung": "Woche 19: Wir feiern, was wir alles geschafft haben!",
+      "fragen": [],
+      "hinweis": "Wir klatschen für jedes Kind im Raum für seinen Einsatz.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 19 · FREITAG"
+    },
+    {
+      "nr": 96,
+      "titel": "Wie lassen wir den Kopf hängen wegen alter Fehler?",
+      "anleitung": "Woche 20: Neues Spiel, neues Glück – wir starten durch!",
+      "fragen": [],
+      "hinweis": "Wir starten mit weißem Blatt und voller Motivation durch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 20 · MONTAG"
+    },
+    {
+      "nr": 97,
+      "titel": "Wie vergessen wir unsere neuen Spind-Schlüssel?",
+      "anleitung": "Woche 20: Neues Spiel, neues Glück – wir starten durch!",
+      "fragen": [],
+      "hinweis": "Wir passen achtsam auf unsere Sachen und Schlüssel auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 20 · DIENSTAG"
+    },
+    {
+      "nr": 98,
+      "titel": "Wie schlampen wir bei den neuen Fächern?",
+      "anleitung": "Woche 20: Neues Spiel, neues Glück – wir starten durch!",
+      "fragen": [],
+      "hinweis": "Wir führen die neuen Hefte von Seite 1 an sauber.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 20 · MITTWOCH"
+    },
+    {
+      "nr": 99,
+      "titel": "Wie verpassen wir den Schulbus am Nachmittag?",
+      "anleitung": "Woche 20: Neues Spiel, neues Glück – wir starten durch!",
+      "fragen": [],
+      "hinweis": "Wir packen zügig und gehen rechtzeitig zur Bushaltestelle.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 20 · DONNERSTAG"
+    },
+    {
+      "nr": 100,
+      "titel": "Wie starten wir ohne Wochenziel ins 2. Halbjahr?",
+      "anleitung": "Woche 20: Neues Spiel, neues Glück – wir starten durch!",
+      "fragen": [],
+      "hinweis": "Wir formulieren unser persönliches Monatsziel im Logbuch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 20 · FREITAG"
+    },
+    {
+      "nr": 101,
+      "titel": "Wie rufen wir bei jedem kleinen Wort nach der Lehrerin?",
+      "anleitung": "Woche 21: Ich kann schon vieles alleine schaffen.",
+      "fragen": [],
+      "hinweis": "Wir versuchen erst 3 Minuten lang, die Aufgabe selbst zu lösen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 21 · MONTAG"
+    },
+    {
+      "nr": 102,
+      "titel": "Wie trödeln wir bei der Freiarbeit herum?",
+      "anleitung": "Woche 21: Ich kann schon vieles alleine schaffen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Sanduhr und beobachten unsere Arbeitszeit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 21 · DIENSTAG"
+    },
+    {
+      "nr": 103,
+      "titel": "Wie räumen wir Freiarbeits-Materialien durcheinander zurück?",
+      "anleitung": "Woche 21: Ich kann schon vieles alleine schaffen.",
+      "fragen": [],
+      "hinweis": "Wir legen alle Teile Vollzählig in die richtige Kiste.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 21 · MITTWOCH"
+    },
+    {
+      "nr": 104,
+      "titel": "Wie stören wir Kinder, die konzentriert arbeiten?",
+      "anleitung": "Woche 21: Ich kann schon vieles alleine schaffen.",
+      "fragen": [],
+      "hinweis": "Wir bewegen uns wie Schleichkatzen durch den Freiarbeitsraum.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 21 · DONNERSTAG"
+    },
+    {
+      "nr": 105,
+      "titel": "Wie haken wir unsere Wochenplan-Aufgaben nicht ab?",
+      "anleitung": "Woche 21: Ich kann schon vieles alleine schaffen.",
+      "fragen": [],
+      "hinweis": "Wir kontrollieren stolz unsere abgehakten Aufgaben.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 21 · FREITAG"
+    },
+    {
+      "nr": 106,
+      "titel": "Wie kauen wir auf unseren Buntstiften herum?",
+      "anleitung": "Woche 22: Wir entdecken die Welt mit allen Sinnen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Kau-Aufsätze oder halten die Stifte sauber.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 22 · MONTAG"
+    },
+    {
+      "nr": 107,
+      "titel": "Wie reiben wir uns die Augen vor Müdigkeit im Unterricht?",
+      "anleitung": "Woche 22: Wir entdecken die Welt mit allen Sinnen.",
+      "fragen": [],
+      "hinweis": "Wir machen eine kurze Augen-Massage und lüften den Raum.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 22 · DIENSTAG"
+    },
+    {
+      "nr": 108,
+      "titel": "Wie sitzen wir krumm wie ein Fragezeichen am Tisch?",
+      "anleitung": "Woche 22: Wir entdecken die Welt mit allen Sinnen.",
+      "fragen": [],
+      "hinweis": "Wir richten unsere Wirbelsäule auf wie ein stolzer Baum.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 22 · MITTWOCH"
+    },
+    {
+      "nr": 109,
+      "titel": "Wie stampfen wir laut durch die Flure?",
+      "anleitung": "Woche 22: Wir entdecken die Welt mit allen Sinnen.",
+      "fragen": [],
+      "hinweis": "Wir gehen leise auf den Ballen wie auf Samtpfoten.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 22 · DONNERSTAG"
+    },
+    {
+      "nr": 110,
+      "titel": "Wie trinken wir den ganzen Vormittag kein Wasser?",
+      "anleitung": "Woche 22: Wir entdecken die Welt mit allen Sinnen.",
+      "fragen": [],
+      "hinweis": "Wir machen regelmäßige Trinkpausen für unser Gehirn.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 22 · FREITAG"
+    },
+    {
+      "nr": 111,
+      "titel": "Wie fordern wir Buntstifte mit 'Gib her!' ein?",
+      "anleitung": "Woche 23: Bitte und Danke machen Türen auf.",
+      "fragen": [],
+      "hinweis": "Wir sagen freundlich: 'Kannst du mir bitte den roten Stift leihen?'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 23 · MONTAG"
+    },
+    {
+      "nr": 112,
+      "titel": "Wie rempeln wir Mitschüler auf dem Flur ohne Wort an?",
+      "anleitung": "Woche 23: Bitte und Danke machen Türen auf.",
+      "fragen": [],
+      "hinweis": "Wir sagen sofort: 'Entschuldigung, das war keine Absicht!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 23 · DIENSTAG"
+    },
+    {
+      "nr": 113,
+      "titel": "Wie knallen wir die Tür vor der Nachbarklasse zu?",
+      "anleitung": "Woche 23: Bitte und Danke machen Türen auf.",
+      "fragen": [],
+      "hinweis": "Wir halten der nachfolgenden Person freundlich die Tür auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 23 · MITTWOCH"
+    },
+    {
+      "nr": 114,
+      "titel": "Wie unterbrechen wir Erwachsene mitten im Satz?",
+      "anleitung": "Woche 23: Bitte und Danke machen Türen auf.",
+      "fragen": [],
+      "hinweis": "Wir warten leise, bis die Person ausgesprochen hat.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 23 · DONNERSTAG"
+    },
+    {
+      "nr": 115,
+      "titel": "Wie vergessen wir uns beim Busfahrer zu bedanken?",
+      "anleitung": "Woche 23: Bitte und Danke machen Türen auf.",
+      "fragen": [],
+      "hinweis": "Wir sagen beim Aussteigen freundlich 'Schönes Wochenende!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 23 · FREITAG"
+    },
+    {
+      "nr": 116,
+      "titel": "Wie zertrampeln wir die ersten Frühlingsblumen auf dem Hof?",
+      "anleitung": "Woche 24: Wir passen gut auf Pflanzen und Tiere auf.",
+      "fragen": [],
+      "hinweis": "Wir bewundern die Blumen und lassen sie unverletzt wachsen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 24 · MONTAG"
+    },
+    {
+      "nr": 117,
+      "titel": "Wie werfen wir Plastikmüll ins Gebüsch?",
+      "anleitung": "Woche 24: Wir passen gut auf Pflanzen und Tiere auf.",
+      "fragen": [],
+      "hinweis": "Wir werfen jeden Müll in die passende Mülltonne.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 24 · DIENSTAG"
+    },
+    {
+      "nr": 118,
+      "titel": "Wie ärgern wir Insekten und Käfer auf dem Pausenhof?",
+      "anleitung": "Woche 24: Wir passen gut auf Pflanzen und Tiere auf.",
+      "fragen": [],
+      "hinweis": "Wir beobachten kleine Tiere vorsichtig, ohne sie zu stören.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 24 · MITTWOCH"
+    },
+    {
+      "nr": 119,
+      "titel": "Wie lassen wir beim Verlassen des Raumes das Licht an?",
+      "anleitung": "Woche 24: Wir passen gut auf Pflanzen und Tiere auf.",
+      "fragen": [],
+      "hinweis": "Wir schalten das Licht aus und sparen wertvolle Energie.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 24 · DONNERSTAG"
+    },
+    {
+      "nr": 120,
+      "titel": "Wie drehen wir den Wasserhahn auf Anschlag auf?",
+      "anleitung": "Woche 24: Wir passen gut auf Pflanzen und Tiere auf.",
+      "fragen": [],
+      "hinweis": "Wir nutzen das Wasser sparsam beim Händewaschen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 24 · FREITAG"
+    },
+    {
+      "nr": 121,
+      "titel": "Wie schämen wir uns, wenn wir an der Tafel stocken?",
+      "anleitung": "Woche 25: Wer Fehler macht, lernt etwas Neues dazu!",
+      "fragen": [],
+      "hinweis": "Wir wissen: Die Klasse hilft uns freundlich auf die Sprünge.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 25 · MONTAG"
+    },
+    {
+      "nr": 122,
+      "titel": "Wie radieren wir so stark, dass das Heft reißt?",
+      "anleitung": "Woche 25: Wer Fehler macht, lernt etwas Neues dazu!",
+      "fragen": [],
+      "hinweis": "Wir nutzen sanfte Radiergummis oder streichen sauber durch.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 25 · DIENSTAG"
+    },
+    {
+      "nr": 123,
+      "titel": "Wie lachen wir über falsche Antworten im Unterricht?",
+      "anleitung": "Woche 25: Wer Fehler macht, lernt etwas Neues dazu!",
+      "fragen": [],
+      "hinweis": "Wir loben Mitschüler für ihren Mut, etwas zu versuchen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 25 · MITTWOCH"
+    },
+    {
+      "nr": 124,
+      "titel": "Wie verheimlichen wir ein nicht verstandenes Thema?",
+      "anleitung": "Woche 25: Wer Fehler macht, lernt etwas Neues dazu!",
+      "fragen": [],
+      "hinweis": "Wir sagen der Lehrerin direkt: 'Das muss ich noch üben.'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 25 · DONNERSTAG"
+    },
+    {
+      "nr": 125,
+      "titel": "Wie ärgern wir uns über eine Korrektur im Heft?",
+      "anleitung": "Woche 25: Wer Fehler macht, lernt etwas Neues dazu!",
+      "fragen": [],
+      "hinweis": "Wir schauen uns die grüne Verbesserung genau an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 25 · FREITAG"
+    },
+    {
+      "nr": 126,
+      "titel": "Wie raten wir Wörter, statt sie sorgfältig zu erlesen?",
+      "anleitung": "Woche 26: Wörter bauen ist wie Zaubern mit Buchstaben.",
+      "fragen": [],
+      "hinweis": "Wir schwingen die Silben mit den Händen mit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 26 · MONTAG"
+    },
+    {
+      "nr": 127,
+      "titel": "Wie überlesen wir die Punkt- und Kommazeichen?",
+      "anleitung": "Woche 26: Wörter bauen ist wie Zaubern mit Buchstaben.",
+      "fragen": [],
+      "hinweis": "Bei jedem Punkt machen wir eine kurze Atem-Pause.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 26 · DIENSTAG"
+    },
+    {
+      "nr": 128,
+      "titel": "Wie halten wir das Buch so nah vor das Gesicht, dass es schadet?",
+      "anleitung": "Woche 26: Wörter bauen ist wie Zaubern mit Buchstaben.",
+      "fragen": [],
+      "hinweis": "Wir halten den richtigen Abstand zum Lesebuch ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 26 · MITTWOCH"
+    },
+    {
+      "nr": 129,
+      "titel": "Wie lesen wir ohne Betonung wie ein Roboter?",
+      "anleitung": "Woche 26: Wörter bauen ist wie Zaubern mit Buchstaben.",
+      "fragen": [],
+      "hinweis": "Wir verleihen den Figuren spannende Stimmen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 26 · DONNERSTAG"
+    },
+    {
+      "nr": 130,
+      "titel": "Wie lassen wir die Büchereibücher ungeordnet herumliegen?",
+      "anleitung": "Woche 26: Wörter bauen ist wie Zaubern mit Buchstaben.",
+      "fragen": [],
+      "hinweis": "Wir sortieren die Bücher ordentlich ins Lese-Regal.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 26 · FREITAG"
+    },
+    {
+      "nr": 131,
+      "titel": "Wie zählen wir einzeln an den Fingern und verlieren Zeit?",
+      "anleitung": "Woche 27: Zahlen begreifen mit Händen und Kopf.",
+      "fragen": [],
+      "hinweis": "Wir nutzen die Zehner-Bündelung und Rechenrahmen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 27 · MONTAG"
+    },
+    {
+      "nr": 132,
+      "titel": "Wie werfen wir die Rechenplättchen unter die Tische?",
+      "anleitung": "Woche 27: Zahlen begreifen mit Händen und Kopf.",
+      "fragen": [],
+      "hinweis": "Wir halten unser Legematerial sauber in der Dose.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 27 · DIENSTAG"
+    },
+    {
+      "nr": 133,
+      "titel": "Wie lassen wir uns von Tausender-Zahlen erschrecken?",
+      "anleitung": "Woche 27: Zahlen begreifen mit Händen und Kopf.",
+      "fragen": [],
+      "hinweis": "Wir zerlegen große Zahlen in kleine, einfache Schritte.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 27 · MITTWOCH"
+    },
+    {
+      "nr": 134,
+      "titel": "Wie vergessen wir das Geodreieck im Unterricht?",
+      "anleitung": "Woche 27: Zahlen begreifen mit Händen und Kopf.",
+      "fragen": [],
+      "hinweis": "Wir legen Rechenwerkzeuge am Vorabend in die Mappe.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 27 · DONNERSTAG"
+    },
+    {
+      "nr": 135,
+      "titel": "Wie rechnen wir ohne Gegenprobe schnell und schlampig?",
+      "anleitung": "Woche 27: Zahlen begreifen mit Händen und Kopf.",
+      "fragen": [],
+      "hinweis": "Wir machen die Probe und prüfen unser Ergebnis.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 27 · FREITAG"
+    },
+    {
+      "nr": 136,
+      "titel": "Wie fassen wir das Tablet mit fettigen Pausen-Fingern an?",
+      "anleitung": "Woche 28: Medien nutzen mit Verstand und Maß.",
+      "fragen": [],
+      "hinweis": "Wir waschen vorher Hände und nutzen den Eingabestift.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 28 · MONTAG"
+    },
+    {
+      "nr": 137,
+      "titel": "Wie klicken wir fremde Apps an, die nicht erlaubt sind?",
+      "anleitung": "Woche 28: Medien nutzen mit Verstand und Maß.",
+      "fragen": [],
+      "hinweis": "Wir nutzen exakt die Lern-App, die die Lehrkraft vorgibt.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 28 · DIENSTAG"
+    },
+    {
+      "nr": 138,
+      "titel": "Wie lassen wir das Tablet auf der Tischkante wackeln?",
+      "anleitung": "Woche 28: Medien nutzen mit Verstand und Maß.",
+      "fragen": [],
+      "hinweis": "Wir stellen das Tablet sicher in die Mitte der Schutzhülle.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 28 · MITTWOCH"
+    },
+    {
+      "nr": 139,
+      "titel": "Wie verfassen wir gemeine Nachrichten im Chat?",
+      "anleitung": "Woche 28: Medien nutzen mit Verstand und Maß.",
+      "fragen": [],
+      "hinweis": "Wir schreiben nur Worte, die wir auch persönlich sagen würden.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 28 · DONNERSTAG"
+    },
+    {
+      "nr": 140,
+      "titel": "Wie vergessen wir das Tablet in den Ladekoffer zu stecken?",
+      "anleitung": "Woche 28: Medien nutzen mit Verstand und Maß.",
+      "fragen": [],
+      "hinweis": "Wir schließen das Tablet am Schulschluss ordentlich zum Laden an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 28 · FREITAG"
+    },
+    {
+      "nr": 141,
+      "titel": "Wie lassen wir uns von Frühlingssonne völlig ablenken?",
+      "anleitung": "Woche 29: Frühlingsgefühle & Freude am Lernen.",
+      "fragen": [],
+      "hinweis": "Wir arbeiten zügig, um die Pause draußen zu genießen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 29 · MONTAG"
+    },
+    {
+      "nr": 142,
+      "titel": "Wie streiten wir beim Ostereier-Suchspiel?",
+      "anleitung": "Woche 29: Frühlingsgefühle & Freude am Lernen.",
+      "fragen": [],
+      "hinweis": "Wir teilen gefundene Schätze gerecht in der Klasse.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 29 · DIENSTAG"
+    },
+    {
+      "nr": 143,
+      "titel": "Wie lassen wir das Bastelmaterial ungeordnet liegen?",
+      "anleitung": "Woche 29: Frühlingsgefühle & Freude am Lernen.",
+      "fragen": [],
+      "hinweis": "Wir säubern die Basteltische gemeinsam vor Ferienstart.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 29 · MITTWOCH"
+    },
+    {
+      "nr": 144,
+      "titel": "Wie gehen wir mit unerledigten Hausaufgaben in die Ferien?",
+      "anleitung": "Woche 29: Frühlingsgefühle & Freude am Lernen.",
+      "fragen": [],
+      "hinweis": "Wir schließen alle Aufgaben vor dem letzten Schultag ab.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 29 · DONNERSTAG"
+    },
+    {
+      "nr": 145,
+      "titel": "Wie vergessen wir Brainy alles Gute zu wünschen?",
+      "anleitung": "Woche 29: Frühlingsgefühle & Freude am Lernen.",
+      "fragen": [],
+      "hinweis": "Wir verabschieden uns herzlich im Oster-Schlusskreis.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 29 · FREITAG"
+    },
+    {
+      "nr": 146,
+      "titel": "Wie stöhnen wir montags nur über das warme Sommerwetter?",
+      "anleitung": "Woche 30: Wir geben noch einmal unser Bestes!",
+      "fragen": [],
+      "hinweis": "Wir trinken frisches Wasser und freuen uns auf den Schultag.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 30 · MONTAG"
+    },
+    {
+      "nr": 147,
+      "titel": "Wie lassen wir die Konzentration in den letzten Wochen schleifen?",
+      "anleitung": "Woche 30: Wir geben noch einmal unser Bestes!",
+      "fragen": [],
+      "hinweis": "Wir nutzen kurze 15-Minuten-Fokus-Einheiten.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 30 · DIENSTAG"
+    },
+    {
+      "nr": 148,
+      "titel": "Wie vergessen wir unsere Sonnenkappe für die Pausen?",
+      "anleitung": "Woche 30: Wir geben noch einmal unser Bestes!",
+      "fragen": [],
+      "hinweis": "Wir schützen uns in der Sonne mit Kappe und Schatten-Plätzen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 30 · MITTWOCH"
+    },
+    {
+      "nr": 149,
+      "titel": "Wie werfen wir volle Trinksport-Flaschen in den Ranzen?",
+      "anleitung": "Woche 30: Wir geben noch einmal unser Bestes!",
+      "fragen": [],
+      "hinweis": "Wir verschließen Trinkflaschen fest und aufrecht.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 30 · DONNERSTAG"
+    },
+    {
+      "nr": 150,
+      "titel": "Wie lassen wir die Sportsachen über das Wochenende in der Schule?",
+      "anleitung": "Woche 30: Wir geben noch einmal unser Bestes!",
+      "fragen": [],
+      "hinweis": "Wir nehmen die Sportkleidung freitags zum Waschen mit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 30 · FREITAG"
+    },
+    {
+      "nr": 151,
+      "titel": "Wie schlagen wir sofort zurück, wenn uns jemand anrempelt?",
+      "anleitung": "Woche 31: Konflikte klären ohne Wut und Handgreiflichkeit.",
+      "fragen": [],
+      "hinweis": "Wir holen tief Luft und sagen: 'Das hat mir wehgetan!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 31 · MONTAG"
+    },
+    {
+      "nr": 152,
+      "titel": "Wie rufen wir Schimpfwörter über den Pausenhof?",
+      "anleitung": "Woche 31: Konflikte klären ohne Wut und Handgreiflichkeit.",
+      "fragen": [],
+      "hinweis": "Wir nutzen freundliche Worte und klären Missverständnisse.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 31 · DIENSTAG"
+    },
+    {
+      "nr": 153,
+      "titel": "Wie rennen wir weg, wenn wir was kaputt gemacht haben?",
+      "anleitung": "Woche 31: Konflikte klären ohne Wut und Handgreiflichkeit.",
+      "fragen": [],
+      "hinweis": "Wir stehen zu Fehlern und holen den Pausenhof-Detektiv.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 31 · MITTWOCH"
+    },
+    {
+      "nr": 154,
+      "titel": "Wie stacheln wir andere Kinder zum Streiten an?",
+      "anleitung": "Woche 31: Konflikte klären ohne Wut und Handgreiflichkeit.",
+      "fragen": [],
+      "hinweis": "Wir helfen als friedliche Streitschlichter beim Beruhigen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 31 · DONNERSTAG"
+    },
+    {
+      "nr": 155,
+      "titel": "Wie nachtragend sind wir über vergangene Konflikte?",
+      "anleitung": "Woche 31: Konflikte klären ohne Wut und Handgreiflichkeit.",
+      "fragen": [],
+      "hinweis": "Wir reichen uns die Hand und starten neu ins Wochenende.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 31 · FREITAG"
+    },
+    {
+      "nr": 156,
+      "titel": "Wie rennen wir ohne zu schauen über die Straße?",
+      "anleitung": "Woche 32: Sicher unterwegs als Klassengemeinschaft.",
+      "fragen": [],
+      "hinweis": "Wir stoppen am Bordstein und schauen links-rechts-links.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 32 · MONTAG"
+    },
+    {
+      "nr": 157,
+      "titel": "Wie drängeln wir beim Einstieg in den Schulbus?",
+      "anleitung": "Woche 32: Sicher unterwegs als Klassengemeinschaft.",
+      "fragen": [],
+      "hinweis": "Wir steigen ruhig nacheinander in den Bus ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 32 · DIENSTAG"
+    },
+    {
+      "nr": 158,
+      "titel": "Wie lauten wir im öffentlichen Bus herum und stören den Fahrer?",
+      "anleitung": "Woche 32: Sicher unterwegs als Klassengemeinschaft.",
+      "fragen": [],
+      "hinweis": "Wir sitzen leise auf unseren Plätzen und schnallen uns an.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 32 · MITTWOCH"
+    },
+    {
+      "nr": 159,
+      "titel": "Wie verlierst du dein Pausenbrot beim Wandertag?",
+      "anleitung": "Woche 32: Sicher unterwegs als Klassengemeinschaft.",
+      "fragen": [],
+      "hinweis": "Wir tragen unseren Rucksack fest auf beiden Schultern.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 32 · DONNERSTAG"
+    },
+    {
+      "nr": 160,
+      "titel": "Wie laufen wir beim Ausflug einfach von der Gruppe weg?",
+      "anleitung": "Woche 32: Sicher unterwegs als Klassengemeinschaft.",
+      "fragen": [],
+      "hinweis": "Wir bleiben immer bei unserem Partner-Kind.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 32 · FREITAG"
+    },
+    {
+      "nr": 161,
+      "titel": "Wie nehmen wir die Arbeit der Putzkräfte als selbstverständlich hin?",
+      "anleitung": "Woche 33: Wir schätzen die Menschen um uns herum.",
+      "fragen": [],
+      "hinweis": "Wir halten unser Klassenzimmer sauber und sagen 'Danke!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 33 · MONTAG"
+    },
+    {
+      "nr": 162,
+      "titel": "Wie meckern wir über das Schulessen im Hort?",
+      "anleitung": "Woche 33: Wir schätzen die Menschen um uns herum.",
+      "fragen": [],
+      "hinweis": "Wir loben das Küchenpersonal für ihre tägliche Arbeit.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 33 · DIENSTAG"
+    },
+    {
+      "nr": 163,
+      "titel": "Wie vergessen wir die Hilfe des Hausmeisters?",
+      "anleitung": "Woche 33: Wir schätzen die Menschen um uns herum.",
+      "fragen": [],
+      "hinweis": "Wir überreichen dem Hausmeister eine Dankes-Karte.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 33 · MITTWOCH"
+    },
+    {
+      "nr": 164,
+      "titel": "Wie behandeln wir die Schulbegleiter unhöflich?",
+      "anleitung": "Woche 33: Wir schätzen die Menschen um uns herum.",
+      "fragen": [],
+      "hinweis": "Wir schätzen die tägliche Unterstützung der INGRA.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 33 · DONNERSTAG"
+    },
+    {
+      "nr": 165,
+      "titel": "Wie gehen wir ohne Danke zu sagen ins Sommer-Wochenende?",
+      "anleitung": "Woche 33: Wir schätzen die Menschen um uns herum.",
+      "fragen": [],
+      "hinweis": "Wir nennen 3 Dinge, für die wir diese Woche dankbar sind.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 33 · FREITAG"
+    },
+    {
+      "nr": 166,
+      "titel": "Wie rennen wir in der prallen Mittagssonne wie wild herum?",
+      "anleitung": "Woche 34: Kühler Kopf auch an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir bewegen uns im Schatten der Bäume ruhig.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 34 · MONTAG"
+    },
+    {
+      "nr": 167,
+      "titel": "Wie jammern wir über die Wärme, statt Wasser zu trinken?",
+      "anleitung": "Woche 34: Kühler Kopf auch an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir kühlen unsere Handgelenke mit kaltem Wasser ab.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 34 · DIENSTAG"
+    },
+    {
+      "nr": 168,
+      "titel": "Wie lassen wir die Fenster bei brütender Hitze weit offen?",
+      "anleitung": "Woche 34: Kühler Kopf auch an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir lüften morgens früh und dunkeln den Raum ab.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 34 · MITTWOCH"
+    },
+    {
+      "nr": 169,
+      "titel": "Wie essen wir schwere, fettige Sachen bei Sommerhitze?",
+      "anleitung": "Woche 34: Kühler Kopf auch an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir genießen erfrischendes Obst in der Hofpause.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 34 · DONNERSTAG"
+    },
+    {
+      "nr": 170,
+      "titel": "Wie lassen wir die nasse Badehose im Ranzen gammeln?",
+      "anleitung": "Woche 34: Kühler Kopf auch an heißen Tagen.",
+      "fragen": [],
+      "hinweis": "Wir hängen nass gewordene Sachen sofort zum Trocknen auf.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 34 · FREITAG"
+    },
+    {
+      "nr": 171,
+      "titel": "Wie drängeln wir uns beim Werkzeug-Austeilen vor?",
+      "anleitung": "Woche 35: Wir bauen, werkeln und lernen mit den Händen.",
+      "fragen": [],
+      "hinweis": "Wir warten geduldig, bis wir das Werkzeug erhalten.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 35 · MONTAG"
+    },
+    {
+      "nr": 172,
+      "titel": "Wie gehen wir grob mit Kleber und Farben um?",
+      "anleitung": "Woche 35: Wir bauen, werkeln und lernen mit den Händen.",
+      "fragen": [],
+      "hinweis": "Wir nutzen Klebeunterlagen und dosieren sparsam.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 35 · DIENSTAG"
+    },
+    {
+      "nr": 173,
+      "titel": "Wie lassen wir die Pinsel ungereinigt im Becher austrocknen?",
+      "anleitung": "Woche 35: Wir bauen, werkeln und lernen mit den Händen.",
+      "fragen": [],
+      "hinweis": "Wir waschen Pinsel sofort nach Gebrauch gründlich aus.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 35 · MITTWOCH"
+    },
+    {
+      "nr": 174,
+      "titel": "Wie meckern wir über die Bastel-Idee der Gruppe?",
+      "anleitung": "Woche 35: Wir bauen, werkeln und lernen mit den Händen.",
+      "fragen": [],
+      "hinweis": "Wir bringen konstruktive Vorschläge in das Projekt ein.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 35 · DONNERSTAG"
+    },
+    {
+      "nr": 175,
+      "titel": "Wie lassen wir das Projekt unvollendet im Chaos liegen?",
+      "anleitung": "Woche 35: Wir bauen, werkeln und lernen mit den Händen.",
+      "fragen": [],
+      "hinweis": "Wir präsentieren stolz unser fertig gestelltes Werk.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 35 · FREITAG"
+    },
+    {
+      "nr": 176,
+      "titel": "Wie drücken wir uns vor dem Aufräumen der Eigentums-Fächer?",
+      "anleitung": "Woche 36: Ein sauberes Zimmer macht Platz für Neues.",
+      "fragen": [],
+      "hinweis": "Wir leeren unser Fach komplett und sortieren sauber aus.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 36 · MONTAG"
+    },
+    {
+      "nr": 177,
+      "titel": "Wie werfen wir funktionierende Stifte in den Müll?",
+      "anleitung": "Woche 36: Ein sauberes Zimmer macht Platz für Neues.",
+      "fragen": [],
+      "hinweis": "Wir testen alle Stifte und spenden nicht mehr benötigte.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 36 · DIENSTAG"
+    },
+    {
+      "nr": 178,
+      "titel": "Wie lassen wir Spiele-Kisten unvollständig im Regal?",
+      "anleitung": "Woche 36: Ein sauberes Zimmer macht Platz für Neues.",
+      "fragen": [],
+      "hinweis": "Wir zählen die Spielkarten nach und sortieren die Kisten.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 36 · MITTWOCH"
+    },
+    {
+      "nr": 179,
+      "titel": "Wie wischen wir die Tafeln nicht gründlich ab?",
+      "anleitung": "Woche 36: Ein sauberes Zimmer macht Platz für Neues.",
+      "fragen": [],
+      "hinweis": "Wir wischen die Regale und Tafeln feucht und gründlich.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 36 · DONNERSTAG"
+    },
+    {
+      "nr": 180,
+      "titel": "Wie lassen wir Schuhe im Umkleideraum zurück?",
+      "anleitung": "Woche 36: Ein sauberes Zimmer macht Platz für Neues.",
+      "fragen": [],
+      "hinweis": "Wir nehmen alle persönlichen Sachen mit nach Hause.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 36 · FREITAG"
+    },
+    {
+      "nr": 181,
+      "titel": "Wie glauben wir, wir hätten dieses Jahr nichts gelernt?",
+      "anleitung": "Woche 37: Schau mal, wie viel du dieses Jahr gelernt hast!",
+      "fragen": [],
+      "hinweis": "Wir blättern im Logbuch von Woche 1 bis heute.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 37 · MONTAG"
+    },
+    {
+      "nr": 182,
+      "titel": "Wie vergessen wir unsere schönsten Klassenfahrt-Momente?",
+      "anleitung": "Woche 37: Schau mal, wie viel du dieses Jahr gelernt hast!",
+      "fragen": [],
+      "hinweis": "Wir gestalten eine Buntstift-Seite mit unseren Highlights.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 37 · DIENSTAG"
+    },
+    {
+      "nr": 183,
+      "titel": "Wie schämen wir uns für die Schwierigkeiten im Herbst?",
+      "anleitung": "Woche 37: Schau mal, wie viel du dieses Jahr gelernt hast!",
+      "fragen": [],
+      "hinweis": "Wir feiern, wie viel leichter uns die Dinge HEUTE fallen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 37 · MITTWOCH"
+    },
+    {
+      "nr": 184,
+      "titel": "Wie sagen wir Mitschülern nicht, was wir an ihnen schätzen?",
+      "anleitung": "Woche 37: Schau mal, wie viel du dieses Jahr gelernt hast!",
+      "fragen": [],
+      "hinweis": "Wir schreiben jedem Kind ein wertschätzendes Stärken-Kärtchen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 37 · DONNERSTAG"
+    },
+    {
+      "nr": 185,
+      "titel": "Wie packen wir unsere Zeugnis-Mappe schlampig ein?",
+      "anleitung": "Woche 37: Schau mal, wie viel du dieses Jahr gelernt hast!",
+      "fragen": [],
+      "hinweis": "Wir heften den Jahresschatz stolz in die Übergabe-Mappe.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 37 · FREITAG"
+    },
+    {
+      "nr": 186,
+      "titel": "Wie weinen wir nur vor dem Abschied von der Klasse?",
+      "anleitung": "Woche 38: Wir haben es geschafft – ab in die wohlverdienten Ferien!",
+      "fragen": [],
+      "hinweis": "Wir freuen uns auf die Ferien und bleiben in Kontakt.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 38 · MONTAG"
+    },
+    {
+      "nr": 187,
+      "titel": "Wie räumen wir den Klassenraum am letzten Tag unsauber?",
+      "anleitung": "Woche 38: Wir haben es geschafft – ab in die wohlverdienten Ferien!",
+      "fragen": [],
+      "hinweis": "Wir hinterlassen das Klassenzimmer blitzblank für nächstes Jahr.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 38 · DIENSTAG"
+    },
+    {
+      "nr": 188,
+      "titel": "Wie vergessen wir unser Brainy-Diplom auf dem Tisch?",
+      "anleitung": "Woche 38: Wir haben es geschafft – ab in die wohlverdienten Ferien!",
+      "fragen": [],
+      "hinweis": "Wir nehmen unsere Ehrenurkunde stolz entgegen.",
+      "icon": "child-reaching",
+      "badge": "WOCHE 38 · MITTWOCH"
+    },
+    {
+      "nr": 189,
+      "titel": "Wie vergessen wir, der Lehrerin und INGRA zu danken?",
+      "anleitung": "Woche 38: Wir haben es geschafft – ab in die wohlverdienten Ferien!",
+      "fragen": [],
+      "hinweis": "Wir sagen von Herzen 'Danke für das tolle Schuljahr!'",
+      "icon": "child-reaching",
+      "badge": "WOCHE 38 · DONNERSTAG"
+    },
+    {
+      "nr": 190,
+      "titel": "Wie rennen wir chaotisch aus dem Schulgebäude?",
+      "anleitung": "Woche 38: Wir haben es geschafft – ab in die wohlverdienten Ferien!",
+      "fragen": [],
+      "hinweis": "Wir verabschieden uns im großen Sommer-Stuhlkreis und starten gefeiert in die Sommerferien!",
+      "icon": "child-reaching",
+      "badge": "WOCHE 38 · FREITAG"
+    }
+  ]
+}
