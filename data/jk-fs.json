@@ -12,8 +12,8 @@
       "anleitung": "Woche 1: Ankommen & Stuhlkreis-Ritual — Wir lernen uns kennen und hören einander zu.",
       "fragen": [],
       "hinweis": "Wir schauen das Kind an, das den Sprechstein hält.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 1 · MONTAG"
+      "badge": "WOCHE 1 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 2,
@@ -21,8 +21,8 @@
       "anleitung": "Woche 1: Ankommen & Stuhlkreis-Ritual — Wir lernen uns kennen und hören einander zu.",
       "fragen": [],
       "hinweis": "Wir warten, bis der Sprechstein bei uns angekommen ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 1 · DIENSTAG"
+      "badge": "WOCHE 1 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 3,
@@ -30,8 +30,8 @@
       "anleitung": "Woche 1: Ankommen & Stuhlkreis-Ritual — Wir lernen uns kennen und hören einander zu.",
       "fragen": [],
       "hinweis": "Wir gehen leise auf unseren festen Platz im Kreis.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 1 · MITTWOCH"
+      "badge": "WOCHE 1 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 4,
@@ -39,8 +39,8 @@
       "anleitung": "Woche 1: Ankommen & Stuhlkreis-Ritual — Wir lernen uns kennen und hören einander zu.",
       "fragen": [],
       "hinweis": "Wir sitzen mit beiden Füßen fest auf dem Boden.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 1 · DONNERSTAG"
+      "badge": "WOCHE 1 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 5,
@@ -48,8 +48,8 @@
       "anleitung": "Woche 1: Ankommen & Stuhlkreis-Ritual — Wir lernen uns kennen und hören einander zu.",
       "fragen": [],
       "hinweis": "Wir sagen einander freundlich 'Guten Morgen'.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 1 · FREITAG"
+      "badge": "WOCHE 1 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 6,
@@ -57,8 +57,8 @@
       "anleitung": "Woche 2: Orientierung & Schulhaus-Wege — Wir finden uns in der Schule sicher zurecht.",
       "fragen": [],
       "hinweis": "Wir folgen den bunten Pfeilen an den Wänden.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 2 · MONTAG"
+      "badge": "WOCHE 2 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 7,
@@ -66,8 +66,8 @@
       "anleitung": "Woche 2: Orientierung & Schulhaus-Wege — Wir finden uns in der Schule sicher zurecht.",
       "fragen": [],
       "hinweis": "Wir gehen hintereinander auf der rechten Seite.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 2 · DIENSTAG"
+      "badge": "WOCHE 2 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 8,
@@ -75,8 +75,8 @@
       "anleitung": "Woche 2: Orientierung & Schulhaus-Wege — Wir finden uns in der Schule sicher zurecht.",
       "fragen": [],
       "hinweis": "Wir öffnen die Tür langsam und schauen nach vorne.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 2 · MITTWOCH"
+      "badge": "WOCHE 2 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 9,
@@ -84,8 +84,8 @@
       "anleitung": "Woche 2: Orientierung & Schulhaus-Wege — Wir finden uns in der Schule sicher zurecht.",
       "fragen": [],
       "hinweis": "Wir schauen vorher auf unsere Bild-Tageskarte.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 2 · DONNERSTAG"
+      "badge": "WOCHE 2 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 10,
@@ -93,8 +93,8 @@
       "anleitung": "Woche 2: Orientierung & Schulhaus-Wege — Wir finden uns in der Schule sicher zurecht.",
       "fragen": [],
       "hinweis": "Wir hängen die Tasche an unseren eigenen Garderoben-Haken.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 2 · FREITAG"
+      "badge": "WOCHE 2 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 11,
@@ -102,8 +102,8 @@
       "anleitung": "Woche 3: Ordnung & Schulranzen-TÜV — Jedes Ding hat seinen festen Platz.",
       "fragen": [],
       "hinweis": "Wir legen die Blätter ordentlich in unsere Sammel-Mappe.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 3 · MONTAG"
+      "badge": "WOCHE 3 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 12,
@@ -111,8 +111,8 @@
       "anleitung": "Woche 3: Ordnung & Schulranzen-TÜV — Jedes Ding hat seinen festen Platz.",
       "fragen": [],
       "hinweis": "Wir räumen jeden Mittag die Dose und Flasche aus.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 3 · DIENSTAG"
+      "badge": "WOCHE 3 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 13,
@@ -120,8 +120,8 @@
       "anleitung": "Woche 3: Ordnung & Schulranzen-TÜV — Jedes Ding hat seinen festen Platz.",
       "fragen": [],
       "hinweis": "Wir legen das Federmäppchen offen vor uns auf den Tisch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 3 · MITTWOCH"
+      "badge": "WOCHE 3 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 14,
@@ -129,8 +129,8 @@
       "anleitung": "Woche 3: Ordnung & Schulranzen-TÜV — Jedes Ding hat seinen festen Platz.",
       "fragen": [],
       "hinweis": "Wir nutzen den Anspitzer mit der kleinen Mülldose.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 3 · DONNERSTAG"
+      "badge": "WOCHE 3 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 15,
@@ -138,8 +138,8 @@
       "anleitung": "Woche 3: Ordnung & Schulranzen-TÜV — Jedes Ding hat seinen festen Platz.",
       "fragen": [],
       "hinweis": "Wir räumen am Ende der Stunde alles auf seinen Platz.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 3 · FREITAG"
+      "badge": "WOCHE 3 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 16,
@@ -147,8 +147,8 @@
       "anleitung": "Woche 4: Stopp-Signal & Regeln halten — Stopp heißt Stopp für alle Kinder.",
       "fragen": [],
       "hinweis": "Wenn die Hand hochgeht, werden wir leise und schauen hin.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 4 · MONTAG"
+      "badge": "WOCHE 4 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 17,
@@ -156,8 +156,8 @@
       "anleitung": "Woche 4: Stopp-Signal & Regeln halten — Stopp heißt Stopp für alle Kinder.",
       "fragen": [],
       "hinweis": "Stopp heißt sofort aufhören und Hände auf den Tisch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 4 · DIENSTAG"
+      "badge": "WOCHE 4 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 18,
@@ -165,8 +165,8 @@
       "anleitung": "Woche 4: Stopp-Signal & Regeln halten — Stopp heißt Stopp für alle Kinder.",
       "fragen": [],
       "hinweis": "Wir fragen erst mit dem Melde-Zeichen um Erlaubnis.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 4 · MITTWOCH"
+      "badge": "WOCHE 4 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 19,
@@ -174,8 +174,8 @@
       "anleitung": "Woche 4: Stopp-Signal & Regeln halten — Stopp heißt Stopp für alle Kinder.",
       "fragen": [],
       "hinweis": "Wir lassen den Tischnachbarn ruhig fertig arbeiten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 4 · DONNERSTAG"
+      "badge": "WOCHE 4 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 20,
@@ -183,8 +183,8 @@
       "anleitung": "Woche 4: Stopp-Signal & Regeln halten — Stopp heißt Stopp für alle Kinder.",
       "fragen": [],
       "hinweis": "Wir halten die Regeln ein, damit sich alle wohlfühlen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 4 · FREITAG"
+      "badge": "WOCHE 4 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 21,
@@ -192,8 +192,8 @@
       "anleitung": "Woche 5: Hofpause & Miteinander spielen — Gemeinsam macht die Pause allen Spaß.",
       "fragen": [],
       "hinweis": "Wir fragen freundlich: 'Darf ich mitspielen?'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 5 · MONTAG"
+      "badge": "WOCHE 5 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 22,
@@ -201,8 +201,8 @@
       "anleitung": "Woche 5: Hofpause & Miteinander spielen — Gemeinsam macht die Pause allen Spaß.",
       "fragen": [],
       "hinweis": "Wir nehmen Rücksicht und laufen nicht in Menschenmengen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 5 · DIENSTAG"
+      "badge": "WOCHE 5 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 23,
@@ -210,8 +210,8 @@
       "anleitung": "Woche 5: Hofpause & Miteinander spielen — Gemeinsam macht die Pause allen Spaß.",
       "fragen": [],
       "hinweis": "Wir bringen die Pausensachen zurück in die Kiste.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 5 · MITTWOCH"
+      "badge": "WOCHE 5 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 24,
@@ -219,8 +219,8 @@
       "anleitung": "Woche 5: Hofpause & Miteinander spielen — Gemeinsam macht die Pause allen Spaß.",
       "fragen": [],
       "hinweis": "Wir nutzen die Pausen-Sanduhr zum Abwechseln.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 5 · DONNERSTAG"
+      "badge": "WOCHE 5 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 25,
@@ -228,8 +228,8 @@
       "anleitung": "Woche 5: Hofpause & Miteinander spielen — Gemeinsam macht die Pause allen Spaß.",
       "fragen": [],
       "hinweis": "Beim Gong stellen wir uns sofort an der Tür an.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 5 · FREITAG"
+      "badge": "WOCHE 5 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 26,
@@ -237,8 +237,8 @@
       "anleitung": "Woche 6: Konzentration & Kurze Lernzeiten — Schritt für Schritt ans Ziel kommen.",
       "fragen": [],
       "hinweis": "Wir setzen uns den Gehörschutz auf, wenn wir Ruhe brauchen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 6 · MONTAG"
+      "badge": "WOCHE 6 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 27,
@@ -246,8 +246,8 @@
       "anleitung": "Woche 6: Konzentration & Kurze Lernzeiten — Schritt für Schritt ans Ziel kommen.",
       "fragen": [],
       "hinweis": "Wir machen erst Aufgabe 1 fertig, dann Aufgabe 2.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 6 · DIENSTAG"
+      "badge": "WOCHE 6 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 28,
@@ -255,8 +255,8 @@
       "anleitung": "Woche 6: Konzentration & Kurze Lernzeiten — Schritt für Schritt ans Ziel kommen.",
       "fragen": [],
       "hinweis": "Wir arbeiten ruhig, bis die kleine Sanduhr abgelaufen ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 6 · MITTWOCH"
+      "badge": "WOCHE 6 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 29,
@@ -264,8 +264,8 @@
       "anleitung": "Woche 6: Konzentration & Kurze Lernzeiten — Schritt für Schritt ans Ziel kommen.",
       "fragen": [],
       "hinweis": "Wir melden uns und nutzen die Tipp-Karte.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 6 · DONNERSTAG"
+      "badge": "WOCHE 6 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 30,
@@ -273,8 +273,8 @@
       "anleitung": "Woche 6: Konzentration & Kurze Lernzeiten — Schritt für Schritt ans Ziel kommen.",
       "fragen": [],
       "hinweis": "Stifte gehören nur auf das Arbeitsblatt.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 6 · FREITAG"
+      "badge": "WOCHE 6 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 31,
@@ -282,8 +282,8 @@
       "anleitung": "Woche 7: Gefühle erkennen & Barometer nutzen — Ich weiß, wie es mir geht und was mir hilft.",
       "fragen": [],
       "hinweis": "Wir schieben unsere Klammer auf die Gefühls-Ampel.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 7 · MONTAG"
+      "badge": "WOCHE 7 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 32,
@@ -291,8 +291,8 @@
       "anleitung": "Woche 7: Gefühle erkennen & Barometer nutzen — Ich weiß, wie es mir geht und was mir hilft.",
       "fragen": [],
       "hinweis": "Wir fragen freundlich: 'Kann ich dir helfen?'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 7 · DIENSTAG"
+      "badge": "WOCHE 7 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 33,
@@ -300,8 +300,8 @@
       "anleitung": "Woche 7: Gefühle erkennen & Barometer nutzen — Ich weiß, wie es mir geht und was mir hilft.",
       "fragen": [],
       "hinweis": "Wir nutzen die Wut-Taste oder das Knet-Kissen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 7 · MITTWOCH"
+      "badge": "WOCHE 7 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 34,
@@ -309,8 +309,8 @@
       "anleitung": "Woche 7: Gefühle erkennen & Barometer nutzen — Ich weiß, wie es mir geht und was mir hilft.",
       "fragen": [],
       "hinweis": "Wir zeigen die Pausen-Karte und atmen durch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 7 · DONNERSTAG"
+      "badge": "WOCHE 7 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 35,
@@ -318,8 +318,8 @@
       "anleitung": "Woche 7: Gefühle erkennen & Barometer nutzen — Ich weiß, wie es mir geht und was mir hilft.",
       "fragen": [],
       "hinweis": "Wir kleben stolz einen Stärken-Stern in unser Buch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 7 · FREITAG"
+      "badge": "WOCHE 7 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 36,
@@ -327,8 +327,8 @@
       "anleitung": "Woche 8: Hilfe holen & Partnerhilfe — Gegenseitig helfen macht uns stark.",
       "fragen": [],
       "hinweis": "Wir fragen zuerst unser Partner-Kind am Tisch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 8 · MONTAG"
+      "badge": "WOCHE 8 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 37,
@@ -336,8 +336,8 @@
       "anleitung": "Woche 8: Hilfe holen & Partnerhilfe — Gegenseitig helfen macht uns stark.",
       "fragen": [],
       "hinweis": "Wir erklären den Weg, ohne die Antwort vorzusagen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 8 · DIENSTAG"
+      "badge": "WOCHE 8 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 38,
@@ -345,8 +345,8 @@
       "anleitung": "Woche 8: Hilfe holen & Partnerhilfe — Gegenseitig helfen macht uns stark.",
       "fragen": [],
       "hinweis": "Wir nehmen die Unterstützung dankend an.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 8 · MITTWOCH"
+      "badge": "WOCHE 8 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 39,
@@ -354,8 +354,8 @@
       "anleitung": "Woche 8: Hilfe holen & Partnerhilfe — Gegenseitig helfen macht uns stark.",
       "fragen": [],
       "hinweis": "Wir fragen zuerst: 'Brauchst du eine Hilfe?'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 8 · DONNERSTAG"
+      "badge": "WOCHE 8 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 40,
@@ -363,8 +363,8 @@
       "anleitung": "Woche 8: Hilfe holen & Partnerhilfe — Gegenseitig helfen macht uns stark.",
       "fragen": [],
       "hinweis": "Wir sagen freundlich 'Danke für deine Hilfe'.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 8 · FREITAG"
+      "badge": "WOCHE 8 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 41,
@@ -372,8 +372,8 @@
       "anleitung": "Woche 9: Reizreduktion & Herbst-Projekte — Ein ruhiger Raum hilft unserem Kopf.",
       "fragen": [],
       "hinweis": "Wir legen Stifte leise auf das Filz-Tuch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 9 · MONTAG"
+      "badge": "WOCHE 9 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 42,
@@ -381,8 +381,8 @@
       "anleitung": "Woche 9: Reizreduktion & Herbst-Projekte — Ein ruhiger Raum hilft unserem Kopf.",
       "fragen": [],
       "hinweis": "Wir stellen die Sichtschutz-Wand ruhig auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 9 · DIENSTAG"
+      "badge": "WOCHE 9 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 43,
@@ -390,8 +390,8 @@
       "anleitung": "Woche 9: Reizreduktion & Herbst-Projekte — Ein ruhiger Raum hilft unserem Kopf.",
       "fragen": [],
       "hinweis": "Wir nutzen das Fuß-Gummiband unter dem Stuhl.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 9 · MITTWOCH"
+      "badge": "WOCHE 9 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 44,
@@ -399,8 +399,8 @@
       "anleitung": "Woche 9: Reizreduktion & Herbst-Projekte — Ein ruhiger Raum hilft unserem Kopf.",
       "fragen": [],
       "hinweis": "Wir schließen Schränke und Kisten leise.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 9 · DONNERSTAG"
+      "badge": "WOCHE 9 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 45,
@@ -408,8 +408,8 @@
       "anleitung": "Woche 9: Reizreduktion & Herbst-Projekte — Ein ruhiger Raum hilft unserem Kopf.",
       "fragen": [],
       "hinweis": "Wir sammeln Naturmaterialien ordentlich in Kisten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 9 · FREITAG"
+      "badge": "WOCHE 9 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 46,
@@ -417,8 +417,8 @@
       "anleitung": "Woche 10: Feedback & Herbstferien-Ausblick — Wir schauen zurück auf tolle Erfolge.",
       "fragen": [],
       "hinweis": "Wir nennen 1 Sache, die uns gut gelungen ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 10 · MONTAG"
+      "badge": "WOCHE 10 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 47,
@@ -426,8 +426,8 @@
       "anleitung": "Woche 10: Feedback & Herbstferien-Ausblick — Wir schauen zurück auf tolle Erfolge.",
       "fragen": [],
       "hinweis": "Wir heften alles stolz im Sammel-Ordner ein.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 10 · DIENSTAG"
+      "badge": "WOCHE 10 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 48,
@@ -435,8 +435,8 @@
       "anleitung": "Woche 10: Feedback & Herbstferien-Ausblick — Wir schauen zurück auf tolle Erfolge.",
       "fragen": [],
       "hinweis": "Wir räumen alle Fächer blitzblank auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 10 · MITTWOCH"
+      "badge": "WOCHE 10 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 49,
@@ -444,8 +444,8 @@
       "anleitung": "Woche 10: Feedback & Herbstferien-Ausblick — Wir schauen zurück auf tolle Erfolge.",
       "fragen": [],
       "hinweis": "Wir spielen ein schönes Gemeinschafts-Spiel.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 10 · DONNERSTAG"
+      "badge": "WOCHE 10 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 50,
@@ -453,8 +453,8 @@
       "anleitung": "Woche 10: Feedback & Herbstferien-Ausblick — Wir schauen zurück auf tolle Erfolge.",
       "fragen": [],
       "hinweis": "Wir wünschen allen schöne und erholsame Ferien.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 10 · FREITAG"
+      "badge": "WOCHE 10 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 51,
@@ -462,8 +462,8 @@
       "anleitung": "Woche 11: Neustart nach den Ferien & Ordnung — Gut erholt starten wir wieder durch.",
       "fragen": [],
       "hinweis": "Wir wiederholen kurz die 3 wichtigsten Raum-Regeln.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 11 · MONTAG"
+      "badge": "WOCHE 11 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 52,
@@ -471,8 +471,8 @@
       "anleitung": "Woche 11: Neustart nach den Ferien & Ordnung — Gut erholt starten wir wieder durch.",
       "fragen": [],
       "hinweis": "Wir hängen die Jacke auf und setzen uns leise hin.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 11 · DIENSTAG"
+      "badge": "WOCHE 11 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 53,
@@ -480,8 +480,8 @@
       "anleitung": "Woche 11: Neustart nach den Ferien & Ordnung — Gut erholt starten wir wieder durch.",
       "fragen": [],
       "hinweis": "Wir packen abends den Ranzen mit den Bildkarten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 11 · MITTWOCH"
+      "badge": "WOCHE 11 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 54,
@@ -489,8 +489,8 @@
       "anleitung": "Woche 11: Neustart nach den Ferien & Ordnung — Gut erholt starten wir wieder durch.",
       "fragen": [],
       "hinweis": "Wir nutzen das Flüster-Mikrofon.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 11 · DONNERSTAG"
+      "badge": "WOCHE 11 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 55,
@@ -498,8 +498,8 @@
       "anleitung": "Woche 11: Neustart nach den Ferien & Ordnung — Gut erholt starten wir wieder durch.",
       "fragen": [],
       "hinweis": "Wir stellen die Hausschuhe ins eigene Fach.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 11 · FREITAG"
+      "badge": "WOCHE 11 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 56,
@@ -507,8 +507,8 @@
       "anleitung": "Woche 12: Lautstärke & Lärm-Spar-Vertrag — Leise Töne schonen unsere Ohren.",
       "fragen": [],
       "hinweis": "Wir nutzen Zimmer-Lautstärke (Flüster-Stimme).",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 12 · MONTAG"
+      "badge": "WOCHE 12 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 57,
@@ -516,8 +516,8 @@
       "anleitung": "Woche 12: Lautstärke & Lärm-Spar-Vertrag — Leise Töne schonen unsere Ohren.",
       "fragen": [],
       "hinweis": "Wir heben den Stuhl beim Ransetzen leicht an.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 12 · DIENSTAG"
+      "badge": "WOCHE 12 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 58,
@@ -525,8 +525,8 @@
       "anleitung": "Woche 12: Lautstärke & Lärm-Spar-Vertrag — Leise Töne schonen unsere Ohren.",
       "fragen": [],
       "hinweis": "Wir klinken die Tür leise und vorsichtig zu.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 12 · MITTWOCH"
+      "badge": "WOCHE 12 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 59,
@@ -534,8 +534,8 @@
       "anleitung": "Woche 12: Lautstärke & Lärm-Spar-Vertrag — Leise Töne schonen unsere Ohren.",
       "fragen": [],
       "hinweis": "Beim Klangschalen-Ton werden wir alle mäuschenstill.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 12 · DONNERSTAG"
+      "badge": "WOCHE 12 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 60,
@@ -543,8 +543,8 @@
       "anleitung": "Woche 12: Lautstärke & Lärm-Spar-Vertrag — Leise Töne schonen unsere Ohren.",
       "fragen": [],
       "hinweis": "Wir kleben unseren Namen stolz auf das Lärm-Poster.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 12 · FREITAG"
+      "badge": "WOCHE 12 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 61,
@@ -552,8 +552,8 @@
       "anleitung": "Woche 13: Partnerarbeit & Teilen — Zu zweit schaffen wir mehr als allein.",
       "fragen": [],
       "hinweis": "Wir legen die Buntstifte in die Mitte zum Teilen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 13 · MONTAG"
+      "badge": "WOCHE 13 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 62,
@@ -561,8 +561,8 @@
       "anleitung": "Woche 13: Partnerarbeit & Teilen — Zu zweit schaffen wir mehr als allein.",
       "fragen": [],
       "hinweis": "Wir entscheiden gemeinsam mit dem Partner-Kind.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 13 · DIENSTAG"
+      "badge": "WOCHE 13 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 63,
@@ -570,8 +570,8 @@
       "anleitung": "Woche 13: Partnerarbeit & Teilen — Zu zweit schaffen wir mehr als allein.",
       "fragen": [],
       "hinweis": "Wir schauen uns an und rücken die Stühle zusammen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 13 · MITTWOCH"
+      "badge": "WOCHE 13 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 64,
@@ -579,8 +579,8 @@
       "anleitung": "Woche 13: Partnerarbeit & Teilen — Zu zweit schaffen wir mehr als allein.",
       "fragen": [],
       "hinweis": "Jedes Kind ist ein wertvoller Partner.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 13 · DONNERSTAG"
+      "badge": "WOCHE 13 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 65,
@@ -588,8 +588,8 @@
       "anleitung": "Woche 13: Partnerarbeit & Teilen — Zu zweit schaffen wir mehr als allein.",
       "fragen": [],
       "hinweis": "Wir teilen die Aufgaben gerecht auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 13 · FREITAG"
+      "badge": "WOCHE 13 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 66,
@@ -597,8 +597,8 @@
       "anleitung": "Woche 14: Frustrationstoleranz & schwere Nüsse — Fehler helfen uns beim Lernen.",
       "fragen": [],
       "hinweis": "Wir nutzen den Radiergummi und versuchen es nochmal.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 14 · MONTAG"
+      "badge": "WOCHE 14 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 67,
@@ -606,8 +606,8 @@
       "anleitung": "Woche 14: Frustrationstoleranz & schwere Nüsse — Fehler helfen uns beim Lernen.",
       "fragen": [],
       "hinweis": "Wir spitzen den Stift ruhig an und machen weiter.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 14 · DIENSTAG"
+      "badge": "WOCHE 14 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 68,
@@ -615,8 +615,8 @@
       "anleitung": "Woche 14: Frustrationstoleranz & schwere Nüsse — Fehler helfen uns beim Lernen.",
       "fragen": [],
       "hinweis": "Wir atmen durch und bauen den Turm gemeinsam auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 14 · MITTWOCH"
+      "badge": "WOCHE 14 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 69,
@@ -624,8 +624,8 @@
       "anleitung": "Woche 14: Frustrationstoleranz & schwere Nüsse — Fehler helfen uns beim Lernen.",
       "fragen": [],
       "hinweis": "Schwere Nüsse knacken macht uns schlau!",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 14 · DONNERSTAG"
+      "badge": "WOCHE 14 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 70,
@@ -633,8 +633,8 @@
       "anleitung": "Woche 14: Frustrationstoleranz & schwere Nüsse — Fehler helfen uns beim Lernen.",
       "fragen": [],
       "hinweis": "Wir sagen: 'Ich kann das NOCH nicht, aber ich übe.'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 14 · FREITAG"
+      "badge": "WOCHE 14 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 71,
@@ -642,8 +642,8 @@
       "anleitung": "Woche 15: Winterzeit & Gemütliche Lese-Inseln — Lesen öffnet Tore zu neuen Welten.",
       "fragen": [],
       "hinweis": "Jedes Kind sucht sich ruhig sein Kissen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 15 · MONTAG"
+      "badge": "WOCHE 15 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 72,
@@ -651,8 +651,8 @@
       "anleitung": "Woche 15: Winterzeit & Gemütliche Lese-Inseln — Lesen öffnet Tore zu neuen Welten.",
       "fragen": [],
       "hinweis": "Wir umblättern vorsichtig an den Ecken.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 15 · DIENSTAG"
+      "badge": "WOCHE 15 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 73,
@@ -660,8 +660,8 @@
       "anleitung": "Woche 15: Winterzeit & Gemütliche Lese-Inseln — Lesen öffnet Tore zu neuen Welten.",
       "fragen": [],
       "hinweis": "Wir stellen das Buch zurück ins passende Regal-Fach.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 15 · MITTWOCH"
+      "badge": "WOCHE 15 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 74,
@@ -669,8 +669,8 @@
       "anleitung": "Woche 15: Winterzeit & Gemütliche Lese-Inseln — Lesen öffnet Tore zu neuen Welten.",
       "fragen": [],
       "hinweis": "Auf der Lese-Insel gilt absolute Flüster-Stille.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 15 · DONNERSTAG"
+      "badge": "WOCHE 15 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 75,
@@ -678,8 +678,8 @@
       "anleitung": "Woche 15: Winterzeit & Gemütliche Lese-Inseln — Lesen öffnet Tore zu neuen Welten.",
       "fragen": [],
       "hinweis": "Wir nutzen die Lese-Lupe für Wörter.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 15 · FREITAG"
+      "badge": "WOCHE 15 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 76,
@@ -687,8 +687,8 @@
       "anleitung": "Woche 16: Vorweihnachts-Aufregung & Entspannung — In der Ruhe liegt die Kraft.",
       "fragen": [],
       "hinweis": "Wir machen die Schildkröten-Übung zum Beruhigen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 16 · MONTAG"
+      "badge": "WOCHE 16 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 77,
@@ -696,8 +696,8 @@
       "anleitung": "Woche 16: Vorweihnachts-Aufregung & Entspannung — In der Ruhe liegt die Kraft.",
       "fragen": [],
       "hinweis": "Gesunde Jause essen wir gemeinsam am Tisch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 16 · DIENSTAG"
+      "badge": "WOCHE 16 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 78,
@@ -705,8 +705,8 @@
       "anleitung": "Woche 16: Vorweihnachts-Aufregung & Entspannung — In der Ruhe liegt die Kraft.",
       "fragen": [],
       "hinweis": "Wir legen uns leise auf die Matte und lauschen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 16 · MITTWOCH"
+      "badge": "WOCHE 16 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 79,
@@ -714,8 +714,8 @@
       "anleitung": "Woche 16: Vorweihnachts-Aufregung & Entspannung — In der Ruhe liegt die Kraft.",
       "fragen": [],
       "hinweis": "Jedes Kind kommt der Reihe nach dran.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 16 · DONNERSTAG"
+      "badge": "WOCHE 16 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 80,
@@ -723,8 +723,8 @@
       "anleitung": "Woche 16: Vorweihnachts-Aufregung & Entspannung — In der Ruhe liegt die Kraft.",
       "fragen": [],
       "hinweis": "Wir genießen das ruhige Licht im Morgenkreis.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 16 · FREITAG"
+      "badge": "WOCHE 16 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 81,
@@ -732,8 +732,8 @@
       "anleitung": "Woche 17: Jahreswechsel & Eigene kleine Erfolge — Wir freuen uns über das, was wir gelernt haben.",
       "fragen": [],
       "hinweis": "Wir schauen in unser Wochen-Logbuch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 17 · MONTAG"
+      "badge": "WOCHE 17 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 82,
@@ -741,8 +741,8 @@
       "anleitung": "Woche 17: Jahreswechsel & Eigene kleine Erfolge — Wir freuen uns über das, was wir gelernt haben.",
       "fragen": [],
       "hinweis": "Wir schauen auf unsere eigenen Lernfortschritte.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 17 · DIENSTAG"
+      "badge": "WOCHE 17 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 83,
@@ -750,8 +750,8 @@
       "anleitung": "Woche 17: Jahreswechsel & Eigene kleine Erfolge — Wir freuen uns über das, was wir gelernt haben.",
       "fragen": [],
       "hinweis": "Wir sagen uns: 'Ich habe diese Woche viel geschafft.'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 17 · MITTWOCH"
+      "badge": "WOCHE 17 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 84,
@@ -759,8 +759,8 @@
       "anleitung": "Woche 17: Jahreswechsel & Eigene kleine Erfolge — Wir freuen uns über das, was wir gelernt haben.",
       "fragen": [],
       "hinweis": "Wir räumen vor dem Jahreswechsel alles gründlich auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 17 · DONNERSTAG"
+      "badge": "WOCHE 17 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 85,
@@ -768,8 +768,8 @@
       "anleitung": "Woche 17: Jahreswechsel & Eigene kleine Erfolge — Wir freuen uns über das, was wir gelernt haben.",
       "fragen": [],
       "hinweis": "Wir schenken dem Tischnachbarn einen Wunsch-Stern.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 17 · FREITAG"
+      "badge": "WOCHE 17 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 86,
@@ -777,8 +777,8 @@
       "anleitung": "Woche 18: Bewegung bei Kälte & Pause drinnen — Bewegung macht den Kopf munter.",
       "fragen": [],
       "hinweis": "Wir ziehen die Mütze auf und schließen den Reißverschluss.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 18 · MONTAG"
+      "badge": "WOCHE 18 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 87,
@@ -786,8 +786,8 @@
       "anleitung": "Woche 18: Bewegung bei Kälte & Pause drinnen — Bewegung macht den Kopf munter.",
       "fragen": [],
       "hinweis": "Wir wählen ein Spiel aus der Schlecht-Wetter-Kiste.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 18 · DIENSTAG"
+      "badge": "WOCHE 18 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 88,
@@ -795,8 +795,8 @@
       "anleitung": "Woche 18: Bewegung bei Kälte & Pause drinnen — Bewegung macht den Kopf munter.",
       "fragen": [],
       "hinweis": "Schnee bleibt auf dem Boden zum Bauen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 18 · MITTWOCH"
+      "badge": "WOCHE 18 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 89,
@@ -804,8 +804,8 @@
       "anleitung": "Woche 18: Bewegung bei Kälte & Pause drinnen — Bewegung macht den Kopf munter.",
       "fragen": [],
       "hinweis": "Wir wechseln an der Tür zu den Hausschuhen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 18 · DONNERSTAG"
+      "badge": "WOCHE 18 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 90,
@@ -813,8 +813,8 @@
       "anleitung": "Woche 18: Bewegung bei Kälte & Pause drinnen — Bewegung macht den Kopf munter.",
       "fragen": [],
       "hinweis": "Wir machen den Fröhlichen Bewegungs-Tanz mit.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 18 · FREITAG"
+      "badge": "WOCHE 18 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 91,
@@ -822,8 +822,8 @@
       "anleitung": "Woche 19: Halbjahres-Bilanz & Stärken-Sterne — Jedes Kind hat ganz besondere Stärken.",
       "fragen": [],
       "hinweis": "Wir finden mindestens 3 Dinge, die wir gut können.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 19 · MONTAG"
+      "badge": "WOCHE 19 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 92,
@@ -831,8 +831,8 @@
       "anleitung": "Woche 19: Halbjahres-Bilanz & Stärken-Sterne — Jedes Kind hat ganz besondere Stärken.",
       "fragen": [],
       "hinweis": "Wir besprechen stolz unsere Lern-Ziele.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 19 · DIENSTAG"
+      "badge": "WOCHE 19 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 93,
@@ -840,8 +840,8 @@
       "anleitung": "Woche 19: Halbjahres-Bilanz & Stärken-Sterne — Jedes Kind hat ganz besondere Stärken.",
       "fragen": [],
       "hinweis": "Wir vergeben den Mutmacher-Award an ein Mitschüler-Kind.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 19 · MITTWOCH"
+      "badge": "WOCHE 19 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 94,
@@ -849,8 +849,8 @@
       "anleitung": "Woche 19: Halbjahres-Bilanz & Stärken-Sterne — Jedes Kind hat ganz besondere Stärken.",
       "fragen": [],
       "hinweis": "Wir kleben die Sterne auf unser Zertifikat.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 19 · DONNERSTAG"
+      "badge": "WOCHE 19 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 95,
@@ -858,8 +858,8 @@
       "anleitung": "Woche 19: Halbjahres-Bilanz & Stärken-Sterne — Jedes Kind hat ganz besondere Stärken.",
       "fragen": [],
       "hinweis": "Wir klatschen gemeinsam für unsere tolle Leistung.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 19 · FREITAG"
+      "badge": "WOCHE 19 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 96,
@@ -867,8 +867,8 @@
       "anleitung": "Woche 20: Frischer Start ins 2. Halbjahr — Neues Halbjahr – neue Chancen.",
       "fragen": [],
       "hinweis": "Wir setzen uns ein persönliches Ziel für die Woche.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 20 · MONTAG"
+      "badge": "WOCHE 20 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 97,
@@ -876,8 +876,8 @@
       "anleitung": "Woche 20: Frischer Start ins 2. Halbjahr — Neues Halbjahr – neue Chancen.",
       "fragen": [],
       "hinweis": "Wir prüfen das Federmäppchen auf Vollständigkeit.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 20 · DIENSTAG"
+      "badge": "WOCHE 20 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 98,
@@ -885,8 +885,8 @@
       "anleitung": "Woche 20: Frischer Start ins 2. Halbjahr — Neues Halbjahr – neue Chancen.",
       "fragen": [],
       "hinweis": "Wir probieren den neuen Sitzplatz neugierig aus.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 20 · MITTWOCH"
+      "badge": "WOCHE 20 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 99,
@@ -894,8 +894,8 @@
       "anleitung": "Woche 20: Frischer Start ins 2. Halbjahr — Neues Halbjahr – neue Chancen.",
       "fragen": [],
       "hinweis": "Wir beschriften das Heft ordentlich mit Namen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 20 · DONNERSTAG"
+      "badge": "WOCHE 20 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 100,
@@ -903,8 +903,8 @@
       "anleitung": "Woche 20: Frischer Start ins 2. Halbjahr — Neues Halbjahr – neue Chancen.",
       "fragen": [],
       "hinweis": "Wir tragen den ersten Wochen-Punkt ins Logbuch ein.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 20 · FREITAG"
+      "badge": "WOCHE 20 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 101,
@@ -912,8 +912,8 @@
       "anleitung": "Woche 21: Selbstständiges Arbeiten & Sanduhr — Ich kann schon vieles alleine schaffen.",
       "fragen": [],
       "hinweis": "Wir schauen erst auf den Arbeits-Fahrplan auf dem Tisch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 21 · MONTAG"
+      "badge": "WOCHE 21 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 102,
@@ -921,8 +921,8 @@
       "anleitung": "Woche 21: Selbstständiges Arbeiten & Sanduhr — Ich kann schon vieles alleine schaffen.",
       "fragen": [],
       "hinweis": "Die Sanduhr läuft ganz von alleine ab.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 21 · DIENSTAG"
+      "badge": "WOCHE 21 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 103,
@@ -930,8 +930,8 @@
       "anleitung": "Woche 21: Selbstständiges Arbeiten & Sanduhr — Ich kann schon vieles alleine schaffen.",
       "fragen": [],
       "hinweis": "Wir bleiben auf unserem Platz sitzen, bis die Uhr durch ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 21 · MITTWOCH"
+      "badge": "WOCHE 21 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 104,
@@ -939,8 +939,8 @@
       "anleitung": "Woche 21: Selbstständiges Arbeiten & Sanduhr — Ich kann schon vieles alleine schaffen.",
       "fragen": [],
       "hinweis": "Wir fangen zügig an und nutzen die Zeit gut.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 21 · DONNERSTAG"
+      "badge": "WOCHE 21 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 105,
@@ -948,8 +948,8 @@
       "anleitung": "Woche 21: Selbstständiges Arbeiten & Sanduhr — Ich kann schon vieles alleine schaffen.",
       "fragen": [],
       "hinweis": "Wir kontrollieren mit der Haken-Karte, ob alles fertig ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 21 · FREITAG"
+      "badge": "WOCHE 21 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 106,
@@ -957,8 +957,8 @@
       "anleitung": "Woche 22: Körperwahrnehmung & Fühlboxen — Wir spüren mit Händen, Füßen und Herz.",
       "fragen": [],
       "hinweis": "Wir greifen leise mit den Händen in die Fühlbox.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 22 · MONTAG"
+      "badge": "WOCHE 22 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 107,
@@ -966,8 +966,8 @@
       "anleitung": "Woche 22: Körperwahrnehmung & Fühlboxen — Wir spüren mit Händen, Füßen und Herz.",
       "fragen": [],
       "hinweis": "Wir ertasten den Gegenstand nur mit den Fingern.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 22 · DIENSTAG"
+      "badge": "WOCHE 22 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 108,
@@ -975,8 +975,8 @@
       "anleitung": "Woche 22: Körperwahrnehmung & Fühlboxen — Wir spüren mit Händen, Füßen und Herz.",
       "fragen": [],
       "hinweis": "Wir beschreiben das Gefühl sachlich (z.B. rauch, weich).",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 22 · MITTWOCH"
+      "badge": "WOCHE 22 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 109,
@@ -984,8 +984,8 @@
       "anleitung": "Woche 22: Körperwahrnehmung & Fühlboxen — Wir spüren mit Händen, Füßen und Herz.",
       "fragen": [],
       "hinweis": "Wir hantieren vorsichtig mit Flüssigkeiten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 22 · DONNERSTAG"
+      "badge": "WOCHE 22 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 110,
@@ -993,8 +993,8 @@
       "anleitung": "Woche 22: Körperwahrnehmung & Fühlboxen — Wir spüren mit Händen, Füßen und Herz.",
       "fragen": [],
       "hinweis": "Wir machen die 1-Minute-Atem-Pause.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 22 · FREITAG"
+      "badge": "WOCHE 22 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 111,
@@ -1002,8 +1002,8 @@
       "anleitung": "Woche 23: Höflichkeit & Zauberwörter — Freundliche Worte öffnen alle Herzen.",
       "fragen": [],
       "hinweis": "Wir sagen: 'Bitte gib mir mal den Stift.'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 23 · MONTAG"
+      "badge": "WOCHE 23 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 112,
@@ -1011,8 +1011,8 @@
       "anleitung": "Woche 23: Höflichkeit & Zauberwörter — Freundliche Worte öffnen alle Herzen.",
       "fragen": [],
       "hinweis": "Wir sagen morgens freundlich 'Hallo'.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 23 · DIENSTAG"
+      "badge": "WOCHE 23 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 113,
@@ -1020,8 +1020,8 @@
       "anleitung": "Woche 23: Höflichkeit & Zauberwörter — Freundliche Worte öffnen alle Herzen.",
       "fragen": [],
       "hinweis": "Wir halten die Tür für das nachfolgende Kind auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 23 · MITTWOCH"
+      "badge": "WOCHE 23 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 114,
@@ -1029,8 +1029,8 @@
       "anleitung": "Woche 23: Höflichkeit & Zauberwörter — Freundliche Worte öffnen alle Herzen.",
       "fragen": [],
       "hinweis": "Wir sagen ehrlich: 'Entschuldigung, war keine Absicht.'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 23 · DONNERSTAG"
+      "badge": "WOCHE 23 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 115,
@@ -1038,8 +1038,8 @@
       "anleitung": "Woche 23: Höflichkeit & Zauberwörter — Freundliche Worte öffnen alle Herzen.",
       "fragen": [],
       "hinweis": "Ein 'Danke' macht den Geber und Nehmer froh.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 23 · FREITAG"
+      "badge": "WOCHE 23 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 116,
@@ -1047,8 +1047,8 @@
       "anleitung": "Woche 24: Natur & Frühlings-Beobachtung — Wir passen gut auf Pflanzen und Tiere auf.",
       "fragen": [],
       "hinweis": "Wir gehen vorsichtig um die Beete herum.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 24 · MONTAG"
+      "badge": "WOCHE 24 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 117,
@@ -1056,8 +1056,8 @@
       "anleitung": "Woche 24: Natur & Frühlings-Beobachtung — Wir passen gut auf Pflanzen und Tiere auf.",
       "fragen": [],
       "hinweis": "Wir beobachten Knospen mit der Lupe, ohne zu reißen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 24 · DIENSTAG"
+      "badge": "WOCHE 24 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 118,
@@ -1065,8 +1065,8 @@
       "anleitung": "Woche 24: Natur & Frühlings-Beobachtung — Wir passen gut auf Pflanzen und Tiere auf.",
       "fragen": [],
       "hinweis": "Müll gehört immer in die schwarze Mülltonne.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 24 · MITTWOCH"
+      "badge": "WOCHE 24 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 119,
@@ -1074,8 +1074,8 @@
       "anleitung": "Woche 24: Natur & Frühlings-Beobachtung — Wir passen gut auf Pflanzen und Tiere auf.",
       "fragen": [],
       "hinweis": "Wir verhalten uns leise und beobachten aus der Ferne.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 24 · DONNERSTAG"
+      "badge": "WOCHE 24 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 120,
@@ -1083,8 +1083,8 @@
       "anleitung": "Woche 24: Natur & Frühlings-Beobachtung — Wir passen gut auf Pflanzen und Tiere auf.",
       "fragen": [],
       "hinweis": "Wir nutzen den Dienst-Plan zum Blumengießen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 24 · FREITAG"
+      "badge": "WOCHE 24 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 121,
@@ -1092,8 +1092,8 @@
       "anleitung": "Woche 25: Fehler als Lern-Freunde — Aus Fehlern werden wir immer schlauer.",
       "fragen": [],
       "hinweis": "Ein Fehler zeigt uns, wo wir noch üben können.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 25 · MONTAG"
+      "badge": "WOCHE 25 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 122,
@@ -1101,8 +1101,8 @@
       "anleitung": "Woche 25: Fehler als Lern-Freunde — Aus Fehlern werden wir immer schlauer.",
       "fragen": [],
       "hinweis": "Wir unterstützen einander wertschätzend.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 25 · DIENSTAG"
+      "badge": "WOCHE 25 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 123,
@@ -1110,8 +1110,8 @@
       "anleitung": "Woche 25: Fehler als Lern-Freunde — Aus Fehlern werden wir immer schlauer.",
       "fragen": [],
       "hinweis": "Wir streichen sanft durch oder radieren vorsichtig.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 25 · MITTWOCH"
+      "badge": "WOCHE 25 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 124,
@@ -1119,8 +1119,8 @@
       "anleitung": "Woche 25: Fehler als Lern-Freunde — Aus Fehlern werden wir immer schlauer.",
       "fragen": [],
       "hinweis": "Wir schauen die Rückmeldung an und verbessern kurz.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 25 · DONNERSTAG"
+      "badge": "WOCHE 25 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 125,
@@ -1128,8 +1128,8 @@
       "anleitung": "Woche 25: Fehler als Lern-Freunde — Aus Fehlern werden wir immer schlauer.",
       "fragen": [],
       "hinweis": "Wir versuchen es mindestens noch einmal ruhig.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 25 · FREITAG"
+      "badge": "WOCHE 25 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 126,
@@ -1137,8 +1137,8 @@
       "anleitung": "Woche 26: Lese- & Schreibfreude (Gebärden & Silben) — Sprache verbindet uns alle.",
       "fragen": [],
       "hinweis": "Wir nutzen die Lautbegleitende Gebärde deutlich.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 26 · MONTAG"
+      "badge": "WOCHE 26 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 127,
@@ -1146,8 +1146,8 @@
       "anleitung": "Woche 26: Lese- & Schreibfreude (Gebärden & Silben) — Sprache verbindet uns alle.",
       "fragen": [],
       "hinweis": "Wir klatschen Silbe für Silbe im klaren Rhythmus.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 26 · DIENSTAG"
+      "badge": "WOCHE 26 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 128,
@@ -1155,8 +1155,8 @@
       "anleitung": "Woche 26: Lese- & Schreibfreude (Gebärden & Silben) — Sprache verbindet uns alle.",
       "fragen": [],
       "hinweis": "Wir sprechen langsam, laut und deutlich.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 26 · MITTWOCH"
+      "badge": "WOCHE 26 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 129,
@@ -1164,8 +1164,8 @@
       "anleitung": "Woche 26: Lese- & Schreibfreude (Gebärden & Silben) — Sprache verbindet uns alle.",
       "fragen": [],
       "hinweis": "Wir nutzen den blauen und roten Buntstift für Silben.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 26 · DONNERSTAG"
+      "badge": "WOCHE 26 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 130,
@@ -1173,8 +1173,8 @@
       "anleitung": "Woche 26: Lese- & Schreibfreude (Gebärden & Silben) — Sprache verbindet uns alle.",
       "fragen": [],
       "hinweis": "Wir machen am Punkt ein kurzes Atem-Innehalten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 26 · FREITAG"
+      "badge": "WOCHE 26 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 131,
@@ -1182,8 +1182,8 @@
       "anleitung": "Woche 27: Mathe zum Anfassen (Legematerial) — Zahlen begreifen mit Händen und Kopf.",
       "fragen": [],
       "hinweis": "Wir legen die Rechenplättchen auf den Zwanziger-Streifen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 27 · MONTAG"
+      "badge": "WOCHE 27 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 132,
@@ -1191,8 +1191,8 @@
       "anleitung": "Woche 27: Mathe zum Anfassen (Legematerial) — Zahlen begreifen mit Händen und Kopf.",
       "fragen": [],
       "hinweis": "Wir legen das Material leise auf die Unterlage.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 27 · DIENSTAG"
+      "badge": "WOCHE 27 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 133,
@@ -1200,8 +1200,8 @@
       "anleitung": "Woche 27: Mathe zum Anfassen (Legematerial) — Zahlen begreifen mit Händen und Kopf.",
       "fragen": [],
       "hinweis": "Wir zählen nach der Stunde nach, ob alles in der Dose ist.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 27 · MITTWOCH"
+      "badge": "WOCHE 27 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 134,
@@ -1209,8 +1209,8 @@
       "anleitung": "Woche 27: Mathe zum Anfassen (Legematerial) — Zahlen begreifen mit Händen und Kopf.",
       "fragen": [],
       "hinweis": "10 Einer werden immer zu 1 Zehner-Stange getauscht.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 27 · DONNERSTAG"
+      "badge": "WOCHE 27 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 135,
@@ -1218,8 +1218,8 @@
       "anleitung": "Woche 27: Mathe zum Anfassen (Legematerial) — Zahlen begreifen mit Händen und Kopf.",
       "fragen": [],
       "hinweis": "Wir nutzen den Abakus zur Kontrolle.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 27 · FREITAG"
+      "badge": "WOCHE 27 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 136,
@@ -1227,8 +1227,8 @@
       "anleitung": "Woche 28: Digitaler Alltag & Tablet-Regeln — Wir nutzen Medien vorsichtig und schlau.",
       "fragen": [],
       "hinweis": "Wir waschen vorher die Hände und tragen es mit 2 Händen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 28 · MONTAG"
+      "badge": "WOCHE 28 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 137,
@@ -1236,8 +1236,8 @@
       "anleitung": "Woche 28: Digitaler Alltag & Tablet-Regeln — Wir nutzen Medien vorsichtig und schlau.",
       "fragen": [],
       "hinweis": "Wir öffen nur die App, die auf der Bildkarte steht.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 28 · DIENSTAG"
+      "badge": "WOCHE 28 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 138,
@@ -1245,8 +1245,8 @@
       "anleitung": "Woche 28: Digitaler Alltag & Tablet-Regeln — Wir nutzen Medien vorsichtig und schlau.",
       "fragen": [],
       "hinweis": "Wir stecken die Kopfhörer leise ein.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 28 · MITTWOCH"
+      "badge": "WOCHE 28 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 139,
@@ -1254,8 +1254,8 @@
       "anleitung": "Woche 28: Digitaler Alltag & Tablet-Regeln — Wir nutzen Medien vorsichtig und schlau.",
       "fragen": [],
       "hinweis": "Wir stecken das Tablet am Ende in den Lade-Wagen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 28 · DONNERSTAG"
+      "badge": "WOCHE 28 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 140,
@@ -1263,8 +1263,8 @@
       "anleitung": "Woche 28: Digitaler Alltag & Tablet-Regeln — Wir nutzen Medien vorsichtig und schlau.",
       "fragen": [],
       "hinweis": "Wir respektieren die Speicher-Ordner der anderen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 28 · FREITAG"
+      "badge": "WOCHE 28 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 141,
@@ -1272,8 +1272,8 @@
       "anleitung": "Woche 29: Osterzeit & Wochenend-Entlastung — Frühling spüren und zur Ruhe kommen.",
       "fragen": [],
       "hinweis": "Wir teilen Löffel für Löffel die Erde in den Becher.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 29 · MONTAG"
+      "badge": "WOCHE 29 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 142,
@@ -1281,8 +1281,8 @@
       "anleitung": "Woche 29: Osterzeit & Wochenend-Entlastung — Frühling spüren und zur Ruhe kommen.",
       "fragen": [],
       "hinweis": "Wir nutzen die Sprühflasche für sanfte Feuchtigkeit.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 29 · DIENSTAG"
+      "badge": "WOCHE 29 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 143,
@@ -1290,8 +1290,8 @@
       "anleitung": "Woche 29: Osterzeit & Wochenend-Entlastung — Frühling spüren und zur Ruhe kommen.",
       "fragen": [],
       "hinweis": "Wir fegen die Schnipsel mit der Hand in den Müll.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 29 · MITTWOCH"
+      "badge": "WOCHE 29 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 144,
@@ -1299,8 +1299,8 @@
       "anleitung": "Woche 29: Osterzeit & Wochenend-Entlastung — Frühling spüren und zur Ruhe kommen.",
       "fragen": [],
       "hinweis": "Wir suchen ruhig und lassen anderen Kindern auch Platz.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 29 · DONNERSTAG"
+      "badge": "WOCHE 29 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 145,
@@ -1308,8 +1308,8 @@
       "anleitung": "Woche 29: Osterzeit & Wochenend-Entlastung — Frühling spüren und zur Ruhe kommen.",
       "fragen": [],
       "hinweis": "Wir verpacken das Geschenk stolz für Zuhause.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 29 · FREITAG"
+      "badge": "WOCHE 29 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 146,
@@ -1317,8 +1317,8 @@
       "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Sonne — Wir geben noch einmal unser Bestes!",
       "fragen": [],
       "hinweis": "Wir trinken ausreichend Wasser und lüften morgens.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 30 · MONTAG"
+      "badge": "WOCHE 30 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 147,
@@ -1326,8 +1326,8 @@
       "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Sonne — Wir geben noch einmal unser Bestes!",
       "fragen": [],
       "hinweis": "Wir machen die Frische-Kick-Bewegung am Platz.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 30 · DIENSTAG"
+      "badge": "WOCHE 30 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 148,
@@ -1335,8 +1335,8 @@
       "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Sonne — Wir geben noch einmal unser Bestes!",
       "fragen": [],
       "hinweis": "Wir füllen morgens frisches Wasser am Spender.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 30 · MITTWOCH"
+      "badge": "WOCHE 30 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 149,
@@ -1344,8 +1344,8 @@
       "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Sonne — Wir geben noch einmal unser Bestes!",
       "fragen": [],
       "hinweis": "Wir lassen die Jalousie unten, damit es kühl bleibt.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 30 · DONNERSTAG"
+      "badge": "WOCHE 30 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 150,
@@ -1353,8 +1353,8 @@
       "anleitung": "Woche 30: Endspurt-Motivation & Sommer-Sonne — Wir geben noch einmal unser Bestes!",
       "fragen": [],
       "hinweis": "Wir arbeiten sauber bis zum Gong-Zeichen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 30 · FREITAG"
+      "badge": "WOCHE 30 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 151,
@@ -1362,8 +1362,8 @@
       "anleitung": "Woche 31: Streitlösung & Pausenhof-Detektive — Wir klären Konflikte friedlich und fair.",
       "fragen": [],
       "hinweis": "Wir nutzen die Stopp-Hand und sagen 'Hör auf!'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 31 · MONTAG"
+      "badge": "WOCHE 31 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 152,
@@ -1371,8 +1371,8 @@
       "anleitung": "Woche 31: Streitlösung & Pausenhof-Detektive — Wir klären Konflikte friedlich und fair.",
       "fragen": [],
       "hinweis": "Wir stehen zu Fehlern und holen die Hofaufsicht.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 31 · DIENSTAG"
+      "badge": "WOCHE 31 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 153,
@@ -1380,8 +1380,8 @@
       "anleitung": "Woche 31: Streitlösung & Pausenhof-Detektive — Wir klären Konflikte friedlich und fair.",
       "fragen": [],
       "hinweis": "Wir sprechen in Ich-Botschaften ('Ich möchte nicht...').",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 31 · MITTWOCH"
+      "badge": "WOCHE 31 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 154,
@@ -1389,8 +1389,8 @@
       "anleitung": "Woche 31: Streitlösung & Pausenhof-Detektive — Wir klären Konflikte friedlich und fair.",
       "fragen": [],
       "hinweis": "Wir gehen zur Detektiv-Insel und nutzen die Klärungskarten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 31 · DONNERSTAG"
+      "badge": "WOCHE 31 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 155,
@@ -1398,8 +1398,8 @@
       "anleitung": "Woche 31: Streitlösung & Pausenhof-Detektive — Wir klären Konflikte friedlich und fair.",
       "fragen": [],
       "hinweis": "Wir schließen den Friedens-Pakt ab.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 31 · FREITAG"
+      "badge": "WOCHE 31 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 156,
@@ -1407,8 +1407,8 @@
       "anleitung": "Woche 32: Ausflugs-Regeln & Verkehrssicherheit — Sicher unterwegs als Klassengemeinschaft.",
       "fragen": [],
       "hinweis": "Wir bleiben am Bordstein stehen und schauen links-rechts-links.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 32 · MONTAG"
+      "badge": "WOCHE 32 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 157,
@@ -1416,8 +1416,8 @@
       "anleitung": "Woche 32: Ausflugs-Regeln & Verkehrssicherheit — Sicher unterwegs als Klassengemeinschaft.",
       "fragen": [],
       "hinweis": "Wir bleiben Partner an Partner in der zweier-Reihe.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 32 · DIENSTAG"
+      "badge": "WOCHE 32 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 158,
@@ -1425,8 +1425,8 @@
       "anleitung": "Woche 32: Ausflugs-Regeln & Verkehrssicherheit — Sicher unterwegs als Klassengemeinschaft.",
       "fragen": [],
       "hinweis": "Wir steigen ruhig nacheinander ein.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 32 · MITTWOCH"
+      "badge": "WOCHE 32 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 159,
@@ -1434,8 +1434,8 @@
       "anleitung": "Woche 32: Ausflugs-Regeln & Verkehrssicherheit — Sicher unterwegs als Klassengemeinschaft.",
       "fragen": [],
       "hinweis": "Wir bleiben immer in Sichtweite der Lehrkraft.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 32 · DONNERSTAG"
+      "badge": "WOCHE 32 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 160,
@@ -1443,8 +1443,8 @@
       "anleitung": "Woche 32: Ausflugs-Regeln & Verkehrssicherheit — Sicher unterwegs als Klassengemeinschaft.",
       "fragen": [],
       "hinweis": "Wir stecken den Pass sicher in den Brustbeutel.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 32 · FREITAG"
+      "badge": "WOCHE 32 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 161,
@@ -1452,8 +1452,8 @@
       "anleitung": "Woche 33: Dankbarkeit & Danke sagen — Wir schätzen die Menschen um uns herum.",
       "fragen": [],
       "hinweis": "Wir sagen dem Hausmeister freundlich 'Danke'.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 33 · MONTAG"
+      "badge": "WOCHE 33 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 162,
@@ -1461,8 +1461,8 @@
       "anleitung": "Woche 33: Dankbarkeit & Danke sagen — Wir schätzen die Menschen um uns herum.",
       "fragen": [],
       "hinweis": "Wir probieren zumindest einen kleinen Löffel.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 33 · DIENSTAG"
+      "badge": "WOCHE 33 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 163,
@@ -1470,8 +1470,8 @@
       "anleitung": "Woche 33: Dankbarkeit & Danke sagen — Wir schätzen die Menschen um uns herum.",
       "fragen": [],
       "hinweis": "Ein Lächeln beim Essen-Holen macht Freude.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 33 · MITTWOCH"
+      "badge": "WOCHE 33 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 164,
@@ -1479,8 +1479,8 @@
       "anleitung": "Woche 33: Dankbarkeit & Danke sagen — Wir schätzen die Menschen um uns herum.",
       "fragen": [],
       "hinweis": "Wir verabschieden uns beim Aussteigen höflich.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 33 · DONNERSTAG"
+      "badge": "WOCHE 33 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 165,
@@ -1488,8 +1488,8 @@
       "anleitung": "Woche 33: Dankbarkeit & Danke sagen — Wir schätzen die Menschen um uns herum.",
       "fragen": [],
       "hinweis": "Wir verfassen gemeinsam ein Danke-Poster.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 33 · FREITAG"
+      "badge": "WOCHE 33 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 166,
@@ -1497,8 +1497,8 @@
       "anleitung": "Woche 34: Hitzefrei-Tipps & Körper-Abkühlung — Kühler Kopf an heißen Sommertagen.",
       "fragen": [],
       "hinweis": "Wir setzen die Sonnenmütze auf und suchen Schatten.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 34 · MONTAG"
+      "badge": "WOCHE 34 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 167,
@@ -1506,8 +1506,8 @@
       "anleitung": "Woche 34: Hitzefrei-Tipps & Körper-Abkühlung — Kühler Kopf an heißen Sommertagen.",
       "fragen": [],
       "hinweis": "Kaltes Wasser schützt am besten vor Kopfschmerzen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 34 · DIENSTAG"
+      "badge": "WOCHE 34 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 168,
@@ -1515,8 +1515,8 @@
       "anleitung": "Woche 34: Hitzefrei-Tipps & Körper-Abkühlung — Kühler Kopf an heißen Sommertagen.",
       "fragen": [],
       "hinweis": "Wir bewegen uns langsam und schonen die Kräfe.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 34 · MITTWOCH"
+      "badge": "WOCHE 34 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 169,
@@ -1524,8 +1524,8 @@
       "anleitung": "Woche 34: Hitzefrei-Tipps & Körper-Abkühlung — Kühler Kopf an heißen Sommertagen.",
       "fragen": [],
       "hinweis": "Wir kühlen die Handgelenke mit kaltem Wasser ab.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 34 · DONNERSTAG"
+      "badge": "WOCHE 34 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 170,
@@ -1533,8 +1533,8 @@
       "anleitung": "Woche 34: Hitzefrei-Tipps & Körper-Abkühlung — Kühler Kopf an heißen Sommertagen.",
       "fragen": [],
       "hinweis": "Wir hängen das Frische-Tuch ordentlich zum Trocknen auf.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 34 · FREITAG"
+      "badge": "WOCHE 34 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 171,
@@ -1542,8 +1542,8 @@
       "anleitung": "Woche 35: Projekt-Tage & Praktisches Tun — Lernen mit allen Sinnen und Händen.",
       "fragen": [],
       "hinweis": "Wir bringen eigene Ideen in die Projekt-Kiste ein.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 35 · MONTAG"
+      "badge": "WOCHE 35 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 172,
@@ -1551,8 +1551,8 @@
       "anleitung": "Woche 35: Projekt-Tage & Praktisches Tun — Lernen mit allen Sinnen und Händen.",
       "fragen": [],
       "hinweis": "Wir teilen Sägen, Scheren und Leim fair.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 35 · DIENSTAG"
+      "badge": "WOCHE 35 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 173,
@@ -1560,8 +1560,8 @@
       "anleitung": "Woche 35: Projekt-Tage & Praktisches Tun — Lernen mit allen Sinnen und Händen.",
       "fragen": [],
       "hinweis": "Wir fegen die Werkbank am Ende gründlich ab.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 35 · MITTWOCH"
+      "badge": "WOCHE 35 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 174,
@@ -1569,8 +1569,8 @@
       "anleitung": "Woche 35: Projekt-Tage & Praktisches Tun — Lernen mit allen Sinnen und Händen.",
       "fragen": [],
       "hinweis": "Wir bewundern die Kunstwerke der anderen vorsichtig.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 35 · DONNERSTAG"
+      "badge": "WOCHE 35 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 175,
@@ -1578,8 +1578,8 @@
       "anleitung": "Woche 35: Projekt-Tage & Praktisches Tun — Lernen mit allen Sinnen und Händen.",
       "fragen": [],
       "hinweis": "Wir stellen unser Projekt stolz vor der Klasse aus.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 35 · FREITAG"
+      "badge": "WOCHE 35 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 176,
@@ -1587,8 +1587,8 @@
       "anleitung": "Woche 36: Großer Aufräum-Marathon — Ein sauberes Zimmer macht Platz für Neues.",
       "fragen": [],
       "hinweis": "Wir leeren das Fach komplett und wischen es aus.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 36 · MONTAG"
+      "badge": "WOCHE 36 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 177,
@@ -1596,8 +1596,8 @@
       "anleitung": "Woche 36: Großer Aufräum-Marathon — Ein sauberes Zimmer macht Platz für Neues.",
       "fragen": [],
       "hinweis": "Wir sortieren: Was funktioniert, bleibt da.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 36 · DIENSTAG"
+      "badge": "WOCHE 36 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 178,
@@ -1605,8 +1605,8 @@
       "anleitung": "Woche 36: Großer Aufräum-Marathon — Ein sauberes Zimmer macht Platz für Neues.",
       "fragen": [],
       "hinweis": "Wir helfen gemeinsam beim Waschen und Trocknen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 36 · MITTWOCH"
+      "badge": "WOCHE 36 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 179,
@@ -1614,8 +1614,8 @@
       "anleitung": "Woche 36: Großer Aufräum-Marathon — Ein sauberes Zimmer macht Platz für Neues.",
       "fragen": [],
       "hinweis": "Wir nehmen die Plakate vorsichtig ab und rollen sie.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 36 · DONNERSTAG"
+      "badge": "WOCHE 36 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 180,
@@ -1623,8 +1623,8 @@
       "anleitung": "Woche 36: Großer Aufräum-Marathon — Ein sauberes Zimmer macht Platz für Neues.",
       "fragen": [],
       "hinweis": "Wir reparieren oder entsorgen defekte Sachen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 36 · FREITAG"
+      "badge": "WOCHE 36 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 181,
@@ -1632,8 +1632,8 @@
       "anleitung": "Woche 37: Mein persönlicher Jahresschatz (Logbuch) — Wir feiern alles, was wir dieses Jahr geschafft haben.",
       "fragen": [],
       "hinweis": "Wir blättern durch unser UDL-Logbuch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 37 · MONTAG"
+      "badge": "WOCHE 37 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 182,
@@ -1641,8 +1641,8 @@
       "anleitung": "Woche 37: Mein persönlicher Jahresschatz (Logbuch) — Wir feiern alles, was wir dieses Jahr geschafft haben.",
       "fragen": [],
       "hinweis": "Wir zeichnen unser schönstes Schuljahres-Erlebnis.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 37 · DIENSTAG"
+      "badge": "WOCHE 37 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 183,
@@ -1650,8 +1650,8 @@
       "anleitung": "Woche 37: Mein persönlicher Jahresschatz (Logbuch) — Wir feiern alles, was wir dieses Jahr geschafft haben.",
       "fragen": [],
       "hinweis": "Wir vergleichen die Schrift von Woche 1 mit heute!",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 37 · MITTWOCH"
+      "badge": "WOCHE 37 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 184,
@@ -1659,8 +1659,8 @@
       "anleitung": "Woche 37: Mein persönlicher Jahresschatz (Logbuch) — Wir feiern alles, was wir dieses Jahr geschafft haben.",
       "fragen": [],
       "hinweis": "Wir notieren unser großes Ziel für die neue Klasse.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 37 · DONNERSTAG"
+      "badge": "WOCHE 37 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 185,
@@ -1668,8 +1668,8 @@
       "anleitung": "Woche 37: Mein persönlicher Jahresschatz (Logbuch) — Wir feiern alles, was wir dieses Jahr geschafft haben.",
       "fragen": [],
       "hinweis": "Wir binden eine schöne Schleife um unser Jahresschatz-Buch.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 37 · FREITAG"
+      "badge": "WOCHE 37 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 186,
@@ -1677,8 +1677,8 @@
       "anleitung": "Woche 38: Abschied, Sommerferien & Brainy-Diplom — Toll gemacht! Ab in die wohlverdienten Sommerferien!",
       "fragen": [],
       "hinweis": "Wir genießen die letzten gemeinsamen Tage freundlich.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 38 · MONTAG"
+      "badge": "WOCHE 38 · MONTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 187,
@@ -1686,8 +1686,8 @@
       "anleitung": "Woche 38: Abschied, Sommerferien & Brainy-Diplom — Toll gemacht! Ab in die wohlverdienten Sommerferien!",
       "fragen": [],
       "hinweis": "Wir nehmen alle persönlichen Sachen mit nach Hause.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 38 · DIENSTAG"
+      "badge": "WOCHE 38 · DIENSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 188,
@@ -1695,8 +1695,8 @@
       "anleitung": "Woche 38: Abschied, Sommerferien & Brainy-Diplom — Toll gemacht! Ab in die wohlverdienten Sommerferien!",
       "fragen": [],
       "hinweis": "Wir nehmen stolz die Urkunde im Stuhlkreis entgegen.",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 38 · MITTWOCH"
+      "badge": "WOCHE 38 · MITTWOCH",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 189,
@@ -1704,8 +1704,8 @@
       "anleitung": "Woche 38: Abschied, Sommerferien & Brainy-Diplom — Toll gemacht! Ab in die wohlverdienten Sommerferien!",
       "fragen": [],
       "hinweis": "Wir sagen 'Danke für das tolle Schuljahr!'",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 38 · DONNERSTAG"
+      "badge": "WOCHE 38 · DONNERSTAG",
+      "bild": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 190,
@@ -1713,8 +1713,8 @@
       "anleitung": "Woche 38: Abschied, Sommerferien & Brainy-Diplom — Toll gemacht! Ab in die wohlverdienten Sommerferien!",
       "fragen": [],
       "hinweis": "Wir winken allen zu und starten in die großen Ferien!",
-      "icon": "puzzle-piece",
-      "badge": "WOCHE 38 · FREITAG"
+      "badge": "WOCHE 38 · FREITAG",
+      "bild": "images/jahreskarten/brainy.png"
     }
   ]
 }
