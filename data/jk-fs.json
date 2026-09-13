@@ -13,7 +13,8 @@
       "fragen": [],
       "hinweis": "Wir schauen das Kind an, das den Sprechstein hält.",
       "badge": "WOCHE 1 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 2,
@@ -22,7 +23,8 @@
       "fragen": [],
       "hinweis": "Wir warten, bis der Sprechstein bei uns angekommen ist.",
       "badge": "WOCHE 1 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 3,
@@ -31,7 +33,8 @@
       "fragen": [],
       "hinweis": "Wir gehen leise auf unseren festen Platz im Kreis.",
       "badge": "WOCHE 1 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 4,
@@ -40,7 +43,8 @@
       "fragen": [],
       "hinweis": "Wir sitzen mit beiden Füßen fest auf dem Boden.",
       "badge": "WOCHE 1 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 5,
@@ -49,7 +53,8 @@
       "fragen": [],
       "hinweis": "Wir sagen einander freundlich 'Guten Morgen'.",
       "badge": "WOCHE 1 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 6,
@@ -58,7 +63,8 @@
       "fragen": [],
       "hinweis": "Wir folgen den bunten Pfeilen an den Wänden.",
       "badge": "WOCHE 2 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 7,
@@ -67,7 +73,8 @@
       "fragen": [],
       "hinweis": "Wir gehen hintereinander auf der rechten Seite.",
       "badge": "WOCHE 2 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 8,
@@ -76,7 +83,8 @@
       "fragen": [],
       "hinweis": "Wir öffnen die Tür langsam und schauen nach vorne.",
       "badge": "WOCHE 2 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 9,
@@ -85,7 +93,8 @@
       "fragen": [],
       "hinweis": "Wir schauen vorher auf unsere Bild-Tageskarte.",
       "badge": "WOCHE 2 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 10,
@@ -94,7 +103,8 @@
       "fragen": [],
       "hinweis": "Wir hängen die Tasche an unseren eigenen Garderoben-Haken.",
       "badge": "WOCHE 2 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 11,
@@ -103,7 +113,8 @@
       "fragen": [],
       "hinweis": "Wir legen die Blätter ordentlich in unsere Sammel-Mappe.",
       "badge": "WOCHE 3 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 12,
@@ -112,7 +123,8 @@
       "fragen": [],
       "hinweis": "Wir räumen jeden Mittag die Dose und Flasche aus.",
       "badge": "WOCHE 3 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 13,
@@ -121,7 +133,8 @@
       "fragen": [],
       "hinweis": "Wir legen das Federmäppchen offen vor uns auf den Tisch.",
       "badge": "WOCHE 3 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 14,
@@ -130,7 +143,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den Anspitzer mit der kleinen Mülldose.",
       "badge": "WOCHE 3 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 15,
@@ -139,7 +153,8 @@
       "fragen": [],
       "hinweis": "Wir räumen am Ende der Stunde alles auf seinen Platz.",
       "badge": "WOCHE 3 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 16,
@@ -148,7 +163,8 @@
       "fragen": [],
       "hinweis": "Wenn die Hand hochgeht, werden wir leise und schauen hin.",
       "badge": "WOCHE 4 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 17,
@@ -157,7 +173,8 @@
       "fragen": [],
       "hinweis": "Stopp heißt sofort aufhören und Hände auf den Tisch.",
       "badge": "WOCHE 4 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 18,
@@ -166,7 +183,8 @@
       "fragen": [],
       "hinweis": "Wir fragen erst mit dem Melde-Zeichen um Erlaubnis.",
       "badge": "WOCHE 4 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 19,
@@ -175,7 +193,8 @@
       "fragen": [],
       "hinweis": "Wir lassen den Tischnachbarn ruhig fertig arbeiten.",
       "badge": "WOCHE 4 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 20,
@@ -184,7 +203,8 @@
       "fragen": [],
       "hinweis": "Wir halten die Regeln ein, damit sich alle wohlfühlen.",
       "badge": "WOCHE 4 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 21,
@@ -193,7 +213,8 @@
       "fragen": [],
       "hinweis": "Wir fragen freundlich: 'Darf ich mitspielen?'",
       "badge": "WOCHE 5 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 22,
@@ -202,7 +223,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen Rücksicht und laufen nicht in Menschenmengen.",
       "badge": "WOCHE 5 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 23,
@@ -211,7 +233,8 @@
       "fragen": [],
       "hinweis": "Wir bringen die Pausensachen zurück in die Kiste.",
       "badge": "WOCHE 5 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 24,
@@ -220,7 +243,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Pausen-Sanduhr zum Abwechseln.",
       "badge": "WOCHE 5 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 25,
@@ -229,7 +253,8 @@
       "fragen": [],
       "hinweis": "Beim Gong stellen wir uns sofort an der Tür an.",
       "badge": "WOCHE 5 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 26,
@@ -238,7 +263,8 @@
       "fragen": [],
       "hinweis": "Wir setzen uns den Gehörschutz auf, wenn wir Ruhe brauchen.",
       "badge": "WOCHE 6 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 27,
@@ -247,7 +273,8 @@
       "fragen": [],
       "hinweis": "Wir machen erst Aufgabe 1 fertig, dann Aufgabe 2.",
       "badge": "WOCHE 6 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 28,
@@ -256,7 +283,8 @@
       "fragen": [],
       "hinweis": "Wir arbeiten ruhig, bis die kleine Sanduhr abgelaufen ist.",
       "badge": "WOCHE 6 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 29,
@@ -265,7 +293,8 @@
       "fragen": [],
       "hinweis": "Wir melden uns und nutzen die Tipp-Karte.",
       "badge": "WOCHE 6 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 30,
@@ -274,7 +303,8 @@
       "fragen": [],
       "hinweis": "Stifte gehören nur auf das Arbeitsblatt.",
       "badge": "WOCHE 6 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 31,
@@ -283,7 +313,8 @@
       "fragen": [],
       "hinweis": "Wir schieben unsere Klammer auf die Gefühls-Ampel.",
       "badge": "WOCHE 7 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 32,
@@ -292,7 +323,8 @@
       "fragen": [],
       "hinweis": "Wir fragen freundlich: 'Kann ich dir helfen?'",
       "badge": "WOCHE 7 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 33,
@@ -301,7 +333,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Wut-Taste oder das Knet-Kissen.",
       "badge": "WOCHE 7 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 34,
@@ -310,7 +343,8 @@
       "fragen": [],
       "hinweis": "Wir zeigen die Pausen-Karte und atmen durch.",
       "badge": "WOCHE 7 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 35,
@@ -319,7 +353,8 @@
       "fragen": [],
       "hinweis": "Wir kleben stolz einen Stärken-Stern in unser Buch.",
       "badge": "WOCHE 7 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 36,
@@ -328,7 +363,8 @@
       "fragen": [],
       "hinweis": "Wir fragen zuerst unser Partner-Kind am Tisch.",
       "badge": "WOCHE 8 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 37,
@@ -337,7 +373,8 @@
       "fragen": [],
       "hinweis": "Wir erklären den Weg, ohne die Antwort vorzusagen.",
       "badge": "WOCHE 8 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 38,
@@ -346,7 +383,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen die Unterstützung dankend an.",
       "badge": "WOCHE 8 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 39,
@@ -355,7 +393,8 @@
       "fragen": [],
       "hinweis": "Wir fragen zuerst: 'Brauchst du eine Hilfe?'",
       "badge": "WOCHE 8 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 40,
@@ -364,7 +403,8 @@
       "fragen": [],
       "hinweis": "Wir sagen freundlich 'Danke für deine Hilfe'.",
       "badge": "WOCHE 8 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 41,
@@ -373,7 +413,8 @@
       "fragen": [],
       "hinweis": "Wir legen Stifte leise auf das Filz-Tuch.",
       "badge": "WOCHE 9 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 42,
@@ -382,7 +423,8 @@
       "fragen": [],
       "hinweis": "Wir stellen die Sichtschutz-Wand ruhig auf.",
       "badge": "WOCHE 9 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 43,
@@ -391,7 +433,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen das Fuß-Gummiband unter dem Stuhl.",
       "badge": "WOCHE 9 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 44,
@@ -400,7 +443,8 @@
       "fragen": [],
       "hinweis": "Wir schließen Schränke und Kisten leise.",
       "badge": "WOCHE 9 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 45,
@@ -409,7 +453,8 @@
       "fragen": [],
       "hinweis": "Wir sammeln Naturmaterialien ordentlich in Kisten.",
       "badge": "WOCHE 9 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 46,
@@ -418,7 +463,8 @@
       "fragen": [],
       "hinweis": "Wir nennen 1 Sache, die uns gut gelungen ist.",
       "badge": "WOCHE 10 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 47,
@@ -427,7 +473,8 @@
       "fragen": [],
       "hinweis": "Wir heften alles stolz im Sammel-Ordner ein.",
       "badge": "WOCHE 10 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 48,
@@ -436,7 +483,8 @@
       "fragen": [],
       "hinweis": "Wir räumen alle Fächer blitzblank auf.",
       "badge": "WOCHE 10 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 49,
@@ -445,7 +493,8 @@
       "fragen": [],
       "hinweis": "Wir spielen ein schönes Gemeinschafts-Spiel.",
       "badge": "WOCHE 10 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 50,
@@ -454,7 +503,8 @@
       "fragen": [],
       "hinweis": "Wir wünschen allen schöne und erholsame Ferien.",
       "badge": "WOCHE 10 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 51,
@@ -463,7 +513,8 @@
       "fragen": [],
       "hinweis": "Wir wiederholen kurz die 3 wichtigsten Raum-Regeln.",
       "badge": "WOCHE 11 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 52,
@@ -472,7 +523,8 @@
       "fragen": [],
       "hinweis": "Wir hängen die Jacke auf und setzen uns leise hin.",
       "badge": "WOCHE 11 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 53,
@@ -481,7 +533,8 @@
       "fragen": [],
       "hinweis": "Wir packen abends den Ranzen mit den Bildkarten.",
       "badge": "WOCHE 11 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 54,
@@ -490,7 +543,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen das Flüster-Mikrofon.",
       "badge": "WOCHE 11 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 55,
@@ -499,7 +553,8 @@
       "fragen": [],
       "hinweis": "Wir stellen die Hausschuhe ins eigene Fach.",
       "badge": "WOCHE 11 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 56,
@@ -508,7 +563,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Zimmer-Lautstärke (Flüster-Stimme).",
       "badge": "WOCHE 12 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 57,
@@ -517,7 +573,8 @@
       "fragen": [],
       "hinweis": "Wir heben den Stuhl beim Ransetzen leicht an.",
       "badge": "WOCHE 12 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 58,
@@ -526,7 +583,8 @@
       "fragen": [],
       "hinweis": "Wir klinken die Tür leise und vorsichtig zu.",
       "badge": "WOCHE 12 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 59,
@@ -535,7 +593,8 @@
       "fragen": [],
       "hinweis": "Beim Klangschalen-Ton werden wir alle mäuschenstill.",
       "badge": "WOCHE 12 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 60,
@@ -544,7 +603,8 @@
       "fragen": [],
       "hinweis": "Wir kleben unseren Namen stolz auf das Lärm-Poster.",
       "badge": "WOCHE 12 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 61,
@@ -553,7 +613,8 @@
       "fragen": [],
       "hinweis": "Wir legen die Buntstifte in die Mitte zum Teilen.",
       "badge": "WOCHE 13 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 62,
@@ -562,7 +623,8 @@
       "fragen": [],
       "hinweis": "Wir entscheiden gemeinsam mit dem Partner-Kind.",
       "badge": "WOCHE 13 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 63,
@@ -571,7 +633,8 @@
       "fragen": [],
       "hinweis": "Wir schauen uns an und rücken die Stühle zusammen.",
       "badge": "WOCHE 13 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 64,
@@ -580,7 +643,8 @@
       "fragen": [],
       "hinweis": "Jedes Kind ist ein wertvoller Partner.",
       "badge": "WOCHE 13 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 65,
@@ -589,7 +653,8 @@
       "fragen": [],
       "hinweis": "Wir teilen die Aufgaben gerecht auf.",
       "badge": "WOCHE 13 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 66,
@@ -598,7 +663,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den Radiergummi und versuchen es nochmal.",
       "badge": "WOCHE 14 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 67,
@@ -607,7 +673,8 @@
       "fragen": [],
       "hinweis": "Wir spitzen den Stift ruhig an und machen weiter.",
       "badge": "WOCHE 14 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 68,
@@ -616,7 +683,8 @@
       "fragen": [],
       "hinweis": "Wir atmen durch und bauen den Turm gemeinsam auf.",
       "badge": "WOCHE 14 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 69,
@@ -625,7 +693,8 @@
       "fragen": [],
       "hinweis": "Schwere Nüsse knacken macht uns schlau!",
       "badge": "WOCHE 14 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 70,
@@ -634,7 +703,8 @@
       "fragen": [],
       "hinweis": "Wir sagen: 'Ich kann das NOCH nicht, aber ich übe.'",
       "badge": "WOCHE 14 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 71,
@@ -643,7 +713,8 @@
       "fragen": [],
       "hinweis": "Jedes Kind sucht sich ruhig sein Kissen.",
       "badge": "WOCHE 15 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 72,
@@ -652,7 +723,8 @@
       "fragen": [],
       "hinweis": "Wir umblättern vorsichtig an den Ecken.",
       "badge": "WOCHE 15 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 73,
@@ -661,7 +733,8 @@
       "fragen": [],
       "hinweis": "Wir stellen das Buch zurück ins passende Regal-Fach.",
       "badge": "WOCHE 15 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 74,
@@ -670,7 +743,8 @@
       "fragen": [],
       "hinweis": "Auf der Lese-Insel gilt absolute Flüster-Stille.",
       "badge": "WOCHE 15 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 75,
@@ -679,7 +753,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Lese-Lupe für Wörter.",
       "badge": "WOCHE 15 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 76,
@@ -688,7 +763,8 @@
       "fragen": [],
       "hinweis": "Wir machen die Schildkröten-Übung zum Beruhigen.",
       "badge": "WOCHE 16 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 77,
@@ -697,7 +773,8 @@
       "fragen": [],
       "hinweis": "Gesunde Jause essen wir gemeinsam am Tisch.",
       "badge": "WOCHE 16 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 78,
@@ -706,7 +783,8 @@
       "fragen": [],
       "hinweis": "Wir legen uns leise auf die Matte und lauschen.",
       "badge": "WOCHE 16 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 79,
@@ -715,7 +793,8 @@
       "fragen": [],
       "hinweis": "Jedes Kind kommt der Reihe nach dran.",
       "badge": "WOCHE 16 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 80,
@@ -724,7 +803,8 @@
       "fragen": [],
       "hinweis": "Wir genießen das ruhige Licht im Morgenkreis.",
       "badge": "WOCHE 16 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 81,
@@ -733,7 +813,8 @@
       "fragen": [],
       "hinweis": "Wir schauen in unser Wochen-Logbuch.",
       "badge": "WOCHE 17 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 82,
@@ -742,7 +823,8 @@
       "fragen": [],
       "hinweis": "Wir schauen auf unsere eigenen Lernfortschritte.",
       "badge": "WOCHE 17 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 83,
@@ -751,7 +833,8 @@
       "fragen": [],
       "hinweis": "Wir sagen uns: 'Ich habe diese Woche viel geschafft.'",
       "badge": "WOCHE 17 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 84,
@@ -760,7 +843,8 @@
       "fragen": [],
       "hinweis": "Wir räumen vor dem Jahreswechsel alles gründlich auf.",
       "badge": "WOCHE 17 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 85,
@@ -769,7 +853,8 @@
       "fragen": [],
       "hinweis": "Wir schenken dem Tischnachbarn einen Wunsch-Stern.",
       "badge": "WOCHE 17 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 86,
@@ -778,7 +863,8 @@
       "fragen": [],
       "hinweis": "Wir ziehen die Mütze auf und schließen den Reißverschluss.",
       "badge": "WOCHE 18 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 87,
@@ -787,7 +873,8 @@
       "fragen": [],
       "hinweis": "Wir wählen ein Spiel aus der Schlecht-Wetter-Kiste.",
       "badge": "WOCHE 18 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 88,
@@ -796,7 +883,8 @@
       "fragen": [],
       "hinweis": "Schnee bleibt auf dem Boden zum Bauen.",
       "badge": "WOCHE 18 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 89,
@@ -805,7 +893,8 @@
       "fragen": [],
       "hinweis": "Wir wechseln an der Tür zu den Hausschuhen.",
       "badge": "WOCHE 18 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 90,
@@ -814,7 +903,8 @@
       "fragen": [],
       "hinweis": "Wir machen den Fröhlichen Bewegungs-Tanz mit.",
       "badge": "WOCHE 18 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 91,
@@ -823,7 +913,8 @@
       "fragen": [],
       "hinweis": "Wir finden mindestens 3 Dinge, die wir gut können.",
       "badge": "WOCHE 19 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 92,
@@ -832,7 +923,8 @@
       "fragen": [],
       "hinweis": "Wir besprechen stolz unsere Lern-Ziele.",
       "badge": "WOCHE 19 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 93,
@@ -841,7 +933,8 @@
       "fragen": [],
       "hinweis": "Wir vergeben den Mutmacher-Award an ein Mitschüler-Kind.",
       "badge": "WOCHE 19 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 94,
@@ -850,7 +943,8 @@
       "fragen": [],
       "hinweis": "Wir kleben die Sterne auf unser Zertifikat.",
       "badge": "WOCHE 19 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 95,
@@ -859,7 +953,8 @@
       "fragen": [],
       "hinweis": "Wir klatschen gemeinsam für unsere tolle Leistung.",
       "badge": "WOCHE 19 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 96,
@@ -868,7 +963,8 @@
       "fragen": [],
       "hinweis": "Wir setzen uns ein persönliches Ziel für die Woche.",
       "badge": "WOCHE 20 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 97,
@@ -877,7 +973,8 @@
       "fragen": [],
       "hinweis": "Wir prüfen das Federmäppchen auf Vollständigkeit.",
       "badge": "WOCHE 20 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 98,
@@ -886,7 +983,8 @@
       "fragen": [],
       "hinweis": "Wir probieren den neuen Sitzplatz neugierig aus.",
       "badge": "WOCHE 20 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 99,
@@ -895,7 +993,8 @@
       "fragen": [],
       "hinweis": "Wir beschriften das Heft ordentlich mit Namen.",
       "badge": "WOCHE 20 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 100,
@@ -904,7 +1003,8 @@
       "fragen": [],
       "hinweis": "Wir tragen den ersten Wochen-Punkt ins Logbuch ein.",
       "badge": "WOCHE 20 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 101,
@@ -913,7 +1013,8 @@
       "fragen": [],
       "hinweis": "Wir schauen erst auf den Arbeits-Fahrplan auf dem Tisch.",
       "badge": "WOCHE 21 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 102,
@@ -922,7 +1023,8 @@
       "fragen": [],
       "hinweis": "Die Sanduhr läuft ganz von alleine ab.",
       "badge": "WOCHE 21 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 103,
@@ -931,7 +1033,8 @@
       "fragen": [],
       "hinweis": "Wir bleiben auf unserem Platz sitzen, bis die Uhr durch ist.",
       "badge": "WOCHE 21 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 104,
@@ -940,7 +1043,8 @@
       "fragen": [],
       "hinweis": "Wir fangen zügig an und nutzen die Zeit gut.",
       "badge": "WOCHE 21 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 105,
@@ -949,7 +1053,8 @@
       "fragen": [],
       "hinweis": "Wir kontrollieren mit der Haken-Karte, ob alles fertig ist.",
       "badge": "WOCHE 21 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 106,
@@ -958,7 +1063,8 @@
       "fragen": [],
       "hinweis": "Wir greifen leise mit den Händen in die Fühlbox.",
       "badge": "WOCHE 22 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 107,
@@ -967,7 +1073,8 @@
       "fragen": [],
       "hinweis": "Wir ertasten den Gegenstand nur mit den Fingern.",
       "badge": "WOCHE 22 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 108,
@@ -976,7 +1083,8 @@
       "fragen": [],
       "hinweis": "Wir beschreiben das Gefühl sachlich (z.B. rauch, weich).",
       "badge": "WOCHE 22 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 109,
@@ -985,7 +1093,8 @@
       "fragen": [],
       "hinweis": "Wir hantieren vorsichtig mit Flüssigkeiten.",
       "badge": "WOCHE 22 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 110,
@@ -994,7 +1103,8 @@
       "fragen": [],
       "hinweis": "Wir machen die 1-Minute-Atem-Pause.",
       "badge": "WOCHE 22 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 111,
@@ -1003,7 +1113,8 @@
       "fragen": [],
       "hinweis": "Wir sagen: 'Bitte gib mir mal den Stift.'",
       "badge": "WOCHE 23 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 112,
@@ -1012,7 +1123,8 @@
       "fragen": [],
       "hinweis": "Wir sagen morgens freundlich 'Hallo'.",
       "badge": "WOCHE 23 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 113,
@@ -1021,7 +1133,8 @@
       "fragen": [],
       "hinweis": "Wir halten die Tür für das nachfolgende Kind auf.",
       "badge": "WOCHE 23 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 114,
@@ -1030,7 +1143,8 @@
       "fragen": [],
       "hinweis": "Wir sagen ehrlich: 'Entschuldigung, war keine Absicht.'",
       "badge": "WOCHE 23 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 115,
@@ -1039,7 +1153,8 @@
       "fragen": [],
       "hinweis": "Ein 'Danke' macht den Geber und Nehmer froh.",
       "badge": "WOCHE 23 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 116,
@@ -1048,7 +1163,8 @@
       "fragen": [],
       "hinweis": "Wir gehen vorsichtig um die Beete herum.",
       "badge": "WOCHE 24 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 117,
@@ -1057,7 +1173,8 @@
       "fragen": [],
       "hinweis": "Wir beobachten Knospen mit der Lupe, ohne zu reißen.",
       "badge": "WOCHE 24 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 118,
@@ -1066,7 +1183,8 @@
       "fragen": [],
       "hinweis": "Müll gehört immer in die schwarze Mülltonne.",
       "badge": "WOCHE 24 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 119,
@@ -1075,7 +1193,8 @@
       "fragen": [],
       "hinweis": "Wir verhalten uns leise und beobachten aus der Ferne.",
       "badge": "WOCHE 24 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 120,
@@ -1084,7 +1203,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den Dienst-Plan zum Blumengießen.",
       "badge": "WOCHE 24 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 121,
@@ -1093,7 +1213,8 @@
       "fragen": [],
       "hinweis": "Ein Fehler zeigt uns, wo wir noch üben können.",
       "badge": "WOCHE 25 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 122,
@@ -1102,7 +1223,8 @@
       "fragen": [],
       "hinweis": "Wir unterstützen einander wertschätzend.",
       "badge": "WOCHE 25 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 123,
@@ -1111,7 +1233,8 @@
       "fragen": [],
       "hinweis": "Wir streichen sanft durch oder radieren vorsichtig.",
       "badge": "WOCHE 25 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 124,
@@ -1120,7 +1243,8 @@
       "fragen": [],
       "hinweis": "Wir schauen die Rückmeldung an und verbessern kurz.",
       "badge": "WOCHE 25 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 125,
@@ -1129,7 +1253,8 @@
       "fragen": [],
       "hinweis": "Wir versuchen es mindestens noch einmal ruhig.",
       "badge": "WOCHE 25 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 126,
@@ -1138,7 +1263,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Lautbegleitende Gebärde deutlich.",
       "badge": "WOCHE 26 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 127,
@@ -1147,7 +1273,8 @@
       "fragen": [],
       "hinweis": "Wir klatschen Silbe für Silbe im klaren Rhythmus.",
       "badge": "WOCHE 26 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 128,
@@ -1156,7 +1283,8 @@
       "fragen": [],
       "hinweis": "Wir sprechen langsam, laut und deutlich.",
       "badge": "WOCHE 26 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 129,
@@ -1165,7 +1293,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den blauen und roten Buntstift für Silben.",
       "badge": "WOCHE 26 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 130,
@@ -1174,7 +1303,8 @@
       "fragen": [],
       "hinweis": "Wir machen am Punkt ein kurzes Atem-Innehalten.",
       "badge": "WOCHE 26 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 131,
@@ -1183,7 +1313,8 @@
       "fragen": [],
       "hinweis": "Wir legen die Rechenplättchen auf den Zwanziger-Streifen.",
       "badge": "WOCHE 27 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 132,
@@ -1192,7 +1323,8 @@
       "fragen": [],
       "hinweis": "Wir legen das Material leise auf die Unterlage.",
       "badge": "WOCHE 27 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 133,
@@ -1201,7 +1333,8 @@
       "fragen": [],
       "hinweis": "Wir zählen nach der Stunde nach, ob alles in der Dose ist.",
       "badge": "WOCHE 27 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 134,
@@ -1210,7 +1343,8 @@
       "fragen": [],
       "hinweis": "10 Einer werden immer zu 1 Zehner-Stange getauscht.",
       "badge": "WOCHE 27 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 135,
@@ -1219,7 +1353,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den Abakus zur Kontrolle.",
       "badge": "WOCHE 27 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 136,
@@ -1228,7 +1363,8 @@
       "fragen": [],
       "hinweis": "Wir waschen vorher die Hände und tragen es mit 2 Händen.",
       "badge": "WOCHE 28 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 137,
@@ -1237,7 +1373,8 @@
       "fragen": [],
       "hinweis": "Wir öffen nur die App, die auf der Bildkarte steht.",
       "badge": "WOCHE 28 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 138,
@@ -1246,7 +1383,8 @@
       "fragen": [],
       "hinweis": "Wir stecken die Kopfhörer leise ein.",
       "badge": "WOCHE 28 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 139,
@@ -1255,7 +1393,8 @@
       "fragen": [],
       "hinweis": "Wir stecken das Tablet am Ende in den Lade-Wagen.",
       "badge": "WOCHE 28 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 140,
@@ -1264,7 +1403,8 @@
       "fragen": [],
       "hinweis": "Wir respektieren die Speicher-Ordner der anderen.",
       "badge": "WOCHE 28 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 141,
@@ -1273,7 +1413,8 @@
       "fragen": [],
       "hinweis": "Wir teilen Löffel für Löffel die Erde in den Becher.",
       "badge": "WOCHE 29 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 142,
@@ -1282,7 +1423,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Sprühflasche für sanfte Feuchtigkeit.",
       "badge": "WOCHE 29 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 143,
@@ -1291,7 +1433,8 @@
       "fragen": [],
       "hinweis": "Wir fegen die Schnipsel mit der Hand in den Müll.",
       "badge": "WOCHE 29 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 144,
@@ -1300,7 +1443,8 @@
       "fragen": [],
       "hinweis": "Wir suchen ruhig und lassen anderen Kindern auch Platz.",
       "badge": "WOCHE 29 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 145,
@@ -1309,7 +1453,8 @@
       "fragen": [],
       "hinweis": "Wir verpacken das Geschenk stolz für Zuhause.",
       "badge": "WOCHE 29 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 146,
@@ -1318,7 +1463,8 @@
       "fragen": [],
       "hinweis": "Wir trinken ausreichend Wasser und lüften morgens.",
       "badge": "WOCHE 30 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 147,
@@ -1327,7 +1473,8 @@
       "fragen": [],
       "hinweis": "Wir machen die Frische-Kick-Bewegung am Platz.",
       "badge": "WOCHE 30 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 148,
@@ -1336,7 +1483,8 @@
       "fragen": [],
       "hinweis": "Wir füllen morgens frisches Wasser am Spender.",
       "badge": "WOCHE 30 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 149,
@@ -1345,7 +1493,8 @@
       "fragen": [],
       "hinweis": "Wir lassen die Jalousie unten, damit es kühl bleibt.",
       "badge": "WOCHE 30 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 150,
@@ -1354,7 +1503,8 @@
       "fragen": [],
       "hinweis": "Wir arbeiten sauber bis zum Gong-Zeichen.",
       "badge": "WOCHE 30 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 151,
@@ -1363,7 +1513,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Stopp-Hand und sagen 'Hör auf!'",
       "badge": "WOCHE 31 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 152,
@@ -1372,7 +1523,8 @@
       "fragen": [],
       "hinweis": "Wir stehen zu Fehlern und holen die Hofaufsicht.",
       "badge": "WOCHE 31 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 153,
@@ -1381,7 +1533,8 @@
       "fragen": [],
       "hinweis": "Wir sprechen in Ich-Botschaften ('Ich möchte nicht...').",
       "badge": "WOCHE 31 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 154,
@@ -1390,7 +1543,8 @@
       "fragen": [],
       "hinweis": "Wir gehen zur Detektiv-Insel und nutzen die Klärungskarten.",
       "badge": "WOCHE 31 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 155,
@@ -1399,7 +1553,8 @@
       "fragen": [],
       "hinweis": "Wir schließen den Friedens-Pakt ab.",
       "badge": "WOCHE 31 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 156,
@@ -1408,7 +1563,8 @@
       "fragen": [],
       "hinweis": "Wir bleiben am Bordstein stehen und schauen links-rechts-links.",
       "badge": "WOCHE 32 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 157,
@@ -1417,7 +1573,8 @@
       "fragen": [],
       "hinweis": "Wir bleiben Partner an Partner in der zweier-Reihe.",
       "badge": "WOCHE 32 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 158,
@@ -1426,7 +1583,8 @@
       "fragen": [],
       "hinweis": "Wir steigen ruhig nacheinander ein.",
       "badge": "WOCHE 32 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 159,
@@ -1435,7 +1593,8 @@
       "fragen": [],
       "hinweis": "Wir bleiben immer in Sichtweite der Lehrkraft.",
       "badge": "WOCHE 32 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 160,
@@ -1444,7 +1603,8 @@
       "fragen": [],
       "hinweis": "Wir stecken den Pass sicher in den Brustbeutel.",
       "badge": "WOCHE 32 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 161,
@@ -1453,7 +1613,8 @@
       "fragen": [],
       "hinweis": "Wir sagen dem Hausmeister freundlich 'Danke'.",
       "badge": "WOCHE 33 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 162,
@@ -1462,7 +1623,8 @@
       "fragen": [],
       "hinweis": "Wir probieren zumindest einen kleinen Löffel.",
       "badge": "WOCHE 33 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 163,
@@ -1471,7 +1633,8 @@
       "fragen": [],
       "hinweis": "Ein Lächeln beim Essen-Holen macht Freude.",
       "badge": "WOCHE 33 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 164,
@@ -1480,7 +1643,8 @@
       "fragen": [],
       "hinweis": "Wir verabschieden uns beim Aussteigen höflich.",
       "badge": "WOCHE 33 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 165,
@@ -1489,7 +1653,8 @@
       "fragen": [],
       "hinweis": "Wir verfassen gemeinsam ein Danke-Poster.",
       "badge": "WOCHE 33 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 166,
@@ -1498,7 +1663,8 @@
       "fragen": [],
       "hinweis": "Wir setzen die Sonnenmütze auf und suchen Schatten.",
       "badge": "WOCHE 34 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 167,
@@ -1507,7 +1673,8 @@
       "fragen": [],
       "hinweis": "Kaltes Wasser schützt am besten vor Kopfschmerzen.",
       "badge": "WOCHE 34 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 168,
@@ -1516,7 +1683,8 @@
       "fragen": [],
       "hinweis": "Wir bewegen uns langsam und schonen die Kräfe.",
       "badge": "WOCHE 34 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 169,
@@ -1525,7 +1693,8 @@
       "fragen": [],
       "hinweis": "Wir kühlen die Handgelenke mit kaltem Wasser ab.",
       "badge": "WOCHE 34 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 170,
@@ -1534,7 +1703,8 @@
       "fragen": [],
       "hinweis": "Wir hängen das Frische-Tuch ordentlich zum Trocknen auf.",
       "badge": "WOCHE 34 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 171,
@@ -1543,7 +1713,8 @@
       "fragen": [],
       "hinweis": "Wir bringen eigene Ideen in die Projekt-Kiste ein.",
       "badge": "WOCHE 35 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 172,
@@ -1552,7 +1723,8 @@
       "fragen": [],
       "hinweis": "Wir teilen Sägen, Scheren und Leim fair.",
       "badge": "WOCHE 35 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 173,
@@ -1561,7 +1733,8 @@
       "fragen": [],
       "hinweis": "Wir fegen die Werkbank am Ende gründlich ab.",
       "badge": "WOCHE 35 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 174,
@@ -1570,7 +1743,8 @@
       "fragen": [],
       "hinweis": "Wir bewundern die Kunstwerke der anderen vorsichtig.",
       "badge": "WOCHE 35 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 175,
@@ -1579,7 +1753,8 @@
       "fragen": [],
       "hinweis": "Wir stellen unser Projekt stolz vor der Klasse aus.",
       "badge": "WOCHE 35 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 176,
@@ -1588,7 +1763,8 @@
       "fragen": [],
       "hinweis": "Wir leeren das Fach komplett und wischen es aus.",
       "badge": "WOCHE 36 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 177,
@@ -1597,7 +1773,8 @@
       "fragen": [],
       "hinweis": "Wir sortieren: Was funktioniert, bleibt da.",
       "badge": "WOCHE 36 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 178,
@@ -1606,7 +1783,8 @@
       "fragen": [],
       "hinweis": "Wir helfen gemeinsam beim Waschen und Trocknen.",
       "badge": "WOCHE 36 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 179,
@@ -1615,7 +1793,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen die Plakate vorsichtig ab und rollen sie.",
       "badge": "WOCHE 36 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 180,
@@ -1624,7 +1803,8 @@
       "fragen": [],
       "hinweis": "Wir reparieren oder entsorgen defekte Sachen.",
       "badge": "WOCHE 36 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 181,
@@ -1633,7 +1813,8 @@
       "fragen": [],
       "hinweis": "Wir blättern durch unser UDL-Logbuch.",
       "badge": "WOCHE 37 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 182,
@@ -1642,7 +1823,8 @@
       "fragen": [],
       "hinweis": "Wir zeichnen unser schönstes Schuljahres-Erlebnis.",
       "badge": "WOCHE 37 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 183,
@@ -1651,7 +1833,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen die Schrift von Woche 1 mit heute!",
       "badge": "WOCHE 37 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 184,
@@ -1660,7 +1843,8 @@
       "fragen": [],
       "hinweis": "Wir notieren unser großes Ziel für die neue Klasse.",
       "badge": "WOCHE 37 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 185,
@@ -1669,7 +1853,8 @@
       "fragen": [],
       "hinweis": "Wir binden eine schöne Schleife um unser Jahresschatz-Buch.",
       "badge": "WOCHE 37 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 186,
@@ -1678,7 +1863,8 @@
       "fragen": [],
       "hinweis": "Wir genießen die letzten gemeinsamen Tage freundlich.",
       "badge": "WOCHE 38 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 187,
@@ -1687,7 +1873,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen alle persönlichen Sachen mit nach Hause.",
       "badge": "WOCHE 38 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 188,
@@ -1696,7 +1883,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen stolz die Urkunde im Stuhlkreis entgegen.",
       "badge": "WOCHE 38 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 189,
@@ -1705,7 +1893,8 @@
       "fragen": [],
       "hinweis": "Wir sagen 'Danke für das tolle Schuljahr!'",
       "badge": "WOCHE 38 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 190,
@@ -1714,7 +1903,8 @@
       "fragen": [],
       "hinweis": "Wir winken allen zu und starten in die großen Ferien!",
       "badge": "WOCHE 38 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     }
   ]
 }

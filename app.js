@@ -26,6 +26,7 @@ const cardTitelBack = document.getElementById('cardTitelBack');
 const impulsBack = document.getElementById('impulsBack');
 const cardAnleitung = document.getElementById('cardAnleitung');
 const cardFragen = document.getElementById('cardFragen');
+const fragenWrap = document.getElementById('fragenWrap');
 const cardHinweis = document.getElementById('cardHinweis');
 const hinweisWrap = document.getElementById('hinweisWrap');
 const systemfrageWrap = document.getElementById('systemfrageWrap');
@@ -341,16 +342,29 @@ function renderCard() {
   cardTitelBack.textContent = karte.titel;
 
   // Kartenvorderseite: Foto (Standard-Impulskarten, TK-Deck) ODER Icon (Krisendeck/Werkzeug/mb,
-  // die kein eigenes Foto haben, sondern ein Font-Awesome-Symbol als Erkennungszeichen).
-  if (karte.icon) {
+  // die kein eigenes Foto haben, sondern ein Font-Awesome-Symbol als Erkennungszeichen) ODER
+  // Textkarte (Jahreskarten-Serie: kein Foto pro Tag, stattdessen großer Fragetext + optional
+  // blasses Brainy-Wasserzeichen im Hintergrund, wie auf der gedruckten Karte).
+  if (karte.textcard) {
     frontImgWrap.hidden = true;
-    frontIconWrap.hidden = false;
-    frontIcon.className = `fa-solid fa-${karte.icon}`;
-  } else {
     frontIconWrap.hidden = true;
-    frontImgWrap.hidden = false;
-    cardImg.src = karte.bild;
-    cardImg.alt = karte.titel;
+    flashcard.classList.add('textcard');
+    flashcard.classList.toggle('has-watermark', !!karte.wasserzeichen);
+    if (karte.wasserzeichen) {
+      flashcard.style.setProperty('--card-watermark', `url('${karte.wasserzeichen}')`);
+    }
+  } else {
+    flashcard.classList.remove('textcard', 'has-watermark');
+    if (karte.icon) {
+      frontImgWrap.hidden = true;
+      frontIconWrap.hidden = false;
+      frontIcon.className = `fa-solid fa-${karte.icon}`;
+    } else {
+      frontIconWrap.hidden = true;
+      frontImgWrap.hidden = false;
+      cardImg.src = karte.bild;
+      cardImg.alt = karte.titel;
+    }
   }
 
   // Kartenrückseite: zwei grundverschiedene Inhaltsformen. Standard-Impulskarten haben
@@ -414,6 +428,7 @@ function renderCard() {
       box.textContent = f;
       cardFragen.appendChild(box);
     });
+    fragenWrap.hidden = !(karte.fragen && karte.fragen.length);
 
     if (karte.systemfrage) {
       systemfrageWrap.hidden = false;

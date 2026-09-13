@@ -12,8 +12,9 @@
       "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
       "fragen": [],
       "hinweis": "Wir setzen am Tag 1 klare Jahresziele für Notenschnitt und Wunschabschluss.",
-      "icon": "briefcase",
-      "badge": "WOCHE 1 · MONTAG"
+      "badge": "WOCHE 1 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 2,
@@ -21,8 +22,9 @@
       "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
       "fragen": [],
       "hinweis": "Wir legen einen BSO-Ordner (Berufsorientierung) an und sichern erste Adressen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 1 · DIENSTAG"
+      "badge": "WOCHE 1 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 3,
@@ -30,8 +32,9 @@
       "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
       "fragen": [],
       "hinweis": "Wir nutzen Lehrer-Feedback als Fahrplan für gezielte Notenverbesserung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 1 · MITTWOCH"
+      "badge": "WOCHE 1 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 4,
@@ -39,8 +42,9 @@
       "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
       "fragen": [],
       "hinweis": "Wir erstellen sofort einen Meilenstein-Plan mit wöchentlichen Abgaben.",
-      "icon": "briefcase",
-      "badge": "WOCHE 1 · DONNERSTAG"
+      "badge": "WOCHE 1 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 5,
@@ -48,8 +52,9 @@
       "anleitung": "Woche 1: Start ins Abschluss- bzw. Orientierungsjahr — Eigenverantwortung übernehmen – Deinen Schulabschluss fest im Blick.",
       "fragen": [],
       "hinweis": "Wir reflektieren unsere Lern-Routinen im Logbuch und passen den Wochenplan an.",
-      "icon": "briefcase",
-      "badge": "WOCHE 1 · FREITAG"
+      "badge": "WOCHE 1 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 6,
@@ -57,8 +62,9 @@
       "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
       "fragen": [],
       "hinweis": "Wir führen den KLARTEXT-Stärken-Check durch und listen 5 persönliche Talente auf.",
-      "icon": "briefcase",
-      "badge": "WOCHE 2 · MONTAG"
+      "badge": "WOCHE 2 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 7,
@@ -66,8 +72,9 @@
       "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
       "fragen": [],
       "hinweis": "Wir wählen BSO-Felder nach unseren eigenen echten Interessen und Neigungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 2 · DIENSTAG"
+      "badge": "WOCHE 2 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 8,
@@ -75,8 +82,9 @@
       "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
       "fragen": [],
       "hinweis": "Wir wissen: Zuverlässigkeit ist der wichtigste Baustein für Ausbildungsbetriebe.",
-      "icon": "briefcase",
-      "badge": "WOCHE 2 · MITTWOCH"
+      "badge": "WOCHE 2 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 9,
@@ -84,8 +92,9 @@
       "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
       "fragen": [],
       "hinweis": "Wir klären ab, welche Tätigkeiten zu unserer eigenen Persönlichkeit passen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 2 · DONNERSTAG"
+      "badge": "WOCHE 2 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 10,
@@ -93,8 +102,9 @@
       "anleitung": "Woche 2: Stärken-Analyse & Kompetenz-Check — Kenne deine Stärken – Was kannst und willst du wirklich?",
       "fragen": [],
       "hinweis": "Wir würdigen jede Stärke – ob akademisch, sozial, kreativ oder praktisch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 2 · FREITAG"
+      "badge": "WOCHE 2 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 11,
@@ -102,8 +112,9 @@
       "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
       "fragen": [],
       "hinweis": "Wir prüfen jedes Anschreiben individuell auf Rechtschreibung, Ansprechpartner & Motivation.",
-      "icon": "briefcase",
-      "badge": "WOCHE 3 · MONTAG"
+      "badge": "WOCHE 3 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 12,
@@ -111,8 +122,9 @@
       "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
       "fragen": [],
       "hinweis": "Wir legen eine seriöse Mailadresse (vorname.nachname@...) für Bewerbungen an.",
-      "icon": "briefcase",
-      "badge": "WOCHE 3 · DIENSTAG"
+      "badge": "WOCHE 3 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 13,
@@ -120,8 +132,9 @@
       "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
       "fragen": [],
       "hinweis": "Wir nutzen professionelle Lichtbilder mit angemessener Kleidung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 3 · MITTWOCH"
+      "badge": "WOCHE 3 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 14,
@@ -129,8 +142,9 @@
       "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
       "fragen": [],
       "hinweis": "Wir dokumentieren Schulzeiten, Praktika, Ehrenämter und Nebenjobs lückenlos.",
-      "icon": "briefcase",
-      "badge": "WOCHE 3 · DONNERSTAG"
+      "badge": "WOCHE 3 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 15,
@@ -138,8 +152,9 @@
       "anleitung": "Woche 3: Anschreiben & Lebenslauf (Bewerbungs-TÜV) — Professionell bewerben – Der erste Eindruck entscheidet.",
       "fragen": [],
       "hinweis": "Wir nutzen saubere Bewerbungsmappen oder korrekte PDF-Anhänge per Mail.",
-      "icon": "briefcase",
-      "badge": "WOCHE 3 · FREITAG"
+      "badge": "WOCHE 3 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 16,
@@ -147,8 +162,9 @@
       "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
       "fragen": [],
       "hinweis": "Wir planen die Anfahrt mit Puffer und sind 10 Minuten vor Arbeitsbeginn da.",
-      "icon": "briefcase",
-      "badge": "WOCHE 4 · MONTAG"
+      "badge": "WOCHE 4 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 17,
@@ -156,8 +172,9 @@
       "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
       "fragen": [],
       "hinweis": "Wir halten die Handy-Spind-Regel ein: Smartphone bleibt in den Arbeitsphasen stumm.",
-      "icon": "briefcase",
-      "badge": "WOCHE 4 · DIENSTAG"
+      "badge": "WOCHE 4 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 18,
@@ -165,8 +182,9 @@
       "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
       "fragen": [],
       "hinweis": "Wir zeigen Eigeninitiative: 'Kann ich Ihnen bei dieser Aufgabe helfen?'",
-      "icon": "briefcase",
-      "badge": "WOCHE 4 · MITTWOCH"
+      "badge": "WOCHE 4 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 19,
@@ -174,8 +192,9 @@
       "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
       "fragen": [],
       "hinweis": "Wir nehmen Feedback dankbar an: 'Danke für den Tipp, so mache ich es ab jetzt.'",
-      "icon": "briefcase",
-      "badge": "WOCHE 4 · DONNERSTAG"
+      "badge": "WOCHE 4 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 20,
@@ -183,8 +202,9 @@
       "anleitung": "Woche 4: Das Betriebspraktikum (Vorbereitung & Knigge) — Praxisluft schnuppern – Im Betrieb glänzen.",
       "fragen": [],
       "hinweis": "Wir schreiben täglich 10 Minuten Praktikums-Tagebuch im Betrieb.",
-      "icon": "briefcase",
-      "badge": "WOCHE 4 · FREITAG"
+      "badge": "WOCHE 4 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 21,
@@ -192,8 +212,9 @@
       "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
       "fragen": [],
       "hinweis": "Wir bereiten die Antwort vor: 3 Fakten über das Unternehmen + eigene Motivation.",
-      "icon": "briefcase",
-      "badge": "WOCHE 5 · MONTAG"
+      "badge": "WOCHE 5 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 22,
@@ -201,8 +222,9 @@
       "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
       "fragen": [],
       "hinweis": "Wir achten auf aufrechte Körperhaltung, freundliches Lächeln und festen Händedruck.",
-      "icon": "briefcase",
-      "badge": "WOCHE 5 · DIENSTAG"
+      "badge": "WOCHE 5 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 23,
@@ -210,8 +232,9 @@
       "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
       "fragen": [],
       "hinweis": "Wir antworten in kurzen Geschichten mit konkreten Beispielen aus der Schule/Praktikum.",
-      "icon": "briefcase",
-      "badge": "WOCHE 5 · MITTWOCH"
+      "badge": "WOCHE 5 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 24,
@@ -219,8 +242,9 @@
       "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
       "fragen": [],
       "hinweis": "Wir stellen 2 kluge Gegenfragen (z. B. zu Ausbildungsverlauf oder Teamstruktur).",
-      "icon": "briefcase",
-      "badge": "WOCHE 5 · DONNERSTAG"
+      "badge": "WOCHE 5 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 25,
@@ -228,8 +252,9 @@
       "anleitung": "Woche 5: Vorstellungsgespräch & Elevator Pitch — Souverän im Vorstellungsgespräch – Deine 30-Sekunden-Story.",
       "fragen": [],
       "hinweis": "Wir wählen angemessenes Business-Outfit und erscheinen überpünktlich.",
-      "icon": "briefcase",
-      "badge": "WOCHE 5 · FREITAG"
+      "badge": "WOCHE 5 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 26,
@@ -237,8 +262,9 @@
       "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
       "fragen": [],
       "hinweis": "Wir nutzen den '5-Minuten-Trick': Nur 5 Minuten schreiben – der Start bricht die Hürde.",
-      "icon": "briefcase",
-      "badge": "WOCHE 6 · MONTAG"
+      "badge": "WOCHE 6 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 27,
@@ -246,8 +272,9 @@
       "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
       "fragen": [],
       "hinweis": "Wir trennen Arbeits- und Freizeitbereich strikt voneinander.",
-      "icon": "briefcase",
-      "badge": "WOCHE 6 · DIENSTAG"
+      "badge": "WOCHE 6 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 28,
@@ -255,8 +282,9 @@
       "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
       "fragen": [],
       "hinweis": "Wir nutzen Website-Blocker während unserer festen Arbeitsblöcke.",
-      "icon": "briefcase",
-      "badge": "WOCHE 6 · MITTWOCH"
+      "badge": "WOCHE 6 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 29,
@@ -264,8 +292,9 @@
       "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
       "fragen": [],
       "hinweis": "Wir zerlegen die Monster-Aufgabe in 3 überschaubare Happen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 6 · DONNERSTAG"
+      "badge": "WOCHE 6 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 30,
@@ -273,8 +302,9 @@
       "anleitung": "Woche 6: Aufschieberitis & Prokrastination stoppen — Aufschieben verdoppelt den Stress – Heute anfangen.",
       "fragen": [],
       "hinweis": "Wir belohnen uns erst NACH Erreichen unseres festen Etappenziels.",
-      "icon": "briefcase",
-      "badge": "WOCHE 6 · FREITAG"
+      "badge": "WOCHE 6 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 31,
@@ -282,8 +312,9 @@
       "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
       "fragen": [],
       "hinweis": "Wir gründen Lern-Tandems mit Mitschülern für gegenseitiges Abfragen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 7 · MONTAG"
+      "badge": "WOCHE 7 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 32,
@@ -291,8 +322,9 @@
       "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
       "fragen": [],
       "hinweis": "Wir erklären uns schwierige Themen gegenseitig – Wer es erklären kann, hat es kapiert.",
-      "icon": "briefcase",
-      "badge": "WOCHE 7 · DIENSTAG"
+      "badge": "WOCHE 7 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 33,
@@ -300,8 +332,9 @@
       "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
       "fragen": [],
       "hinweis": "Wir etablieren ein Miteinander: Zusammen heben wir den gesamten Klassenschnitt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 7 · MITTWOCH"
+      "badge": "WOCHE 7 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 34,
@@ -309,8 +342,9 @@
       "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
       "fragen": [],
       "hinweis": "Wir übernehmen Verantwortung als Lern-Coach im Unterricht.",
-      "icon": "briefcase",
-      "badge": "WOCHE 7 · DONNERSTAG"
+      "badge": "WOCHE 7 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 35,
@@ -318,8 +352,9 @@
       "anleitung": "Woche 7: Noten-Resilienz & Lern-Tandems — Lern-Partner aktivieren – Zusammen zum Erfolg.",
       "fragen": [],
       "hinweis": "Wir bitten um ein lösungsorientiertes Beratungsgespräch zur Notenverbesserung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 7 · FREITAG"
+      "badge": "WOCHE 7 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 36,
@@ -327,8 +362,9 @@
       "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
       "fragen": [],
       "hinweis": "Wir lernen die Prüfungs-Operatoren (AFB I: Nenne/Aufzähle, AFB II: Erkläre/Vergleiche, AFB III: Beurteile).",
-      "icon": "briefcase",
-      "badge": "WOCHE 8 · MONTAG"
+      "badge": "WOCHE 8 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 37,
@@ -336,8 +372,9 @@
       "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
       "fragen": [],
       "hinweis": "Wir richten unsere Schreibzeit direkt nach der Punktewertung der Aufgabe aus.",
-      "icon": "briefcase",
-      "badge": "WOCHE 8 · DIENSTAG"
+      "badge": "WOCHE 8 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 38,
@@ -345,8 +382,9 @@
       "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
       "fragen": [],
       "hinweis": "Wir unterstreichen die W-Fragen und Operatoren im Aufgabentext farbig.",
-      "icon": "briefcase",
-      "badge": "WOCHE 8 · MITTWOCH"
+      "badge": "WOCHE 8 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 39,
@@ -354,8 +392,9 @@
       "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
       "fragen": [],
       "hinweis": "Wir gliedern Antworten klar mit Absätzen und Fachbegriffen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 8 · DONNERSTAG"
+      "badge": "WOCHE 8 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 40,
@@ -363,8 +402,9 @@
       "anleitung": "Woche 8: Prüfungstraining & Operatoren (Anforderungsbereiche) — Operatoren verstehen – Genau das liefern, was gefordert ist.",
       "fragen": [],
       "hinweis": "Wir belegen Aussagen immer mit Zeilenangaben und korrekten Zitaten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 8 · FREITAG"
+      "badge": "WOCHE 8 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 41,
@@ -372,8 +412,9 @@
       "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
       "fragen": [],
       "hinweis": "Wir führen ein ruhiges Orientierungsgespräch mit dem BSO-Berater und den Eltern.",
-      "icon": "briefcase",
-      "badge": "WOCHE 9 · MONTAG"
+      "badge": "WOCHE 9 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 42,
@@ -381,8 +422,9 @@
       "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
       "fragen": [],
       "hinweis": "Wir zeigen eigene konkrete Schritte und Pläne für den Schulabschluss.",
-      "icon": "briefcase",
-      "badge": "WOCHE 9 · DIENSTAG"
+      "badge": "WOCHE 9 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 43,
@@ -390,8 +432,9 @@
       "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
       "fragen": [],
       "hinweis": "Wir informieren Eltern frühzeitig über Herausforderungen und geplante Gegenmaßnahmen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 9 · MITTWOCH"
+      "badge": "WOCHE 9 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 44,
@@ -399,8 +442,9 @@
       "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
       "fragen": [],
       "hinweis": "Wir füllen Formulare eigenständig aus und bitten Eltern nur um Durchsicht.",
-      "icon": "briefcase",
-      "badge": "WOCHE 9 · DONNERSTAG"
+      "badge": "WOCHE 9 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 45,
@@ -408,8 +452,9 @@
       "anleitung": "Woche 9: Eltern-Erwartungsdruck & Abgrenzung — Deinen eigenen Weg finden – Konstruktiv mit Eltern kommunizieren.",
       "fragen": [],
       "hinweis": "Wir definieren unseren eigenen Wert unabhängig von akademischen Hoheitskonzepten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 9 · FREITAG"
+      "badge": "WOCHE 9 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 46,
@@ -417,8 +462,9 @@
       "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
       "fragen": [],
       "hinweis": "Wir prüfen alle Formulare und geben Anmeldungen überpünktlich ab.",
-      "icon": "briefcase",
-      "badge": "WOCHE 10 · MONTAG"
+      "badge": "WOCHE 10 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 47,
@@ -426,8 +472,9 @@
       "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
       "fragen": [],
       "hinweis": "Wir sichern gute Vornoten durch engagierte Mündlichkeit im Endspurt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 10 · DIENSTAG"
+      "badge": "WOCHE 10 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 48,
@@ -435,8 +482,9 @@
       "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
       "fragen": [],
       "hinweis": "Wir führen eine Kontrollliste für alle offiziellen Dokumente.",
-      "icon": "briefcase",
-      "badge": "WOCHE 10 · MITTWOCH"
+      "badge": "WOCHE 10 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 49,
@@ -444,8 +492,9 @@
       "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
       "fragen": [],
       "hinweis": "Wir arbeiten Rückstände systematisch ab.",
-      "icon": "briefcase",
-      "badge": "WOCHE 10 · DONNERSTAG"
+      "badge": "WOCHE 10 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 50,
@@ -453,8 +502,9 @@
       "anleitung": "Woche 10: Halbjahres-Endspurt & Prüfungs-Anmeldung — Den Sack zubinden – Die Weichen für die Prüfungen stellen.",
       "fragen": [],
       "hinweis": "Wir schließen den Block ab und gönnen uns echte Regeneration.",
-      "icon": "briefcase",
-      "badge": "WOCHE 10 · FREITAG"
+      "badge": "WOCHE 10 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 51,
@@ -462,8 +512,9 @@
       "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
       "fragen": [],
       "hinweis": "Wir legen eine Formelsammlung an und lernen Grundgleichungen auswendig.",
-      "icon": "briefcase",
-      "badge": "WOCHE 11 · MONTAG"
+      "badge": "WOCHE 11 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 52,
@@ -471,8 +522,9 @@
       "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
       "fragen": [],
       "hinweis": "Wir üben die Bedienung des eigenen Taschenrechners diszipliniert.",
-      "icon": "briefcase",
-      "badge": "WOCHE 11 · DIENSTAG"
+      "badge": "WOCHE 11 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 53,
@@ -480,8 +532,9 @@
       "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
       "fragen": [],
       "hinweis": "Wir nutzen saubere Zeichnungen mit Bleistift, Geodreieck und Zirkel.",
-      "icon": "briefcase",
-      "badge": "WOCHE 11 · MITTWOCH"
+      "badge": "WOCHE 11 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 54,
@@ -489,8 +542,9 @@
       "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
       "fragen": [],
       "hinweis": "Wir wissen: Der Rechenweg bringt 80 % der Punkte – jeden Schritt aufschreiben!",
-      "icon": "briefcase",
-      "badge": "WOCHE 11 · DONNERSTAG"
+      "badge": "WOCHE 11 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 55,
@@ -498,8 +552,9 @@
       "anleitung": "Woche 11: Neustart & Mathe-Prüfungstraining — Mathe-Formeln beherrschen – Systematisch Lücken schließen.",
       "fragen": [],
       "hinweis": "Wir übersetzen Text schrittweise in mathematische Symbole.",
-      "icon": "briefcase",
-      "badge": "WOCHE 11 · FREITAG"
+      "badge": "WOCHE 11 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 56,
@@ -507,8 +562,9 @@
       "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
       "fragen": [],
       "hinweis": "Wir gliedern Erörterungen streng: Einleitung, Pro-Argumente, Kontra-Argumente, Fazit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 12 · MONTAG"
+      "badge": "WOCHE 12 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 57,
@@ -516,8 +572,9 @@
       "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
       "fragen": [],
       "hinweis": "Wir nutzen die 3-B-Regel für Argumente: Behauptung, Begründung, Beispiel.",
-      "icon": "briefcase",
-      "badge": "WOCHE 12 · DIENSTAG"
+      "badge": "WOCHE 12 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 58,
@@ -525,8 +582,9 @@
       "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
       "fragen": [],
       "hinweis": "Wir analysieren sprachliche Mittel immer mit ihrer Wirkung auf den Leser.",
-      "icon": "briefcase",
-      "badge": "WOCHE 12 · MITTWOCH"
+      "badge": "WOCHE 12 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 59,
@@ -534,8 +592,9 @@
       "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
       "fragen": [],
       "hinweis": "Wir planen 15 Minuten reine Korrekturzeit am Ende der Deutschklausur ein.",
-      "icon": "briefcase",
-      "badge": "WOCHE 12 · DONNERSTAG"
+      "badge": "WOCHE 12 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 60,
@@ -543,8 +602,9 @@
       "anleitung": "Woche 12: Deutsch-Abschlussprüfung (Textanalyse & Erörterung) — Texte dekonstruieren – Überzeugend argumentieren.",
       "fragen": [],
       "hinweis": "Wir verankern den TATTE-Satz als festen Standard-Auftakt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 12 · FREITAG"
+      "badge": "WOCHE 12 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 61,
@@ -552,8 +612,9 @@
       "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
       "fragen": [],
       "hinweis": "Wir nutzen englische Filler-Phrasen: 'Well, let me think...', 'That is an interesting point...'",
-      "icon": "briefcase",
-      "badge": "WOCHE 13 · MONTAG"
+      "badge": "WOCHE 13 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 62,
@@ -561,8 +622,9 @@
       "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
       "fragen": [],
       "hinweis": "Wir simulieren den Speaking Test mit einem Lernpartner auf Englisch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 13 · DIENSTAG"
+      "badge": "WOCHE 13 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 63,
@@ -570,8 +632,9 @@
       "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
       "fragen": [],
       "hinweis": "Wir nutzen die Bildbeschreibungssystematik: Foreground, Background, On the left/right, It seems to be...",
-      "icon": "briefcase",
-      "badge": "WOCHE 13 · MITTWOCH"
+      "badge": "WOCHE 13 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 64,
@@ -579,8 +642,9 @@
       "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
       "fragen": [],
       "hinweis": "Wir nutzen Höflichkeits-Formeln: 'I see your point, but on the other hand...'",
-      "icon": "briefcase",
-      "badge": "WOCHE 13 · DONNERSTAG"
+      "badge": "WOCHE 13 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 65,
@@ -588,8 +652,9 @@
       "anleitung": "Woche 13: Englisch-Oral-Exam (Mündliche Prüfung) — Souverän auf Englisch kommunizieren – Speaking Test rocken.",
       "fragen": [],
       "hinweis": "Wir sprechen weiter: Flüssigkeit und Mut zählen in der mündlichen Prüfung mehr als perfekte Grammatik.",
-      "icon": "briefcase",
-      "badge": "WOCHE 13 · FREITAG"
+      "badge": "WOCHE 13 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 66,
@@ -597,8 +662,9 @@
       "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
       "fragen": [],
       "hinweis": "Wir teilen die Zeit vorab ein: Pufferzeit für Durchlesen und Endkorrektur einplanen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 14 · MONTAG"
+      "badge": "WOCHE 14 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 67,
@@ -606,8 +672,9 @@
       "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
       "fragen": [],
       "hinweis": "Wir lesen zuerst alle Wahlaufgaben komplett durch und wählen strategisch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 14 · DIENSTAG"
+      "badge": "WOCHE 14 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 68,
@@ -615,8 +682,9 @@
       "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
       "fragen": [],
       "hinweis": "Wir haben Stilles Wasser, Nüsse und Traubenzucker am Platz.",
-      "icon": "briefcase",
-      "badge": "WOCHE 14 · MITTWOCH"
+      "badge": "WOCHE 14 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 69,
@@ -624,8 +692,9 @@
       "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
       "fragen": [],
       "hinweis": "Wir nutzen kurze 10-Sekunden-Hand-Lockerungspausen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 14 · DONNERSTAG"
+      "badge": "WOCHE 14 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 70,
@@ -633,8 +702,9 @@
       "anleitung": "Woche 14: Zeitmanagement in 3-4-stündigen Klausuren — Einteilung ist alles – Das Ausdauer-Match gewinnen.",
       "fragen": [],
       "hinweis": "Wir nutzen jede Minute zur Prüfung und Überarbeitung unserer Ergebnisse.",
-      "icon": "briefcase",
-      "badge": "WOCHE 14 · FREITAG"
+      "badge": "WOCHE 14 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 71,
@@ -642,8 +712,9 @@
       "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
       "fragen": [],
       "hinweis": "Wir analysieren die Vornoten genau: Wo reichen die Punkte für den Wunschabschluss?",
-      "icon": "briefcase",
-      "badge": "WOCHE 15 · MONTAG"
+      "badge": "WOCHE 15 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 72,
@@ -651,8 +722,9 @@
       "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
       "fragen": [],
       "hinweis": "Wir fragen Fachlehrer gezielt nach Chancen für Nachprüfungen oder Zusatzleistungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 15 · DIENSTAG"
+      "badge": "WOCHE 15 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 73,
@@ -660,8 +732,9 @@
       "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
       "fragen": [],
       "hinweis": "Wir mobilisieren Förderangebote, Nachhilfe und Intensivgruppen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 15 · MITTWOCH"
+      "badge": "WOCHE 15 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 74,
@@ -669,8 +742,9 @@
       "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
       "fragen": [],
       "hinweis": "Wir informieren Betriebe offen über Nachprüfungen und zeigen Einsatz.",
-      "icon": "briefcase",
-      "badge": "WOCHE 15 · DONNERSTAG"
+      "badge": "WOCHE 15 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 75,
@@ -678,8 +752,9 @@
       "anleitung": "Woche 15: Zwischenzeugnis & Rettungsanker — Standortbestimmung vor den Prüfungen – Jetzt nachjustieren.",
       "fragen": [],
       "hinweis": "Wir fixieren wöchentliche Lernblöcke bis zu den Hauptprüfungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 15 · FREITAG"
+      "badge": "WOCHE 15 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 76,
@@ -687,8 +762,9 @@
       "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
       "fragen": [],
       "hinweis": "Wir üben typische Einstellungstests (Musterlogik, Kopfrechnen, Rechtschreibung) online.",
-      "icon": "briefcase",
-      "badge": "WOCHE 16 · MONTAG"
+      "badge": "WOCHE 16 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 77,
@@ -696,8 +772,9 @@
       "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
       "fragen": [],
       "hinweis": "Wir trainieren gezielt Bearbeitungsgeschwindigkeit bei Logikrätseln.",
-      "icon": "briefcase",
-      "badge": "WOCHE 16 · DIENSTAG"
+      "badge": "WOCHE 16 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 78,
@@ -705,8 +782,9 @@
       "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
       "fragen": [],
       "hinweis": "Wir verfolgen täglich 5 Minuten Nachrichten (Tagesschau/Logo) für Allgemeinbildung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 16 · MITTWOCH"
+      "badge": "WOCHE 16 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 79,
@@ -714,8 +792,9 @@
       "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
       "fragen": [],
       "hinweis": "Wir testen Browser und Internetverbindung vorab und kontaktieren bei Fehlern den Support.",
-      "icon": "briefcase",
-      "badge": "WOCHE 16 · DONNERSTAG"
+      "badge": "WOCHE 16 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 80,
@@ -723,8 +802,9 @@
       "anleitung": "Woche 16: Einstellungstests & Eignungsprüfungen — Logik, Allgemeinwissen & Konzentration auf dem Prüfstand.",
       "fragen": [],
       "hinweis": "Wir schlafen vor Eignungsprüfungen ausreichend und erscheinen fit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 16 · FREITAG"
+      "badge": "WOCHE 16 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 81,
@@ -732,8 +812,9 @@
       "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
       "fragen": [],
       "hinweis": "Wir erstellen Mindmaps für Ursache-Wirkungs-Ketten und globale Zusammenhänge.",
-      "icon": "briefcase",
-      "badge": "WOCHE 17 · MONTAG"
+      "badge": "WOCHE 17 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 82,
@@ -741,8 +822,9 @@
       "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
       "fragen": [],
       "hinweis": "Wir üben freies Sprechen vor Freunden/Eltern mit lauter, deutlicher Stimme.",
-      "icon": "briefcase",
-      "badge": "WOCHE 17 · DIENSTAG"
+      "badge": "WOCHE 17 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 83,
@@ -750,8 +832,9 @@
       "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
       "fragen": [],
       "hinweis": "Wir bauen fachspezifische Begriffe gezielt in unsere Antworten ein.",
-      "icon": "briefcase",
-      "badge": "WOCHE 17 · MITTWOCH"
+      "badge": "WOCHE 17 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 84,
@@ -759,8 +842,9 @@
       "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
       "fragen": [],
       "hinweis": "Wir nutzen Überbrückungssätze: 'Das ist ein interessanter Aspekt, dazu lässt sich sagen...'",
-      "icon": "briefcase",
-      "badge": "WOCHE 17 · DONNERSTAG"
+      "badge": "WOCHE 17 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 85,
@@ -768,8 +852,9 @@
       "anleitung": "Woche 17: Mündliche Prüfungsfächer (Biologie/Geschichte/SOWI) — Fakten verknüpfen – Fachlich versiert vortragen.",
       "fragen": [],
       "hinweis": "Wir begegnen der Kommission höflich, selbstbewusst und gut vorbereitet.",
-      "icon": "briefcase",
-      "badge": "WOCHE 17 · FREITAG"
+      "badge": "WOCHE 17 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 86,
@@ -777,8 +862,9 @@
       "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
       "fragen": [],
       "hinweis": "Wir nutzen das 50-30-20-Budgetmodell: 50% Sparen, 30% Wünsche, 20% Notgroschen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 18 · MONTAG"
+      "badge": "WOCHE 18 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 87,
@@ -786,8 +872,9 @@
       "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
       "fragen": [],
       "hinweis": "Wir achten auf Rechte für Jugendliche (Arbeitszeiten, Pausen, Mindestlohn).",
-      "icon": "briefcase",
-      "badge": "WOCHE 18 · DIENSTAG"
+      "badge": "WOCHE 18 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 88,
@@ -795,8 +882,9 @@
       "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
       "fragen": [],
       "hinweis": "Wir begrenzen Arbeitszeiten in der Prüfungssaison strikt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 18 · MITTWOCH"
+      "badge": "WOCHE 18 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 89,
@@ -804,8 +892,9 @@
       "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
       "fragen": [],
       "hinweis": "Wir verzichten auf Ratenkäufe und Verträge mit versteckten Kosten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 18 · DONNERSTAG"
+      "badge": "WOCHE 18 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 90,
@@ -813,8 +902,9 @@
       "anleitung": "Woche 18: Nebenjobs, Taschengeld & Budgetierung — Finanzkompetenz – Erstes eigenes Geld klug verwalten.",
       "fragen": [],
       "hinweis": "Wir nutzen Finanz-Apps zur Ausgaben-Kontrolle.",
-      "icon": "briefcase",
-      "badge": "WOCHE 18 · FREITAG"
+      "badge": "WOCHE 18 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 91,
@@ -822,8 +912,9 @@
       "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
       "fragen": [],
       "hinweis": "Wir planen feste Ferientage für reine Erholung ein.",
-      "icon": "briefcase",
-      "badge": "WOCHE 19 · MONTAG"
+      "badge": "WOCHE 19 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 92,
@@ -831,8 +922,9 @@
       "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
       "fragen": [],
       "hinweis": "Wir nutzen die 2-Stunden-Formel: Höchstens 2 Stunden gezieltes Wiederholen pro Tag.",
-      "icon": "briefcase",
-      "badge": "WOCHE 19 · DIENSTAG"
+      "badge": "WOCHE 19 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 93,
@@ -840,8 +932,9 @@
       "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
       "fragen": [],
       "hinweis": "Wir halten den Rhythmus stabil, um den Neustart nicht zu verschlafen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 19 · MITTWOCH"
+      "badge": "WOCHE 19 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 94,
@@ -849,8 +942,9 @@
       "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
       "fragen": [],
       "hinweis": "Wir machen tägliche Spaziergänge oder Sport im Winter.",
-      "icon": "briefcase",
-      "badge": "WOCHE 19 · DONNERSTAG"
+      "badge": "WOCHE 19 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 95,
@@ -858,8 +952,9 @@
       "anleitung": "Woche 19: Winterferien & Kraft-Tankstelle — Pause machen ohne schlechtes Gewissen – Akkus aufladen.",
       "fragen": [],
       "hinweis": "Wir ordnen Materialien für den Endspurt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 19 · FREITAG"
+      "badge": "WOCHE 19 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 96,
@@ -867,8 +962,9 @@
       "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
       "fragen": [],
       "hinweis": "Wir erstellen einen Wandkalender mit allen Prüfungsterminen und Meilensteinen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 20 · MONTAG"
+      "badge": "WOCHE 20 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 97,
@@ -876,8 +972,9 @@
       "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
       "fragen": [],
       "hinweis": "Wir arbeiten nach dem Prioritäten-Prinzip (A-Themen zuerst, B-Themen danach).",
-      "icon": "briefcase",
-      "badge": "WOCHE 20 · DIENSTAG"
+      "badge": "WOCHE 20 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 98,
@@ -885,8 +982,9 @@
       "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
       "fragen": [],
       "hinweis": "Wir fokussieren uns auf unseren eigenen Lernweg und meiden Panikmacher.",
-      "icon": "briefcase",
-      "badge": "WOCHE 20 · MITTWOCH"
+      "badge": "WOCHE 20 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 99,
@@ -894,8 +992,9 @@
       "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
       "fragen": [],
       "hinweis": "Wir sichern jeden einzelnen Vornoten-Punkt durch aktive Mündlichkeit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 20 · DONNERSTAG"
+      "badge": "WOCHE 20 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 100,
@@ -903,8 +1002,9 @@
       "anleitung": "Woche 20: Der heiße 100-Tage-Countdown zu den Prüfungen — Fokus hochfahren – Der finale Countdown läuft.",
       "fragen": [],
       "hinweis": "Wir nutzen tägliche 15-Minuten-Flashcard-Runden für Altstoff.",
-      "icon": "briefcase",
-      "badge": "WOCHE 20 · FREITAG"
+      "badge": "WOCHE 20 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 101,
@@ -912,8 +1012,9 @@
       "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
       "fragen": [],
       "hinweis": "Wir zitieren jede fremde Idee korrekt mit Fußnote und Literaturverzeichnis.",
-      "icon": "briefcase",
-      "badge": "WOCHE 21 · MONTAG"
+      "badge": "WOCHE 21 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 102,
@@ -921,8 +1022,9 @@
       "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
       "fragen": [],
       "hinweis": "Wir bauen eine klare Struktur: Einleitung, Hauptteil (Theorie/Praxis), Schluss/Fazit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 21 · DIENSTAG"
+      "badge": "WOCHE 21 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 103,
@@ -930,8 +1032,9 @@
       "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
       "fragen": [],
       "hinweis": "Wir nutzen Stichpunkte, anschauliche Grafiken und Modelle.",
-      "icon": "briefcase",
-      "badge": "WOCHE 21 · MITTWOCH"
+      "badge": "WOCHE 21 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 104,
@@ -939,8 +1042,9 @@
       "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
       "fragen": [],
       "hinweis": "Wir stoppen die Zeit beim Üben exakt ab und kürzen Überflüssiges.",
-      "icon": "briefcase",
-      "badge": "WOCHE 21 · DONNERSTAG"
+      "badge": "WOCHE 21 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 105,
@@ -948,8 +1052,9 @@
       "anleitung": "Woche 21: Die Projektarbeit / Facharbeit (Präsentationsprüfung) — Wissenschaftliches Arbeiten im Kleinformat – Deine Facharbeit.",
       "fragen": [],
       "hinweis": "Wir beantworten Fragen sachlich und nutzen Notizen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 21 · FREITAG"
+      "badge": "WOCHE 21 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 106,
@@ -957,8 +1062,9 @@
       "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
       "fragen": [],
       "hinweis": "Wir trainieren die Quadratische Ergänzung und p-q-Formel systematisch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 22 · MONTAG"
+      "badge": "WOCHE 22 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 107,
@@ -966,8 +1072,9 @@
       "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
       "fragen": [],
       "hinweis": "Wir arbeiten mit klaren Dreisatz- und Formel-Schemata.",
-      "icon": "briefcase",
-      "badge": "WOCHE 22 · DIENSTAG"
+      "badge": "WOCHE 22 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 108,
@@ -975,8 +1082,9 @@
       "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
       "fragen": [],
       "hinweis": "Wir nutzen die Pfadregeln (Produktregel, Summenregel) konsequent.",
-      "icon": "briefcase",
-      "badge": "WOCHE 22 · MITTWOCH"
+      "badge": "WOCHE 22 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 109,
@@ -984,8 +1092,9 @@
       "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
       "fragen": [],
       "hinweis": "Wir zeichnen rechtwinklige Dreiecke heraus und beschriften Hypotenuse/Katheten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 22 · DONNERSTAG"
+      "badge": "WOCHE 22 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 110,
@@ -993,8 +1102,9 @@
       "anleitung": "Woche 22: Mathematik-Intensivtraining (ZAP / Quali) — Lineare & Quadratische Funktionen, Geometrie & Stochastik knacken.",
       "fragen": [],
       "hinweis": "Wir prüfen Vorzeichen bei jedem Rechenschritt doppelt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 22 · FREITAG"
+      "badge": "WOCHE 22 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 111,
@@ -1002,8 +1112,9 @@
       "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
       "fragen": [],
       "hinweis": "Wir trennen sachliche Textanalyse streng von der eigenen Stellungnahme.",
-      "icon": "briefcase",
-      "badge": "WOCHE 23 · MONTAG"
+      "badge": "WOCHE 23 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 112,
@@ -1011,8 +1122,9 @@
       "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
       "fragen": [],
       "hinweis": "Wir markieren Stilmittel und beschreiben ihre Wirkung auf den Leser.",
-      "icon": "briefcase",
-      "badge": "WOCHE 23 · DIENSTAG"
+      "badge": "WOCHE 23 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 113,
@@ -1020,8 +1132,9 @@
       "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
       "fragen": [],
       "hinweis": "Wir belegen jede Behauptung mit exakten Textzitaten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 23 · MITTWOCH"
+      "badge": "WOCHE 23 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 114,
@@ -1029,8 +1142,9 @@
       "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
       "fragen": [],
       "hinweis": "Wir nutzen die Duden-Strategie und prüfen Zweifelsfälle im Wörterbuch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 23 · DONNERSTAG"
+      "badge": "WOCHE 23 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 115,
@@ -1038,8 +1152,9 @@
       "anleitung": "Woche 23: Deutsch-Intensivtraining (Sachtextanalyse & Grammatik) — Sachtexte dekonstruieren – Textgebundene Erörterung meistern.",
       "fragen": [],
       "hinweis": "Wir achten auf eine saubere, gut lesbare Handschrift.",
-      "icon": "briefcase",
-      "badge": "WOCHE 23 · FREITAG"
+      "badge": "WOCHE 23 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 116,
@@ -1047,8 +1162,9 @@
       "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir hören weiter zu: Der Gesamtzusammenhang liefert meist die Antwort.",
-      "icon": "briefcase",
-      "badge": "WOCHE 24 · MONTAG"
+      "badge": "WOCHE 24 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 117,
@@ -1056,8 +1172,9 @@
       "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir lesen IMMER erst die Fragen, um gezielt nach Antworten im Text zu suchen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 24 · DIENSTAG"
+      "badge": "WOCHE 24 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 118,
@@ -1065,8 +1182,9 @@
       "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir lernen die 20 häufigsten False Friends gezielt auswendig.",
-      "icon": "briefcase",
-      "badge": "WOCHE 24 · MITTWOCH"
+      "badge": "WOCHE 24 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 119,
@@ -1074,8 +1192,9 @@
       "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir nutzen Linking Words (however, furthermore, in addition) für gehobenen Ausdruck.",
-      "icon": "briefcase",
-      "badge": "WOCHE 24 · DONNERSTAG"
+      "badge": "WOCHE 24 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 120,
@@ -1083,8 +1202,9 @@
       "anleitung": "Woche 24: Fremdsprachen-Intensivtraining (Listening & Reading) — Listening & Reading Comprehension – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir wiederholen den Backshift of Tenses systematisch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 24 · FREITAG"
+      "badge": "WOCHE 24 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 121,
@@ -1092,8 +1212,9 @@
       "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
       "fragen": [],
       "hinweis": "Wir nutzen tägliche 30-Minuten-Sport-Einheiten zum Stressabbau.",
-      "icon": "briefcase",
-      "badge": "WOCHE 25 · MONTAG"
+      "badge": "WOCHE 25 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 122,
@@ -1101,8 +1222,9 @@
       "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
       "fragen": [],
       "hinweis": "Wir versorgen das Gehirn mit Brainfood (Nüsse, Beeren, Vollkorn, Fisch/Hülsenfrüchte).",
-      "icon": "briefcase",
-      "badge": "WOCHE 25 · DIENSTAG"
+      "badge": "WOCHE 25 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 123,
@@ -1110,8 +1232,9 @@
       "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
       "fragen": [],
       "hinweis": "Wir nutzen Atemtechniken und schreiben Sorgen vor dem Schlafengehen auf.",
-      "icon": "briefcase",
-      "badge": "WOCHE 25 · MITTWOCH"
+      "badge": "WOCHE 25 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 124,
@@ -1119,8 +1242,9 @@
       "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
       "fragen": [],
       "hinweis": "Wir trinken 2 Liter Wasser am Tag für optimale Gehirnleistung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 25 · DONNERSTAG"
+      "badge": "WOCHE 25 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 125,
@@ -1128,8 +1252,9 @@
       "anleitung": "Woche 25: Mentale Gesundheit & Prüfungs-Stress-Abbau — Gesunder Geist im gesunden Körper – Anti-Burnout im Abschlussjahr.",
       "fragen": [],
       "hinweis": "Wir achten auf unsere eigenen Grenzen und machen Pausen ohne Reue.",
-      "icon": "briefcase",
-      "badge": "WOCHE 25 · FREITAG"
+      "badge": "WOCHE 25 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 126,
@@ -1137,8 +1262,9 @@
       "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
       "fragen": [],
       "hinweis": "Wir nutzen das Praktikum als direkte Tür zum Ausbildungsvertrag.",
-      "icon": "briefcase",
-      "badge": "WOCHE 26 · MONTAG"
+      "badge": "WOCHE 26 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 127,
@@ -1146,8 +1272,9 @@
       "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
       "fragen": [],
       "hinweis": "Wir zeigen berufliche Haltung, Höflichkeit und Arbeitsdisziplin.",
-      "icon": "briefcase",
-      "badge": "WOCHE 26 · DIENSTAG"
+      "badge": "WOCHE 26 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 128,
@@ -1155,8 +1282,9 @@
       "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
       "fragen": [],
       "hinweis": "Wir führen am vorletzten Tag ein Abschlussgespräch: 'Wie schätzen Sie meine Chancen ein?'",
-      "icon": "briefcase",
-      "badge": "WOCHE 26 · MITTWOCH"
+      "badge": "WOCHE 26 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 129,
@@ -1164,8 +1292,9 @@
       "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
       "fragen": [],
       "hinweis": "Wir bitten um ein qualifiziertes Zeugnis für unsere Bewerbungsmappe.",
-      "icon": "briefcase",
-      "badge": "WOCHE 26 · DONNERSTAG"
+      "badge": "WOCHE 26 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 130,
@@ -1173,8 +1302,9 @@
       "anleitung": "Woche 26: Zweites Betriebspraktikum / Praxistage — Praxiserfahrung vertiefen – Den Ausbildungsvertrag sichern.",
       "fragen": [],
       "hinweis": "Wir bedanken uns per Mail und halten den Kontakt für spätere Bewerbungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 26 · FREITAG"
+      "badge": "WOCHE 26 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 131,
@@ -1182,8 +1312,9 @@
       "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
       "fragen": [],
       "hinweis": "Wir bewerben uns parallel an Berufskollegs, FOS und für Ausbildungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 27 · MONTAG"
+      "badge": "WOCHE 27 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 132,
@@ -1191,8 +1322,9 @@
       "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
       "fragen": [],
       "hinweis": "Wir reichen Anmeldeunterlagen überpünktlich vor den Fristen ein.",
-      "icon": "briefcase",
-      "badge": "WOCHE 27 · DIENSTAG"
+      "badge": "WOCHE 27 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 133,
@@ -1200,8 +1332,9 @@
       "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
       "fragen": [],
       "hinweis": "Wir informieren uns über Profile (Technik, Wirtschaft, Gesundheit, Soziales).",
-      "icon": "briefcase",
-      "badge": "WOCHE 27 · MITTWOCH"
+      "badge": "WOCHE 27 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 134,
@@ -1209,8 +1342,9 @@
       "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
       "fragen": [],
       "hinweis": "Wir nutzen Förderkurse zum Schließen von Grundlagenlücken.",
-      "icon": "briefcase",
-      "badge": "WOCHE 27 · DONNERSTAG"
+      "badge": "WOCHE 27 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 135,
@@ -1218,8 +1352,9 @@
       "anleitung": "Woche 27: Schulformen nach der Sek I (FOS, Gymnasiale Oberstufe, Berufskolleg) — Alternative Wege kennen – Welcher Schritt folgt nach Klasse 10?",
       "fragen": [],
       "hinweis": "Wir nutzen Nachrückverfahren und Beratungsangebote der Agentur für Arbeit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 27 · FREITAG"
+      "badge": "WOCHE 27 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 136,
@@ -1227,8 +1362,9 @@
       "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
       "fragen": [],
       "hinweis": "Wir nutzen KI als Tutor: 'Erkläre mir die p-q-Formel wie einem 14-Jährigen.'",
-      "icon": "briefcase",
-      "badge": "WOCHE 28 · MONTAG"
+      "badge": "WOCHE 28 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 137,
@@ -1236,8 +1372,9 @@
       "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
       "fragen": [],
       "hinweis": "Wir prüfen KI-Antworten immer mit Schulbüchern und seriösen Quellen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 28 · DIENSTAG"
+      "badge": "WOCHE 28 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 138,
@@ -1245,8 +1382,9 @@
       "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
       "fragen": [],
       "hinweis": "Wir wissen: Täuschung führt zum Nichtbestehen – eigene Leistung zählt!",
-      "icon": "briefcase",
-      "badge": "WOCHE 28 · MITTWOCH"
+      "badge": "WOCHE 28 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 139,
@@ -1254,8 +1392,9 @@
       "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
       "fragen": [],
       "hinweis": "Wir setzen Lern-Apps gezielt für Abfragen und Kartensysteme ein.",
-      "icon": "briefcase",
-      "badge": "WOCHE 28 · DONNERSTAG"
+      "badge": "WOCHE 28 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 140,
@@ -1263,8 +1402,9 @@
       "anleitung": "Woche 28: Medienkompetenz & KI-Tools beim Lernen — KI als Lern-Assistent nutzen – Nicht als Abschreib-Werkzeug.",
       "fragen": [],
       "hinweis": "Wir nutzen Fokus-Timer beim digitalen Lernen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 28 · FREITAG"
+      "badge": "WOCHE 28 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 141,
@@ -1272,8 +1412,9 @@
       "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
       "fragen": [],
       "hinweis": "Wir erstellen einen ausgewogenen Ferien-Lernplan (2 Std. Lernen am Vormittag).",
-      "icon": "briefcase",
-      "badge": "WOCHE 29 · MONTAG"
+      "badge": "WOCHE 29 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 142,
@@ -1281,8 +1422,9 @@
       "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
       "fragen": [],
       "hinweis": "Wir fokussieren uns auf 3 konkrete Haupt-Schwachstellen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 29 · DIENSTAG"
+      "badge": "WOCHE 29 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 143,
@@ -1290,8 +1432,9 @@
       "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
       "fragen": [],
       "hinweis": "Wir rechnen echte Abschlussprüfungen der letzten Jahre auf Zeit durch.",
-      "icon": "briefcase",
-      "badge": "WOCHE 29 · MITTWOCH"
+      "badge": "WOCHE 29 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 144,
@@ -1299,8 +1442,9 @@
       "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
       "fragen": [],
       "hinweis": "Wir halten die Feiertage (Karfreitag/Ostersonntag) komplett lernfrei.",
-      "icon": "briefcase",
-      "badge": "WOCHE 29 · DONNERSTAG"
+      "badge": "WOCHE 29 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 145,
@@ -1308,8 +1452,9 @@
       "anleitung": "Woche 29: Vorbereitung Osterferien-Lerncamp — Ostern nutzen – Der finale Feinschliff vor den Prüfungen.",
       "fragen": [],
       "hinweis": "Wir gehen gut vorbereitet und mit klarem Kopf in den Mai.",
-      "icon": "briefcase",
-      "badge": "WOCHE 29 · FREITAG"
+      "badge": "WOCHE 29 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 146,
@@ -1317,8 +1462,9 @@
       "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
       "fragen": [],
       "hinweis": "Wir sind 20 Minuten vor Beginn an der Schule und haben alles dabei.",
-      "icon": "briefcase",
-      "badge": "WOCHE 30 · MONTAG"
+      "badge": "WOCHE 30 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 147,
@@ -1326,8 +1472,9 @@
       "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
       "fragen": [],
       "hinweis": "Wir meiden Panik-Gruppen vor dem Prüfungsraum und bleiben bei uns.",
-      "icon": "briefcase",
-      "badge": "WOCHE 30 · DIENSTAG"
+      "badge": "WOCHE 30 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 148,
@@ -1335,8 +1482,9 @@
       "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
       "fragen": [],
       "hinweis": "Wir lesen Aufgabenstellungen zweimal durch und unterstreichen Operatoren.",
-      "icon": "briefcase",
-      "badge": "WOCHE 30 · MITTWOCH"
+      "badge": "WOCHE 30 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 149,
@@ -1344,8 +1492,9 @@
       "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
       "fragen": [],
       "hinweis": "Wir überspringen schwere Aufgaben vorerst und holen sie am Ende nach.",
-      "icon": "briefcase",
-      "badge": "WOCHE 30 · DONNERSTAG"
+      "badge": "WOCHE 30 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 150,
@@ -1353,8 +1502,9 @@
       "anleitung": "Woche 30: Die schriftlichen Hauptprüfungen (ZAP / Quali-Showdown) — Prüfungs-Tag – Ruhe bewahren und Leistung abrufen.",
       "fragen": [],
       "hinweis": "Wir haken die geschriebene Prüfung ab und fokussieren das nächste Fach.",
-      "icon": "briefcase",
-      "badge": "WOCHE 30 · FREITAG"
+      "badge": "WOCHE 30 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 151,
@@ -1362,8 +1512,9 @@
       "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir nutzen die Vorbereitungszeit intensiver denn je.",
-      "icon": "briefcase",
-      "badge": "WOCHE 31 · MONTAG"
+      "badge": "WOCHE 31 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 152,
@@ -1371,8 +1522,9 @@
       "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir gliedern den Vortrag auf dem Vorbereitungsblatt strukturiert.",
-      "icon": "briefcase",
-      "badge": "WOCHE 31 · DIENSTAG"
+      "badge": "WOCHE 31 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 153,
@@ -1380,8 +1532,9 @@
       "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir sprechen frei, aufrecht und mit klarer Stimme.",
-      "icon": "briefcase",
-      "badge": "WOCHE 31 · MITTWOCH"
+      "badge": "WOCHE 31 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 154,
@@ -1389,8 +1542,9 @@
       "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir sagen ehrlich: 'Dazu fällt mir gerade nichts ein, aber zu Thema X weiß ich...'",
-      "icon": "briefcase",
-      "badge": "WOCHE 31 · DONNERSTAG"
+      "badge": "WOCHE 31 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 155,
@@ -1398,8 +1552,9 @@
       "anleitung": "Woche 31: Mündliche Prüfungsphase & Nachprüfungen — Mündliche Prüfung meistern – Punkte sichern.",
       "fragen": [],
       "hinweis": "Wir wahren Haltung und Professionalität bis zum Verlassen des Raums.",
-      "icon": "briefcase",
-      "badge": "WOCHE 31 · FREITAG"
+      "badge": "WOCHE 31 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 156,
@@ -1407,8 +1562,9 @@
       "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
       "fragen": [],
       "hinweis": "Wir prüfen Gehalt, Urlaubsanspruch, Arbeitszeiten und Probezeit mit Eltern.",
-      "icon": "briefcase",
-      "badge": "WOCHE 32 · MONTAG"
+      "badge": "WOCHE 32 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 157,
@@ -1416,8 +1572,9 @@
       "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
       "fragen": [],
       "hinweis": "Wir kennen die Regeln: Pünktlichkeit, Nachweise bei Krankheit ab Tag 1, Berichtsheft.",
-      "icon": "briefcase",
-      "badge": "WOCHE 32 · DIENSTAG"
+      "badge": "WOCHE 32 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 158,
@@ -1425,8 +1582,9 @@
       "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
       "fragen": [],
       "hinweis": "Wir zeigen in der Probezeit vollen Einsatz, Verlässlichkeit und Höflichkeit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 32 · MITTWOCH"
+      "badge": "WOCHE 32 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 159,
@@ -1434,8 +1592,9 @@
       "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
       "fragen": [],
       "hinweis": "Wir machen rechtzeitig den Termin beim Arzt für die Bescheinigung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 32 · DONNERSTAG"
+      "badge": "WOCHE 32 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 160,
@@ -1443,8 +1602,9 @@
       "anleitung": "Woche 32: Ausbildungsvertrags-TÜV & Rechte in der Probezeit — Der Ausbildungsvertrag – Deine Rechte und Pflichten als Azubi.",
       "fragen": [],
       "hinweis": "Wir sichern die fristgerechte Anmeldung mit dem Ausbildungsbetrieb.",
-      "icon": "briefcase",
-      "badge": "WOCHE 32 · FREITAG"
+      "badge": "WOCHE 32 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 161,
@@ -1452,8 +1612,9 @@
       "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
       "fragen": [],
       "hinweis": "Wir stimmen demokratisch ab und akzeptieren den Mehrheitsentscheid.",
-      "icon": "briefcase",
-      "badge": "WOCHE 33 · MONTAG"
+      "badge": "WOCHE 33 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 162,
@@ -1461,8 +1622,9 @@
       "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
       "fragen": [],
       "hinweis": "Wir achten auf Humor mit Wertschätzung – keine Beleidigungen!",
-      "icon": "briefcase",
-      "badge": "WOCHE 33 · DIENSTAG"
+      "badge": "WOCHE 33 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 163,
@@ -1470,8 +1632,9 @@
       "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
       "fragen": [],
       "hinweis": "Wir übernehmen Verantwortung im Organisationsteam.",
-      "icon": "briefcase",
-      "badge": "WOCHE 33 · MITTWOCH"
+      "badge": "WOCHE 33 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 164,
@@ -1479,8 +1642,9 @@
       "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
       "fragen": [],
       "hinweis": "Wir feiern friedlich, kreativ und ohne Sachbeschädigung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 33 · DONNERSTAG"
+      "badge": "WOCHE 33 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 165,
@@ -1488,8 +1652,9 @@
       "anleitung": "Woche 33: Projektwoche, Abschlusszeitung & Abschiedsfeier — Gemeinschaft feiern – Einen würdigen Abschluss gestalten.",
       "fragen": [],
       "hinweis": "Wir feiern die Gemeinschaft: Alle gehören dazu.",
-      "icon": "briefcase",
-      "badge": "WOCHE 33 · FREITAG"
+      "badge": "WOCHE 33 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 166,
@@ -1497,8 +1662,9 @@
       "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
       "fragen": [],
       "hinweis": "Wir kalkulieren echte Lebenshaltungskosten (Miete, Strom, Essen, BAföG/BAB, Versicherungen).",
-      "icon": "briefcase",
-      "badge": "WOCHE 34 · MONTAG"
+      "badge": "WOCHE 34 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 167,
@@ -1506,8 +1672,9 @@
       "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
       "fragen": [],
       "hinweis": "Wir lernen Grundlagen von Mietverträgen und Nebenkosten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 34 · DIENSTAG"
+      "badge": "WOCHE 34 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 168,
@@ -1515,8 +1682,9 @@
       "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
       "fragen": [],
       "hinweis": "Wir informieren uns frühzeitig über finanzielle Aufstockungs-Möglichkeiten.",
-      "icon": "briefcase",
-      "badge": "WOCHE 34 · MITTWOCH"
+      "badge": "WOCHE 34 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 169,
@@ -1524,8 +1692,9 @@
       "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
       "fragen": [],
       "hinweis": "Wir eröffnen ein kostenloses Jugend-Girokonto für das Gehalt.",
-      "icon": "briefcase",
-      "badge": "WOCHE 34 · DONNERSTAG"
+      "badge": "WOCHE 34 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 170,
@@ -1533,8 +1702,9 @@
       "anleitung": "Woche 34: Wohnungs- & Budget-Check (Zukunftskompass) — Erste eigene Schritte – Kosten im Griff behalten.",
       "fragen": [],
       "hinweis": "Wir lernen einfaches, gesundes Kochen statt täglichem Lieferservice.",
-      "icon": "briefcase",
-      "badge": "WOCHE 34 · FREITAG"
+      "badge": "WOCHE 34 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 171,
@@ -1542,8 +1712,9 @@
       "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
       "fragen": [],
       "hinweis": "Wir prüfen Bücher rechtzeitig, reparieren Schäden und radieren Notizen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 35 · MONTAG"
+      "badge": "WOCHE 35 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 172,
@@ -1551,8 +1722,9 @@
       "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
       "fragen": [],
       "hinweis": "Wir leeren alle Fächer lückenlos aus und reinigen die Flächen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 35 · DIENSTAG"
+      "badge": "WOCHE 35 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 173,
@@ -1560,8 +1732,9 @@
       "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
       "fragen": [],
       "hinweis": "Wir ordnen wichtige Unterlagen für spätere Prüfungen/FOS in Ordnern.",
-      "icon": "briefcase",
-      "badge": "WOCHE 35 · MITTWOCH"
+      "badge": "WOCHE 35 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 174,
@@ -1569,8 +1742,9 @@
       "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
       "fragen": [],
       "hinweis": "Wir geben digitale Leihgeräte vollständig mit Zubehör ab.",
-      "icon": "briefcase",
-      "badge": "WOCHE 35 · DONNERSTAG"
+      "badge": "WOCHE 35 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 175,
@@ -1578,8 +1752,9 @@
       "anleitung": "Woche 35: Schulbuch-Rückgabe & Entlastung — Klar Schiff machen – Schulmaterialien ordnen.",
       "fragen": [],
       "hinweis": "Wir übergeben den Raum sauber an die Schule.",
-      "icon": "briefcase",
-      "badge": "WOCHE 35 · FREITAG"
+      "badge": "WOCHE 35 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 176,
@@ -1587,8 +1762,9 @@
       "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
       "fragen": [],
       "hinweis": "Wir vergleichen alte Logbucheinträge mit unserem heutigen Mindset.",
-      "icon": "briefcase",
-      "badge": "WOCHE 36 · MONTAG"
+      "badge": "WOCHE 36 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 177,
@@ -1596,8 +1772,9 @@
       "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
       "fragen": [],
       "hinweis": "Wir listen 5 persönliche Stärken auf, die wir in den letzten Jahren entwickelt haben.",
-      "icon": "briefcase",
-      "badge": "WOCHE 36 · DIENSTAG"
+      "badge": "WOCHE 36 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 178,
@@ -1605,8 +1782,9 @@
       "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
       "fragen": [],
       "hinweis": "Wir schreiben persönliche Dankeskarten an wichtige Begleiter.",
-      "icon": "briefcase",
-      "badge": "WOCHE 36 · MITTWOCH"
+      "badge": "WOCHE 36 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 179,
@@ -1614,8 +1792,9 @@
       "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
       "fragen": [],
       "hinweis": "Wir vertrauen auf unsere Bewältigungs-Erfahrungen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 36 · DONNERSTAG"
+      "badge": "WOCHE 36 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 180,
@@ -1623,8 +1802,9 @@
       "anleitung": "Woche 36: Der finale Zukunfts-Schatz (Portfolio-Abschluss) — Rückblick auf deine Reise – Vom Teenager zum jungen Erwachsenen.",
       "fragen": [],
       "hinweis": "Wir feiern unseren individuellen Weg und unsere Erfolge.",
-      "icon": "briefcase",
-      "badge": "WOCHE 36 · FREITAG"
+      "badge": "WOCHE 36 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 181,
@@ -1632,8 +1812,9 @@
       "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
       "fragen": [],
       "hinweis": "Wir halten Absprachen ein und gestalten die Feier aktiv mit.",
-      "icon": "briefcase",
-      "badge": "WOCHE 37 · MONTAG"
+      "badge": "WOCHE 37 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 182,
@@ -1641,8 +1822,9 @@
       "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
       "fragen": [],
       "hinweis": "Wir üben Haltung, Händedruck und Dank gegenüber der Schulleitung.",
-      "icon": "briefcase",
-      "badge": "WOCHE 37 · DIENSTAG"
+      "badge": "WOCHE 37 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 183,
@@ -1650,8 +1832,9 @@
       "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
       "fragen": [],
       "hinweis": "Wir bereiten saubere, festliche Kleidung für die Feier vor.",
-      "icon": "briefcase",
-      "badge": "WOCHE 37 · MITTWOCH"
+      "badge": "WOCHE 37 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 184,
@@ -1659,8 +1842,9 @@
       "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
       "fragen": [],
       "hinweis": "Wir übergeben Einladungskarten rechtzeitig an unsere Angehörigen.",
-      "icon": "briefcase",
-      "badge": "WOCHE 37 · DONNERSTAG"
+      "badge": "WOCHE 37 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 185,
@@ -1668,8 +1852,9 @@
       "anleitung": "Woche 37: Entlassfeier-Probe & Zeugnis-Vorbereitung — Souverän auf der Bühne – Dein großer Tag rückt näher.",
       "fragen": [],
       "hinweis": "Wir schlafen ausreichend für einen unvergesslichen Festtag.",
-      "icon": "briefcase",
-      "badge": "WOCHE 37 · FREITAG"
+      "badge": "WOCHE 37 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 186,
@@ -1677,8 +1862,9 @@
       "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
       "fragen": [],
       "hinweis": "Wir genießen den Festakt, nehmen unser Zeugnis stolz entgegen und feiern mit Familie & Freunden.",
-      "icon": "briefcase",
-      "badge": "WOCHE 38 · MONTAG"
+      "badge": "WOCHE 38 · MONTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 187,
@@ -1686,8 +1872,9 @@
       "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
       "fragen": [],
       "hinweis": "Wir freuen uns für jeden Mitschüler und seinen individuellen Weg.",
-      "icon": "briefcase",
-      "badge": "WOCHE 38 · DIENSTAG"
+      "badge": "WOCHE 38 · DIENSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 188,
@@ -1695,8 +1882,9 @@
       "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
       "fragen": [],
       "hinweis": "Wir nehmen uns Zeit für persönliche Abschiede und Erinnerungsfotos.",
-      "icon": "briefcase",
-      "badge": "WOCHE 38 · MITTWOCH"
+      "badge": "WOCHE 38 · MITTWOCH",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 189,
@@ -1704,8 +1892,9 @@
       "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
       "fragen": [],
       "hinweis": "Wir blicken voller Vorfreude auf die kommenden Aufgaben in Ausbildung oder FOS.",
-      "icon": "briefcase",
-      "badge": "WOCHE 38 · DONNERSTAG"
+      "badge": "WOCHE 38 · DONNERSTAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 190,
@@ -1713,8 +1902,9 @@
       "anleitung": "Woche 38: Offizielle Zeugnisübergabe & Start in die Zukunft — Abschlusszeugnis in der Hand – Die Zukunft gehört dir!",
       "fragen": [],
       "hinweis": "Wir feiern den erreichten Meilenstein: Du hast deine Sek-I-Zeit erfolgreich gemeistert – Herzlichen Glückwunsch!",
-      "icon": "briefcase",
-      "badge": "WOCHE 38 · FREITAG"
+      "badge": "WOCHE 38 · FREITAG",
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     }
   ]
 }

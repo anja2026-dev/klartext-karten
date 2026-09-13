@@ -13,7 +13,8 @@
       "fragen": [],
       "hinweis": "Wir wandeln Standardaufgaben in eine mathematische Formel-Erfinder-Werkstatt um.",
       "badge": "WOCHE 1 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 2,
@@ -22,7 +23,8 @@
       "fragen": [],
       "hinweis": "Wir entwickeln leise ein eigenes Modell mit 'hoher Decke' und höherer Abstraktionsstufe.",
       "badge": "WOCHE 1 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 3,
@@ -31,7 +33,8 @@
       "fragen": [],
       "hinweis": "Wir formulieren präzise Experten-Hypothesen und erforschen Spezialliteratur.",
       "badge": "WOCHE 1 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 4,
@@ -40,7 +43,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen den Enrichment-Joker und erarbeiten ein fächerübergreifendes Phänomen.",
       "badge": "WOCHE 1 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 5,
@@ -49,7 +53,8 @@
       "fragen": [],
       "hinweis": "Wir halten 3 persönliche Aha-Erkenntnisse im Forschertagebuch fest.",
       "badge": "WOCHE 1 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 6,
@@ -58,7 +63,8 @@
       "fragen": [],
       "hinweis": "Wir suchen nach Symmetrien, Fibonacci-Mustern oder Quersummen-Regeln.",
       "badge": "WOCHE 2 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 7,
@@ -67,7 +73,8 @@
       "fragen": [],
       "hinweis": "Wir erfinden ein eigenes Verschlüsselungssystem auf Binär- oder Hexadezimal-Basis.",
       "badge": "WOCHE 2 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 8,
@@ -76,7 +83,8 @@
       "fragen": [],
       "hinweis": "Wir dokumentieren den mathematischen Beweis so, dass ihn ein Roboter verstehen könnte.",
       "badge": "WOCHE 2 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 9,
@@ -85,7 +93,8 @@
       "fragen": [],
       "hinweis": "Wir genießen die kognitiven Hürden als Gehirn-Krafttraining.",
       "badge": "WOCHE 2 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 10,
@@ -94,7 +103,8 @@
       "fragen": [],
       "hinweis": "Wir erklären als Junior-Coach geduldig die Bündelungs-Logik.",
       "badge": "WOCHE 2 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 11,
@@ -103,7 +113,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Metaphern, Wortneuschöpfungen und ironische Zwischentöne.",
       "badge": "WOCHE 3 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 12,
@@ -112,7 +123,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Sprachwandel und Dialekte linguistisch im Forschungsteam.",
       "badge": "WOCHE 3 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 13,
@@ -121,7 +133,8 @@
       "fragen": [],
       "hinweis": "Wir dekonstruieren die Subtexte und Doppelbödigkeiten der Erzählung.",
       "badge": "WOCHE 3 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 14,
@@ -130,7 +143,8 @@
       "fragen": [],
       "hinweis": "Wir konstruieren eine Kunstsprache mit eigenen Grammatik-Regeln.",
       "badge": "WOCHE 3 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 15,
@@ -139,7 +153,8 @@
       "fragen": [],
       "hinweis": "Wir betrachten Rechtschreibung als historisches Zeichensystem.",
       "badge": "WOCHE 3 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 16,
@@ -148,7 +163,8 @@
       "fragen": [],
       "hinweis": "Wir suchen gezielt nach wissenschaftlichen Ausnahmen und Systemgrenzen.",
       "badge": "WOCHE 4 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 17,
@@ -157,7 +173,8 @@
       "fragen": [],
       "hinweis": "Wir feiern unerwartete Abweichungen als Ausgangspunkt für Entdeckungen.",
       "badge": "WOCHE 4 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 18,
@@ -166,7 +183,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen 3 unabhängige wissenschaftliche Quellen auf Quellenkritik.",
       "badge": "WOCHE 4 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 19,
@@ -175,7 +193,8 @@
       "fragen": [],
       "hinweis": "Wir testen Tragfähigkeit und Strömungswiderstände experimentell.",
       "badge": "WOCHE 4 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 20,
@@ -184,7 +203,8 @@
       "fragen": [],
       "hinweis": "Wir inszenieren die Präsentation als interaktives Wissenschafts-Labor.",
       "badge": "WOCHE 4 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 21,
@@ -193,7 +213,8 @@
       "fragen": [],
       "hinweis": "Wir bringen komplexe Strategiespiele (z. B. Schach/Klask) in die Pause ein.",
       "badge": "WOCHE 5 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 22,
@@ -202,7 +223,8 @@
       "fragen": [],
       "hinweis": "Wir schätzen emotionale Stärken, Kreativität und Humor im Team.",
       "badge": "WOCHE 5 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 23,
@@ -211,7 +233,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen zirkuläre Fragen, um allen Teammitgliedern Raum zu geben.",
       "badge": "WOCHE 5 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 24,
@@ -220,7 +243,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Zeit zur didaktischen Aufbereitung von Zwischenschritten.",
       "badge": "WOCHE 5 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 25,
@@ -229,7 +253,8 @@
       "fragen": [],
       "hinweis": "Wir stehen zu unseren Interessen und kommunizieren auf Augenhöhe.",
       "badge": "WOCHE 5 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 26,
@@ -238,7 +263,8 @@
       "fragen": [],
       "hinweis": "Wir dekonstruieren Halluzinationen von Sprachmodellen systematisch.",
       "badge": "WOCHE 6 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 27,
@@ -247,7 +273,8 @@
       "fragen": [],
       "hinweis": "Wir prüfen Lizenzrechte und Zitierregeln nach wissenschaftlichem Standard.",
       "badge": "WOCHE 6 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 28,
@@ -256,7 +283,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Artefakte, Lichtbrechungen und Metadaten digitaler Medien.",
       "badge": "WOCHE 6 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 29,
@@ -265,7 +293,8 @@
       "fragen": [],
       "hinweis": "Wir erstellen einen Kriterienkatalog zur Verifikation von Quellen.",
       "badge": "WOCHE 6 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 30,
@@ -274,7 +303,8 @@
       "fragen": [],
       "hinweis": "Wir programmieren eigene Skripte zur Automatisierung von Mathe-Rätseln.",
       "badge": "WOCHE 6 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 31,
@@ -283,7 +313,8 @@
       "fragen": [],
       "hinweis": "Wir betrachten die 'schiefe Linie' als Ausgangspunkt für ein Kunstwerk.",
       "badge": "WOCHE 7 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 32,
@@ -292,7 +323,8 @@
       "fragen": [],
       "hinweis": "Wir genießen das Tetralemma der Optionen (Beides, Keines, Etwas Drittes).",
       "badge": "WOCHE 7 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 33,
@@ -301,7 +333,8 @@
       "fragen": [],
       "hinweis": "Wir setzen auf den 'Prototypen-Status': Besser fertig als perfekt.",
       "badge": "WOCHE 7 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 34,
@@ -310,7 +343,8 @@
       "fragen": [],
       "hinweis": "Wir strukturieren den Raum durch eigene Mindmaps und Leitfragen.",
       "badge": "WOCHE 7 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 35,
@@ -319,7 +353,8 @@
       "fragen": [],
       "hinweis": "Wir trennen unseren Selbstwert vollkommen von Notenpunkten.",
       "badge": "WOCHE 7 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 36,
@@ -328,7 +363,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen die mathematische Harmonie von Frequenzen und Tonleitern.",
       "badge": "WOCHE 8 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 37,
@@ -337,7 +373,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren den Einfluss von Epidemien auf historische Epochen.",
       "badge": "WOCHE 8 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 38,
@@ -346,7 +383,8 @@
       "fragen": [],
       "hinweis": "Wir diskutieren quantenmechanische Paradoxien und Raum-Zeit-Fragen.",
       "badge": "WOCHE 8 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 39,
@@ -355,7 +393,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Fluchtpunkte und den Goldenen Schnitt für Bildaufbauten.",
       "badge": "WOCHE 8 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 40,
@@ -364,7 +403,8 @@
       "fragen": [],
       "hinweis": "Wir bauen Brücken zu Inhalten höherer Jahrgangsstufen.",
       "badge": "WOCHE 8 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 41,
@@ -373,7 +413,8 @@
       "fragen": [],
       "hinweis": "Wir bauen versteckte mathematische Widersprüche in Aufgaben ein.",
       "badge": "WOCHE 9 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 42,
@@ -382,7 +423,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren, WARUM das Rätsel logisch nicht lösbar sein KANN.",
       "badge": "WOCHE 9 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 43,
@@ -391,7 +433,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen Grenzen der formalen Logik mit Freude am Denken.",
       "badge": "WOCHE 9 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 44,
@@ -400,7 +443,8 @@
       "fragen": [],
       "hinweis": "Wir wenden die Kopfstand-Methode auf unlösbare Dilemmata an.",
       "badge": "WOCHE 9 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 45,
@@ -409,7 +453,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen eine Wochenend-Forschungsfrage zum Tüfteln mit.",
       "badge": "WOCHE 9 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 46,
@@ -418,7 +463,8 @@
       "fragen": [],
       "hinweis": "Wir strukturieren unsere Langzeit-Forschung in einem Portfolio.",
       "badge": "WOCHE 10 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 47,
@@ -427,7 +473,8 @@
       "fragen": [],
       "hinweis": "Wir stehen zu unserer Leidenschaft für Astrophysik, Schach oder Altgriechisch.",
       "badge": "WOCHE 10 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 48,
@@ -436,7 +483,8 @@
       "fragen": [],
       "hinweis": "Wir prüfen Fristen für Schüler-Stipendien und Olympiaden.",
       "badge": "WOCHE 10 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 49,
@@ -445,7 +493,8 @@
       "fragen": [],
       "hinweis": "Wir senden unseren Mentoren eine Rückmeldung zu Forschungsschritten.",
       "badge": "WOCHE 10 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 50,
@@ -454,7 +503,8 @@
       "fragen": [],
       "hinweis": "Wir formulieren die Ziel-Pyramide für das kommende Quartal.",
       "badge": "WOCHE 10 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 51,
@@ -463,7 +513,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen die mathematische Selbstähnlichkeit von Mandelbrot-Mengen.",
       "badge": "WOCHE 11 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 52,
@@ -472,7 +523,8 @@
       "fragen": [],
       "hinweis": "Wir simulieren kleine Ursachen mit großen Kettenreaktionen.",
       "badge": "WOCHE 11 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 53,
@@ -481,7 +533,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen das Ziegen-Problem (Monty Hall) zur Logik-Schärfung.",
       "badge": "WOCHE 11 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 54,
@@ -490,7 +543,8 @@
       "fragen": [],
       "hinweis": "Wir entlarven fehlerhafte statistische Fehlschlüsse kritisch.",
       "badge": "WOCHE 11 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 55,
@@ -499,7 +553,8 @@
       "fragen": [],
       "hinweis": "Wir erstellen Infografiken zur anschaulichen Vermittlung.",
       "badge": "WOCHE 11 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 56,
@@ -508,7 +563,8 @@
       "fragen": [],
       "hinweis": "Wir fertigen leise eine Skizze zur historischen Tiefen-Ebene an.",
       "badge": "WOCHE 12 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 57,
@@ -517,7 +573,8 @@
       "fragen": [],
       "hinweis": "Wir notieren offene Fragen für das spätere Experten-Gespräch.",
       "badge": "WOCHE 12 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 58,
@@ -526,7 +583,8 @@
       "fragen": [],
       "hinweis": "Wir erledigen Aufgaben in Rekordzeit und nutzen den Zeitgewinn für Forschung.",
       "badge": "WOCHE 12 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 59,
@@ -535,7 +593,8 @@
       "fragen": [],
       "hinweis": "Wir suchen das konstruktive Gespräch mit Vertrauenslehrkräften.",
       "badge": "WOCHE 12 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 60,
@@ -544,7 +603,8 @@
       "fragen": [],
       "hinweis": "Wir sichern Top-Noten mit Minimalaufwand, um Freiräume zu wahren.",
       "badge": "WOCHE 12 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 61,
@@ -553,7 +613,8 @@
       "fragen": [],
       "hinweis": "Wir schreiben Pseudocode für Sortier-Algorithmen (BubbleSort/QuickSort).",
       "badge": "WOCHE 13 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 62,
@@ -562,7 +623,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Debugging als detektivische Spurensuche.",
       "badge": "WOCHE 13 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 63,
@@ -571,7 +633,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen O(n)- und O(log n)-Laufzeiten.",
       "badge": "WOCHE 13 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 64,
@@ -580,7 +643,8 @@
       "fragen": [],
       "hinweis": "Wir modellieren Klassen, Vererbung und Schnittstellen sauber.",
       "badge": "WOCHE 13 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 65,
@@ -589,7 +653,8 @@
       "fragen": [],
       "hinweis": "Wir dokumentieren Code so, dass er Open-Source-Standards entspricht.",
       "badge": "WOCHE 13 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 66,
@@ -598,7 +663,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren das Trolley-Problem nach Utilitarismus und Pflichtethik.",
       "badge": "WOCHE 14 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 67,
@@ -607,7 +673,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen Platos Höhlengleichnis mit modernen virtuellen Welten.",
       "badge": "WOCHE 14 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 68,
@@ -616,7 +683,8 @@
       "fragen": [],
       "hinweis": "Wir entwickeln Leitlinien für verantwortungsvolle KI-Nutzung.",
       "badge": "WOCHE 14 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 69,
@@ -625,7 +693,8 @@
       "fragen": [],
       "hinweis": "Wir beleuchten ethische Dilemmata aus 4 Perspektiven.",
       "badge": "WOCHE 14 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 70,
@@ -634,7 +703,8 @@
       "fragen": [],
       "hinweis": "Wir fassen die stärksten Argumente der Gegenseite wertschätzend zusammen.",
       "badge": "WOCHE 14 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 71,
@@ -643,7 +713,8 @@
       "fragen": [],
       "hinweis": "Wir zitieren lückenlos nach APA/IEEE-Standard.",
       "badge": "WOCHE 15 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 72,
@@ -652,7 +723,8 @@
       "fragen": [],
       "hinweis": "Wir recherchieren in peer-reviewed Datenbanken und Fachjournalen.",
       "badge": "WOCHE 15 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 73,
@@ -661,7 +733,8 @@
       "fragen": [],
       "hinweis": "Wir geben Originalaussagen sinngemäß und unverfälscht wieder.",
       "badge": "WOCHE 15 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 74,
@@ -670,7 +743,8 @@
       "fragen": [],
       "hinweis": "Wir legen eine systematische Zitations-Datenbank an.",
       "badge": "WOCHE 15 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 75,
@@ -679,7 +753,8 @@
       "fragen": [],
       "hinweis": "Wir kennzeichnen spekulative Annahmen explizit als Hypothese.",
       "badge": "WOCHE 15 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 76,
@@ -688,7 +763,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren den Lotuseffekt oder den Klettenverschluss bionisch.",
       "badge": "WOCHE 16 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 77,
@@ -697,7 +773,8 @@
       "fragen": [],
       "hinweis": "Wir übertragen Flügelgeometrien auf technische Flugkörper.",
       "badge": "WOCHE 16 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 78,
@@ -706,7 +783,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Knochenstrukturen auf Leichtbau-Potenzial.",
       "badge": "WOCHE 16 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 79,
@@ -715,7 +793,8 @@
       "fragen": [],
       "hinweis": "Wir testen Werkstoffe unter extremen Belastungen.",
       "badge": "WOCHE 16 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 80,
@@ -724,7 +803,8 @@
       "fragen": [],
       "hinweis": "Wir bauen ein voll funktionsfähiges Funktionsmodell.",
       "badge": "WOCHE 16 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 81,
@@ -733,7 +813,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen neuronale Plastizität durch multisensorische Verknüpfung.",
       "badge": "WOCHE 17 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 82,
@@ -742,7 +823,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Schlafphasen zur kognitiven Konsolidierung.",
       "badge": "WOCHE 17 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 83,
@@ -751,7 +833,8 @@
       "fragen": [],
       "hinweis": "Wir belohnen Teilerfolge durch gezielte Mikropausen.",
       "badge": "WOCHE 17 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 84,
@@ -760,7 +843,8 @@
       "fragen": [],
       "hinweis": "Wir senken Stress durch Bewegung und Atemtechniken.",
       "badge": "WOCHE 17 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 85,
@@ -769,7 +853,8 @@
       "fragen": [],
       "hinweis": "Wir bauen eine Gedankenpalast-Struktur für Fachbegriffe.",
       "badge": "WOCHE 17 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 86,
@@ -778,7 +863,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen einen maßstabsgetreuen Modell-Schulhof-Plan.",
       "badge": "WOCHE 18 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 87,
@@ -787,7 +873,8 @@
       "fragen": [],
       "hinweis": "Wir klassifizieren Himmelskörper nach Spektralklassen und Masse.",
       "badge": "WOCHE 18 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 88,
@@ -796,7 +883,8 @@
       "fragen": [],
       "hinweis": "Wir durchdenken Zeitdilatation bei Lichtgeschwindigkeit.",
       "badge": "WOCHE 18 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 89,
@@ -805,7 +893,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Ereignishorizonte und Gravitationswellen.",
       "badge": "WOCHE 18 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 90,
@@ -814,7 +903,8 @@
       "fragen": [],
       "hinweis": "Wir beobachten Himmelskörper praktisch oder per Live-Webcam.",
       "badge": "WOCHE 18 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 91,
@@ -823,7 +913,8 @@
       "fragen": [],
       "hinweis": "Wir bilanzieren gelungene Enrichment-Projekte im Kompass.",
       "badge": "WOCHE 19 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 92,
@@ -832,7 +923,8 @@
       "fragen": [],
       "hinweis": "Wir wissen: Reale Kompetenz wiegt schwerer als ein Schulzeugnis.",
       "badge": "WOCHE 19 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 93,
@@ -841,7 +933,8 @@
       "fragen": [],
       "hinweis": "Wir bewerben uns für Deutsche Schülerakademien und Talent-Camps.",
       "badge": "WOCHE 19 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 94,
@@ -850,7 +943,8 @@
       "fragen": [],
       "hinweis": "Wir geben konstruktives Feedback zu Förderangeboten.",
       "badge": "WOCHE 19 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 95,
@@ -859,7 +953,8 @@
       "fragen": [],
       "hinweis": "Wir schalten den Denkapparat bewusst ab und tanken Energie.",
       "badge": "WOCHE 19 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 96,
@@ -868,7 +963,8 @@
       "fragen": [],
       "hinweis": "Wir isolieren Variablen und nutzen Blindproben.",
       "badge": "WOCHE 20 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 97,
@@ -877,7 +973,8 @@
       "fragen": [],
       "hinweis": "Wir erfassen Messreihen digital mit Abweichungs-Toleranzen.",
       "badge": "WOCHE 20 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 98,
@@ -886,7 +983,8 @@
       "fragen": [],
       "hinweis": "Wir tragen Schutzbrille und Schutzkleidung lückenlos.",
       "badge": "WOCHE 20 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 99,
@@ -895,7 +993,8 @@
       "fragen": [],
       "hinweis": "Wir lassen uns von den Daten leiten, auch wenn es die Hypothese widerlegt.",
       "badge": "WOCHE 20 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 100,
@@ -904,7 +1003,8 @@
       "fragen": [],
       "hinweis": "Wir reinigen Geräte und entsorgen Chemikalien vorschriftsgemäß.",
       "badge": "WOCHE 20 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 101,
@@ -913,7 +1013,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Nash-Gleichgewichte und Dominante Strategien.",
       "badge": "WOCHE 21 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 102,
@@ -922,7 +1023,8 @@
       "fragen": [],
       "hinweis": "Wir erkennen die langfristigen Vorteile von Tit-for-Tat-Kooperation.",
       "badge": "WOCHE 21 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 103,
@@ -931,7 +1033,8 @@
       "fragen": [],
       "hinweis": "Wir konstruieren Lösungsräume mit beiderseitigem Gewinn.",
       "badge": "WOCHE 21 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 104,
@@ -940,7 +1043,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen Entscheidungsbäume und Suchtiefen.",
       "badge": "WOCHE 21 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 105,
@@ -949,7 +1053,8 @@
       "fragen": [],
       "hinweis": "Wir lösen Gruppenkonflikte durch strategische Anreiz-Systeme.",
       "badge": "WOCHE 21 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 106,
@@ -958,7 +1063,8 @@
       "fragen": [],
       "hinweis": "Wir erstellen Norm-Zeichnungen mit Draufsicht, Seitenansicht und Schnitt.",
       "badge": "WOCHE 22 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 107,
@@ -967,7 +1073,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen parametrische Konstruktion für schnelle Anpassungen.",
       "badge": "WOCHE 22 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 108,
@@ -976,7 +1083,8 @@
       "fragen": [],
       "hinweis": "Wir optimieren Druckausrichtung und Stützstrukturen.",
       "badge": "WOCHE 22 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 109,
@@ -985,7 +1093,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen Zug- und Druckspannungen im Bauteil.",
       "badge": "WOCHE 22 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 110,
@@ -994,7 +1103,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Fehldrucke und passen Slicing-Parameter an.",
       "badge": "WOCHE 22 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 111,
@@ -1003,7 +1113,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen lateinische und griechische Wortstämme.",
       "badge": "WOCHE 23 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 112,
@@ -1012,7 +1123,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen Wortfamilien in 4 europäischen Sprachen.",
       "badge": "WOCHE 23 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 113,
@@ -1021,7 +1133,8 @@
       "fragen": [],
       "hinweis": "Wir verstehen Grammatik als elegantes Betriebssystem des Denkens.",
       "badge": "WOCHE 23 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 114,
@@ -1030,7 +1143,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen, wie Kontext die Bedeutung von Worten verändert.",
       "badge": "WOCHE 23 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 115,
@@ -1039,7 +1153,8 @@
       "fragen": [],
       "hinweis": "Wir feilen an Satzmelodie, Rhythmus und Präzision.",
       "badge": "WOCHE 23 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 116,
@@ -1048,7 +1163,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Albedo-Effekte, Kipppunkte und Methan-Freisetzung.",
       "badge": "WOCHE 24 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 117,
@@ -1057,7 +1173,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen Nahrungnetze und Populationsdynamiken.",
       "badge": "WOCHE 24 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 118,
@@ -1066,7 +1183,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen Primär- und Endenergiebilanzen wissenschaftlich.",
       "badge": "WOCHE 24 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 119,
@@ -1075,7 +1193,8 @@
       "fragen": [],
       "hinweis": "Wir erarbeiten Kreislaufwirtschafts-Modelle (Cradle-to-Cradle).",
       "badge": "WOCHE 24 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 120,
@@ -1084,7 +1203,8 @@
       "fragen": [],
       "hinweis": "Wir entwickeln lokale, wirksame Umweltschutz-Projekte.",
       "badge": "WOCHE 24 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 121,
@@ -1093,7 +1213,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Doppelhelix, Basenpaarung und Replikation.",
       "badge": "WOCHE 25 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 122,
@@ -1102,7 +1223,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Epigenetik und Umwelteinflüsse auf die Genexpression.",
       "badge": "WOCHE 25 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 123,
@@ -1111,7 +1233,8 @@
       "fragen": [],
       "hinweis": "Wir diskutieren Chancen und Risiken der Gentednik sachlich.",
       "badge": "WOCHE 25 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 124,
@@ -1120,7 +1243,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen Erbwahrscheinlichkeiten mit Stammbäumen.",
       "badge": "WOCHE 25 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 125,
@@ -1129,7 +1253,8 @@
       "fragen": [],
       "hinweis": "Wir führen ein Glosssar zu Rekombination, Transkription und Translation.",
       "badge": "WOCHE 25 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 126,
@@ -1138,7 +1263,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Lichtführung, Akustik und Raumgefühl.",
       "badge": "WOCHE 26 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 127,
@@ -1147,7 +1273,8 @@
       "fragen": [],
       "hinweis": "Wir gestalten Räume nach Universal Design Prinzipien.",
       "badge": "WOCHE 26 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 128,
@@ -1156,7 +1283,8 @@
       "fragen": [],
       "hinweis": "Wir planen Wegezeiten, Begegnungsräume und Ruhezonen.",
       "badge": "WOCHE 26 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 129,
@@ -1165,7 +1293,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen Holzbau, Lehm und nachwachsende Rohstoffe.",
       "badge": "WOCHE 26 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 130,
@@ -1174,7 +1303,8 @@
       "fragen": [],
       "hinweis": "Wir fertigen ein maßstabsgetreues Modell aus Pappe/Holz.",
       "badge": "WOCHE 26 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 131,
@@ -1183,7 +1313,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Marktgleichgewichte, Preiselastizität und Marginalkosten.",
       "badge": "WOCHE 27 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 132,
@@ -1192,7 +1323,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen Geldmenge, Leitzinsen und Währungssysteme.",
       "badge": "WOCHE 27 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 133,
@@ -1201,7 +1333,8 @@
       "fragen": [],
       "hinweis": "Wir kalkulieren Deckungsbeiträge, Fixkosten und GuV.",
       "badge": "WOCHE 27 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 134,
@@ -1210,7 +1343,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Kartellrecht und Wettbewerbsmechanismen.",
       "badge": "WOCHE 27 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 135,
@@ -1219,7 +1353,8 @@
       "fragen": [],
       "hinweis": "Wir steuern ein Planspiel zur Unternehmensführung.",
       "badge": "WOCHE 27 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 136,
@@ -1228,7 +1363,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen optische Täuschungen und kognitive Verzerrungen (Biases).",
       "badge": "WOCHE 28 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 137,
@@ -1237,7 +1373,8 @@
       "fragen": [],
       "hinweis": "Wir suchen gezielt nach Fakten, die unsere Meinung WIDERLEGEN.",
       "badge": "WOCHE 28 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 138,
@@ -1246,7 +1383,8 @@
       "fragen": [],
       "hinweis": "Wir dekonstruieren Werbebotschaften und Propaganda linguistisch.",
       "badge": "WOCHE 28 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 139,
@@ -1255,7 +1393,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren die Rekonstruktions-Fehler des Gedächtnisses.",
       "badge": "WOCHE 28 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 140,
@@ -1264,7 +1403,8 @@
       "fragen": [],
       "hinweis": "Wir setzen Erkenntnisse ausschließlich ethisch und aufklärend ein.",
       "badge": "WOCHE 28 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 141,
@@ -1273,7 +1413,8 @@
       "fragen": [],
       "hinweis": "Wir definieren ein Oster-Forschungsprojekt mit klarer Zielsetzung.",
       "badge": "WOCHE 29 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 142,
@@ -1282,7 +1423,8 @@
       "fragen": [],
       "hinweis": "Wir fokussieren uns auf eine präzise, beantwortbare Fragestellung.",
       "badge": "WOCHE 29 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 143,
@@ -1291,7 +1433,8 @@
       "fragen": [],
       "hinweis": "Wir führen ein digitales Labor-Buch mit täglichen Updates.",
       "badge": "WOCHE 29 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 144,
@@ -1300,7 +1443,8 @@
       "fragen": [],
       "hinweis": "Wir holen uns Feedback von Mentoren zum Zwischenstand.",
       "badge": "WOCHE 29 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 145,
@@ -1309,7 +1453,8 @@
       "fragen": [],
       "hinweis": "Wir veröffentlichen unsere Ergebnisse auf dem Schul-Blog.",
       "badge": "WOCHE 29 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 146,
@@ -1318,7 +1463,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Druckunterschiede, Anstellwinkel und Impulserhaltung.",
       "badge": "WOCHE 30 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 147,
@@ -1327,7 +1473,8 @@
       "fragen": [],
       "hinweis": "Wir testen Trimmung, V-Form und Stabilität im Gleitflug.",
       "badge": "WOCHE 30 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 148,
@@ -1336,7 +1483,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Grenzschichten und Wirbelbildung im Windkanal.",
       "badge": "WOCHE 30 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 149,
@@ -1345,7 +1493,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen Bionik des Vogelflugs mit Starrflüglern.",
       "badge": "WOCHE 30 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 150,
@@ -1354,7 +1503,8 @@
       "fragen": [],
       "hinweis": "Wir führen Flugtests mit Videoanalyse und Stoppuhr durch.",
       "badge": "WOCHE 30 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 151,
@@ -1363,7 +1513,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen Ultraschall-, Farb- und Gyrosensoren für Schleifen.",
       "badge": "WOCHE 31 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 152,
@@ -1372,7 +1523,8 @@
       "fragen": [],
       "hinweis": "Wir berechnen Übersetzungsverhältnisse und Drehmomente.",
       "badge": "WOCHE 31 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 153,
@@ -1381,7 +1533,8 @@
       "fragen": [],
       "hinweis": "Wir entwickeln PID-Regler für sanfte Spurtreue.",
       "badge": "WOCHE 31 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 154,
@@ -1390,7 +1543,8 @@
       "fragen": [],
       "hinweis": "Wir konstruieren Roboter so, dass Module schnell tauschbar sind.",
       "badge": "WOCHE 31 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 155,
@@ -1399,7 +1553,8 @@
       "fragen": [],
       "hinweis": "Wir führen Testläufe unter erschwerten Bedingungen durch.",
       "badge": "WOCHE 31 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 156,
@@ -1408,7 +1563,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren den Doppelspaltversuch und die Welle-Teilchen-Dualität.",
       "badge": "WOCHE 32 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 157,
@@ -1417,7 +1573,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen den photoelektrischen Effekt nach Einstein.",
       "badge": "WOCHE 32 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 158,
@@ -1426,7 +1583,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen das Orbitalmodell und Wahrscheinlichkeitswolken.",
       "badge": "WOCHE 32 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 159,
@@ -1435,7 +1593,8 @@
       "fragen": [],
       "hinweis": "Wir untersuchen Nicht-Lokalität sachlich ohne Esoterik.",
       "badge": "WOCHE 32 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 160,
@@ -1444,7 +1603,8 @@
       "fragen": [],
       "hinweis": "Wir diskutieren die philosophischen Folgen für unser Weltbild.",
       "badge": "WOCHE 32 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 161,
@@ -1453,7 +1613,8 @@
       "fragen": [],
       "hinweis": "Wir konstruieren Barrierefreie Assistenzsysteme für Menschen mit Behinderung.",
       "badge": "WOCHE 33 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 162,
@@ -1462,7 +1623,8 @@
       "fragen": [],
       "hinweis": "Wir entwickeln Haptische Feedback-Module für Sehbehinderte.",
       "badge": "WOCHE 33 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 163,
@@ -1471,7 +1633,8 @@
       "fragen": [],
       "hinweis": "Wir testen Prototypen gemeinsam mit Betroffenen auf Nutzen.",
       "badge": "WOCHE 33 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 164,
@@ -1480,7 +1643,8 @@
       "fragen": [],
       "hinweis": "Wir beachten Barrierefreiheits-Standards (WCAG) lückenlos.",
       "badge": "WOCHE 33 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 165,
@@ -1489,7 +1653,8 @@
       "fragen": [],
       "hinweis": "Wir stellen den MENSCHEN und seine Selbstbestimmung in den Mittelpunkt.",
       "badge": "WOCHE 33 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 166,
@@ -1498,7 +1663,8 @@
       "fragen": [],
       "hinweis": "Wir analysieren Direct Air Capture und mineralische Speicherung sachlich.",
       "badge": "WOCHE 34 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 167,
@@ -1507,7 +1673,8 @@
       "fragen": [],
       "hinweis": "Wir vergleichen Elektrolyse, Brennstoffzellen und Batterien in Energiebilanzen.",
       "badge": "WOCHE 34 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 168,
@@ -1516,7 +1683,8 @@
       "fragen": [],
       "hinweis": "Wir erforschen Pumpspeicher, Redox-Flow und Chemische Speicher.",
       "badge": "WOCHE 34 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 169,
@@ -1525,7 +1693,8 @@
       "fragen": [],
       "hinweis": "Wir diskutieren globale Nebenwirkungen von Solar Radiation Management.",
       "badge": "WOCHE 34 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 170,
@@ -1534,7 +1703,8 @@
       "fragen": [],
       "hinweis": "Wir erstellen Business-Cases für grüne Start-up-Ideen.",
       "badge": "WOCHE 34 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 171,
@@ -1543,7 +1713,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen die Storytelling-Struktur: Problem - Durchbruch Vision.",
       "badge": "WOCHE 35 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 172,
@@ -1552,7 +1723,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen hochwertige Visualisierungen und maximal 5 Worte pro Folie.",
       "badge": "WOCHE 35 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 173,
@@ -1561,7 +1733,8 @@
       "fragen": [],
       "hinweis": "Wir passen Sprache und Metaphern exakt an die Zielgruppe an.",
       "badge": "WOCHE 35 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 174,
@@ -1570,7 +1743,8 @@
       "fragen": [],
       "hinweis": "Wir nutzen offene Gestik, festen Stand und Blickkontakt.",
       "badge": "WOCHE 35 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 175,
@@ -1579,7 +1753,8 @@
       "fragen": [],
       "hinweis": "Wir beantworten Nachfragen präzise, ehrlich und wissenschaftlich fundiert.",
       "badge": "WOCHE 35 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 176,
@@ -1588,7 +1763,8 @@
       "fragen": [],
       "hinweis": "Wir gestalten den Forschungsstand professionell mit Postern und Exponaten.",
       "badge": "WOCHE 36 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 177,
@@ -1597,7 +1773,8 @@
       "fragen": [],
       "hinweis": "Wir bereiten einen 30-Sekunden-Elevator-Pitch für Besucher vor.",
       "badge": "WOCHE 36 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 178,
@@ -1606,7 +1783,8 @@
       "fragen": [],
       "hinweis": "Wir prüfen alle Funktionen der Vorführ-Modelle vorab.",
       "badge": "WOCHE 36 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 179,
@@ -1615,7 +1793,8 @@
       "fragen": [],
       "hinweis": "Wir führen ein Feedback-Buch zur Weiterentwicklung der Arbeit.",
       "badge": "WOCHE 36 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 180,
@@ -1624,7 +1803,8 @@
       "fragen": [],
       "hinweis": "Wir sichern alle Exponate und Poster für künftige Wettbewerbe.",
       "badge": "WOCHE 36 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 181,
@@ -1633,7 +1813,8 @@
       "fragen": [],
       "hinweis": "Wir suchen gezielt Kontakt zu Professoren, Laboren und Stipendien.",
       "badge": "WOCHE 37 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 182,
@@ -1642,7 +1823,8 @@
       "fragen": [],
       "hinweis": "Wir stellen Unterlagen für die Studienstiftung und Stiftung Bildung zusammen.",
       "badge": "WOCHE 37 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 183,
@@ -1651,7 +1833,8 @@
       "fragen": [],
       "hinweis": "Wir verfassen akademische Bewerbungsschreiben um Labor-Praktika.",
       "badge": "WOCHE 37 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 184,
@@ -1660,7 +1843,8 @@
       "fragen": [],
       "hinweis": "Wir pflegen den Austausch mit erfahrenen Wissenschaftlern.",
       "badge": "WOCHE 37 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 185,
@@ -1669,7 +1853,8 @@
       "fragen": [],
       "hinweis": "Wir heften Belege über Enrichment-Leistungen im Portfolio ab.",
       "badge": "WOCHE 37 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 186,
@@ -1678,7 +1863,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen Sommer-Lektüre und Tüftel-Projekte mit in die Ferien.",
       "badge": "WOCHE 38 · MONTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 187,
@@ -1687,7 +1873,8 @@
       "fragen": [],
       "hinweis": "Wir feiern gemeinsame Erfolge im Enrichment-Kurs.",
       "badge": "WOCHE 38 · DIENSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 188,
@@ -1696,7 +1883,8 @@
       "fragen": [],
       "hinweis": "Wir nehmen den Brainy-Innovation-Award stolz entgegen.",
       "badge": "WOCHE 38 · MITTWOCH",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 189,
@@ -1705,7 +1893,8 @@
       "fragen": [],
       "hinweis": "Wir formulieren Forschungs-Träume für die nächste Klasse.",
       "badge": "WOCHE 38 · DONNERSTAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     },
     {
       "nr": 190,
@@ -1714,7 +1903,8 @@
       "fragen": [],
       "hinweis": "Wir genießen die wohlverdiente Pause für Kopf, Herz und Geist!",
       "badge": "WOCHE 38 · FREITAG",
-      "bild": "images/jahreskarten/brainy.png"
+      "textcard": true,
+      "wasserzeichen": "images/jahreskarten/brainy.png"
     }
   ]
 }
