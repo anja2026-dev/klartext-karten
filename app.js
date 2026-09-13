@@ -33,6 +33,33 @@ const systemfrageWrap = document.getElementById('systemfrageWrap');
 const systemfrageLabel = document.getElementById('systemfrageLabel');
 const cardSystemfrage = document.getElementById('cardSystemfrage');
 
+// Jahreskarten-Serie: eigenes Kartenlayout, 1:1 wie die echte gedruckte PDF-Karte
+// (Terrakotta-Kopfstand-Vorderseite / grüne Schlaufuchs-Rückseite).
+const jkFront = document.getElementById('jkFront');
+const jkBack = document.getElementById('jkBack');
+const genericBackScroll = document.getElementById('genericBackScroll');
+const jkWmFront = document.getElementById('jkWmFront');
+const jkWmBack = document.getElementById('jkWmBack');
+const jkSubtitleFront = document.getElementById('jkSubtitleFront');
+const jkSubtitleBack = document.getElementById('jkSubtitleBack');
+const jkPillFront = document.getElementById('jkPillFront');
+const jkPillBack = document.getElementById('jkPillBack');
+const jkIconFront = document.getElementById('jkIconFront');
+const jkIconBack = document.getElementById('jkIconBack');
+const jkLabelFront = document.getElementById('jkLabelFront');
+const jkLabelBack = document.getElementById('jkLabelBack');
+const jkTitelFront = document.getElementById('jkTitelFront');
+const jkTitelBack = document.getElementById('jkTitelBack');
+const jkFrageFront = document.getElementById('jkFrageFront');
+const jkFrageBack = document.getElementById('jkFrageBack');
+const jkMottoFront = document.getElementById('jkMottoFront');
+const jkMottoBack = document.getElementById('jkMottoBack');
+const jkMottoImgFront = document.getElementById('jkMottoImgFront');
+const jkMottoImgBack = document.getElementById('jkMottoImgBack');
+const jkFussFront = document.getElementById('jkFussFront');
+const jkFussBack = document.getElementById('jkFussBack');
+
+
 const handlungBack = document.getElementById('handlungBack');
 const introWrap = document.getElementById('introWrap');
 const introLabel = document.getElementById('introLabel');
@@ -328,10 +355,61 @@ function closeDeck(opts = {}) {
   if (pushState) history.pushState({}, '', './');
 }
 
+function renderJahreskarte(karte) {
+  const deck = currentDeck;
+  cardBadge.hidden = true;
+  frontImgWrap.hidden = true;
+  frontIconWrap.hidden = true;
+  cardTitelFront.hidden = true;
+  genericBackScroll.hidden = true;
+  jkFront.hidden = false;
+  jkBack.hidden = false;
+
+  const brainy = !!deck.brainy;
+  jkWmFront.hidden = !brainy;
+  jkWmBack.hidden = !brainy;
+  if (brainy) {
+    jkWmFront.src = 'images/jahreskarten/brainy-kopfstand.png';
+    jkWmBack.src = 'images/jahreskarten/brainy-lupe.png';
+  }
+
+  jkSubtitleFront.textContent = deck.subtitle || deck.titel;
+  jkSubtitleBack.textContent = deck.subtitle || deck.titel;
+  jkPillFront.textContent = karte.pill || '';
+  jkPillBack.textContent = karte.pill || '';
+  jkIconFront.textContent = karte.icon_front || '';
+  jkIconBack.textContent = deck.icon_back || '';
+  jkLabelFront.textContent = deck.label_front || '';
+  jkLabelBack.textContent = deck.label_back || '';
+  jkTitelFront.textContent = karte.title_front || '';
+  jkTitelBack.textContent = deck.label_back || '';
+  jkFrageFront.textContent = karte.frage || karte.titel || '';
+  jkFrageBack.textContent = karte.loesung || karte.hinweis || '';
+  jkMottoImgFront.hidden = true;
+  jkMottoImgBack.hidden = true;
+  jkMottoFront.textContent = karte.front_line || '';
+  jkMottoBack.textContent = deck.back_line || '';
+  const fussTag = karte.pill || '';
+  jkFussFront.textContent = fussTag ? `${fussTag} · Vorderseite` : 'Vorderseite';
+  jkFussBack.textContent = fussTag ? `${fussTag} · Rückseite` : 'Rückseite';
+}
+
 function renderCard() {
   if (!currentDeck) return;
   const karte = currentDeck.karten[currentIndex];
   flashcard.classList.remove('flipped');
+
+  if (karte.jahreskarte) {
+    renderJahreskarte(karte);
+    progressEl.textContent = `${karte.nr}/${currentDeck.karten.length}`;
+    localStorage.setItem(lastIndexKey(currentDeck.id), String(currentIndex));
+    return;
+  }
+  jkFront.hidden = true;
+  jkBack.hidden = true;
+  cardBadge.hidden = false;
+  cardTitelFront.hidden = false;
+  genericBackScroll.hidden = false;
 
   // Zusatzblock-Karten (z.B. EL-AT, LK-R-PF) tragen ihr eigenes Badge aus der Quelldatei -
   // das zeigt gleich an, dass es sich um einen Zusatzblock handelt, nicht nur die Kartennummer.
@@ -342,29 +420,17 @@ function renderCard() {
   cardTitelBack.textContent = karte.titel;
 
   // Kartenvorderseite: Foto (Standard-Impulskarten, TK-Deck) ODER Icon (Krisendeck/Werkzeug/mb,
-  // die kein eigenes Foto haben, sondern ein Font-Awesome-Symbol als Erkennungszeichen) ODER
-  // Textkarte (Jahreskarten-Serie: kein Foto pro Tag, stattdessen großer Fragetext + optional
-  // blasses Brainy-Wasserzeichen im Hintergrund, wie auf der gedruckten Karte).
-  if (karte.textcard) {
+  // die kein eigenes Foto haben, sondern ein Font-Awesome-Symbol als Erkennungszeichen).
+  flashcard.classList.remove('textcard', 'has-watermark');
+  if (karte.icon) {
     frontImgWrap.hidden = true;
-    frontIconWrap.hidden = true;
-    flashcard.classList.add('textcard');
-    flashcard.classList.toggle('has-watermark', !!karte.wasserzeichen);
-    if (karte.wasserzeichen) {
-      flashcard.style.setProperty('--card-watermark', `url('${karte.wasserzeichen}')`);
-    }
+    frontIconWrap.hidden = false;
+    frontIcon.className = `fa-solid fa-${karte.icon}`;
   } else {
-    flashcard.classList.remove('textcard', 'has-watermark');
-    if (karte.icon) {
-      frontImgWrap.hidden = true;
-      frontIconWrap.hidden = false;
-      frontIcon.className = `fa-solid fa-${karte.icon}`;
-    } else {
-      frontIconWrap.hidden = true;
-      frontImgWrap.hidden = false;
-      cardImg.src = karte.bild;
-      cardImg.alt = karte.titel;
-    }
+    frontIconWrap.hidden = true;
+    frontImgWrap.hidden = false;
+    cardImg.src = karte.bild;
+    cardImg.alt = karte.titel;
   }
 
   // Kartenrückseite: zwei grundverschiedene Inhaltsformen. Standard-Impulskarten haben

@@ -589,3 +589,181 @@ main#app { flex: 1; display: flex; flex-direction: column; }
   .deckgrid { max-width: 720px; width: 100%; }
   .cardnav { max-width: 380px; width: 100%; }
 }
+
+/* ============================================================
+   Jahreskarten-Serie: 1:1-Nachbau der echten gedruckten Karte
+   (Terrakotta-Kopfstand-Vorderseite / Grüne Schlaufuchs-Rückseite),
+   ersetzt für diese Decks komplett das generische Karten-Layout.
+   ============================================================ */
+.jk-face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: "DM Sans", sans-serif;
+}
+.jk-front { background: #F9E7DF; }
+.jk-back  { background: #DFF3E9; }
+
+.jk-headerbar {
+  height: 14px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0 12px;
+}
+.jk-front .jk-headerbar { background: #B4482E; }
+.jk-back  .jk-headerbar { background: #1D9E75; }
+.jk-dot {
+  width: 5px; height: 5px; border-radius: 50%;
+  background: rgba(255,255,255,0.55);
+}
+
+.jk-body {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px 10px;
+  overflow: hidden;
+}
+
+.jk-watermark {
+  position: absolute;
+  right: -6px; bottom: 46px;
+  width: 62%;
+  max-width: 190px;
+  object-fit: contain;
+  object-position: bottom right;
+  opacity: 0.16;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.jk-kopf {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 6px;
+}
+.jk-logo {
+  width: 22px; height: 22px; flex-shrink: 0;
+  border: 1.6px solid;
+  border-radius: 6px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-serif);
+  font-weight: 900;
+  font-size: 13px;
+}
+.jk-front .jk-logo { border-color: #B4482E; color: #B4482E; }
+.jk-back  .jk-logo { border-color: #1D9E75; color: #0F6E4F; }
+.jk-brand {
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  color: #1B3A4B;
+  line-height: 1.2;
+}
+.jk-brand-sub { font-weight: 500; color: #6B6255; letter-spacing: 0.02em; }
+.jk-pill {
+  margin-left: auto;
+  font-size: 10.5px;
+  font-weight: 800;
+  color: #fff;
+  padding: 3px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jk-front .jk-pill { background: #B4482E; }
+.jk-back  .jk-pill { background: #1D9E75; }
+
+.jk-iconrow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  z-index: 1;
+  margin: 8px 0 6px;
+}
+.jk-iconbubble {
+  width: 40px; height: 40px; flex-shrink: 0;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 21px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+.jk-front .jk-iconbubble { background: #B4482E; }
+.jk-back  .jk-iconbubble { background: #1D9E75; }
+.jk-seitenlabel {
+  font-size: 12.5px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.jk-front .jk-seitenlabel { color: #7A2E1C; }
+.jk-back  .jk-seitenlabel { color: #0F6E4F; }
+
+.jk-titel {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 1.22;
+  color: #1B3A4B;
+  position: relative;
+  z-index: 1;
+  margin: 2px 0 8px;
+}
+
+.jk-frage {
+  font-size: 15.5px;
+  line-height: 1.42;
+  font-weight: 500;
+  color: #2D2D2D;
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+.jk-antwort { font-weight: 700; color: #1B3A4B; }
+
+.jk-motto {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1.5px dashed;
+  flex-shrink: 0;
+}
+.jk-front .jk-motto { border-color: #B4482E; }
+.jk-back  .jk-motto { border-color: #1D9E75; }
+.jk-motto img { width: 26px; height: 26px; object-fit: contain; flex-shrink: 0; }
+.jk-motto-txt {
+  font-size: 12px;
+  line-height: 1.3;
+  color: #1B3A4B;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.jk-fuss {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 9px;
+  color: #6B6255;
+  margin-top: 6px;
+  flex-shrink: 0;
+}
+.jk-fuss span:last-child { text-align: right; white-space: nowrap; }
