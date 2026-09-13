@@ -273,7 +273,7 @@ async function loadDecks() {
 async function openDeck(deckId, opts = {}) {
   const { pushState = true, targetNr = null } = opts;
 
-  if (!isDeckUnlocked(deckId)) {
+  if (accessMap[deckId] && !isDeckUnlocked(deckId)) {
     const meta = allDecks.find(d => d.id === deckId);
     const ok = await askForPassword(deckId, meta ? meta.titel : 'dieses Deck');
     if (!ok) {
