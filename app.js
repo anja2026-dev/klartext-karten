@@ -11,8 +11,9 @@ const KATEGORIEN = {
   zielgruppe: { titel: 'Kartendecks nach Zielgruppe', sub: 'Eigene Zielgruppe, eigene Impulse, dieselbe systemische Grundhaltung.' },
   handlung:   { titel: 'Handlungskarten & Spezialdecks', sub: 'Konkrete Handlungsanleitungen statt offener Coaching-Impulse.' },
   material:   { titel: 'Material-Pakete für Zuhause & Klassenzimmer', sub: 'Raumzonen-Konzepte statt Gesprächskarten.' },
+  jahreskarten: { titel: 'Jahreskarten-Serie', sub: '190 Schultage, 190 Kartenpaare – ein Tag, eine Frage, eine Lösung.' },
 };
-const KATEGORIE_ORDER = ['zielgruppe', 'handlung', 'material'];
+const KATEGORIE_ORDER = ['zielgruppe', 'handlung', 'material', 'jahreskarten'];
 const progressEl = document.getElementById('progress');
 
 const flashcard = document.getElementById('flashcard');
