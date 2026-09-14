@@ -1,7 +1,7 @@
 // KLARTEXT-Mentoring Karten – Service Worker
 // Cache-Version erhöhen (v1 -> v2 ...), wenn App-Shell-Dateien sich ändern.
-const SHELL_CACHE = 'klartext-shell-v20';
-const RUNTIME_CACHE = 'klartext-runtime-v1';
+const SHELL_CACHE = 'klartext-shell-v21';
+const RUNTIME_CACHE = 'klartext-runtime-v2';
 
 const SHELL_FILES = [
   './',
@@ -38,6 +38,25 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== 'GET' || url.origin !== self.location.origin) return;
+
+  // access.json steuert den Passwortschutz pro Deck – niemals cache-first ausliefern,
+  // sonst bekommen wiederkehrende Nutzer:innen nach einem Sicherheits-Fix trotzdem noch
+  // die alte (evtl. ungegatete) Version aus dem Cache. Netzwerk zuerst, Cache nur als
+  // Offline-Fallback.
+  const isAccessFile = url.pathname.endsWith('/data/access.json');
+  if (isAccessFile) {
+    event.respondWith(
+      caches.open(RUNTIME_CACHE).then((cache) =>
+        fetch(event.request)
+          .then((response) => {
+            if (response && response.status === 200) cache.put(event.request, response.clone());
+            return response;
+          })
+          .catch(() => cache.match(event.request))
+      )
+    );
+    return;
+  }
 
   const isRuntimeAsset = url.pathname.includes('/data/') || url.pathname.includes('/images/')
     || url.pathname.includes('/icons/deck-');
