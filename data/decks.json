@@ -286,5 +286,14 @@
     "anzahl": 190,
     "kategorie": "jahreskarten",
     "code": "JK-EL"
+  },
+  {
+    "id": "jk-schnupper",
+    "titel": "Jahreskarten-Schnupperpaket",
+    "untertitel": "8 Beispieltage – kostenlos",
+    "farbe": "#B4482E",
+    "anzahl": 8,
+    "kategorie": "vorschau",
+    "code": "SCHNUPPER"
   }
 ]
